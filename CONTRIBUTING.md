@@ -49,7 +49,7 @@ This project strives to adhere to the Python Style Guide (http://peps.python.org
 
 When creating an issue please try to adhere to the following format:
 
-    <!--- module-name: One line summary of the issue (less than 72 characters) -->
+<!--- module-name: One line summary of the issue (less than 72 characters) -->
 
     ### Expected behavior
 
