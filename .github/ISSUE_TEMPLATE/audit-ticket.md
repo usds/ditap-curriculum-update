@@ -23,5 +23,4 @@ assignees: ''
 - [ ] Curriculum design
 - [ ] Assessments
 - [ ] 508 compliance
-- [ ] Experiential learning
 - [ ] SME audit
