@@ -74,21 +74,21 @@ Participant Recruitment
 
 ##### Individual Development Plan
 
-[IDP Start of Program](https://ditap.learning-transformation.com/assets/courseware/v1/1d60cdad33e5869c322f0749f99f86d5/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/IDP_Feedback_Page.jpg)
+[IDP Start of Program](course-level_assessments/IDP_Feedback_Page.jpg)
 
-[IDP Iteration Level Feedback](https://ditap.learning-transformation.com/assets/courseware/v1/f9afd755d02b25ab59530ab1c71befaa/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/3.B_Iteration_level_feedback.jpg)
+[IDP Iteration Level Feedback](course-level_assessments/3.B_Iteration_level_feedback.jpg)
 
-[Program Pre-Assessment](https://ditap.learning-transformation.com/assets/courseware/v1/1964be510ecb1467343e0c165a893084/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Pilot_Pre-Assessment_Mapping_to_MVP.docx)
+[Program Pre-Assessment](course-level_assessments/MVP_Orientation_Pilot_Pre-Assessment_Mapping_to_MVP.docx)
 
-[Summary of Program Pre-Assessment Results](https://ditap.learning-transformation.com/assets/courseware/v1/5dcb8a459ef5c1c02ad90e1c64f5361b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_PreProgram_Assessment_Cohort_Results_Summary.docx)
+[Summary of Program Pre-Assessment Results](course-level_assessments/MVP_Orientation_PreProgram_Assessment_Cohort_Results_Summary.docx)
 
-[Raw Data of Program Pre-Assessment Results](https://ditap.learning-transformation.com/assets/courseware/v1/63456baf1eaaa42d1afbb3a337e3fa78/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_PreProgram_Assessment_Data_names_removed.xlsx)
+[Raw Data of Program Pre-Assessment Results](course-level_assessments/MVP_Orientation_PreProgram_Assessment_Data_names_removed.xlsx)
 
-[Item- Level Data of Program Pre-Assessment Results](https://ditap.learning-transformation.com/assets/courseware/v1/b1baf84c3ba82fb863e400a9dab62b62/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_PreProgram_Assessment_Item_Results.docx)
+[Item- Level Data of Program Pre-Assessment Results](course-level_assessments/MVP_Orientation_PreProgram_Assessment_Item_Results.docx)
 
 #### Post-Program
 
-[Survey Results Summary](https://ditap.learning-transformation.com/assets/courseware/v1/2769086a8f328bee3f285745200f3609/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Post-Program_Survey_Results_Summary.docx)
+[Survey Results Summary](course-level_assessments/MVP_Post-Program_Survey_Results_Summary.docx)
 
 
 
