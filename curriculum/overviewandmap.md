@@ -96,115 +96,115 @@ Participant Recruitment
 
 #### Orientation Session (Session 1)
 
-[Participant Packet](https://ditap.learning-transformation.com/assets/courseware/v1/1f72b2541fa234689c838524071efaa6/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Participant_Packet_no_PII.docx)
+[Participant Packet](in_class_sessions/session_1/MVP_Orientation_Participant_Packet_no_PII.docx)
 
 ##### Slides
 
 [Day 1](https://ditap.learning-transformation.com/assets/courseware/v1/7706021806040e24e93048b842dcbe08/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Day_1_Slides_no_PII.pptx)
 
-[Day 2](https://ditap.learning-transformation.com/assets/courseware/v1/e7baec48e2a107bec01f5b6f19cd4daa/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Day2_Orientation_Slides_no_PII.pptx)
+[Day 2](in_class_sessions/session_1/MVP_Day2_Orientation_Slides_no_PII.pptx)
 
-[Day 3](https://ditap.learning-transformation.com/assets/courseware/v1/7dd99b04de1b1384404b86b41fc6512d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Day_3_Slides_no_PII.pptx)
+[Day 3](in_class_sessions/session_1/MVP_Orientation_Day_3_Slides_no_PII.pptx)
 
 ##### SBA Case Study
 
-[SBA Procurement Case Study – Facilitator Notes](https://ditap.learning-transformation.com/assets/courseware/v1/316402ef0c28763e12298c0ce57dea8b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_SBA_LargeGroupDisc_FacilitationNotes.docx)
+[SBA Procurement Case Study – Facilitator Notes](in_class_sessions/session_1/MVP_Orientation_SBA_LargeGroupDisc_FacilitationNotes.docx)
 
-[Statement of Objectives](https://ditap.learning-transformation.com/assets/courseware/v1/0fbe98ccda40841c54a111664b7eb7ba/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Statement_of_Objectives-RFQ.PDF)
+[Statement of Objectives](in_class_sessions/session_1/MVP_Orientation_Statement_of_Objectives-RFQ.PDF)
 
-[Oral Presentation Instructions](https://ditap.learning-transformation.com/assets/courseware/v1/a1bd2445dce975545c5672ffb2ad9283/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_20150429_Oral_Presentation_Scenario_and_Example_User_Stories.pdf)
+[Oral Presentation Instructions](in_class_sessions/session_1/MVP_Orientation_20150429_Oral_Presentation_Scenario_and_Example_User_Stories.pdf)
 
-[Backlog Items (Appendix A)](https://ditap.learning-transformation.com/assets/courseware/v1/110f4606240811233d5597ea4873322f/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Appendix.pdf)
+[Backlog Items (Appendix A)](in_class_sessions/session_1/MVP_Orientation_Appendix.pdf)
 
-[Instructions, Conditions, and Notices to Offerors](https://ditap.learning-transformation.com/assets/courseware/v1/11032e145b4185dcfe280b9a3f739a09/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_Instructions_and_Evaluation.pdf)
+[Instructions, Conditions, and Notices to Offerors](in_class_sessions/session_1/MVP_Orientation_Instructions_and_Evaluation.pdf)
 
-[US Digital Service Discovery Sprint Part 1](https://ditap.learning-transformation.com/assets/courseware/v1/2454861e83ec8e51cd7323f3759df37e/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_SBA_Case_Documents.pdf)
+[US Digital Service Discovery Sprint Part 1](in_class_sessions/session_1/MVP_Orientation_SBA_Case_Documents.pdf)
 
-[US Digital Service Discovery Sprint Part 2](https://ditap.learning-transformation.com/assets/courseware/v1/dba29f4cfef63fa76c77706571fad637/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_SBA_Digital_Service_Recommendations_03-06-2015.pdf)
+[US Digital Service Discovery Sprint Part 2](in_class_sessions/session_1/MVP_Orientation_SBA_Digital_Service_Recommendations_03-06-2015.pdf)
 
 #### Session 2 (Release 2)
 
-[Participant Packet](https://ditap.learning-transformation.com/assets/courseware/v1/4532c285db0d6ea959c87e36fa1275b5/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Participant_Packet.docx)
+[Participant Packet](in_class_sessions/session_2/MVP_R2_Classroom_Participant_Packet.docx)
 
 ##### Slides
 
-[Day 2](https://ditap.learning-transformation.com/assets/courseware/v1/52ea3119c0188e11d633e7128933b252/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Day2_no_PII.pptx)
+[Day 2](in_class_sessions/session_2/MVP_R2_Classroom_Day2_no_PII.pptx)
 
-[Day 3](https://ditap.learning-transformation.com/assets/courseware/v1/6c9fb3568694e7a45b6eb47e9f261a80/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Day3.pptx)
+[Day 3](in_class_sessions/session_2/MVP_R2_Classroom_Day3.pptx)
 
-[Day 4](https://ditap.learning-transformation.com/assets/courseware/v1/a8cd76fd1c25a6943a46b62d28b82d04/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Day4_no_PII.pptx)
+[Day 4](in_class_sessions/session_2/MVP_R2_Classroom_Day4_no_PII.pptx)
 
-[Day 5](https://ditap.learning-transformation.com/assets/courseware/v1/0575334524ec1f04724afa90e70bd765/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Day5.pptx)
+[Day 5](in_class_sessions/session_2/MVP_R2_Classroom_Day5.pptx)
 
 ##### Facilitator Summary
 
-[Agenda](https://ditap.learning-transformation.com/assets/courseware/v1/8608fc7b40063709b01aca1a12dbbf22/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Facilitation_Agenda.docx)
+[Agenda](in_class_sessions/session_2/MVP_R2_Classroom_Facilitation_Agenda.docx)
 
-[Additional Agenda Notes](https://ditap.learning-transformation.com/assets/courseware/v1/7c9dd1eb05d61c15e1dcbb41fc465c84/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Notes.docx)
+[Additional Agenda Notes](in_class_sessions/session_2/MVP_R2_Classroom_Notes.docx)
 
 ##### Activities
 
-[Difficult Conversation Role Play](https://ditap.learning-transformation.com/assets/courseware/v1/b728776242643a7cbfcf94492488869d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Classroom_Influence_or_Difficult_Conversation_Role_Play.docx)
+[Difficult Conversation Role Play](in_class_sessions/session_2/MVP_R2_Classroom_Influence_or_Difficult_Conversation_Role_Play.docx)
 
 #### Session 3 (Release 3)
 
-[Participant Packet](https://ditap.learning-transformation.com/assets/courseware/v1/09808a7719b54b42a915d5e86aad2ec9/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Participant_Packet.docx)
+[Participant Packet](in_class_sessions/session_3/MVP_R3_Classroom_Participant_Packet.docx)
 
 ##### Slides
 
-[Cloud Presentation](https://ditap.learning-transformation.com/assets/courseware/v1/07341498cefeaa28f48f799cc7e6c825/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Cloud_Training.pdf)
+[Cloud Presentation](in_class_sessions/session_2/MVP_R3_Classroom_Cloud_Training.pdf)
 
-[Day 2](https://ditap.learning-transformation.com/assets/courseware/v1/9a701b1161a716a01a0adbf22df3a4ac/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Day2.pptx)
+[Day 2](in_class_sessions/session_2/MVP_R3_Classroom_Day2.pptx)
 
-[Day 3](https://ditap.learning-transformation.com/assets/courseware/v1/0d73ab5eb713d4017cb51f48d483234b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Day3.pptx)
+[Day 3](in_class_sessions/session_2/MVP_R3_Classroom_Day3.pptx)
 
-[Day 4](https://ditap.learning-transformation.com/assets/courseware/v1/13956dedc46d92fb2d5a6d75862777d1/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Day4.pptx)
+[Day 4](in_class_sessions/session_2/MVP_R3_Classroom_Day4.pptx)
 
-[Day 5](https://ditap.learning-transformation.com/assets/courseware/v1/3acd28bb3c07de7647d0bcbbdd6c4d79/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Day5.pptx)
+[Day 5](in_class_sessions/session_2/MVP_R3_Classroom_Day5.pptx)
 
 ##### Facilitator Summary
 
-[Agenda](https://ditap.learning-transformation.com/assets/courseware/v1/89a3acd76aa2d35efe511c145818124e/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Facilitation_Agenda.docx)
+[Agenda](in_class_sessions/session_2/MVP_R3_Classroom_Facilitation_Agenda.docx)
 
-[Additional Agenda Notes](https://ditap.learning-transformation.com/assets/courseware/v1/3e6619c91b96717c88433a9f7f5f25d3/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Outline.docx)
+[Additional Agenda Notes](in_class_sessions/session_2/MVP_R3_Classroom_Outline.docx)
 
 ##### Activities
 
-[Vendor Roundtable Activity](https://ditap.learning-transformation.com/assets/courseware/v1/7807e2cac32891832610197fda7ef2a5/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Digital_Services_Roundtable_Activity_Vendor_Packet.docx)
+[Vendor Roundtable Activity](in_class_sessions/session_2/MVP_R3_Classroom_Digital_Services_Roundtable_Activity_Vendor_Packet.docx)
 
 ###### Metrics Development Exercise
 
-[Scenarios 1,2, and 4](https://ditap.learning-transformation.com/assets/courseware/v1/9791397645d722e30312a70e33d9579f/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenarios_1_2_4.docx)
+[Scenarios 1,2, and 4](in_class_sessions/session_2/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenarios_1_2_4.docx)
 
-[Scenarios 3 and 5](https://ditap.learning-transformation.com/assets/courseware/v1/833db07e1a2b1f626824e504b0b7acdf/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenario_3_and_5.docx)
+[Scenarios 3 and 5](in_class_sessions/session_2/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenario_3_and_5.docx)
 
 #### Session 4 (Release 4)
 
-[Participant Packet](https://ditap.learning-transformation.com/assets/courseware/v1/94bd85ef79106efde227142c9e64f54b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Participant_Packet_no_PII.docx)
+[Participant Packet](in_class_sessions/session_2/MVP_R4_Classroom_Participant_Packet_no_PII.docx)
 
 ##### Slides
 
-[Day 1](https://ditap.learning-transformation.com/assets/courseware/v1/58210af25e7171d8433142d8f56e9852/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Day1.pptx)
+[Day 1](in_class_sessions/session_2/MVP_R4_Classroom_Day1.pptx)
 
-[Day 2](https://ditap.learning-transformation.com/assets/courseware/v1/97868667f6c3adfb53b39fea98c47163/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Day2.pptx)
+[Day 2](in_class_sessions/session_2/MVP_R4_Classroom_Day2.pptx)
 
-[Day 3](https://ditap.learning-transformation.com/assets/courseware/v1/dd1262b19f3b3d684507bc0a5a1fbdea/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Day3_no_PII.pptx)
+[Day 3](in_class_sessions/session_2/MVP_R4_Classroom_Day3_no_PII.pptx)
 
 ##### Facilitator Summary
 
-[Additional Agenda Notes](https://ditap.learning-transformation.com/assets/courseware/v1/aaa7ff6545b1f40ad5beda56fc3ceff8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Outline.docx)
+[Additional Agenda Notes](in_class_sessions/session_2/MVP_R4_Classroom_Outline.docx)
 
 ##### Activities
 
-[MAP Case Study Materials](https://ditap.learning-transformation.com/assets/courseware/v1/c94cb0f957a135a064ccb2c70c9135c2/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_Compiled_MAP_Case_Study_Materials.docx)
+[MAP Case Study Materials](in_class_sessions/session_2/MVP_R4_Classroom_Compiled_MAP_Case_Study_Materials.docx)
 
 ##### Assessments
 
 ###### LDA Shark Tank Rating Forms
 
-[Rating Form for Guest Panel](https://ditap.learning-transformation.com/assets/courseware/v1/00e9cf44ba40ffd08b21c335df4f203e/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_LDA_Rating_Sheet_-_Guest_Panel_no_PII.docx)
+[Rating Form for Guest Panel](in_class_sessions/session_2/MVP_R4_Classroom_LDA_Rating_Sheet_-_Guest_Panel_no_PII.docx)
 
-[Rating Form for Participants](https://ditap.learning-transformation.com/assets/courseware/v1/a2344a89ac8438ca28eac75c86c6969d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Classroom_LDA_Rating_Sheet_-_Participants_no_PII.docx)
+[Rating Form for Participants](in_class_sessions/session_2/MVP_R4_Classroom_LDA_Rating_Sheet_-_Participants_no_PII.docx)
 
 
 
