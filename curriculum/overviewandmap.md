@@ -351,7 +351,7 @@ Link to edX Course Introduction > [Shadowing](https://ditap.learning-transformat
 
 Link to edX Iteration 1.A > [Shadowing Reminder](https://ditap.learning-transformation.com/courses/course-v1:DITAP+DITAP01+2017_T1/courseware/abdd718c89464aadbb3e5014f9d1b6c3/09c5cfffc2124032b1bd546b0776facf/)
 
-[Shadowing Completion Form](https://ditap.learning-transformation.com/assets/courseware/v1/62ba00fa51da87fc04814eb0d14be4e5/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
+[Shadowing Completion Form](additional_facilitation_material/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
 
 #### Stakeholder Interviewing
 
@@ -363,15 +363,15 @@ Link to edX Course Resources > [Stakeholder Interview Guide Template](https://ds
 
 ### Overall Grades
 
-[Capstone Results Summary](https://ditap.learning-transformation.com/assets/courseware/v1/55c6f17fd04468ed0d13bc4676fc73c3/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Capstone_Skills_Test_Results_Summary.docx)
+[Capstone Results Summary](additional_facilitation_material/MVP_Capstone_Skills_Test_Results_Summary.docx)
 
-[Live Digital Assignment Summary](https://ditap.learning-transformation.com/assets/courseware/v1/03e29ee872ed00e6483ad1361c3f2270/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_LDA_Results_Summary.docx)
+[Live Digital Assignment Summary](additional_facilitation_material/MVP_LDA_Results_Summary.docx)
 
-[Live Digital Assignment Final Scores](https://ditap.learning-transformation.com/assets/courseware/v1/52fe636bf67782c853164b9593949c5b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_LDA_Final_Scores_Names_Removed.xlsx)
+[Live Digital Assignment Final Scores](additional_facilitation_material/MVP_LDA_Final_Scores_Names_Removed.xlsx)
 
-[Participant Grade Tracking](https://ditap.learning-transformation.com/assets/courseware/v1/41f26a81c6f383aa4c7b3c6a9a452113/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
+[Participant Grade Tracking](additional_facilitation_material/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
 
-[Final Participant Scores](https://ditap.learning-transformation.com/assets/courseware/v1/4a78234132985f6a509db8f638c0dfc4/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Final_Program_Scores_Names_Removed.xlsx)
+[Final Participant Scores](additional_facilitation_material/MVP_Final_Program_Scores_Names_Removed.xlsx)
 
 ### Facilitator Skill Sets and Estimated Level of Effort
 
