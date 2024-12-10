@@ -48,26 +48,25 @@ Data was gathered from participants and the program faculty over the six-month p
 
 In taking on this challenge to run the DITAP Program for yourself, here is information that will help you facilitate launching your own version. In addition, later in this document you will find specific recommendations related to the DITAP Pilot, and separately, the DITAP MVP. USDS anticipates hosting a workshop that will provide more specific recommendations.
 
-Contents
+## Contents
 
 ### **Program Design**
 
 Initial Challenge Submission
 
-[Winning Challenge](https://ditap.learning-transformation.com/assets/courseware/v1/aae244dc51e2e3a16613bee911809da0/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/ICF-ASI_Team_Phase_II_Submission_For_the_DSCPT_Development_Program_Challenge.pdf)
+- [Winning Challenge](program_design/ICF-ASI_Team_Phase_II_Submission_For_the_DSCPT_Development_Program_Challenge.pdf)
 
 Participant Recruitment
 
-[DITAP Nomination Form](https://ditap.learning-transformation.com/assets/courseware/v1/1213fbb75a8e71b7edb72a813b20ec52/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Second_Cohort_Digital_Service_Training_Program_Nomination_Form.docx)
+- [DITAP Nomination Form](program_design/Second_Cohort_Digital_Service_Training_Program_Nomination_Form.docx)
+- [DITAP Application Instructions
+  ](program_design/Second_Cohort_Digital_Service_Training_Program.docx)
 
-[DITAP Application Instructions
-](https://ditap.learning-transformation.com/assets/courseware/v1/8f7fd2ab23ccd909985779fa16f54e25/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Second_Cohort_Digital_Service_Training_Program.docx)
+[Post- Pilot Report](program_design/Digital_Acquisition_Pilot_Report_FINAL_05.11.2016.docx)
 
-[Post- Pilot Report](https://ditap.learning-transformation.com/assets/courseware/v1/0bae7863a51732c6d11aa8b3444b49f8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Digital_Acquisition_Pilot_Report_FINAL_05.11.2016.docx)
+[Post-MVP Transition Plan](program_design/170320_MVP_TransitionPlan_Instruction_Final.docx)
 
-[Post-MVP Transition Plan](https://ditap.learning-transformation.com/assets/courseware/v1/07cce776ad0ecf7e10b7f816a3c22d4c/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/170320_MVP_TransitionPlan_Instruction_Final.docx)
-
-[MVP Curriculum Map](https://ditap.learning-transformation.com/assets/courseware/v1/a73adf7a6e7b44125cf3676fd71706e2/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Learning_Assets_Inventory_March2017.xlsx)
+- [MVP Curriculum Map](program_design/MVP_Learning_Assets_Inventory_March2017.xlsx)
 
 ### **Course-Level Assessments**
 
