@@ -152,59 +152,59 @@ Participant Recruitment
 
 ##### Slides
 
-[Cloud Presentation](in_class_sessions/session_2/MVP_R3_Classroom_Cloud_Training.pdf)
+[Cloud Presentation](in_class_sessions/session_3/MVP_R3_Classroom_Cloud_Training.pdf)
 
-[Day 2](in_class_sessions/session_2/MVP_R3_Classroom_Day2.pptx)
+[Day 2](in_class_sessions/session_3/MVP_R3_Classroom_Day2.pptx)
 
-[Day 3](in_class_sessions/session_2/MVP_R3_Classroom_Day3.pptx)
+[Day 3](in_class_sessions/session_3/MVP_R3_Classroom_Day3.pptx)
 
-[Day 4](in_class_sessions/session_2/MVP_R3_Classroom_Day4.pptx)
+[Day 4](in_class_sessions/session_3/MVP_R3_Classroom_Day4.pptx)
 
-[Day 5](in_class_sessions/session_2/MVP_R3_Classroom_Day5.pptx)
+[Day 5](in_class_sessions/session_3/MVP_R3_Classroom_Day5.pptx)
 
 ##### Facilitator Summary
 
-[Agenda](in_class_sessions/session_2/MVP_R3_Classroom_Facilitation_Agenda.docx)
+[Agenda](in_class_sessions/session_3/MVP_R3_Classroom_Facilitation_Agenda.docx)
 
-[Additional Agenda Notes](in_class_sessions/session_2/MVP_R3_Classroom_Outline.docx)
+[Additional Agenda Notes](in_class_sessions/session_3/MVP_R3_Classroom_Outline.docx)
 
 ##### Activities
 
-[Vendor Roundtable Activity](in_class_sessions/session_2/MVP_R3_Classroom_Digital_Services_Roundtable_Activity_Vendor_Packet.docx)
+[Vendor Roundtable Activity](in_class_sessions/session_3/MVP_R3_Classroom_Digital_Services_Roundtable_Activity_Vendor_Packet.docx)
 
 ###### Metrics Development Exercise
 
-[Scenarios 1,2, and 4](in_class_sessions/session_2/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenarios_1_2_4.docx)
+[Scenarios 1,2, and 4](in_class_sessions/session_3/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenarios_1_2_4.docx)
 
-[Scenarios 3 and 5](in_class_sessions/session_2/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenario_3_and_5.docx)
+[Scenarios 3 and 5](in_class_sessions/session_3/MVP_R3_Classroom_Metrics_Developement_Exercise_Cards_Scenario_3_and_5.docx)
 
 #### Session 4 (Release 4)
 
-[Participant Packet](in_class_sessions/session_2/MVP_R4_Classroom_Participant_Packet_no_PII.docx)
+[Participant Packet](in_class_sessions/session_4/MVP_R4_Classroom_Participant_Packet_no_PII.docx)
 
 ##### Slides
 
-[Day 1](in_class_sessions/session_2/MVP_R4_Classroom_Day1.pptx)
+[Day 1](in_class_sessions/session_4/MVP_R4_Classroom_Day1.pptx)
 
-[Day 2](in_class_sessions/session_2/MVP_R4_Classroom_Day2.pptx)
+[Day 2](in_class_sessions/session_4/MVP_R4_Classroom_Day2.pptx)
 
-[Day 3](in_class_sessions/session_2/MVP_R4_Classroom_Day3_no_PII.pptx)
+[Day 3](in_class_sessions/session_4/MVP_R4_Classroom_Day3_no_PII.pptx)
 
 ##### Facilitator Summary
 
-[Additional Agenda Notes](in_class_sessions/session_2/MVP_R4_Classroom_Outline.docx)
+[Additional Agenda Notes](in_class_sessions/session_4/MVP_R4_Classroom_Outline.docx)
 
 ##### Activities
 
-[MAP Case Study Materials](in_class_sessions/session_2/MVP_R4_Classroom_Compiled_MAP_Case_Study_Materials.docx)
+[MAP Case Study Materials](in_class_sessions/session_4/MVP_R4_Classroom_Compiled_MAP_Case_Study_Materials.docx)
 
 ##### Assessments
 
 ###### LDA Shark Tank Rating Forms
 
-[Rating Form for Guest Panel](in_class_sessions/session_2/MVP_R4_Classroom_LDA_Rating_Sheet_-_Guest_Panel_no_PII.docx)
+[Rating Form for Guest Panel](in_class_sessions/session_4/MVP_R4_Classroom_LDA_Rating_Sheet_-_Guest_Panel_no_PII.docx)
 
-[Rating Form for Participants](in_class_sessions/session_2/MVP_R4_Classroom_LDA_Rating_Sheet_-_Participants_no_PII.docx)
+[Rating Form for Participants](in_class_sessions/session_4/MVP_R4_Classroom_LDA_Rating_Sheet_-_Participants_no_PII.docx)
 
 
 
@@ -212,77 +212,77 @@ Participant Recruitment
 
 ##### Release 1
 
-[Outline](additional_facilitation_material/MVP_Release1_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/402498b40215c238949b88f7f26aa141/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Release1_Outline.docx)
 
 ###### Iteration 1
 
 ###### Iteration 1.A
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_1A_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/010945d13d0146c52202adbe4061560a/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_1A_IterationPlanningMeeting.pptx)
 
 ###### Iteration 1.B
 
-[Iteration Planning Meeting](additional_facilitation_material//MVP_1B_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/deddbf2a180b32952577452652455fa2/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_1B_IterationPlanningMeeting.pptx)
 
 Assessments
 
-[Pre-Program Assessment and Release 1 Summary of Results](additional_facilitation_material/MVP_Orientation_PreProgramAssessment.docx)
+[Pre-Program Assessment and Release 1 Summary of Results](https://ditap.learning-transformation.com/assets/courseware/v1/0d9f49d5da042d1bec9d170bd229c9a6/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_PreProgramAssessment.docx)
 
-[Release 1 Post- Assessment](additional_facilitation_material/MVP_R1_PostAssessment.docx)
+[Release 1 Post- Assessment](https://ditap.learning-transformation.com/assets/courseware/v1/00a7895975ae574b8b056ccb87e5124e/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R1_PostAssessment.docx)
 
 ##### Release 2
 
 ###### Iteration 2.A
 
-[Outline](additional_facilitation_material/MVP_2A_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/0b9d75752c6f493ad0e01ea1d94ebd4d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_2A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_2A_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/cbedb3f3e63300b2af76d8b606b87fae/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_2A_IterationPlanningMeeting.pptx)
 
-[Webinar](additional_facilitation_material/MVP_2A_ProductVisionWebinar.pptx)
+[Webinar](https://ditap.learning-transformation.com/assets/courseware/v1/12d9189c3d6ad415d0be62fd437a8d3d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_2A_ProductVisionWebinar.pptx)
 
 ###### Iteration 2.B
 
-[Outline](additional_facilitation_material/MVP_2B_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/c557c806096baaba8c6b2f7543617916/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_2B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_2B_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/93467ddab849a3771cb5c99a4bbac7dd/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_2B_IterationPlanningMeeting.pptx)
 
 #### Assessments
 
-[Release 2 Assessment Summary of Results](additional_facilitation_material/MVP_R2_Results_Summary.docx)
+[Release 2 Assessment Summary of Results](https://ditap.learning-transformation.com/assets/courseware/v1/fb5c1164af5a6ef8fe318ae137268ab2/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R2_Results_Summary.docx)
 
 ##### Release 3
 
 ###### Iteration 3.A
 
-[Outline](additional_facilitation_material/MVP_3A_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/e3ab9512f876354bbc06d4dd671b4556/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_3A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_3A_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/f0bdf82d8046346a6ca81d210f350b4a/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_3A_Iteration_Planning_Meeting.pptx)
 
 ###### Iteration 3.B
 
-[Outline](additional_facilitation_material/MVP_3B_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/18b497dd820ab2ac26b86733ee3c99af/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_3B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_3B_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/2328a98c4b1140794ed900b33f9848f8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_3B_Iteration_Planning_Meeting.pptx)
 
-[Assessments](additional_facilitation_material/MVP_R3_Results_Summary.docx)
+[Assessments](https://ditap.learning-transformation.com/assets/courseware/v1/5b8bbe906d5f1d5f93066d4997eb547d/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R3_Results_Summary.docx)
 
 ##### Release 4
 
 ###### Iteration 4.A
 
-[Outline](additional_facilitation_material/MVP_4A_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/89a2a0ca115daca2e9ca600c7b68d90a/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_4A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_4A_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/6fae1122ee26660bb598908c5bf56e84/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_4A_Iteration_Planning_Meeting.pptx)
 
 ###### Iteration 4.B
 
-[Outline](additional_facilitation_material/MVP_4B_Outline.docx)
+[Outline](https://ditap.learning-transformation.com/assets/courseware/v1/f7e85bdcc81424a455291402dd93c97b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_4B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitation_material/MVP_4B_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](https://ditap.learning-transformation.com/assets/courseware/v1/c26d8bc9fa41681c8bc902796fd5e8fc/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_4B_Iteration_Planning_Meeting.pptx)
 
 ###### Assessments
 
-[Release 4 Assessment Summary of Results](additional_facilitation_material/MVP_R4_Results_Summary.docx)
+[Release 4 Assessment Summary of Results](https://ditap.learning-transformation.com/assets/courseware/v1/cdbcc60eaac8276e1780eb41ecccec42/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_R4_Results_Summary.docx)
 
 #### Threaded Scenario
 
@@ -303,7 +303,7 @@ Link to edX Iteration 4.A > [Activity: Blog Your Acquisition Package](https://di
 
 ### **Digital Services Acquisition Expert Facilitator Presentations**
 
-[Implementing Agile in Government](additional_facilitation_material/MVP_Orientation_USDS_Agile_Digital_Service_Presentation_72516.pptx)
+[Implementing Agile in Government](https://ditap.learning-transformation.com/assets/courseware/v1/fd1b2eb72f6f86b51f8be429f4d8382b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Orientation_USDS_Agile_Digital_Service_Presentation_72516.pptx)
 
 The Product Vision
 
@@ -331,7 +331,7 @@ Link to edX Iteration 4.A > [Release 4 Live Digital Assignment Instructions](htt
 
 Each Live Digital Assignment team was assigned a Digital Service Expert who served as their coach. The coach provided guidance to their LDA team throughout their project, and also fulfilled the role as champion for their team. The coach normally interacts with their respective LDA teams during in-class sessions and during teleconference meetings. Each coach was the coach for at least two LDA teams.
 
-[Final Presentation Example](additional_facilitation_material/Fragile_Development_Shark_Tank_no_PII.pdf)
+[Final Presentation Example](https://ditap.learning-transformation.com/assets/courseware/v1/847cf9914186d131a58181269049f750/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Fragile_Development_Shark_Tank_no_PII.pdf)
 
 ### Badging
 
@@ -351,7 +351,7 @@ Link to edX Course Introduction > [Shadowing](https://ditap.learning-transformat
 
 Link to edX Iteration 1.A > [Shadowing Reminder](https://ditap.learning-transformation.com/courses/course-v1:DITAP+DITAP01+2017_T1/courseware/abdd718c89464aadbb3e5014f9d1b6c3/09c5cfffc2124032b1bd546b0776facf/)
 
-[Shadowing Completion Form](additional_facilitation_material/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
+[Shadowing Completion Form](https://ditap.learning-transformation.com/assets/courseware/v1/62ba00fa51da87fc04814eb0d14be4e5/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
 
 #### Stakeholder Interviewing
 
@@ -363,15 +363,15 @@ Link to edX Course Resources > [Stakeholder Interview Guide Template](https://ds
 
 ### Overall Grades
 
-[Capstone Results Summary](additional_facilitation_material/MVP_Capstone_Skills_Test_Results_Summary.docx)
+[Capstone Results Summary](https://ditap.learning-transformation.com/assets/courseware/v1/55c6f17fd04468ed0d13bc4676fc73c3/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Capstone_Skills_Test_Results_Summary.docx)
 
-[Live Digital Assignment Summary](additional_facilitation_material/MVP_LDA_Results_Summary.docx)
+[Live Digital Assignment Summary](https://ditap.learning-transformation.com/assets/courseware/v1/03e29ee872ed00e6483ad1361c3f2270/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_LDA_Results_Summary.docx)
 
-[Live Digital Assignment Final Scores](additional_facilitation_material/MVP_LDA_Final_Scores_Names_Removed.xlsx)
+[Live Digital Assignment Final Scores](https://ditap.learning-transformation.com/assets/courseware/v1/52fe636bf67782c853164b9593949c5b/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_LDA_Final_Scores_Names_Removed.xlsx)
 
-[Participant Grade Tracking](additional_facilitation_material/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
+[Participant Grade Tracking](https://ditap.learning-transformation.com/assets/courseware/v1/41f26a81c6f383aa4c7b3c6a9a452113/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
 
-[Final Participant Scores](additional_facilitation_material/MVP_Final_Program_Scores_Names_Removed.xlsx)
+[Final Participant Scores](https://ditap.learning-transformation.com/assets/courseware/v1/4a78234132985f6a509db8f638c0dfc4/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/MVP_Final_Program_Scores_Names_Removed.xlsx)
 
 ### Facilitator Skill Sets and Estimated Level of Effort
 
