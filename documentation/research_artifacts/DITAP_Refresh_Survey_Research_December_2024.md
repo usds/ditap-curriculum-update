@@ -50,7 +50,7 @@ Former DITAP participants will receive an email with a link to the SurveyMonkey 
 
 - [SurveyMonkey survey](https://www.surveymonkey.com/r/JLWL75D)
 - [Research synthesis](https://app.mural.co/t/civicactions3117/m/civicactions3117/1731592648508/ec680f09277b6f316275982e1e930323eb1cc7ab?sender=u4f51c3ab811a3cc570d34701)
-
+- [Research Readout Presentation(.ppt)](https://docs.google.com/presentation/d/1ai68buKR57YZZBW7Gr5Bu5ZrBwyQuYpG/edit?usp=sharing&ouid=114180242805146893444&rtpof=true&sd=true)
 ### Recruitment 
 
 Participants were notified via a DITAP alumni listserv. Jeff Auser emailed the survey request to listserv recipients on Tuesday, November 26. A reminder email was sent out on Monday, December 2, and the due date for the survey collection is Friday, December 6.
