@@ -32,7 +32,7 @@ The FAC–C/DS core-plus competency model will be periodically reviewed to inclu
 
 The federal government’s approach to building information technology has not kept up with how it is done in the commercial marketplace. Even when government IT program offices are ready to get started buying digital services, purchasing professionals do not have the training needed to buy such services. Training exists for purchasing in general, and training exists for digital services, but there was not sufficient training for how to purchase digital services.
 
-To transform how the government builds and buys digital services, the Office of Federal Procurement Policy (OFPP) and the United States Digital Service (USDS) issued a [challenge](https://www.challenge.gov/challenge/digital-service-contracting-professional-training-and-development-program-challenge-2/) to industry in 2015 to create and pilot a training and development program that transforms how Federal Contracting Professionals procure digital services. The challenge sought to achieve three primary outcomes for Federal Contracting Professionals:
+To transform how the government builds and buys digital services, the Office of Federal Procurement Policy (OFPP) and the United States Digital Service (USDS) issued a [challenge](https://www.challenge.gov/toolkit/case-studies/digital-service-contracting-professional-training-and-development-program/) to industry in 2015 to create and pilot a training and development program that transforms how Federal Contracting Professionals procure digital services. The challenge sought to achieve three primary outcomes for Federal Contracting Professionals:
 
 ·     Become digital service procurement experts;
 
