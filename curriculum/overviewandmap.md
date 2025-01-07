@@ -357,9 +357,9 @@ Link to edX Iteration 1.A > [Shadowing Reminder](https://ditap.learning-transfor
 
 The stakeholder interviewing activity requires participants to engage with stakeholders relevant to digital services through highly structured interviews. During the interviews, participants clarify their understanding of the issue, understand what motivates the interviewee, and tries to convince the stakeholder to try something new. A template is provided to participants that help them identify opportunities and challenges in working with stakeholders and establish a framework for the interviews. A separate template is provided to identify questions to ask stakeholders.
 
-Link to edX Course Resources > [Stakeholder Interests Template](https://dsat.gsa.gov/assets/courseware/4f09845dde4e55ae929b1e89e704a7fb/asset-v1:OMBChallengeX+DAP01+2016_01+type@asset+block/Iteration2.A_StakeholderInterestTemplate.docx)
+Link to edX Course Resources > [Stakeholder Interests Template](in_class_sessions/2.A_StakeholderInterestTemplate.docx)
 
-Link to edX Course Resources > [Stakeholder Interview Guide Template](https://dsat.gsa.gov/assets/courseware/90bd1dc1031bf2666208a33d7b25157b/asset-v1:OMBChallengeX+DAP01+2016_01+type@asset+block/Iteration2.A_StakeholderInterviewGuide.docx)
+Link to edX Course Resources > [Stakeholder Interview Guide Template](in_class_sessions/2.A_StakeholderInterviewGuide.docx)
 
 ### Overall Grades
 
