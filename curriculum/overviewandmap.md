@@ -212,77 +212,77 @@ Participant Recruitment
 
 ##### Release 1
 
-[Outline](additional_facilitatation_material/MVP_Release1_Outline.docx)
+[Outline](additional_facilitation_material/MVP_Release1_Outline.docx)
 
 ###### Iteration 1
 
 ###### Iteration 1.A
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_1A_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_1A_IterationPlanningMeeting.pptx)
 
 ###### Iteration 1.B
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_1B_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_1B_IterationPlanningMeeting.pptx)
 
 Assessments
 
-[Pre-Program Assessment and Release 1 Summary of Results](additional_facilitatation_material/MVP_Orientation_PreProgramAssessment.docx)
+[Pre-Program Assessment and Release 1 Summary of Results](additional_facilitation_material/MVP_Orientation_PreProgramAssessment.docx)
 
-[Release 1 Post- Assessment](additional_facilitatation_material/MVP_R1_PostAssessment.docx)
+[Release 1 Post- Assessment](additional_facilitation_material/MVP_R1_PostAssessment.docx)
 
 ##### Release 2
 
 ###### Iteration 2.A
 
-[Outline](additional_facilitatation_material/MVP_2A_Outline.docx)
+[Outline](additional_facilitation_material/MVP_2A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_2A_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_2A_IterationPlanningMeeting.pptx)
 
-[Webinar](additional_facilitatation_material/MVP_2A_ProductVisionWebinar.pptx)
+[Webinar](additional_facilitation_material/MVP_2A_ProductVisionWebinar.pptx)
 
 ###### Iteration 2.B
 
-[Outline](additional_facilitatation_material/MVP_2B_Outline.docx)
+[Outline](additional_facilitation_material/MVP_2B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_2B_IterationPlanningMeeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_2B_IterationPlanningMeeting.pptx)
 
 #### Assessments
 
-[Release 2 Assessment Summary of Results](additional_facilitatation_material/MVP_R2_Results_Summary.docx)
+[Release 2 Assessment Summary of Results](additional_facilitation_material/MVP_R2_Results_Summary.docx)
 
 ##### Release 3
 
 ###### Iteration 3.A
 
-[Outline](additional_facilitatation_material/MVP_3A_Outline.docx)
+[Outline](additional_facilitation_material/MVP_3A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_3A_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_3A_Iteration_Planning_Meeting.pptx)
 
 ###### Iteration 3.B
 
-[Outline](additional_facilitatation_material/MVP_3B_Outline.docx)
+[Outline](additional_facilitation_material/MVP_3B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_3B_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_3B_Iteration_Planning_Meeting.pptx)
 
-[Assessments](additional_facilitatation_material/MVP_R3_Results_Summary.docx)
+[Assessments](additional_facilitation_material/MVP_R3_Results_Summary.docx)
 
 ##### Release 4
 
 ###### Iteration 4.A
 
-[Outline](additional_facilitatation_material/MVP_4A_Outline.docx)
+[Outline](additional_facilitation_material/MVP_4A_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_4A_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_4A_Iteration_Planning_Meeting.pptx)
 
 ###### Iteration 4.B
 
-[Outline](additional_facilitatation_material/MVP_4B_Outline.docx)
+[Outline](additional_facilitation_material/MVP_4B_Outline.docx)
 
-[Iteration Planning Meeting](additional_facilitatation_material/MVP_4B_Iteration_Planning_Meeting.pptx)
+[Iteration Planning Meeting](additional_facilitation_material/MVP_4B_Iteration_Planning_Meeting.pptx)
 
 ###### Assessments
 
-[Release 4 Assessment Summary of Results](additional_facilitatation_material/MVP_R4_Results_Summary.docx)
+[Release 4 Assessment Summary of Results](additional_facilitation_material/MVP_R4_Results_Summary.docx)
 
 #### Threaded Scenario
 
@@ -303,7 +303,7 @@ Link to edX Iteration 4.A > [Activity: Blog Your Acquisition Package](https://di
 
 ### **Digital Services Acquisition Expert Facilitator Presentations**
 
-[Implementing Agile in Government](additional_facilitatation_material/MVP_Orientation_USDS_Agile_Digital_Service_Presentation_72516.pptx)
+[Implementing Agile in Government](additional_facilitation_material/MVP_Orientation_USDS_Agile_Digital_Service_Presentation_72516.pptx)
 
 The Product Vision
 
@@ -331,7 +331,7 @@ Link to edX Iteration 4.A > [Release 4 Live Digital Assignment Instructions](htt
 
 Each Live Digital Assignment team was assigned a Digital Service Expert who served as their coach. The coach provided guidance to their LDA team throughout their project, and also fulfilled the role as champion for their team. The coach normally interacts with their respective LDA teams during in-class sessions and during teleconference meetings. Each coach was the coach for at least two LDA teams.
 
-[Final Presentation Example](additional_facilitatation_material/Fragile_Development_Shark_Tank_no_PII.pdf)
+[Final Presentation Example](additional_facilitation_material/Fragile_Development_Shark_Tank_no_PII.pdf)
 
 ### Badging
 
@@ -351,27 +351,27 @@ Link to edX Course Introduction > [Shadowing](https://ditap.learning-transformat
 
 Link to edX Iteration 1.A > [Shadowing Reminder](https://ditap.learning-transformation.com/courses/course-v1:DITAP+DITAP01+2017_T1/courseware/abdd718c89464aadbb3e5014f9d1b6c3/09c5cfffc2124032b1bd546b0776facf/)
 
-[Shadowing Completion Form](additional_facilitatation_material/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
+[Shadowing Completion Form](additional_facilitation_material/Action_Shadowing_of_Digital_Services_Completion_Form_8-30-2016__2_.docx)
 
 #### Stakeholder Interviewing
 
 The stakeholder interviewing activity requires participants to engage with stakeholders relevant to digital services through highly structured interviews. During the interviews, participants clarify their understanding of the issue, understand what motivates the interviewee, and tries to convince the stakeholder to try something new. A template is provided to participants that help them identify opportunities and challenges in working with stakeholders and establish a framework for the interviews. A separate template is provided to identify questions to ask stakeholders.
 
-Link to edX Course Resources > [Stakeholder Interests Template](additional_facilitatation_material/2.A_StakeholderInterestTemplate.docx)
+Link to edX Course Resources > [Stakeholder Interests Template](additional_facilitation_material/2.A_StakeholderInterestTemplate.docx)
 
-Link to edX Course Resources > [Stakeholder Interview Guide Template](additional_facilitatation_material/2.A_StakeholderInterviewGuide.docx)
+Link to edX Course Resources > [Stakeholder Interview Guide Template](additional_facilitation_material/2.A_StakeholderInterviewGuide.docx)
 
 ### Overall Grades
 
-[Capstone Results Summary](additional_facilitatation_material/MVP_Capstone_Skills_Test_Results_Summary.docx)
+[Capstone Results Summary](additional_facilitation_material/MVP_Capstone_Skills_Test_Results_Summary.docx)
 
-[Live Digital Assignment Summary](additional_facilitatation_material/MVP_LDA_Results_Summary.docx)
+[Live Digital Assignment Summary](additional_facilitation_material/MVP_LDA_Results_Summary.docx)
 
-[Live Digital Assignment Final Scores](additional_facilitatation_material/MVP_LDA_Final_Scores_Names_Removed.xlsx)
+[Live Digital Assignment Final Scores](additional_facilitation_material/MVP_LDA_Final_Scores_Names_Removed.xlsx)
 
-[Participant Grade Tracking](additional_facilitatation_material/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
+[Participant Grade Tracking](additional_facilitation_material/MVP_Activity_Completion_Tracking_Names_Removed.xlsx)
 
-[Final Participant Scores](additional_facilitatation_material//MVP_Final_Program_Scores_Names_Removed.xlsx)
+[Final Participant Scores](additional_facilitation_material//MVP_Final_Program_Scores_Names_Removed.xlsx)
 
 ### Facilitator Skill Sets and Estimated Level of Effort
 
