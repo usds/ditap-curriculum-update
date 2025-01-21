@@ -20,7 +20,7 @@ Our virtual interviews aim to follow up on sentiments we discovered in our alumn
 
 1. Was there an activity or assignment in the DITAP curriculum that you felt best prepared you for the digital procurement process today? If so, which one? If not, do you have an activity or assignment in mind?
 2. Did you find any information missing in the curriculum that's part of the procurement process? If so, which parts?
-3. We've consistently heard that hands-on assignments, like the shadowing activity, are most beneficial to participants. Do you agree with this statement? If so, what makes them beneficial to you? Would you like to see more hands-on learning activities in the curriculum? If you disagree, do you have any suggestions on how to improve these types of activities?
+3. How easy or difficult was it to take what you learned in the DITAP program and bring those lessons back to your agency? If you found it difficult, why? If it was easy, can you share what worked well for you?
 4. Do you have any suggestions on activities or course information we should know while working to refresh the DITAP curriculum?
 5. Do you have any additional questions about the refresh project? 
 
