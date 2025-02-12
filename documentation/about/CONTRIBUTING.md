@@ -9,7 +9,7 @@ you'll be politely asked to change something. We appreciate all friendly
 contributions.
 
 We encourage you to read this project's CONTRIBUTING policy (you are here), its
-[LICENSE](LICENSE.md), and its [README](README.md).
+[LICENSE](https://github.com/usds/ditap-curriculum-update/blob/main/LICENSE.md), and its [README](https://github.com/usds/ditap-curriculum-update/blob/main/README.md).
 
 ## Getting Started
 
@@ -52,17 +52,17 @@ When creating an issue please try to adhere to the following format:
 <!--- module-name: One line summary of the issue (less than 72 characters) -->
 
     ### Expected behavior
-
+    
     As concisely as possible, describe the expected behavior.
-
+    
     ### Actual behavior
-
+    
     As concisely as possible, describe the observed behavior.
-
+    
     ### Steps to reproduce the behavior
-
+    
     List all relevant steps to reproduce the observed behavior.
-
+    
     see our .github/ISSUE_TEMPLATE.md for more examples.
 
 ### Pull Requests
@@ -77,24 +77,24 @@ messages along these guidelines. Please keep the line width no greater than 80
 columns (You can use `fmt -n -p -w 80` to accomplish this).
 
     module-name: One line description of your change (less than 72 characters)
-
+    
     Problem
-
+    
     Explain the context and why you're making that change.  What is the problem
     you're trying to solve? In some cases there is not a problem and this can be
     thought of being the motivation for your change.
-
+    
     Solution
-
+    
     Describe the modifications you've done.
-
+    
     Result
-
+    
     What will change as a result of your pull request? Note that sometimes this
     section is unnecessary because it is self-explanatory based on the solution.
-
+    
     Some important notes regarding the summary line:
-
+    
     * Describe what was done; not the result
     * Use the active voice
     * Use the present tense
@@ -102,7 +102,7 @@ columns (You can use `fmt -n -p -w 80` to accomplish this).
     * Do not end in a period — this is a title/subject
     * Prefix the subject with its scope
  -->
- 
+
 ## Reviewing Pull Requests
 
 When you submit a pull request on GitHub, it will be reviewed by the project
