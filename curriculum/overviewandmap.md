@@ -214,6 +214,8 @@ Participant Recruitment
 
 [MVP_Release1_Outline](additional_facilitation_material/MVP_Release1_Outline.docx)
 
+[Test file](additional_facilitation_material/TestFile.txt)
+
 ###### Iteration 1
 
 ###### Iteration 1.A
