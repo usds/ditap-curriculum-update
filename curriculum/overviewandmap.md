@@ -2,8 +2,6 @@
 
 ## ***\*Content Map and Overview\****
 
- 
-
 The following content map contains all of the artifacts for the Digital Information Technology Acquisition Professional (DITAP) training program, in addition to an overview of the program. However, this content map does not provide DITAP content found in the edX web-based learning management system.
 
 ### **Certification**
@@ -213,6 +211,8 @@ Participant Recruitment
 ##### Release 1
 
 [Outline](additional_facilitation_material/MVP_Release1_Outline.docx)
+
+[MVP_Release1_Outline](additional_facilitation_material/MVP_Release1_Outline.docx)
 
 ###### Iteration 1
 
