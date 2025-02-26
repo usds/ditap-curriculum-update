@@ -1,10 +1,9 @@
-#How To Contribute
+# How To Contribute
 
 This document describes how key stakeholders contribute to the project and how those contributions are managed and incorporated.
 
 ## Contents
 
-[TOC]
 
 ## Introduction
 
