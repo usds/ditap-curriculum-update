@@ -52,14 +52,19 @@ As concisely as possible, describe the behavior you expected to occur.
 
 If  you would like to submit materials for inclusion in this repository, we follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/). The basic workflow is to:
 
-1.  Fork the project
-2.  Check out the `main` branch
-3.  Create a feature branch whose name starts with the issue ID of the ticket documenting the need for your submission.
-4.  Write code and (and any tests needed) for your change
-5.  From your branch, make a pull request against `usds/ditap-curriculum-update/main`
-6.  Work with repo maintainers to get your change reviewed
-7.  Wait for your change to be pulled into ``usds/ditap-curriculum-update/main``
-8.  Delete your feature branch
+1. Fork the project
+2. Check out the `main` branch
+3. Create a feature branch whose name starts with the issue ID of the ticket documenting the need for your submission.
+4. Write code and (and any tests needed) for your change
+5. Ensure that your commit messages include the TicketID for the problem you are attempting to addess. For example: 
+
+   ```
+   417: Add initial documentation structure to the /documentation/about folder
+   ```
+6. From your branch, make a pull request against `usds/ditap-curriculum-update/main`
+7. Work with repo maintainers to get your change reviewed
+8. Wait for your change to be pulled into ``usds/ditap-curriculum-update/main``
+9. Delete your feature branch
 
 
 

@@ -1,18 +1,34 @@
-## RiskManagement.md
+# Risk Management
 
 This document describes key risks, steps taken to mitigate those risks, and who is responsible for reviewing and managing those risks, (keeping in mind that this document is meant to be public).
 
+## Contents
+
+[TOC]
 
 
 
-## **Business Impact Assessment (BIA)**
+# Vulnerability Disclosure Policy
+
+The US Digital Service is committed to ensuring the security of the American public by protecting their information from unwarranted disclosure. We want security researchers to feel comfortable reporting vulnerabilities they have discovered so we can fix them and keep our users safe. We developed our disclosure policy to reflect our values and uphold our sense of responsibility to security researchers who share their expertise with us in good faith.
+
+<!--- *Submit a vulnerability:* Vulnerability reports can be submitted through [Bugcrowd](https://bugcrowd.com/cms-vdp). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of your report within 3 business days. -->
+
+Review the [USDS Vulnerability Disclosure Policy](https://www.usds.gov/vulnerability-disclosure-policy) and websites in scope.
+
+This policy describes *what systems and types of research* are covered under this
+policy, *how to send* us vulnerability reports, and *how long* we ask security
+researchers to wait before publicly disclosing vulnerabilities.
+
+
+
+# **Business Impact Assessment (BIA)**
 
 Describe the impact of the system failure/breeches on the operations of its parent organization.
 
 
 
-
-## **High level risks**
+# **High level risks**
 
 Describe high-level project risks that may prevent achieving the North Star goal. Outline the steps needed to mitigate those risks, who is responsible for ensuring that the risks are addressed, and your recommendation on how to address the risk. 
 
