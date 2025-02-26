@@ -18,7 +18,6 @@ Anyone can contribute to this project by submitting ideas for course materials t
 This project is in the public domain within the United States, and copyright and related rights in the work worldwide are waived through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/). All contributions to this project will be released under the CC0 dedication. By submitting a pull request or issue, you agree to comply with this waiver of copyright interest.
 
 
-
 # Contribution Workflow
 
 ## Add an Issue to the project backlog
@@ -46,8 +45,7 @@ As concisely as possible, describe the behavior you expected to occur.
 ------
 
 
-
-##Code Workflow and Branching
+## Code Workflow and Branching
 
 If  you would like to submit materials for inclusion in this repository, we follow the [GitHub Flow Workflow](https://guides.github.com/introduction/flow/). The basic workflow is to:
 
