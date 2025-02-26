@@ -1,8 +1,6 @@
 ## ContentManagement.md
 
-This document describes how project data and content are managed and by whom.
-
-
+This document describes how project data and content are managed in the DITAP project and by whom.
 
 ## **Content Management**
 

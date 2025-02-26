@@ -1,21 +1,43 @@
 # Purpose and Scope
 
-This document describes why this project exists and outlines the intended scope of the project.
+This document describes why the DITAP Refresh project exists and outlines the intended scope of the project.
+
+
 
 ## **Mission**
 
-Describe the mission that the product is meant to address
+To transform how federal agencies acquire and deliver digital services by equipping procurement professionals with the skills, mindset, and tools to navigate the complexities of modern acquisition.
 
-## Scope And Vision
 
-Describe the desired end-state if the mission is successful
 
-## **Values**
+##Scope And Vision
 
-Describe the project team values to be highlighted during the project
+For DITAP to be an open-source learning model that makes DITAP scalable, adaptable, and future-proof.
+
+
+
+## Values
+
+- Collaboration: building an inclusive community of contributors and stakeholders
+
+- Transparency: ensuring open governance and open-source learning model
+
+- Innovation: ensuring experiential learning and deliver improved digital outcomes that keep pace with innovation and emerging technologies 
+
+- Adaptability: enabling the curriculum to evolve with changing technologies and needs
+
+- Impact: enabling the government to be a better buyer of digital services 
+
+  
 
 ## **Product Description**
 
-1. What is it?
-2. What does it do?
-3. Why is it important?
+### What is it?
+
+DITAP REFRESH is a collection of educational artifacts to train federal procuement officers how to economically acquire effective digital information services.
+
+### What does it do?
+
+DITAP REFRESH provides up-to-date information on digital service procurment best practices for use by vendors who provide digital service procurement training for federal procurement officers. It includes a process where artifacts are routinely reviewed and updated, and encourages contribution from a broad community of practitioners.
+
+### Why is it important?
