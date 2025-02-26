@@ -10,7 +10,7 @@ To transform how federal agencies acquire and deliver digital services by equipp
 
 
 
-##Scope And Vision
+## Scope And Vision
 
 For DITAP to be an open-source learning model that makes DITAP scalable, adaptable, and future-proof.
 
