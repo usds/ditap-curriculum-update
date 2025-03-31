@@ -1,3 +1,29 @@
+# About these documents
+
+The purpose of these documents is to document how key governance issues are addressed by the DITAP Refresh project  to ensure smooth project orientation and working communications.
+
+The areas covered by these artifacts are consonant with ISO/IEC 38500:2024.
+
+## Related Templates
+
+[Purpose and Scope](1-PurposeAndScope.md)
+
+[Impact and Metrics](2-ImpactAndMetrics.md)
+
+[Strategy](3-Strategy.md)
+
+[Governance](4-Governancel.md)
+
+[How to Contribute (and Code of Conduct)](5-HowToContribute.md)
+
+[Content Management Policies and Practices](6-ContentManagement.md)
+
+[Risk Management](7-RiskManagement.md)
+
+[Glossary and Namespacing](8-GlossaryAndNamespacing.md)
+
+
+
 # Accessibility Statement
 
 ## Overview
@@ -5,6 +31,7 @@
 This repository contains Digital IT Acquisition Professional Training Program (DITAP) materials for learning. These materials include HTML, Markdown, PDF files, and documents from Microsoft Office and Google Workspace. Some of the content originates from teams outside the DITAP Curriculum Update Team. Contributed material may not follow DITAP accessiblity standards mentioned below, but the Curriculum Update Team will improve older or contributed content when possible.
 
 ## Target
+
 ## Accessibility Standards Target
 
 We want our content to follow **Web Content Accessibility Guidelines (WCAG) 2.2 AA.** These guidelines are a best practice and go beyond what is required by this contract. Meeting this standard will make the content easier to use and will last longer.

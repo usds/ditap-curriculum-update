@@ -46,17 +46,17 @@ Include role backups, if known (e.g. if the PO is out, who acts as PO?)
 
 
 
+
 ## Change Management
 
 Describe how project change is managed, recorded, and made easily accessible.
 
-1. Address change management at the following levels:
+1. Address change management at the following levels: 
    1. Contract modifications
    2. Stakeholder/team role escalation
    3. Project policy and oversight
    4. Strategic approach
-   5. Product management
-      1. Including research and design, support, marketing/sales
+   5. Product management (Including research and design, support, marketing/sales)
    6. Technical / platform management
    
 2. Describe:
