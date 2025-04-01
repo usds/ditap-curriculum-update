@@ -4,6 +4,12 @@ The purpose of these documents is to document how key governance issues are addr
 
 The areas covered by these artifacts are consonant with ISO/IEC 38500:2024.
 
+##How to use these documents
+
+These documents are intended to guide decisions about how to communicate to interested parties about your project/product. The most critical pieces are the first three templates: Purpose and Scope, Impact and Metrics, and Governance. These artifacts should be completed by each project. The remaining artifacts may be useful for larger, more dynamic projects that have larger, more active user and developer bases, and are intended to clarify details surrounding how the project is run, how it is managed, and how other people can contribute to the project.
+
+It is important to note that the intention of these artifacts is to prompt thought and discussion around each of the issue areas. It is not critical that each issue be filled out/completed (that is not often possible at the beginning of open-source initiatives). Rather, it is meant to prompt thought and attention to issues that become increasingly more important as an initiative becomes successful (and therefore, a target).
+
 ## Related Templates
 
 [Purpose and Scope](1-PurposeAndScope.md)
