@@ -1,3 +1,3 @@
 # About the Tools directory
 
-Add readme information here
+Miscellaneous DITAP related tools will be stored in this directory.
