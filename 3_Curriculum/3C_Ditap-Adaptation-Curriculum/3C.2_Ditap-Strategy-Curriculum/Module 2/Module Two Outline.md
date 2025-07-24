@@ -9,13 +9,13 @@ The Understanding Problems and People module emphasizes the strategic importance
 - Recognize the leadership decisions that enable successful discovery and requirements development.
 - Develop strategies for measuring and communicating the success of digital initiatives.
 
-## Required Topics: (must update links when moved into DITAP github)
+## Required Topics:
 - [Human-Centered Design as Strategic Imperative](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%202/Human-Centered%20Design%20as%20Strategic%20Imperative.md)
 - [Strategic Product Vision Development](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%202/Strategic%20Product%20Vision%20Development.md)
 - [Strategic Market Research for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%202/Strategic%20Market%20Research%20for%20Digital%20Services.md)
 - [Organizational Readiness Assessment for Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%202/Organizational%20Readiness%20Assessment%20for%20Digital%20Transformation.md)
 
-### Case Study: (must update link when moved to DITAP github)
+### Case Study:
 - [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%202/Case%20Study%20Exercise%3A%20Strategic%20Product%20Vision%20for%20Impact.md)
 <br>
 
