@@ -10,13 +10,13 @@ The Digital Services and Executive Leadership in Government module equips leader
 - Identify key performance indicators (KPIs) to measure the success of digital services and track progress toward transformation.
 
 ## Required Topics:
-- [The Digital Transformation Imperative](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%201/The%20Digital%20Transformation%20Imperative.md)
-- [Digital Teams and Executive Leadership](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%201/Digital%20Teams%20and%20Executive%20Leadership.md)
-- [Leading High-Performance Digital Teams](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%201/Leading%20High-Performance%20Digital%20Teams.md)
-- [Strategic Contracting for Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%201/Strategic%20Contracting%20for%20Digital%20Transformation.md)
+- [The Digital Transformation Imperative](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/The%20Digital%20Transformation%20Imperative.md)
+- [Digital Teams and Executive Leadership](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Digital%20Teams%20and%20Executive%20Leadership.md)
+- [Leading High-Performance Digital Teams](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Leading%20High-Performance%20Digital%20Teams.md)
+- [Strategic Contracting for Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Strategic%20Contracting%20for%20Digital%20Transformation.md)
 
 ### Case Study:
-- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-Curriculum/Module%201/Case%20Study%20Exercise%3A%20Executive%20Leverage%20in%20Digital%20Transformation.md)
+- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Case%20Study%20Exercise%3A%20Executive%20Leverage%20in%20Digital%20Transformation.md)
 <br>
 
 _Optional_ </br>
