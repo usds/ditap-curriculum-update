@@ -10,13 +10,13 @@ This module introduces participants to the foundational principles of digital se
 
 
 ## Required Topics:
-- Understanding Digital Services
-- Adopting a Product Mindset in Government
-- Product Thinking and Digital Services Delivery
-- Key Roles and Functions of a Digital Service Team
+- [Understanding Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%201/Understanding%20Digital%20Services.md)
+- [Adopting a Product Mindset in Government](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%201/Adopting%20a%20Product%20Mindset%20in%20Government.md)
+- [Product Thinking and Digital Services Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%201/Product%20Thinking%20and%20Digital%20Service%20Delivery.md)
+- [Key Roles and Functions of a Digital Service Team](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%201/Key%20Roles%20and%20Functions%20of%20a%20Digital%20Service%20Team.md)
 
 
-Class Activity:
+## Class Activity:
 Fix It Like a Product Team 
 
 (Optional) Conduct a module retrospective
