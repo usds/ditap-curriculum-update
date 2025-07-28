@@ -15,9 +15,8 @@ The Digital Services and Executive Leadership in Government module equips leader
 - [Leading High-Performance Digital Teams](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Leading%20High-Performance%20Digital%20Teams.md)
 - [Strategic Contracting for Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Strategic%20Contracting%20for%20Digital%20Transformation.md)
 
-### Case Study:
-- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Project%20RAINBO%20Case%20Study.md)
-- [Module 1 Exercise](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Case%20Study%20Exercise%3A%20Executive%20Leverage%20in%20Digital%20Transformation.md)
+### Case Study Exercise:
+- [Strategic Product Vision for Impact](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%201/Case%20Study%20Exercise:%20Executive%20Leverage%20in%20Digital%20Transformation.md)
 
 _Optional_ </br>
 Conduct a module retrospective
