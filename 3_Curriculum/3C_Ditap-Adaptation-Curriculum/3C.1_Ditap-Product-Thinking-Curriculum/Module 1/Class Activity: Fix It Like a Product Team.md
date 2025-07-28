@@ -17,8 +17,9 @@ In groups of 3–4, participants:
     - What is one change the team could make if they were focused on ongoing service delivery?
 
 ## Step 3: Lightning Share-Out (3 minutes)
-Invite 2–3 groups to briefly share their selected scenario and one product mindset shift they would recommend.
+Invite 2–3 groups to briefly share their selected scenario and one product mindset shift they would recommend.</br>
+</br>
 
-**Wrap-Up Prompt (Optional, 30 seconds)**
-_Digital services are more than one-time deliverables—they’re public experiences that should evolve with people’s needs. Product thinking helps us design with users, not just for them_.
+(Optional) **Wrap-Up Prompt (30 seconds)**
+- _Digital services are more than one-time deliverables—they’re public experiences that should evolve with people’s needs. Product thinking helps us design with users, not just for them_.
 
