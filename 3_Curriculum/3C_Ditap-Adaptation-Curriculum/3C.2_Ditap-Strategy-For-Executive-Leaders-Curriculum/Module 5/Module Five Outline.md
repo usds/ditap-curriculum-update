@@ -14,8 +14,8 @@ In the Leading Change module, we explore how to drive transformation within an o
 - [Using Storytelling to Influence](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Using%20Storytelling%20to%20Influence.md)
 - [Calculating Delayed Decision Costs](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Calculating%20Delayed%20Decision%20Costs.md)
   
-### Case Study:
-- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Case%20Study%20Exercise%3A%20Change%20Management%20Starts%20at%20the%20Top.md)
+### Case Study Exercise:
+- [Change Management Starts at the Top](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Case%20Study%20Exercise%3A%20Change%20Management%20Starts%20at%20the%20Top.md)
 <br>
 
 _Optional_ </br>

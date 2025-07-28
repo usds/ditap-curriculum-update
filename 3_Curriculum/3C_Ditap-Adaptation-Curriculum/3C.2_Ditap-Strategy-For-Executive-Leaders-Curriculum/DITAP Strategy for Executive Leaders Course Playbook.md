@@ -1,10 +1,10 @@
 # DITAP Strategy for Executive Leaders (SEL) Playbook 
 
 **Relevant documents**
-- [Learning Development Document](https://docs.google.com/spreadsheets/d/1HroHvaNpFyyQAOphwEOZWX_NclNY7bCtT0wJjwjZ3l8/edit?usp=sharing)
+- [Learning Development Document](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Learning%20Development%20Document.md)
 - [Curriculum Facilitator Guide](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/DITAP%20SEL%20Facilitator%20Guide.md)
 - [Learning Modules](https://github.com/usds/ditap-curriculum-update/tree/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum)
-- [Project RAINBO Case Study](https://docs.google.com/document/d/1nwzeQdVGMOxQxJTkSutb517Cn1jE1-KCe36U20w4eXc/edit?usp=sharing)
+- [Project RAINBO Case Study](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Project%20RAINBO%20Case%20Study.md)
 
 ## DITAP SEL Adaptation Purpose 
 A strategic leadership course that complements the core DITAP program but adopts a distinct approach; instead of focusing on tactical execution and hands-on skills, it emphasizes strategic oversight and decision-making. The course revolves around key learning areas, starting with strategic vision development that helps leaders see how digital acquisition fits into their agency's bigger modernization picture and mission. We develop organizational change leadership skills to enable leaders to guide cultural transformation within their acquisition teams effectively. The course emphasizes portfolio management for overseeing multiple digital acquisitions across the enterprise, while stakeholder engagement modules focus on managing relationships with chief information officers, program executives, and external partners. Risk management components address strategic risk assessment and mitigation in digital acquisitions, while innovation governance modules educate leaders on how to create environments that foster innovation in acquisitions.
