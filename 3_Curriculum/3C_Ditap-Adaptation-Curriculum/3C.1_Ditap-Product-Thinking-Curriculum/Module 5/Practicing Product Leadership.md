@@ -80,9 +80,9 @@ Strong teams ask why, offer alternatives, and push for clarity. Leaders set the 
 * When was the last time someone challenged a decision—and you welcomed it?  
 * Do your actions create space for thoughtful disagreement and shared problem solving?
 
-### Optional Reflection Activity: [Product Leader Journal](?tab=t.z1qekiecplzr) 
+## Optional Reflection Activity: [Product Leader Journal](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%205/Class%20Activity%3A%20Product%20Leader%20Journal.md) 
 
-One of the most effective ways to strengthen your product mindset is to reflect regularly on how you’re showing up as a leader. This journal is a simple tool to help you track your growth. Each day or week, take a few minutes to capture what you’ve learned, what assumptions you’ve challenged, and where you modeled (or could have modeled) product thinking. Over time, these small reflections build powerful self-awareness and intentional habits. |
+One of the most effective ways to strengthen your product mindset is to reflect regularly on how you’re showing up as a leader. This journal is a simple tool to help you track your growth. Each day or week, take a few minutes to capture what you’ve learned, what assumptions you’ve challenged, and where you modeled (or could have modeled) product thinking. Over time, these small reflections build powerful self-awareness and intentional habits.
 
 ## Closing Commitment Reflection
 
@@ -96,7 +96,7 @@ After reflecting individually, be prepared to share your commitment aloud. We’
 
 In this module, we explored how product leaders play a crucial role in shaping the success of digital services \- not just through formal authority, but by how they lead, speak, and behave.
 
-## What We Learned
+### What we learned
 
 * **Product mindset is more than a concept—it’s a practice.**  
   It means focusing on outcomes, learning from users, and iterating based on evidence—not just delivering what was scoped.  
@@ -109,7 +109,7 @@ In this module, we explored how product leaders play a crucial role in shaping t
 * **Continuous learning is part of leadership.**  
   Great product leaders stay curious, reflect often, and make time to share what they learn with others.
 
-## Why It Matters
+### Why it matters
 
 Federal teams face complex challenges, evolving technologies, and increasing expectations from the public. Delivering better services requires more than better tools—it requires **better leadership at every level**.
 
