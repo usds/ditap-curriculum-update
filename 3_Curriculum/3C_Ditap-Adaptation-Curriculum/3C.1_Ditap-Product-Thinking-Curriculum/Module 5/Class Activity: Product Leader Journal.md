@@ -6,7 +6,7 @@ Use this journal to build awareness of your growth as a product-minded leader. S
 
 Respond to the prompts below in your own words. Be honest and specific. Over time, your reflections will reveal patterns, areas for growth, and progress in your product leadership journey.
 
-### Reflection Prompts:
+### Reflection prompts:
 
 * **What did I learn?**
 
