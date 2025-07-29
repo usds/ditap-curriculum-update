@@ -4,17 +4,17 @@
 
 ## Key Moments for Modeling Product Leadership
 
-**Sprint Reviews**
+### Sprint reviews
 
 Use this opportunity to reinforce user-centered goals and spark alignment around outcomes.
 
-* Ask questions like: *“How did this iteration move us closer to solving the user problem?”*  
+* Ask questions like: “How did this iteration move us closer to solving the user problem?” 
 * Offer feedback that reflects both mission needs and agile flexibility.  
 * Show appreciation for team effort while nudging toward continuous improvement.
 
 **Why it matters:** Sprint reviews aren’t just demos—they’re a space to validate direction and focus on delivering value to users.
 
-**Vendor Check-ins**  
+### Vendor check-ins 
 Approach vendor relationships with curiosity and partnership—not just oversight.
 
 * Set clear expectations around agile behaviors and open communication.  
@@ -23,7 +23,7 @@ Approach vendor relationships with curiosity and partnership—not just oversigh
 
 **Why it matters:** Vendors often take their cues from government leaders. Check-ins are a prime opportunity to demonstrate a product mindset in action.
 
-**Drafting Evaluation Criteria or Scope**
+### Drafting evaluation criteria or scope
 
 Use your influence to shape solicitations that invite innovation.
 
@@ -33,7 +33,7 @@ Use your influence to shape solicitations that invite innovation.
 
 **Why it matters:** What you ask for is what you get. Scope and evaluation language can either enable or block the agility you want to see.
 
-**Escalating Blockers**
+### Escalating blockers
 
 Step in early when something’s off-track—but do it with care.
 
@@ -44,7 +44,7 @@ Step in early when something’s off-track—but do it with care.
 
 **Why it matters:** Momentum matters. Agile leaders protect team flow by helping unblock problems quickly and constructively.
 
-**Responding to Risk**  
+### Responding to risk
 Don’t just monitor risk—reframe it.
 
 * Identify risks early and frame them in terms of user impact and mission outcomes.  
@@ -53,7 +53,7 @@ Don’t just monitor risk—reframe it.
 
 **Why it matters:** Digital service delivery carries inherent uncertainty. Strong leaders normalize **responsive, adaptive decision-making** over rigid adherence to original plans.
 
-### **Micro-Actions That Shape Culture**
+## Micro-Actions that Shape Culture
 
 Even small choices send strong signals about what matters. Consider the contrast in tone and focus across these common moments:
 
