@@ -1,4 +1,4 @@
-## Modern Contract Types for Digital Services
+# Modern Contract Types for Digital Services
 The choice of contract type has a direct impact on the success of delivery. Senior leaders must understand when and how to use different vehicles to achieve mission outcomes.
 
 ## Contract type decision matrix

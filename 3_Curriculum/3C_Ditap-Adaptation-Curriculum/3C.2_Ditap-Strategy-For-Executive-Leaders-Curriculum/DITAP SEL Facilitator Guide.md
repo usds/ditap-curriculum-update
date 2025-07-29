@@ -1,4 +1,4 @@
-## DITAP Strategy for Executive Leaders (SEL) Facilitator Guide
+# DITAP Strategy for Executive Leaders (SEL) Facilitator Guide
 We've broken down the DITAP Strategy for Executive Leaders into five modules, each with its own specific module folder. Each module folder contains the required information to meet the module objectives, including objectives, content, and interactive activities. We've provided a simplified learning module outline for each module. 
 
 ## Learning Modules Folders:

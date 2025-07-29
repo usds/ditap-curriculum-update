@@ -15,8 +15,8 @@ The Understanding Problems and People module emphasizes the strategic importance
 - [Strategic Market Research for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%202/Strategic%20Market%20Research%20for%20Digital%20Services.md)
 - [Organizational Readiness Assessment for Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%202/Organizational%20Readiness%20Assessment%20for%20Digital%20Transformation.md)
 
-### Case Study:
-- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%202/Case%20Study%20Exercise%3A%20Strategic%20Product%20Vision%20for%20Impact.md)
+### Case Study Exercise:
+- [Strategic Product Vision for Impact](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%202/Case%20Study%20Exercise%3A%20Strategic%20Product%20Vision%20for%20Impact.md)
 <br>
 
 _Optional_ </br>

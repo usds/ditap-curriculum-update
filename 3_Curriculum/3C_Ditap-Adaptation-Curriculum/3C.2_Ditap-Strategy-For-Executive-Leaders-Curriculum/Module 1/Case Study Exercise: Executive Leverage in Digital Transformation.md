@@ -1,6 +1,4 @@
-# Executive Leverage in Digital Transformation
-
-## Applying Your Learning: Project Rainbo Integration Exercise
+# Applying Your Learning: Project RAINBO Integration Exercise
 Now that you understand the business case for digital transformation, your role as an executive leader, decision-making frameworks, and success metrics, let's apply this learning to a realistic scenario.
 
 **The Project Rainbo case study will help you practice:**

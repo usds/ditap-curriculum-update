@@ -14,8 +14,8 @@ The Evaluating and Collaborating with Vendors module equips participants with th
 - [Early and Open Vendor Engagement](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Early%20and%20Open%20Vendor%20Engagement.md)
 - [Legal Efficiency and Ris, Aversion Strategies](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Legal%20Sufficiency%20and%20Risk%20Aversion%20Strategies.md)
   
-### Case Study:
-- [Project RAINBO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Case%20Study%20Exercise%3A%20Recognizing%20and%20Reducing%20Bias%20in%20Evaluations.md)
+### Case Study Exercise:
+- [Recognizing and Reducing Bias in Evaluations](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Case%20Study%20Exercise%3A%20Recognizing%20and%20Reducing%20Bias%20in%20Evaluations.md)
 <br>
 
 _Optional_ </br>
