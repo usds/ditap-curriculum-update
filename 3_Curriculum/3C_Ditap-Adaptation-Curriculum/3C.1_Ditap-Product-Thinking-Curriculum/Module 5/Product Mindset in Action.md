@@ -8,7 +8,7 @@ In the pages ahead, you’ll reflect on your own behaviors, learn from real-worl
 
 ## What a Product Mindset Looks Like: 
 
-* **Asking “how do we know this meets user needs?”**
+* **Asking “How do we know this meets user needs?”**
 
   This emphasizes the importance of evidence-based design. Instead of assuming a solution is good, teams should validate it through user research, feedback, testing, and data. It's a challenge to build the right thing, not just build things right.
 
@@ -30,7 +30,7 @@ In the pages ahead, you’ll reflect on your own behaviors, learn from real-worl
 
 Together, these points describe a culture that **challenges traditional, waterfall-style project management** in favor of **flexible, iterative, and user-driven approaches**. It aligns closely with agile, lean, and digital service best practices.
 
-**Behavioral Examples:** 
+## Behavioral Examples:
 
 | Scenario | Project-aligned behavior | Product-aligned behavior |
 | ----- | ----- | ----- |
@@ -38,6 +38,8 @@ Together, these points describe a culture that **challenges traditional, waterfa
 | **Procurement asks for a performance metric** | "On-time delivery of X widgets" | "Progress on helping users complete task Y with fewer errors" |
 | **A new scope item is requested** | "Sure, we’ll add it" | "What problem are we trying to solve? What would success look like?" |
 
-Class Activity: [Spot the Mindset](?tab=t.jpygjzcke3t4)  Before we dive deeper into strategies for modeling a product mindset, let’s sharpen your ability to recognize it in action. One of the fastest ways to shift culture is by noticing the language we use every day. In this next activity, you’ll practice distinguishing between project-focused and product-focused thinking—and explore how even small changes in language can influence team behavior, decision-making, and delivery outcomes.
+## Class Activity: [Spot the Mindset](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%205/Class%20Activity%3A%20Spot%20the%20Mindset.md) 
+
+Before we dive deeper into strategies for modeling a product mindset, let’s sharpen your ability to recognize it in action. One of the fastest ways to shift culture is by noticing the language we use every day. In this next activity, you’ll practice distinguishing between project-focused and product-focused thinking—and explore how even small changes in language can influence team behavior, decision-making, and delivery outcomes.
 
 
