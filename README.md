@@ -40,4 +40,4 @@ To ensure consistency across the DITAP ecosystem and proactive updates to the DI
 
 ## Documentation
 
-More in-depth documention on DITAP, how it is managed, and how you can contribute to the curriculum development is located [here](./1A_What-Is-Ditap).
+More in-depth documention on DITAP, how it is managed, and how you can contribute to the curriculum development is located [here](1_About/1A_What-Is-Ditap). 
