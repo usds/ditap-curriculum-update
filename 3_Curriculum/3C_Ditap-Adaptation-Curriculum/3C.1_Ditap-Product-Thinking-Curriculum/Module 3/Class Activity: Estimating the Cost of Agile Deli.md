@@ -1,10 +1,10 @@
-# Class Exercise: Estimating the Cost of Agile Deli
+# Class Activity: Estimating the Cost of Agile Deli
 
 In this activity, your team will build a draft **Independent Government Cost Estimate (IGCE)** for your assigned ESA project scenario using the [**IGCE**](https://docs.google.com/spreadsheets/d/1d-4_YvhplWhIyl09KnlK-AT4fexjBdPXAw4FiqZRWDA/edit?usp=sharing) tool. This exercise will help you connect the acquisition strategy (PWS or SOO) with the practical realities of pricing, labor planning, and delivery.
 
 Your estimate should reflect both the current state of the project and the structure of the contract you chose in the prior activity. Think critically about what it will take to deliver value under agile conditions.
 
-### Exercise instructions:
+## Activity Instructions:
 
 1. Stay with your original scenario team from the prior activity.  
 2. Review your scenario (1, 2, or 3\) and your earlier decision (PWS or SOO).  
