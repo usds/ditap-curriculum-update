@@ -1,4 +1,4 @@
-# Class Exercise: Designing an Agile Evaluation Strategy
+# Class Activity: Designing an Agile Evaluation Strategy
 
 Now it’s your turn to design an agile evaluation strategy. Using your ESA scenario, draft a phased evaluation approach that reflects your team’s readiness and supports the goals of modern digital delivery. Focus on selecting a vendor who can collaborate, iterate, and solve real user problems—just like in the VA.gov case study.
 
