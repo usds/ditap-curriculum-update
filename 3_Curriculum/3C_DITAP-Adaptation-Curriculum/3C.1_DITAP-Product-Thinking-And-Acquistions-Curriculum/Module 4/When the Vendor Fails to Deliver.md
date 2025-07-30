@@ -145,7 +145,7 @@ If problems repeat across multiple sprints:
 | “Were blockers surfaced early enough?” | “Should this be escalated to the CO for scope/funding/schedule adjustment?” |
 | “Do we need to revise the Definition of Done?” | “Does this affect QASP ratings or performance documentation?” |
 
-## Class Activity: [Sprint Report Analysis - ESA Registry Project](https://github.com/thejordanwood/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%204/Class%20Activity%3A%20Sprint%20Report%20Analysis.md)  
+## Class Activity: [Sprint Report Analysis](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%204/Class%20Activity%3A%20Sprint%20Report%20Analysis.md)  
 
 Now that you have explored how Product Owners (POs), Contracting Officer’s Representatives (CORs), and Product Managers (PMs) support agile delivery, it is time to apply what you have learned. In this activity, you will step into the role of a federal delivery leader reviewing real sprint updates from the ESA Registry project. Using a set of vendor sprint reports, you and your team will assess performance, identify risks, and decide what actions (if any) are needed and who should take them. Use this opportunity to sharpen your ability to connect delivery observations with contract oversight, performance documentation, and team coordination.
 
