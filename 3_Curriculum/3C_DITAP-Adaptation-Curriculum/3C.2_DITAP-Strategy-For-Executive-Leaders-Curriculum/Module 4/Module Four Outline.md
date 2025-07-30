@@ -9,13 +9,13 @@ The Evaluating and Collaborating with Vendors module equips participants with th
 - Apply the high-level evaluation process guidance to support transparent and effective vendor selection.
 
 ## Required Topics:
-- [Strategic Evaluation of Digital Services Vendors](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Strategic%20Evaluation%20of%20Digital%20Services%20Vendors.md)
-- [Avoiding Bias in Vendor Evaluations](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Avoiding%20Bias%20in%20Vendor%20Evaluations.md)
-- [Early and Open Vendor Engagement](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Early%20and%20Open%20Vendor%20Engagement.md)
-- [Legal Efficiency and Ris, Aversion Strategies](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Legal%20Sufficiency%20and%20Risk%20Aversion%20Strategies.md)
+- [Strategic Evaluation of Digital Services Vendors](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%204/Strategic%20Evaluation%20of%20Digital%20Services%20Vendors.md)
+- [Avoiding Bias in Vendor Evaluations](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%204/Avoiding%20Bias%20in%20Vendor%20Evaluations.md)
+- [Early and Open Vendor Engagement](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%204/Early%20and%20Open%20Vendor%20Engagement.md)
+- [Legal Sufficiency and Risk Aversion Strategies](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%204/Legal%20Sufficiency%20and%20Risk%20Aversion%20Strategies.md)
   
 ### Case Study Exercise:
-- [Recognizing and Reducing Bias in Evaluations](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%204/Case%20Study%20Exercise%3A%20Recognizing%20and%20Reducing%20Bias%20in%20Evaluations.md)
+- [Recognizing and Reducing Bias in Evaluations](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%204/Case%20Study%20Exercise%3A%20Recognizing%20and%20Reducing%20Bias%20in%20Evaluations.md)
 <br>
 
 _Optional_ </br>
