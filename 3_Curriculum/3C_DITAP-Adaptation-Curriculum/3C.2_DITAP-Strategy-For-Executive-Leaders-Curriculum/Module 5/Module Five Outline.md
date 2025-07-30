@@ -10,12 +10,12 @@ In the Leading Change module, we explore how to drive transformation within an o
 - Apply cultural transformation practices to promote innovation, collaboration, and agile teaming.
 
 ## Required Topics:
-- [Influencing Agency Decisions](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Influencing%20Agency%20Decisions.md)
-- [Using Storytelling to Influence](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Using%20Storytelling%20to%20Influence.md)
-- [Calculating Delayed Decision Costs](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Calculating%20Delayed%20Decision%20Costs.md)
+- [Influencing Agency Decisions](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%205/Influencing%20Agency%20Decisions.md)
+- [Using Storytelling to Influence](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%205/Using%20Storytelling%20to%20Influence.md)
+- [Calculating Delayed Decision Costs](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%205/Calculating%20Delayed%20Decision%20Costs.md)
   
 ### Case Study Exercise:
-- [Change Management Starts at the Top](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%205/Case%20Study%20Exercise%3A%20Change%20Management%20Starts%20at%20the%20Top.md)
+- [Change Management Starts at the Top](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%205/Case%20Study%20Exercise%3A%20Change%20Management%20Starts%20at%20the%20Top.md)
 <br>
 
 _Optional_ </br>
