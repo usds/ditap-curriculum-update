@@ -38,7 +38,7 @@ Together, these points describe a culture that **challenges traditional, waterfa
 | **Procurement asks for a performance metric** | "On-time delivery of X widgets" | "Progress on helping users complete task Y with fewer errors" |
 | **A new scope item is requested** | "Sure, we’ll add it" | "What problem are we trying to solve? What would success look like?" |
 
-## Class Activity: [Spot the Mindset](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%205/Class%20Activity%3A%20Spot%20the%20Mindset.md) 
+## Class Activity: [Spot the Mindset](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Spot%20the%20Mindset.md) 
 
 Before we dive deeper into strategies for modeling a product mindset, let’s sharpen your ability to recognize it in action. One of the fastest ways to shift culture is by noticing the language we use every day. In this next activity, you’ll practice distinguishing between project-focused and product-focused thinking—and explore how even small changes in language can influence team behavior, decision-making, and delivery outcomes.
 
