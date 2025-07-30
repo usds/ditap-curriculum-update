@@ -31,7 +31,7 @@ What Makes a Good Evaluation Criterion?
 - **Aligned to your goals** (e.g., fast delivery, modular build, user-centered design)
 - **Fair and defensible** (complies with agency policy and FAR)
 
-| 📄 Read:  Now that you’ve explored different evaluation approaches, revisit the [VA.gov Modernization Case Study](?tab=t.fs6wdx28w64a). Pay close attention to how the VA team used a multi-phase evaluation strategy—shaped by discovery insights—to select a vendor team that could collaborate, prototype, and deliver in real-time. As you read, consider: What evaluation methods did they use to go beyond written proposals? How did their evaluation criteria reflect agile and user-centered delivery needs? What lessons might apply to your own agency’s procurement process? |
+| 📄 Read:  Now that you’ve explored different evaluation approaches, revisit the [VA.gov Modernization Case Study](https://github.com/thejordanwood/ditap-curriculum-update/tree/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203). Pay close attention to how the VA team used a multi-phase evaluation strategy—shaped by discovery insights—to select a vendor team that could collaborate, prototype, and deliver in real-time. As you read, consider: What evaluation methods did they use to go beyond written proposals? How did their evaluation criteria reflect agile and user-centered delivery needs? What lessons might apply to your own agency’s procurement process? |
 | :---- |
 
 **1\. Start with the problem, not the template:** Instead of starting with boilerplate evaluation criteria, teach PMs to clarify:
