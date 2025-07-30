@@ -4,7 +4,7 @@ Now it’s your turn to design an agile evaluation strategy. Using your ESA scen
 
 Apply the principles of agile acquisition to develop a phased evaluation strategy for the procurement of the Emotional Support Animal (ESA) Registry. Your strategy should reflect your agency’s digital maturity, mission needs, and the practical realities of vendor evaluation in a federal context.
 
-## Exercise instructions:
+## Activity instructions:
 
 **Scenario Setup:**   
 Your agency is preparing to acquire a modern, user-centered ESA Registry to support verification, renewals, and ongoing service delivery. Leadership supports agile methods, but your team is still building confidence and experience with agile evaluations. You understand the value of a down-select process but haven’t implemented one before.
