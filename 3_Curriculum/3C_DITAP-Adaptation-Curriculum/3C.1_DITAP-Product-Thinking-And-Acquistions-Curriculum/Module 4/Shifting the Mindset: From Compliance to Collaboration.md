@@ -79,5 +79,5 @@ As you launch the project, consider the following questions:
   Who is responsible for delivery decisions—and when should they escalate issues?  
 * What does “done” look like, and how will you know you’re on track?
 
-🔍 **Tip:** Use the [Sample Project Charter](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%204/Artifact%3A%20Digital%20Service%20Project%20Charter.md) to help you align your team and set shared expectations from Day 1\. This living document can support smoother collaboration throughout the lifecycle of the contract.
+🔍 **Tip:** Use the [Sample Project Charter](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%204/Artifact%3A%20Digital%20Service%20Project%20Charter.md) to help you align your team and set shared expectations from Day 1\. This living document can support smoother collaboration throughout the lifecycle of the contract.
 
