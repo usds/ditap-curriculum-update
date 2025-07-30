@@ -1,4 +1,4 @@
-# Class Exercise: PWS or SOO? Choosing the Right Agile Contracting Approach
+# Class Activity: PWS or SOO? Choosing the Right Agile Contracting Approach
 
 Exercise Instructions:  
 Work as an acquisition team to evaluate the same fictional ESA (Emotional Support Animal) project scenario. Based on what you learn, decide whether your agency should pursue a Performance Work Statement (PWS) or a Statement of Objectives (SOO) and justify your choice using discovery-informed decision criteria.
