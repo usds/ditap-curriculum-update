@@ -42,7 +42,7 @@ For a PWS (task-oriented):
 | Specify the inclusion of accessibility, security, and plain language | Rely solely on technical specs to guide design decisions |
 | Allow vendor flexibility in *how* they meet objectives (in SOO) | Dictate tool choices or specific UI patterns in an SOO |
 
-**📄 Read: [Artifact 4 – Digital Service Language](?tab=t.jy08qufgclg0)**
+**📄 Read: [Digital Service Language](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Artifact%3A%20Digital%20Service%20Language.md)**
 
 As you prepare to shape or support a digital service procurement, it's essential to know what modern, user-centered scope language looks like. This example document, **Artifact 4: Digital Service Language**, provides real language you can adapt or reference when helping develop a Statement of Objectives (SOO), Performance Work Statement (PWS), or evaluation criteria.
 
