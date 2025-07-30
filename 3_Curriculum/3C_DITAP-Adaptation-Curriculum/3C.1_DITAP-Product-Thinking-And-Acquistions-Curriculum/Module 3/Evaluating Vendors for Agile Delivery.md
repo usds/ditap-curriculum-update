@@ -88,5 +88,5 @@ Activity 3</br>
 **Insert Activity** – Using the same teams in Activity 1, develop an evaluation plan.
 
 ## Claass Activity
-[Designing an Agile Evaluation Strategy](?tab=t.ut8f5y6lgw93) In this final activity, participants will design a high-level evaluation strategy for the ESA Registry procurement. Building on their earlier work (contracting approach and cost estimate), they’ll outline a phased approach to vendor evaluation, aligned with agile principles and agency readiness. This exercise emphasizes collaboration, iteration, and selecting vendors based on their ability to deliver real user value.
+[Designing an Agile Evaluation Strategy](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Designing%20an%20Agile%20Evaluation%20Strategy.md) In this final activity, participants will design a high-level evaluation strategy for the ESA Registry procurement. Building on their earlier work (contracting approach and cost estimate), they’ll outline a phased approach to vendor evaluation, aligned with agile principles and agency readiness. This exercise emphasizes collaboration, iteration, and selecting vendors based on their ability to deliver real user value.
 
