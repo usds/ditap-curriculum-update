@@ -9,15 +9,15 @@ This module provides participants with essential knowledge and practical skills 
 - Design a high-level evaluation strategy for a fictional ESA registry procurement using real-world agile practices.
 
 ## Required Topics:
-- From Discovery to Acquisition Strategy 
-- Incorporating Digital Service and Agile Language to the PWS or SOO
-- The Independent Government Cost Estimate
-- Evaluating Vendors for Agile Delivery 
+- [From Discovery to Acquisition Strategy](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/From%20Discovery%20to%20Acquisition%20Strategy.md) 
+- [Incorporating Digital Service and Agile Language to the PWS or SOO](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/Incorporating%20Digital%20Service%20and%20Agile%20Language%20into%20the%20PWS%20or%20SOO.md)
+- [The Independent Government Cost Estimate](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/The%20Independent%20Government%20Cost%20Estimate%20(IGCE).md)
+- [Evaluating Vendors for Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/Evaluating%20Vendors%20for%20Agile%20Delivery.md) 
 
 ## Class Activities 
-- PWS or SOO? Choosing the Right Agile Contracting Approach
-- Estimating the Cost of Agile Delivery
-- Designing an Agile Evaluation Strategy</br>
+- [PWS or SOO? Choosing the Right Agile Contracting Approach](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/Class%20Activity%3A%20PWS%20or%20SOO%3F%20Choosing%20the%20Right%20Agile%20Contracting%20Approach.md)
+- [Estimating the Cost of Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/Class%20Activity%3A%20Estimating%20the%20Cost%20of%20Agile%20Delivery.md)
+- [Designing an Agile Evaluation Strategy](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%203/Class%20Activity%3A%20Designing%20an%20Agile%20Evaluation%20Strategy.md)</br>
 </br>
 
 (Optional) Conduct a module retrospective
