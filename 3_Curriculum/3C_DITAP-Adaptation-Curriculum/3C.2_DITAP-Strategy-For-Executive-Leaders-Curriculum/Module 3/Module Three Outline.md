@@ -8,13 +8,13 @@ The From Needs to Acquisition Strategy module guides participants in developing 
 - Utilize acquisition strategy tools to design iterative and flexible procurement strategies.
 
 ## Required Topics:
-- [Translating User Needs into Acquisition Language](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%203/Translating%20User%20Needs%20into%20Acquisition%20Language.md)
-- [Legal Sufficiency vs. Risk Aversion](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%203/Legal%20Sufficiency%20vs.%20Risk%20Aversion.md)
-- [Modern Contract Types for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%203/Modern%20Contract%20Types%20for%20Digital%20Services.md)
-- [Advanced Contract Language for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%203/Advanced%20Contract%20Language%20for%20Digital%20Services.md)
+- [Translating User Needs into Acquisition Language](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Translating%20User%20Needs%20into%20Acquisition%20Language.md)
+- [Legal Sufficiency vs. Risk Aversion](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Legal%20Sufficiency%20vs.%20Risk%20Aversion.md)
+- [Modern Contract Types for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Modern%20Contract%20Types%20for%20Digital%20Services.md)
+- [Advanced Contract Language for Digital Services](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Advanced%20Contract%20Language%20for%20Digital%20Services.md)
   
 ### Case Study Exercise:
-- [Leading Through Risk](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.2_Ditap-Strategy-For-Executive-Leaders-Curriculum/Module%203/Case%20Study%20Exercise%3A%20Leading%20Through%20Risk.md)
+- [Leading Through Risk](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Case%20Study%20Exercise%3A%20Leading%20Through%20Risk.md)
 <br>
 
 _Optional_ </br>

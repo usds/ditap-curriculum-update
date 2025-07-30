@@ -80,7 +80,7 @@ Strong teams ask why, offer alternatives, and push for clarity. Leaders set the 
 * When was the last time someone challenged a decision—and you welcomed it?  
 * Do your actions create space for thoughtful disagreement and shared problem solving?
 
-## Optional Reflection Activity: [Product Leader Journal](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_Ditap-Adaptation-Curriculum/3C.1_Ditap-Product-Thinking-Curriculum/Module%205/Class%20Activity%3A%20Product%20Leader%20Journal.md) 
+## Optional Reflection Activity: [Product Leader Journal](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Product%20Leader%20Journal.md) 
 
 One of the most effective ways to strengthen your product mindset is to reflect regularly on how you’re showing up as a leader. This journal is a simple tool to help you track your growth. Each day or week, take a few minutes to capture what you’ve learned, what assumptions you’ve challenged, and where you modeled (or could have modeled) product thinking. Over time, these small reflections build powerful self-awareness and intentional habits.
 

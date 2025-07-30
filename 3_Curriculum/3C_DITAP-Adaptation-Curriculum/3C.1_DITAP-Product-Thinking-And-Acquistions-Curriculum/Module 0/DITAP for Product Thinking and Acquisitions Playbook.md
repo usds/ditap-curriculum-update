@@ -13,7 +13,7 @@ Cross-functional federal staff responsible for shaping, managing, or influencing
 
 ## Course Learning Outcomes 
 
-<img width="627" height="425" alt="image" src="https://github.com/user-attachments/assets/34f5b1a4-59fd-4d31-835a-81680014493f" />
+<img width="614" height="410" alt="Table showing the course learning outcomes." src="https://github.com/user-attachments/assets/958cb3f0-5b9d-47d5-89e4-c6f170efcfb2" />
 
 ## Delivery and Duration
 This course is designed for maximum flexibility in both structure and delivery, meeting the needs of learners who operate in complex, fast-paced environments. Whether delivered virtually or in person, the curriculum emphasizes engagement, relevance, and modularity. This enables agencies to tailor the experience to meet their mission needs, staffing constraints, and delivery preferences.

@@ -1,5 +1,5 @@
 # Why Discovery Sprints Matter 
-The purpose of performing a discovery sprint BEFORE starting a project is to clarify scope, ensure the solution addresses real user and mission needs, and reduce risk. A discovery sprint prevents teams from building the wrong solution by ensuring they start with a clear, validated understanding of the right thing to build. From the [Discovery Sprint Guide](sprint.usds.gov):
+The purpose of performing a discovery sprint BEFORE starting a project is to clarify scope, ensure the solution addresses real user and mission needs, and reduce risk. A discovery sprint prevents teams from building the wrong solution by ensuring they start with a clear, validated understanding of the right thing to build. From the [Discovery Sprint Guide](https://sprint.usds.gov/):
 
 <div align="center">"The purpose of a discovery sprint is to identify root causes, issues, and opportunities,</br> 
   not to solve them in this time window."</div>

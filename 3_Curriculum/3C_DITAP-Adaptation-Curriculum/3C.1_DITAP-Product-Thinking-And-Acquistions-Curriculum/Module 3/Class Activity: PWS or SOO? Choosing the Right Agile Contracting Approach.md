@@ -6,7 +6,7 @@ Work as an acquisition team to evaluate the same fictional ESA (Emotional Suppor
 **Here's what you'll do:**
 
 1. **Form teams** and assign a name to each one.  
-2. Your team will receive one ESA project scenario and a [Delivery Sprint Report](?tab=t.ob5aw6cmmmch).  
+2. Your team will receive one ESA project scenario and a [Delivery Sprint Report](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Artifact%3A%20Discovery%20Sprint%20Report.md).  
 3. As a team, discuss the **Decision Questions** below to evaluate the project environment.  
 4. Decide which contracting approach is more appropriate: **PWS or SOO.**  
 5. Draft a brief justification for your recommendation.
@@ -73,4 +73,4 @@ After deciding and drafting your recommendation, take a few minutes to discuss t
 
 **This is what an actual output of an SOO or PWS would look like:** 
 
-* [ESA SOO and PWS](?tab=t.3nsjc9a80qni)
+* [ESA SOO and PWS](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Artifact%3A%20ESA%20SOO%20and%20PWS.md)

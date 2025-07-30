@@ -40,7 +40,7 @@ With your team, design a high-level evaluation strategy that prioritizes real-wo
 Prepare a short written summary of your proposed evaluation approach, including your rationale for structure, criteria, and process. Be ready to present key elements to the class.
 
 **Activity Tip:**  
-Refer back to the [VA.gov Modernization Case Study](?tab=t.fs6wdx28w64a) for inspiration—but ground your plan in your team’s current level of digital maturity and readiness. Your strategy doesn’t have to be perfect—it just needs to be intentional, actionable, and aligned with agile values.
+Refer back to the [VA.gov Modernization Case Study](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Artifact%3A%20VA.gov%20Modernization%20Case%20Study.md) for inspiration—but ground your plan in your team’s current level of digital maturity and readiness. Your strategy doesn’t have to be perfect—it just needs to be intentional, actionable, and aligned with agile values.
 
 ## Module 2 Exercise Instructions Answer Key
 

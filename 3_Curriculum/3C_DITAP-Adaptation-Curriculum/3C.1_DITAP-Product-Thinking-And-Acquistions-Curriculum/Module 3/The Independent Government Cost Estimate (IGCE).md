@@ -57,7 +57,7 @@ The **IGCE Agile Team Estimator** is a flexible, user-friendly tool designed to 
 - The Summary page can be adjusted to reflect input from multiple team tabs, allowing for coordinated cost planning across several Agile teams.
 - This estimator supports streamlined planning and promotes consistency in Agile IGCE development
 
-## Class Activity: Estimating the Cost of Agile Delivery
+## Class Activity: [Estimating the Cost of Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Estimating%20the%20Cost%20of%20Agile%20Delivery.md)
 In this activity, you will create a draft [Independent Government Cost Estimate (IGCE)](https://docs.google.com/spreadsheets/d/1d-4_YvhplWhIyl09KnlK-AT4fexjBdPXAw4FiqZRWDA/edit?usp=sharing) for the ESA registration project scenario your team analyzed earlier. Working with the Agile Team Estimator tool, your team will translate project-specific factors such as delivery method, team composition, timeline, and contract structure into a realistic, agile-informed cost estimate.
 
 Your IGCE should reflect the conditions outlined in your assigned scenario and the decision your team made in the PWS or SOO Activity. Consider how agile delivery impacts pricing assumptions, labor mix, and risk management, and how your estimate will help inform the acquisition planning process.
