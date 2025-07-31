@@ -2,7 +2,7 @@
 
 ## Context
 
-The US DOGE Services (USDS) has awarded a contract to audit, modernize, and update the [Digital IT Acquisition Professional Training Program (DITAP)](https://techfarhub.usds.gov/get-started/ditap/). [CivicActions](https://civicactions.com/) will lead the project, with support from [TandemGov](https://www.tandemgov.com/) and [Experience Institute (Ei)](https://expinstitute.com/). USDS will serve as the Program Owner. 
+The US DOGE Service (USDS) has awarded a contract to audit, modernize, and update the [Digital IT Acquisition Professional Training Program (DITAP)](https://techfarhub.usds.gov/get-started/ditap/). [CivicActions](https://civicactions.com/) will lead the project, with support from [TandemGov](https://www.tandemgov.com/) and [Experience Institute (Ei)](https://expinstitute.com/). USDS will serve as the Program Owner. 
 
 ## Vision
 
