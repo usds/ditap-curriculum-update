@@ -125,69 +125,61 @@ By the end of this module, participants will be able to:
 - IGCE: “What assumptions drove your estimate?” “How did your contracting approach influence your cost?”
 - Evaluation: “What was hardest to define?” “What would you borrow from the VA process?”
 
-Module 4 Facilitation Guidance 
+## Module 4 Facilitation Guidance 
+### Module 4: Leading with a Product Mindset
 
-Module 5: Leading with a Product Mindset
 Module Overview
+
 This module focuses on post-award success for agile digital delivery. Participants examine the complementary roles of the Product Manager (PM), Product Owner (PO), and Contracting Officer’s Representative (COR) in supporting iterative delivery, maintaining oversight, and fostering collaboration. Through realistic sprint report scenarios, they practice identifying delivery risks, determining who should take action, and deciding how to respond to keep the product and contract on track. The session also addresses the difference between contract oversight metrics and agile delivery metrics, and how to use both to support mission-focused delivery.
-Learning Objectives
+
+**Learning Objectives**
+
 By the end of this module, participants will be able to:
-Describe the roles of the PM, PO, and COR in agile product delivery.
-Identify common sprint delivery issues and determine appropriate responses.
-Differentiate between contract oversight metrics and agile delivery metrics.
-Support continuous improvement and compliance through agile rituals and performance documentation.
-Foster a collaborative, mission-focused delivery environment after contract award.
+- Describe the roles of the PM, PO, and COR in agile product delivery.
+- Identify common sprint delivery issues and determine appropriate responses.
+- Differentiate between contract oversight metrics and agile delivery metrics.
+- Support continuous improvement and compliance through agile rituals and performance documentation.
+- Foster a collaborative, mission-focused delivery environment after contract award.
 
+**Activities and Training Artifacts**
+- Activity: Sprint Report Analysis – ESA Registry Project
+    - The ESA Registry development project is three months into delivery. Participants play the role of PO, COR, or PM and review a series of fictional sprint reports, each reflecting a common agile delivery challenge—missed deliverables, unplanned changes, and team strain.
+        - Artifact: n/a
 
+**Facilitation Tips** 
+- Keep the analysis grounded in realistic scenarios of government delivery.
+- Encourage participants to think beyond “fix the deliverable” to address root causes (e.g., transparency gaps, planning failures, team burnout).
+- Draw connections between sprint observations and long-term delivery health.
+- Emphasize the balance of contract oversight and agile flexibility—too much control slows delivery, too little invites unmanaged risk.
+- Remind participants that delivery metrics and contract metrics must work together to tell the whole performance story.
+- Ensure each group considers role-specific responsibilities when deciding who should act.
+- Close with a final reflection: “What’s one thing you’ll do differently the next time you’re part of a digital delivery team?”
 
+## Module 5 Facilitation Guidance 
+### Module 5: Leading with a Product Mindset
 
-
-
-Activities and Training Artifacts
-Activity: Sprint Report Analysis – ESA Registry Project
-The ESA Registry development project is three months into delivery. Participants play the role of PO, COR, or PM and review a series of fictional sprint reports, each reflecting a common agile delivery challenge—missed deliverables, unplanned changes, and team strain.
-Artifact: n/a
-Facilitation Tips 
-Keep the analysis grounded in realistic government delivery scenarios.
-Encourage participants to think beyond “fix the deliverable” to address root causes (e.g., transparency gaps, planning failures, team burnout).
-Draw connections between sprint observations and long-term delivery health.
-Emphasize the balance of contract oversight and agile flexibility—too much control slows delivery, too little invites unmanaged risk.
-Remind participants that delivery metrics and contract metrics must work together to tell the whole performance story.
-Ensure each group considers role-specific responsibilities when deciding who should act.
-Close with a final reflection: “What’s one thing you’ll do differently the next time you’re part of a digital delivery team?”
-
-
-
-
-
-
-Module 5 Facilitation Guidance 
-Module 5: Leading with a Product Mindset
 Module Overview
+
 This module focuses on the leadership behaviors, language, and cultural signals that help PMs, CORs, and other acquisition professionals champion a product mindset within their agencies. Participants learn how to recognize and model product-focused thinking in daily decisions, interactions, and communications. They explore how to influence culture without formal authority, guide teams toward outcome-focused delivery, and commit to continuous learning and reflection.
-Learning Objectives
+
+**Learning Objectives**
+
 By the end of this module, participants will be able to:
-Identify and model behaviors that reflect a product mindset.
-Demonstrate product leadership in common PM/COR scenarios.
-Influence agency culture through language, actions, and expectations.
-Apply intentional strategies for ongoing learning and reflection.
-Activities and Training Artifacts
-Activity 1: Spot the Mindset
-Participants review example statements and determine whether each reflects a project mindset or a product mindset. If a statement is project-focused, they rewrite it to emphasize user outcomes, evidence-based decision-making, and continuous learning.
-Artifact: n/a
-Activity 2: Product Leader Journal (Optional): Participants create a short daily or weekly journal to reflect on.
+- Identify and model behaviors that reflect a product mindset.
+- Demonstrate product leadership in common PM/COR scenarios.
+- Influence agency culture through language, actions, and expectations.
+- Apply intentional strategies for ongoing learning and reflection.
 
+**Activities and Training Artifacts**
+- Activity 1: Spot the Mindset
+    - Participants review example statements and determine whether each reflects a project mindset or a product mindset. If a statement is project-focused, they rewrite it to emphasize user outcomes, evidence-based decision-making, and continuous learning.
+        - Artifact: n/a
+- Activity 2: Product Leader Journal (Optional): Participants create a short daily or weekly journal to reflect on.
 
-
-Facilitation Tips
-Encourage participants to go beyond “right or wrong” answers and explain why a statement reflects a project or product mindset.
-Use real-world examples from participants’ agencies to connect abstract mindset shifts to concrete behaviors.
-Reinforce that language shapes culture—model outcome-focused language during facilitation.
-Push for evidence-based thinking by asking, “What user needs or data supports this decision?”
-In the Product Leader Journal, emphasize honest self-reflection and tracking progress over time.
-Close with commitment sharing: ask participants to identify one behavior they will model in the next month that reflects a product mindset.
-
-
-
-
-
+**Facilitation Tips**
+- Encourage participants to go beyond “right or wrong” answers and explain why a statement reflects a project or product mindset.
+- Use real-world examples from participants’ agencies to connect abstract mindset shifts to concrete behaviors.
+- Reinforce that language shapes culture—model outcome-focused language during facilitation.
+- Push for evidence-based thinking by asking, “What user needs or data supports this decision?”
+- In the Product Leader Journal, emphasize honest self-reflection and tracking progress over time.
+- Close with commitment sharing: ask participants to identify one behavior they will model in the next month that reflects a product mindset.
