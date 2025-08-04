@@ -1,6 +1,6 @@
 # Class Activity: Estimating the Cost of Agile Delivery
 
-In this activity, your team will build a draft **Independent Government Cost Estimate (IGCE)** for your assigned ESA project scenario using the [**IGCE**](https://docs.google.com/spreadsheets/d/1d-4_YvhplWhIyl09KnlK-AT4fexjBdPXAw4FiqZRWDA/edit?usp=sharing) tool. This exercise will help you connect the acquisition strategy (PWS or SOO) with the practical realities of pricing, labor planning, and delivery.
+In this activity, your team will build a draft **Independent Government Cost Estimate (IGCE)** for your assigned ESA project scenario using the [**IGCE Tool**](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%200/Module%203%20-%20Activity%202%20-%20IGCE%20Template%20-%20Information.csv) tool. This exercise will help you connect the acquisition strategy (PWS or SOO) with the practical realities of pricing, labor planning, and delivery.
 
 Your estimate should reflect both the current state of the project and the structure of the contract you chose in the prior activity. Think critically about what it will take to deliver value under agile conditions.
 
