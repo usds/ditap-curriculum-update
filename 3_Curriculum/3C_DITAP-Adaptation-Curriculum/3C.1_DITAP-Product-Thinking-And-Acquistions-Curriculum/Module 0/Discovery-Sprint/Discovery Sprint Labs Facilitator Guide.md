@@ -23,7 +23,6 @@ This lab reinforces key concepts from earlier modules:
 ## Alignment to Acquisition Lifecycle
 
 The outputs from this lab can directly support:
-
 * **Market Research & Requirements Development**  
   Discovery outputs feed a meaningful SOO or PWS
 * **Acquisition Strategy**  
