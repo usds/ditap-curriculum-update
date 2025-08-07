@@ -1,3 +1,4 @@
+<img width="1224" height="400" alt="Executive Leverage in Digital Transformation Exercise Activity" src="https://github.com/user-attachments/assets/614be2c7-aeb4-4e0a-aab0-c5b66238dab7" />
 # Applying Your Learning: Project RAINBO Integration Exercise
 Now that you understand the business case for digital transformation, your role as an executive leader, decision-making frameworks, and success metrics, let's apply this learning to a realistic scenario.
 
@@ -13,8 +14,6 @@ Now that you understand the business case for digital transformation, your role 
 - How would you use your executive authority to enable the team's success?
 - What metrics would you track to know if your strategy is working?
 - How would you communicate progress to different stakeholder groups?
-
-<img width="1224" height="400" alt="Executive Leverage in Digital Transformation Exercise Activity" src="https://github.com/user-attachments/assets/614be2c7-aeb4-4e0a-aab0-c5b66238dab7" />
 
 ## Case Study Exercise: Executive Leverage in Digital Transformation
 
