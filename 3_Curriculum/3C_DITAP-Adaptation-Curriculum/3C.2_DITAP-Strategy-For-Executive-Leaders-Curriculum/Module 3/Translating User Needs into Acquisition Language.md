@@ -8,6 +8,8 @@ _Strategic thinking_: "How do we acquire the capability to achieve user outcomes
 This shift requires you to think like a venture capitalist rather than a purchasing agent. You're not just buying deliverables—you're investing in capabilities that will evolve based on user feedback and changing needs.
 
 ## Your Four Strategic Acquisition Responsibilities
+<img width="613" height="287" alt="the four strategic acquisition resposibilities" src="https://github.com/user-attachments/assets/1373f7f1-5646-4663-87a9-c931aa474974" />
+
 1. Define investment strategy
     - Determine what capabilities you need to build vs. buy vs. partner for
     - Set risk tolerance levels for different types of investments

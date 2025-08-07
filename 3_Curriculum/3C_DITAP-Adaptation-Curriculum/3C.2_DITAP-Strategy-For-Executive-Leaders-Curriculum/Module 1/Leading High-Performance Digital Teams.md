@@ -31,7 +31,8 @@ Agile is the preferred methodology for software development, particularly for co
 
 The graphic below depicts a typical Agile process: the Product Vision is used to create a product roadmap that organizes the strategic goals achieved during the performance period. Elements of the roadmap are then broken down into task-level details prioritized in the product backlog via user stories. User stories describe the desired functions of the digital service and are refined by team members. Product backlog items are then used to develop technical requirements, which are delivered through releases and sprints. The backlog contains user stories that have been reviewed, refined, and selected by the team to be worked on during a sprint. Sprints are commonly 1 to 4 week cycles, representing when user stories are converted into applicable code or working software. 
 
-<img width="631" height="348" alt="image" src="https://github.com/user-attachments/assets/9836daf2-f85e-4885-9921-dfac49161c55" />
+<img width="1500" height="704" alt="the sprint cycle from product vision to product backlog and sprint backllg into the sprint cycle and ends with the completed product and software release" src="https://github.com/user-attachments/assets/db45917d-cedb-4b8e-88c8-8483aea3ece9" />
+
 
 
 ### Additional resources:

@@ -1,5 +1,10 @@
+<img width="1224" height="400" alt="Leading through risk case study activity" src="https://github.com/user-attachments/assets/5b3b1141-8f27-4855-b98b-aa1c2bdd99af" />
+
 # Case Study Exercise: Leading Through Risk
+
 **Scenario setup**: Roman has identified several risks in the Project RAINBO approach. Your executive leadership team must assess these risks and develop strategies that strike a balance between innovation and responsible risk management.
+
+<img width="1224" height="400" alt="exercise instructions" src="https://github.com/user-attachments/assets/5e78b6d4-676f-4048-83e9-018d80f87404" />
 
 ## Exercise instructions:
 **Part A: Risk assessment matrix** (20 minutes)
@@ -149,7 +154,9 @@ You'll know you're succeeding when:
 
 **_Remember: Strategic acquisition leadership is about creating conditions that enable the best solutions to emerge and be successfully implemented. Focus on building capabilities, managing risks intelligently, and changing organizational culture to support mission success_**.
 
-## Module 3 Exercise Instructions Answer Key
+<img width="1224" height="400" alt="Exercises Answer key" src="https://github.com/user-attachments/assets/fe38b238-77e3-47e1-9899-07a0e40b6a3f" />
+
+## Exercise Instructions Answer Key
 _Part A: Risk assessment matrix_ (20 minutes)
 
 **Roman's risk statement analysis - Detailed framework:**
