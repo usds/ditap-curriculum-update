@@ -26,6 +26,8 @@ Traditional government metrics focus on process compliance and budget execution.
 
 ### The Executive Dashboard Framework
 
+<img width="1194" height="1792" alt="A table that provides metrics and benefits when using the executive dashboard framework" src="https://github.com/user-attachments/assets/0907cf68-7166-47ef-b463-c3071311290f" />
+
 **Tier 1: Mission impact metrics** (Report to leadership/Congress)
 - Citizen satisfaction score: Target >85% (measure monthly)
 - Service completion rate: Target >90% for common transactions
@@ -48,6 +50,8 @@ Traditional government metrics focus on process compliance and budget execution.
 - Technical quality metrics: Code quality, security, performance
 
 ## Practical Measurement Implementation
+
+<img width="1842" height="334" alt="a table that outlines implementation milestones spanning a year's time" src="https://github.com/user-attachments/assets/1a68a7b6-d95f-4c74-99f4-6ff04a247ff2" />
 
 Months 1-3: Establish baselines
 - Document the current state of performance
