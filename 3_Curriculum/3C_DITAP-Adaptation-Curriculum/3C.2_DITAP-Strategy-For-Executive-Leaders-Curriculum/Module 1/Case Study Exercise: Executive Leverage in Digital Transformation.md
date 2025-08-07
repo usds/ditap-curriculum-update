@@ -14,9 +14,13 @@ Now that you understand the business case for digital transformation, your role 
 - What metrics would you track to know if your strategy is working?
 - How would you communicate progress to different stakeholder groups?
 
+<img width="1224" height="400" alt="Executive Leverage in Digital Transformation Exercise Activity" src="https://github.com/user-attachments/assets/614be2c7-aeb4-4e0a-aab0-c5b66238dab7" />
+
 ## Case Study Exercise: Executive Leverage in Digital Transformation
 
 _Scenario Setup:_ You are executive leaders who have recently been briefed on Project Rainbo's current situation. The team has been operating primarily in the Yellow quadrant (collaboration-focused), but tensions are emerging as the project faces critical decisions about technology approach and contracting strategy.
+
+<img width="1224" height="400" alt="the exercise instructions" src="https://github.com/user-attachments/assets/81cadc8f-9019-4fb7-8f5c-b4c3cf0faf30" />
 
 **Exercise Instructions:**
 
@@ -109,6 +113,8 @@ You'll know you're succeeding when:
 - Stopping after early wins - Build sustainable capabilities for long-term transformation
 
 Remember: Your role is to create conditions that enable digital transformation to succeed, not to manage the technology itself. Focus on vision, resources, barriers, and culture—let your teams handle the technical implementation.
+
+<img width="1224" height="400" alt="exercises answer key" src="https://github.com/user-attachments/assets/24e0e5aa-434d-463e-a38b-5cc3bc519dd0" />
 
 ### Module 1 Exercise Instructions Answer Key
 _Part A: Competing Values Assessment (20 minutes)_ 
