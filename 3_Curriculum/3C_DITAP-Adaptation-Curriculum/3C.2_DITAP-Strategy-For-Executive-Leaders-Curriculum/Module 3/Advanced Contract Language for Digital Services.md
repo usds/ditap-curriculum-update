@@ -94,6 +94,8 @@ Digital transformation necessitates a cultural shift in how your organization ap
 - Partner with organizations that have successfully made similar transitions
 
 ## Overcoming Common Cultural Resistance
+<img width="1842" height="1244" alt="ways to overcome common cultural resistance" src="https://github.com/user-attachments/assets/053fa4dd-a784-4bd1-8999-5522e3b6aa3e" />
+
 _"We've always done it this way."_
 - Response: "Our users' needs have changed, so our approaches must change too."
 - Strategy: Share examples of other organizations that have successfully adapted
