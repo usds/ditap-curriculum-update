@@ -1,6 +1,5 @@
-# Case Study Exercise: Strategic Product Vision for Impact
 <img width="1224" height="400" alt="Strategic Product Vision for Impact case study activity" src="https://github.com/user-attachments/assets/c726d02d-b11e-46d7-a2e7-e6d05fcbacc8" />
-
+# Case Study Exercise: Strategic Product Vision for Impact
 
 ## Crafting a Product Vision
 Scenario setup: Project RAINBO needs a clear product vision that aligns diverse stakeholders. Each team will adopt a different character's perspective and create a vision that reflects their values while addressing the challenge of healthcare data management. 
