@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Recognizing and reducing bias in evaluations exercise" src="https://github.com/user-attachments/assets/30872659-0b06-4dac-8e0c-396f5882cf45" />
+
 # Case Study Exercise: Recognizing and Reducing Bias in Evaluations
 
 **Scenario setup:** Project RAINBO must select a vendor for their AI healthcare data management system. The evaluation team comprises representatives from various quadrants with diverse biases and perspectives.
@@ -20,6 +22,8 @@ As you work through these exercises, focus on your executive leadership role:
 * How will you ensure evaluation processes identify true capability and cultural fit?  
 * What organizational changes are needed to enable effective vendor collaboration?  
 * How will you measure the success of vendor partnerships and organizational learning?
+
+<img width="1224" height="400" alt="exercise instructions" src="https://github.com/user-attachments/assets/68074e88-45d2-42eb-bbca-fea04584a340" />
 
 **Exercise instructions:**
 
@@ -397,6 +401,8 @@ Based on your learning in this module, create your specific plan for transformin
 * Build an organizational reputation that attracts top-tier vendor partners
 
 Remember: Strategic vendor partnerships are about building an ecosystem of capabilities that enable your organization to achieve mission outcomes more effectively than you could alone. Focus on creating mutual value, encouraging innovation, and building long-term organizational capabilities through vendor collaboration.
+
+<img width="1224" height="400" alt="exercises answer key" src="https://github.com/user-attachments/assets/1e7fd7e6-4904-4163-8d2d-5988ae2c5c75" />
 
 ## Vendor Evaluation Bias Exercise Answer Key
 
