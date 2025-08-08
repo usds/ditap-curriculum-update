@@ -102,6 +102,8 @@ Culture change is the most challenging aspect of digital transformation, yet it'
 **The transformation challenge**: Navigating between these cultures requires shifting how people perceive risk, success, and their role within the organization.
 
 ## The Four Pillars of Cultural Transformation
+<img width="1226" height="996" alt="the four pillars of cultural transformation" src="https://github.com/user-attachments/assets/db6d8a5a-d746-4085-9981-71c85580b169" />
+
 
 **Pillar 1: Mindset Shift from Risk Avoidance to Risk Management**
 

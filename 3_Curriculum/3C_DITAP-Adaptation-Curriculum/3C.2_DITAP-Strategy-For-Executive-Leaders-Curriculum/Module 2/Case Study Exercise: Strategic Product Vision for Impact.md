@@ -1,7 +1,10 @@
+<img width="1224" height="400" alt="Strategic Product Vision for Impact case study activity" src="https://github.com/user-attachments/assets/c726d02d-b11e-46d7-a2e7-e6d05fcbacc8" />
 # Case Study Exercise: Strategic Product Vision for Impact
 
 ## Crafting a Product Vision
 Scenario setup: Project RAINBO needs a clear product vision that aligns diverse stakeholders. Each team will adopt a different character's perspective and create a vision that reflects their values while addressing the challenge of healthcare data management. 
+
+<img width="1224" height="400" alt="exercise instructions" src="https://github.com/user-attachments/assets/3f808d36-0ec8-4a7d-b09f-bf89619c3dfe" />
 
 ### Part A: Persona-Based Vision Development (25 minutes)
 Teams are assigned one of four perspectives:
@@ -109,7 +112,10 @@ ______________________________
 - Cultural fit: Evaluating collaboration and communication style
 - Portfolio evaluation: Examining actual working software, not just proposals
 
-## Module 2 Exercise Instructions Answer Key
+<img width="1224" height="400" alt="exercises answer key" src="https://github.com/user-attachments/assets/7fd2ec5b-e7c9-4ef4-be0c-771020e217be" />
+
+**Exercise Instructions Answer Key**
+
 ### Part A: Persona-based vision development (25 minutes) 
 _Team assignment framework:_
 
