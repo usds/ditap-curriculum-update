@@ -188,7 +188,7 @@ As federal agencies harness the transformative potential of Artificial Intellige
 * [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [Driving Efficient Acquisition of Artificial Intelligence in Government - OMB Memorandum M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)
 * [DHS Policy Statement 139-06 Acquisition and Use of Artificial Intelligence and Machine Learning by DHS Components.](https://www.dhs.gov/sites/default/files/2023-09/23_0913_mgmt_139-06-acquistion-use-ai-technologies-dhs-components.pdf)  
-* [2021 Final Report of the National Security Commission on Artificial Intelligence.](https://www.nscai.gov/2021-final-report/)  
+* [2021 Final Report of the National Security Commission on Artificial Intelligence.](https://reports.nscai.gov/final-report/)  
 * [National Artificial Intelligence Initiative (NAII) Act of 2020 (Division E of the National Defense Authorization Act for Fiscal Year 2021).](https://www.govinfo.gov/content/pkg/PLAW-116publ283/html/PLAW-116publ283.htm)  
 * [AI in Government Act of 2020 (Title I of Division U of the Consolidated Appropriations Act, 2021).](https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf)  
 * [EO 13960: Promoting the Use of Trustworthy AI in the Federal Government.](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)

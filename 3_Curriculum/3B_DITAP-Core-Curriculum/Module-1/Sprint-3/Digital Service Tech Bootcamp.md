@@ -513,6 +513,96 @@ Through innovative, security-conscious procurement, COs help ensure that governm
 
 ---
 
+## Digital Service Tech Topic: Accessibility
+
+### Why Digital Accessibility Matters
+
+Digital accessibility is fundamental to inclusivity and equality in the modern world. As our lives become increasingly intertwined with technology, it’s imperative that everyone has access to digital spaces, including people with disabilities. When websites, applications, and digital content are not designed with accessibility in mind, they create significant barriers for people with disabilities, effectively excluding them from vital opportunities and information. To ensure that digital spaces are available to everyone, U.S. government agencies are required by law to make technology accessible. 
+
+### Types of Disabilities
+
+1 in 4 adults in the United States have some type of disability. People with disabilities are a diverse group and two people with the same disability may even be impacted differently. Disabilities can also be permanent, temporary, or situational. 
+
+| Type of disability | Permanent  disability | Temporary  disability | Situational  disability |
+| ----- | ----- | ----- | ----- |
+| **Hearing** | Hearing loss | Ear infection | Being in a loud space, such as a restaurant |
+| **Motor** | Arthritis | Broken arm | A new parent holding a baby |
+| **Cognitive** | Autism | Concussion or mild head injury | Having a stressful day |
+| **Visual** | Blindness | Cataracts | A driver becoming distracted  |
+
+Disabilities can make it difficult to interact with digital spaces. Some people use assistive technology tools to help them perform tasks on websites or applications. 
+
+| Type of disability | Limitation examples | Accessibility  issues | Assistive  technology |
+| ----- | ----- | ----- | ----- |
+| **Hearing** | Auditory Hard of hearing Hearing loss | Audio content without captioning Media player with no volume controls Headings not following logical structure | Amplified telephones Alert systems with lights Auto-captioning |
+| **Motor** | Quadriplegic Parkinson's disease Arthritis | Controls not working as expected Difficulty with navigation and findability | Speech-to-text Touchpad Eye gaze Brainwave |
+| **Cognitive** | Speech impairments Autism Dyslexia and dyscalculia | Difficulty with navigation and findability Remembering previous steps Controls not working as expected | Text to speech Noise cancelling headphones Reader mode |
+| **Visual** | Blindness Glaucoma Cataracts Color blindness | Area of content not accessible via screen readers Headings not following logical structure Low color contrast | Screen readers Screen magnifiers  |
+
+### Why Accessibility Matters in Federal Procurement
+
+In the context of federal procurement, accessibility means making sure that all digital products and services acquired by the government are accessible to both employees and the public, regardless of ability. Federal laws and regulations, such as [Section 508](https://www.access-board.gov/ict/), establish clear responsibilities for procurement teams as part of a broader government-wide effort to build more inclusive digital services. These efforts benefit not only people with disabilities but also seniors, veterans, and anyone facing situational limitations, such as working outdoors or experiencing temporary impairments.
+
+### Digital Accessibility is the Law
+
+Federal law requires all U.S. government agencies to make their electronic and information technology accessible to people with disabilities. This is established in [Section 508 of the Rehabilitation Act of 1973](https://www.section508.gov/manage/laws-and-policies/), which eliminates barriers to the use of technology, creates new opportunities for people with disabilities, and encourages the development of technologies that help achieve these goals.
+
+In a major update to the standards in 2017, Section 508 now aligns with the [Web Content Accessibility Guidelines (WCAG) 2.0 AA](https://www.w3.org/WAI/standards-guidelines/wcag/), providing a clear and globally recognized benchmark for digital accessibility. It is worth noting that the technical standard for state and local governments’ web content and mobile apps is now WCAG 2.1 AA.
+
+### How to Measure Accessibility
+
+Federal agencies commonly evaluate information and communication technology (ICT) products for accessibility using an Accessibility Conformance Report (ACR). An ACR is a document that measures how well ICT products comply with Section 508 Standards. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested. The most well known ACR is the [Voluntary Product Accessibility Template (VPAT).](https://www.section508.gov/buy/understand-claims/)
+
+
+
+### How to Procure Accessible Products and Services 
+
+Accessibility should be embedded throughout the acquisition lifecycle. The earlier accessibility is considered in a project's lifespan, the more robust and less expensive it will be to implement. The [Office of Management and Budget Memo M-24-08](https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/) states that buyers need to appropriately articulate requirements for digital accessibility and obtain suitable evidence that the supplier understands and is capable of meeting those requirements.
+
+Government buyers must also perform a technical evaluation and validate vendor documentation of Section 508 conformance for ICT products under consideration prior to purchase, and after purchase, as appropriate, if the ICT product changes or is updated. This helps ensure accessibility is delivered throughout the project lifespan. 
+
+Contracting teams need to develop a plan for risk assessments and documentation of buying, developing, maintaining, and using ICT products that do not meet the [Access Board’s technical standards](https://www.access-board.gov/ict/).
+
+| Phase | How to Incorporate Accessibility |
+| ----- | ----- |
+| **Creation** | Determine accessibility requirements.  |
+| **Market Research** | Consult your accessibility SME to help evaluate ACRs.  |
+| **Solicitation** | Include accessibility criteria in evaluation factors. Reference Section 508 and WCAG. |
+| **Proposal Review** | Evaluate vendors’ testing plans, ACRs, and experience. Inquire about the prospective vendors' processes for incorporating accessibility into their work. |
+| **Post-Award Oversight** | Require validation testing, periodic ACR updates, and inclusive user testing. |
+
+### When No Accessible Options Are Available
+
+Although Section 508 states that ICT must be accessible, sometimes an accessible option doesn’t exist. In that case, Section 508 guidelines state that the agency should procure the ICT that best meets accessibility standards. 
+
+[E202.7 Best Meets](https://www.access-board.gov/ict/#E202.7) section states “Where ICT conforming to one or more requirements in the Revised 508 Standards is not commercially available, the agency shall procure the ICT that best meets the Revised 508 Standards consistent with the agency’s business needs.” This needs to be clearly documented, to avoid having the procurement challenged by another vendor. 
+
+### Common Misunderstandings 
+
+| Myth | Clarification |
+| ----- | ----- |
+| “A product with an ACR is accessible.” | ACRs are vendor attestations. Test with real users or assistive tech to confirm. |
+| “Accessibility is a one-time checkbox.” | Software updates often break accessibility. Contracts should require ongoing validation. |
+| “Section 508 doesn’t apply to this procurement.” | Rarely true. There are some exceptions, but they should be very rare and need to be well documented.  |
+| “Accessibility only helps people with permanent disabilities.” | It benefits everyone. Think: aging users, situational limitations, temporary injuries. |
+
+### Your Role
+
+Accessibility isn’t just a compliance requirement; it’s a core part of delivering high-quality, inclusive digital services. As a procurement professional, you play a critical role in ensuring that the products and services acquired by your agency are usable by all people, including those with disabilities. By embedding accessibility into every phase of the acquisition lifecycle, from market research to post-award oversight, your actions help agencies meet legal obligations, reduce long-term risk, and serve the public equitably. Use the tools, templates, and SME support available to make accessibility a built-in expectation.
+
+### Resources and Tools
+
+| Resource | Purpose |
+| ----- | ----- |
+| [ACREditor](https://acreditor.section508.gov/) | Review or generate ACRs. |
+| [Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/) | Provides guidance on which roles you can assign responsibilities for accessibility. |
+| [Accessibility Requirements Tool (ART)](https://www.section508.gov/art) | Define and document accessibility needs during procurement. |
+| [Accessibility Insights](https://www.google.com/url?q=https://accessibilityinsights.io/&sa=D&source=docs&ust=1754424299274526&usg=AOvVaw1mOO_qLyputqNzV5Aw1893) | A simple browser plugin that works like a spellcheck for accessibility.  |
+| [Disability:INclusive Workplaces](https://disabilityin.org/procurement-toolkit/) [Accessible Technology Procurement Toolkit](https://disabilityin.org/procurement-toolkit/) | Accessible procurement toolkit built for and by the private sector. |
+| [Section 508](https://www.section508.gov/) | Learn more about Section 508 policies, assessments, and tools.  |
+| [Sample Contracting Language](https://docs.google.com/document/d/1wnBNyk0AuYmLWG4G6vTXXYSpH3E_G4lsqXv2dcJiVxI/edit?tab=t.0#heading=h.mg8ks5ewfp7t) | Contracting language for accessible procurement and ICT.  |
+| [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria. |
+
 
 
 
