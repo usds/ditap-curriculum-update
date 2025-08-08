@@ -75,7 +75,7 @@ Defining success starts with clearly stating the problem you aim to solve. Use y
 
 While going through this process, asking these questions might seem out of place or out of your traditional role. Still, through the repeated efforts of many acquisition professionals working through these types of acquisitions, it has been proven that a contracting officer who takes the baton as the conductor of their process will have a deeper understanding of all the moving pieces, elements, and situations that are bound to come up throughout the procurement. 
 
-We recommend conducting an “Acq-A-thon” to bring all of this together in a one—to two-day workshop. “Acq-A-thons” were coined by the US Digital Service Procurement team in the early days of conducting acquisition strategy sessions with agencies, and variations of these are done by consultants, advisors, and internal procurement teams. Here is an Acq-A-thon Tool Kit that you can use to set up your own. 
+We recommend conducting an “Acq-A-thon” to bring all of this together in a one—to two-day workshop. “Acq-A-thons” were coined by the US Digital Service Procurement team in the early days of conducting acquisition strategy sessions with agencies, and variations of these are done by consultants, advisors, and internal procurement teams. [Here is an Acq-A-thon Tool Kit](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9f6d42c78e7fbbee13274cf52e8def0663e95660/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/acq-a-thon-toolkit.md) that you can use to set up your own. 
 
 **What is an Acq-A-thon?**
 
