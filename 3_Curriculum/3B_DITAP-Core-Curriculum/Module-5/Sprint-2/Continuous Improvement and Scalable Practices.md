@@ -44,11 +44,11 @@ This type of fast-moving innovation requires curiosity and a commitment to stayi
 
 You don’t need to be a technologist to stay tech-aware. Here are trusted sources where you can spot trends relevant to acquisition:
 
-* **FedScoop** – News and updates on federal IT and innovation  
-* **ACT-IAC** – Public-private partnership events and reports on federal tech  
-* **TechFAR Hub** – Guidance and examples of applying tech in acquisition  
+* **[US Digital Service (USDS)](https://www.usds.gov/)** – Insight into user-centered, tech-forward project delivery
+* **[TechFAR Hub](https://techfarhub.usds.gov/)** – Guidance and examples of applying tech in acquisition
 * **Agency Innovation Labs** – Many agencies (e.g., DHS, HHS) have internal labs testing new tools and methods  
-* **US Digital Service (USDS)** – Insight into user-centered, tech-forward project delivery
+* **[FedScoop](https://fedscoop.com/)** – News and updates on federal IT and innovation
+* **[Digital Services Coalition](https://digitalservicescoalition.org/)** – A network of vendors focused on digital government  
 
 ### Tracking and Engaging with Tech Influencers
 
@@ -58,9 +58,9 @@ Staying current also means learning from the people shaping the conversation. Yo
 
 * **Join professional organizations** like:  
   * **[NCMA](https://ncmahq.org/)** – National Contract Management Association  
-  * **Digital Services Coalition** – A network of vendors focused on digital government  
   * **[Technologists for the Public Good](https://www.publicgood.tech/)** \- nonprofit professional association connecting technologists from across government and industry to modernize public-sector services
   * **[Apolitical](https://apolitical.co/en)** - a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**
+* **[ACT-IAC](https://www.actiac.org/)** – Public-private partnership events and reports on federal tech  
 
 * **Subscribe to curated content** that filters the noise and brings key updates to your inbox:  
   * Federal News Network newsletters  
