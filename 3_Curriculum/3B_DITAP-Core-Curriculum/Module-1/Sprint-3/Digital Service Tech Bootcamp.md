@@ -24,7 +24,7 @@ By the end of this module, you will be able to:
 
 * Identify key challenges and modernization needs related to data storage, migration, analytics, and privacy in federal systems.
 
-* Explain the software development lifecycle (SDLC) and modern practices like Agile, DevOps (development and operations), and Continuous Integration and Continuous Delivery (CI/CD), and recognize their relevance in acquisition strategies.
+* Explain the [software development lifecycle (SDLC)](https://github.com/resources/articles/software-development/what-is-sdlc) and modern practices like Agile, DevOps (development and operations), and Continuous Integration and Continuous Delivery (CI/CD), and recognize their relevance in acquisition strategies.
 
 * Differentiate between proprietary and open-source software licenses, and understand the implications of software supply chain security.
 
@@ -145,7 +145,7 @@ Understanding how software is developed helps procurement professionals recogniz
 
 The Software Development Lifecycle (SDLC) is the process organizations use to plan, design, develop, maintain, and eventually retire software systems. Approaches to SDLC range from traditional "waterfall" methods, where each phase is completed sequentially, to more modern, iterative approaches like Agile. Agile methodology focuses on building and delivering functional software in small, manageable increments. Different Agile approaches include Scrum, where teams work in short, time-boxed sprints, and Kanban, which emphasizes continuous delivery with strict limits on work in progress to maintain flow.
 
-A central principle of modern software development is the importance of iteration, prototyping, and feedback loops—testing ideas early, learning from users, and continuously improving. For example, the U.S. Digital Service and VA used Agile and iterative development to improve the VA.gov website, releasing updates in small increments based on honest user feedback. They also leveraged open-source libraries and maintained a Software Bill of Materials (SBOM) to track components and ensure security compliance. OMB Memo M-22-18 and NIST’s Secure Software Development Framework (SSDF) now require SBOMs and secure development attestations from software vendors—making SBOMs a federal policy expectation in many software contracts.
+A central principle of modern software development is the importance of iteration, prototyping, and feedback loops—testing ideas early, learning from users, and continuously improving. For example, the U.S. Digital Service and VA used Agile and iterative development to improve the VA.gov website, releasing updates in small increments based on honest user feedback. They also leveraged open-source libraries and maintained a [Software Bill of Materials (SBOM)](https://www.cisa.gov/sbom) to track components and ensure security compliance. OMB Memo M-22-18 and NIST’s Secure Software Development Framework (SSDF) now require SBOMs and secure development attestations from software vendors—making SBOMs a federal policy expectation in many software contracts.
 
 Instead of building everything from scratch, developers commonly use packages and libraries—prewritten code modules created by others—to speed up development and improve reliability. However, this practice introduces potential security, licensing, and maintenance risks. As a result, tools like SBOMs are becoming essential, helping organizations manage their software supply chain more effectively.
 
