@@ -4,7 +4,7 @@
 
 Introduction
 
-You have studied modern software engineering best practices, including DevOps, continuous integration and continuous delivery (CI/CD), DevSecOps, and AI-powered automation. These practices have revolutionized how successful organizations develop and deploy technology solutions. This module examines real federal IT challenges from GAO's 2025 High Risk List to help you apply these modern practices to government acquisition scenarios and understand how effective procurement can prevent systemic IT failures.
+You have studied modern software engineering best practices, including DevOps, continuous integration and continuous delivery (CI/CD), DevSecOps, and AI-powered automation. These practices have revolutionized how successful organizations develop and deploy technology solutions. This module examines real federal IT challenges from the U.S. Government Accountability Office (GAO)'s 2025 High Risk List to help you apply these modern practices to government acquisition scenarios and understand how effective procurement can prevent systemic IT failures.
 
 ---
 
