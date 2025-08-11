@@ -57,9 +57,10 @@ Staying current also means learning from the people shaping the conversation. Yo
 * **Follow thought leaders** on platforms like LinkedIn or tune in to interviews on Federal News Network
 
 * **Join professional organizations** like:  
-  * **NCMA** – National Contract Management Association  
+  * **[NCMA](https://ncmahq.org/)** – National Contract Management Association  
   * **Digital Services Coalition** – A network of vendors focused on digital government  
-  * **Technologists for the Public Good** \- nonprofit professional association connecting technologists from across government and industry to modernize public-sector services
+  * **[Technologists for the Public Good](https://www.publicgood.tech/)** \- nonprofit professional association connecting technologists from across government and industry to modernize public-sector services
+  * **[Apolitical](https://apolitical.co/en)** - a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**
 
 * **Subscribe to curated content** that filters the noise and brings key updates to your inbox:  
   * Federal News Network newsletters  
