@@ -690,7 +690,7 @@ Managing a team of vendors is like managing a fleet, not a single ship. Without 
 
 Key practices to support multi-vendor effectiveness include:
 
-* Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.
+* [Definition of Done (DoD)](https://www.atlassian.com/agile/project-management/definition-of-done) and [Quality Assurance Surveillance Plan (QASP)](https://www.dau.edu/acquipedia-article/quality-assurance-surveillance-plan-qasp) clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.
 
 * Transparent task order processes:
 
