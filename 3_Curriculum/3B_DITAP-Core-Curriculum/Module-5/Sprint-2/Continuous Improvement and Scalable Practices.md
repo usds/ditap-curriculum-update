@@ -91,6 +91,10 @@ Take a few minutes to reflect on the following questions. You can jot down your 
     *(e.g., setting a monthly “tech check” reminder, following a specific newsletter or expert)*  
 4. **Who in my agency or network is already good at this? Could I learn from or connect with them?**
 
+## AI Activity: Staying Current in Procurement Technology (Optional)
+
+> Act as a digital acquisition trends analyst. I work in federal procurement and want to stay ahead of emerging tools, regulations, and market shifts relevant to digital services. Based on the latest available information, identify 5–10 developments I should track over the next year, explain why they matter for acquisition work, and suggest a short action I can take each month to deepen my understanding. Prioritize credible sources, recent examples, and relevance to FAR-governed environments. Include one or two examples from a source outside of the federal government. 
+
 ---
 ## Continuous Improvement in Everyday Procurement
 
@@ -204,7 +208,7 @@ Working closely with program staff, especially on **iterative requirement develo
 
 ### Document and Share What Works
 
-Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+Sharing what worked—and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
 ### Final Thoughts
 
