@@ -698,8 +698,8 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 | [Digital Public Goods Registry](https://www.digitalpublicgoods.net/registry) | Registry of digital solutions recognized as a Digital Public Good (DPG). DPG are a list of pre-approved software applications which have been vetted to ensure they meet generic government needs. |
 | [How to Write an RFP for Open Source Solutions](https://www.drupal.org/association/blog/how-to-write-an-rfp-for-open-source-solutions-featuring-drupal-certified-partners) | A guide for crafting a Drupal RFP that prioritizes OSS contributions.  |
 | [Open Source Initiative Licenses](https://opensource.org/licenses) | Licenses that comply with the Open Source Definition, meaning they allow software to be freely used, modified, and shared. |
-| [Open Source Procurement Checklist](https://github.com/CivicActions/open-practice/blob/main/open-requirements-library/Open-Source-Procurement-Checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
-| [Open Source Procurement FAQ](https://github.com/CivicActions/open-practice/blob/main/open-requirements-library/OSS-procurement-FAQ.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
+| [Open Source Procurement Checklist](https://github.com/kristenjernigan/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
+| [Open Source Procurement FAQ](https://github.com/kristenjernigan/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_faq.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
 
 
 
