@@ -603,6 +603,104 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [Sample Contracting Language](https://docs.google.com/document/d/1wnBNyk0AuYmLWG4G6vTXXYSpH3E_G4lsqXv2dcJiVxI/edit?tab=t.0#heading=h.mg8ks5ewfp7t) | Contracting language for accessible procurement and ICT.  |
 | [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria. |
 
+---
+## Digital Service Tech Topic: Open Source Software
+
+
+### Understanding Open Source Software
+
+Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to it. These licenses often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
+
+Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools it is a key building block in software security and supply chain risk management, 
+
+### Open Source Software is Used Everywhere
+
+If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases contain open source, and four out of five Fortune 500 companies use OSS for mission-critical functions. This widespread adoption is projected to continue its high growth rate for the foreseeable future.
+
+#### Examples of open source in action
+
+Many of the technologies you interact with daily are built on OSS. 
+
+* The Android operating system, which powers billions of mobile devices, is open source. Its operating system is based on a modified version of the Linux kernel.  
+* Streaming services like Netflix rely on open source technologies to deliver content efficiently. Netflix streams over 170 million gigabytes of data every day using FreeBSD.  This includes the majority of the web-based technology used to interact with their site and the databases where they store data.  
+* The Linux operating system is the foundation for countless servers, supercomputers, and embedded devices around the world. First released as an open source product 30 years ago, it’s the basis of Android OS, Apple iOS, and macOS. It’s also used in security cameras, smartwatches and voice assistants like Alexa. 
+
+#### GitHub
+
+GitHub is a key player in the open source ecosystem, serving as the world's largest repository for software development. It's more than just a place to store code; it's a collaborative platform for version control, bug tracking, managing feature requests, and creating documentation. The reach of GitHub is immense, with users spanning from individual developers to major organizations. Its user base includes 67 national governments, 157 US federal agencies, 50 state governments, and over 21 million software developers, highlighting just how integral open source has become to both public and private sectors. In 2018, GitHub was purchased by Microsoft for $7.5 billion, and has continued to define what is expected in modern software development. 
+
+### Why Open Source Software Matters in Federal Procurement
+
+OSS is used in nearly every modern government digital service and is a significant factor in federal procurement because it offers a wide range of benefits that are distinct from traditional proprietary software. If acquisition professionals understand how to evaluate and procure it responsibly, OSS can reduce costs, increase innovation, and support long-term vendor independence.
+
+### Federal Laws and Policies
+
+Federal agencies operate under specific guidelines that support the use of OSS. The [Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/) gives agencies a procurement advantage by classifying OSS as commercial off-the-shelf (COTS) software, which allows agencies to buy, adopt, or integrate OSS without lengthy procurement processes. This framework is further supported by the [Federal Source Code Policy (OMB M-16-21)](https://digital.gov/resources/requirements-for-achieving-efficiency-transparency-and-innovation-through-reusable-and-open-source-software/), which encourages agencies to reuse existing custom-developed code and release new custom code as OSS.
+
+Building on these policies, the [SHARE IT Act (Public Law 118-187)](https://dsacms.github.io/share-it-act-lp/) mandates that agencies share their custom-developed source code with each other. This legislation is a key part of a broader effort to reduce redundant development and procurement costs across the government. Together, these laws and policies create a clear and supportive environment for federal agencies to leverage the benefits of OSS.
+
+### Security of Open Source Software 
+
+All software, including OSS, faces increasing security risks due to advances in hacking tools and techniques. However, open source often has a distinct advantage: a robust community of developers dedicated to its security. Unlike proprietary software, where security audits are limited to a single company's internal team, OSS code can be inspected and tested by anyone. This collaborative approach allows for vulnerabilities to be identified and fixed much more rapidly than legacy approaches, often within days of discovery.
+
+#### Mitigating security risks
+
+Properly maintained OSS is just as secure as, and often more secure than, its proprietary counterparts. If it were less secure, organizations wouldn't be able to tolerate the risk, and it wouldn't be able to compete in the market. Securing OSS involves following the **same best practices as securing proprietary software**. This includes:
+
+* Adhering to standards for protecting confidentiality, integrity and availability.  
+* Data remains encrypted at rest and in transit in accordance with its designated classification.  
+* Using standard user authentication tools to control access.  
+* Applying regular updates, especially for critical vulnerabilities.  
+* Periodically auditing activity within the application.
+
+#### Government initiatives 
+
+The U.S. government is actively involved in strengthening the security of OSS. Several federal agencies contribute to the [Open Source Security Foundation](https://openssf.org/), a collaborative effort to improve security for both open source and private developers. As an example, the Department of Defense’s [Platform One](https://p1.dso.mil/) is heavily leveraging open source to improve security and overcome common barriers. Their [Iron Bank](https://p1.dso.mil/ironbank) project distributes pre-configured, containerized versions of OSS which speeds up the process of getting the required [Authority to Operate (ATO)](https://csrc.nist.gov/glossary/term/authorization_to_operate). This process ensures that no new vulnerabilities are introduced when the software is reused. These are just a few of the many government-led initiatives which enhance overall security and reduce costs through the use of open source software.
+
+## 
+
+### The Cost of "Free" Open Source Software
+
+While the initial cost of OSS is often free, its implementation and maintenance are not. When OSS is acquired, the software itself is without charge, but the associated services carry a cost. This model shifts the financial burden from licensing fees to expenses for support and development. These costs are market-driven and can include customization, ongoing monitoring, hosting, support, training, and updates.
+
+#### Avoiding vendor lock-in
+
+Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straight forward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
+
+### How to Procure Open Source Software
+
+Navigating federal procurement with OSS requires a clear understanding of its unique characteristics and how they fit within the acquisition lifecycle. Using OSS should be considered early, before a decision is made about what software criteria to solicit for.
+
+The first step is to thoroughly understand the specific need the procurement is trying to meet and the goals the solution must achieve. This involves a comprehensive analysis of costs and available features. Due diligence is crucial, including a comparison of OSS solutions with proprietary offerings and seeking advice from other agencies that have successfully adopted open source.
+
+| Phase | Procurement Considerations |
+| ----- | ----- |
+| **Market Research** | Explore OSS solutions and evaluate the health of their communities and licensing models. |
+| **Solicitation** | Avoid overly prescriptive requirements that might exclude OSS. Instead, allow for OSS solutions where viable and include specific evaluation criteria to assess their sustainability and support model. |
+| **Proposal Review** | Check the vendor's implementation plan to ensure that all software licenses are compatible with your agency's needs. Confirm they contribute to the open-source community and are not simply users. |
+| **Post-Award Oversight** | Continuously track software maintenance and compliance. If a product with an OSS license was selected, ensure that the software will remain OSS beyond the length of the contract.  |
+
+### Do your due diligence
+
+Make sure you’re asking the right questions and learning about the OSS solution.
+
+* Compare a proprietary product with an Open Source option.   
+* Consult the advice of others who have pivoted to Open Source.  
+* Carefully vet requirements before selecting a solution.   
+* Don’t forget about migration costs.  
+* Include compliance as a recurring cost.
+
+### Tools & Resources
+
+| Resource | Purpose |
+| ----- | ----- |
+| [CHAOSS Community](https://chaoss.community/) | Organizations with open source program offices exploring improved open source governance practices. |
+| [Digital Public Goods Registry](https://www.digitalpublicgoods.net/registry) | Registry of digital solutions recognized as a Digital Public Good (DPG). DPG are a list of pre-approved software applications which have been vetted to ensure they meet generic government needs. |
+| [How to Write an RFP for Open Source Solutions](https://www.drupal.org/association/blog/how-to-write-an-rfp-for-open-source-solutions-featuring-drupal-certified-partners) | A guide for crafting a Drupal RFP that prioritizes OSS contributions.  |
+| [Open Source Initiative Licenses](https://opensource.org/licenses) | Licenses that comply with the Open Source Definition, meaning they allow software to be freely used, modified, and shared. |
+| [Open Source Procurement Checklist](https://github.com/CivicActions/open-practice/blob/main/open-requirements-library/Open-Source-Procurement-Checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
+| [Open Source Procurement FAQ](https://github.com/CivicActions/open-practice/blob/main/open-requirements-library/OSS-procurement-FAQ.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
+
 
 
 
