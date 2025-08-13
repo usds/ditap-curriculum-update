@@ -93,7 +93,7 @@ Take a few minutes to reflect on the following questions. You can jot down your 
 
 ## AI Activity: Staying Current in Procurement Technology (Optional)
 
-> Act as a digital acquisition trends analyst. I work in federal procurement and want to stay ahead of emerging tools, regulations, and market shifts relevant to digital services. Based on the latest available information, identify 5–10 developments I should track over the next year, explain why they matter for acquisition work, and suggest a short action I can take each month to deepen my understanding. Prioritize credible sources, recent examples, and relevance to FAR-governed environments. Include one or two examples from a source outside of the federal government. 
+> Act as a digital acquisition trends analyst. I work in federal procurement and want to stay ahead of emerging tools, regulations, and market shifts relevant to digital services. Based on the latest available information, identify 5–10 developments I should track over the next year, explain why they matter for acquisition work, and suggest a short action I can take each month to deepen my understanding. Prioritize credible sources, recent examples, and relevance to FAR-governed environments. Include one or two examples from a source outside the federal government. 
 
 ---
 ## Continuous Improvement in Everyday Procurement
