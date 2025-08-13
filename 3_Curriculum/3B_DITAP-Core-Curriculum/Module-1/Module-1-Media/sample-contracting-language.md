@@ -2,7 +2,8 @@
 
 ## Accessibility Standards (Required for All ICT Deliverables)
 
-All Information and Communication Technology (ICT) developed, acquired, or maintained under this contract shall conform to accessibility standards to ensure equitable access for individuals with disabilities.  
+All Information and Communication Technology (ICT) developed, acquired, or maintained under this contract shall conform to accessibility standards to ensure equitable access for individuals with disabilities.
+
 For all new development or significant modernization efforts, ICT must meet or exceed the latest published recommendations of the Web Content Accessibility Guidelines (WCAG) as issued by the World Wide Web Consortium's (W3C) Web Accessibility Initiative (WAI), at a minimum of Level AA conformance. This requirement ensures adherence to an evergreen standard that evolves with best practices in digital accessibility.
 
 For existing legacy systems undergoing minor modifications, maintenance or with explicit permission of the contractor, adherence to the applicable provisions of Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. § 794d), as amended, and its implementing regulations, including the Revised 508 Standards (36 CFR Part 1194), is required. Any new components integrated into legacy systems must still strive for conformance with the latest WAI WCAG recommendations where feasible.
