@@ -592,7 +592,6 @@ By the end of this lesson, participants will be able to:
 * Understand the dynamics of vendor competition and collaboration within a shared contract.  
 * Identify strategies to promote fairness, trust, and transparency among vendors.  
 * Understand and mitigate risks associated with this approach  
-* **PLACEHOLDER**: See these concepts applied in the real-world example of VA’s CEDAR & SPRUCE contracts 
 
 In modular, iterative contracting, a well-structured multiple award vehicle is one of the most effective strategies for supporting agility, mitigating risk, and maintaining delivery momentum. When thoughtfully designed, this approach creates the flexibility to pivot between vendors if performance falters or priorities shift, without requiring a complete overhaul. It also prevents vendor lock-in and fosters a culture of continuous improvement through healthy competition. 
 
