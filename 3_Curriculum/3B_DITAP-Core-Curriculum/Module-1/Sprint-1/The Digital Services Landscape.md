@@ -54,7 +54,7 @@ Because the site is responsive, users can access it from their computers and mob
 
 **How?**
 
-In our online learning module, Digital Services – The How, you’ll learn how the digital service was developed, including development methodologies, technologies, etc.
+In our online learning module, Digital Services – The How (in Module 1, Sprint 2), you’ll learn how the digital service was developed, including development methodologies, technologies, etc.
 
 
 ## Defining Digital Services: Another Take
@@ -67,7 +67,7 @@ We’ve taken some important information from [Digital Government Strategy](http
 
 ### What is included in the Information Layer? 
 
-- "Content," any unstructured material that agencies or organizations provide online, including Written materials like fact sheets, press releases, and compliance guidance
+- Content: any unstructured material that agencies or organizations provide online, including written materials like fact sheets, press releases, and compliance guidance
 - Online transactions: benefits applications, purchases, job applications
 - Multimedia: photos, video, audio
 - Data: structured information, like census and employment data, environmental measurements, activity logs, and structured website content
@@ -145,7 +145,7 @@ The multi-disciplinary teams that design and develop digital services could incl
 
 ![Digital Services hierarchy diagram illustrating the structure of a digital service team. The top section shows two groups: "Developers – In-House" and " Developers – Professional Service Vendors," both connecting to an "Organization (Government or Private Sector)." The organization then connects to "The end user," depicted as a smartphone displaying a digital service interface. Below the developers, a vertical list details team roles which are explained in the next section.](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
 
-- __Product Owner__: his individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
+- __Product Owner__: This individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
 - __Delivery Manager__: This individual orchestrates the digital services team and enables the team to deliver a quality service on time and within budget.
 
@@ -163,7 +163,7 @@ The multi-disciplinary teams that design and develop digital services could incl
 
 - __Testers__: This team or individual works with the Product Owner to define acceptance criteria for features and with the developers to ensure they meet it. 
 
-### Organization (private sector/government Sector)
+### Organization (private sector/government sector)
 
 The organization (private/commercial or government) has determined that it needs a digital service. In addition to benefiting the end user (ease of use/minimizing frustration), the organization benefits from automated data that the end user enters into the digital service.  
 
@@ -196,11 +196,16 @@ __Do only government agencies (federal, state or municipal) provide digital serv
 Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as: 
 
 ![Woman sitting at a computer asking who ordered from a dog bone website, dog with bone sits behind her](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.1.jpg)
-View and pay your bills online.
+
+_View and pay your bills online._
+
  ![Cat asking receptionist how to pay vet bill](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.3.jpg) 
-Check the status of a healthcare claim online.
+
+_Check the status of a healthcare claim online._
+
  ![Young boy sitting in front of TV, procrastinating on doing his book report](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.2.jpg) 
-Order new TV services online.
+
+_Order new TV services online._
 
 These examples are from the perspective of the end user. The Digital Services Ecosystem involves additional roles that support the delivery of services to the end user.  You can learn about the Digital Service Ecosystem through the [Digital Services Playbook](https://playbook.usds.gov/). 
 
@@ -231,7 +236,7 @@ As government agencies embrace modern technology and user-centered practices, it
 ### Government entities
 
 * [Technology Transformation Services](https://tts.gsa.gov/) \- GSA   
-* [United States Digital Service (USDS)](https://www.usds.gov/)   
+* [United States DOGE Service (USDS)](https://www.usds.gov/)   
 * [Digital Service at CMS](https://www.cms.gov/digital-service)  
 * [Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil/) \- DoD   
 * [Customer Experience (CX) at DHS](https://www.dhs.gov/cx)
