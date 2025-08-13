@@ -134,7 +134,7 @@ Using a tool like this can help you further segment the market and make market r
 
 **How can you use this tool in your own work?**
 
-As a federal contracting professional, you’ll often need to explore different types of solutions like open source, commercial off-the-shelf (COTS), or proprietary software to meet your agency’s digital service needs. One way to organize what you learn is by creating a simple comparison chart, like the Gartner Magic Quadrant. You can use it to quickly show how different options stack up based on what matters most to your customer. Try adapting the chart by changing up the labels on each axis relative to your customer’s needs.  Here’s how to get started:
+As a federal contracting professional, you’ll often need to explore different types of solutions like commercial off-the-shelf (COTS), open source and proprietary software, to meet your agency’s digital service needs. One way to organize what you learn is by creating a simple comparison chart, like the Gartner Magic Quadrant. You can use it to quickly show how different options stack up based on what matters most to your customer. Try adapting the chart by changing up the labels on each axis relative to your customer’s needs.  Here’s how to get started:
 
 1. First, identify the characteristics of your customer’s needs. Who is the end user and what are their main concerns? Is it security, ease of use, cost, or another factor?  
 2. Next, select the two most important characteristics and plot them on your own quadrant on each axis. For example, are your customer’s largest priorities security and price?  
