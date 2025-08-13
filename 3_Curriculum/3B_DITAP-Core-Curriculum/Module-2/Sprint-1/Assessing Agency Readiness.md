@@ -18,7 +18,7 @@ By the end of this unit, participants will be able to:
 
 * Identify common gaps in digital service maturity and find strategies to address them
 
-* Assess when and how to incorporate open source, commercial off-the-shelf (COTS), or proprietary solutions based on agency context
+* Assess when and how to incorporate commercial off-the-shelf (COTS), open source or proprietary solutions, based on agency context
 
 * Engage stakeholders effectively based on agency culture, governance, and decision-making dynamics
 

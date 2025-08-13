@@ -47,7 +47,7 @@ The DevOps Research and Assessment framework remains the gold standard, but fede
 These metrics focus on actual user experience and mission impact:
 
 1. **Digital Service Standard Compliance**  
-   * Accessibility (Section 508\) compliance rate  
+   * Accessibility (Section 508\) quality and conformance evidence
    * Mobile responsiveness across devices  
    * Page load times under 3 seconds  
    * Plain language readability scores  
