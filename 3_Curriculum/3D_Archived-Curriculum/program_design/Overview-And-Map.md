@@ -442,7 +442,7 @@ In terms of the overall program design, the findings and recommendations include
 
 In terms of the instructional strategies and content creation, the findings and recommendations include the following:
 
-- Participant feedback indicated that the use of the threaded case study (SBA) and scenario (MAP) provided useful application opportunities for participants. The training vendor also suggested the scenario be refreshed to reduce the focus on a COTS product so as to provide more flexibility.
+- Participant feedback indicated that the use of the threaded case study (SBA) and scenario (MAP) provided useful application opportunities for participants. The training vendor also suggested the scenario be refreshed to reduce the focus on a commercial off-the-shelf (COTS) product, either open source or proprietary, so as to provide more flexibility.
 -  There was mixed feedback about usefulness of blogging, as it was introduced mid-program. The training vendor recommended continuing the use of blogging but introducing it at the start of the program and better explaining how it can be used optimally.
 - The live digital assignment (LDA) is a viable instructional method; however success requires more upfront, realistic expectation-setting.
 - Participants are more likely to maximize the value of the LDA if they are required to meet with their coach throughout the program.
