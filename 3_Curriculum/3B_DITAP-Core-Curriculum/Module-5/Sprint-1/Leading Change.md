@@ -308,6 +308,11 @@ As you mentally prepare for a conversation, here are some tips that can help you
 * Engage in negotiation to resolve how to solve the problem together.   
 * Formalize an agreement into a series of commitments and next step action items. 
 
+## AI Coaching on Difficult Conversations (Optional)
+
+Try explaining the situation to an AI chatbot, and see if you can get any useful insights:
+
+> Act as an experienced workplace coach. I will describe a difficult conversation I need to have with a colleague, stakeholder, or leader. Help me understand their likely perspective, choose language that reduces defensiveness, clearly communicate my needs, and prepare for possible pushback so I can handle it calmly. My situation is: [insert scenario here].
 
 ## Common Topic for Difficult Conversations: Acquisition
 
@@ -482,6 +487,12 @@ For you and your work in digital services acquisition, two characteristics are p
 
 * **Perspective on risk:** People who embrace a growth mindset are more willing to step outside of their comfort zone and take risks that might result in a short term “failure.” When you’re advocating for the non-traditional approaches you’ve learned about in this program, chances are that these are relatively—or entirely—new for your agency. As you learned in the Leading Change module, leading change from the middle is not easy; however, it is possible. By working to change your perspective on risk and those of your team members (and employing the other strategies discussed in the Leading Change module), you can gradually contribute to the growth mindset of your organization.  
 * **Embracing failure as you challenge the status quo:** By undertaking challenges, you open yourself up to learning opportunities. Failure will be part of that learning—that is, if you make a conscious effort to learn from it. Learning from failure means you analyze what happened and explore what you could’ve done differently to create an alternative outcome. Pixar embodies this approach (read more about their approach, introduced above, [here](https://www.brainpickings.org/2014/05/02/creativity-inc-ed-catmull-book/)). NASA is another organization that has adopted this mindset over the years. For instance, in the 1960s during the race to the moon, NASA leadership deliberately encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud; in this way, everyone would know that their division had tried and failed, but at least they had tried.
+
+## AI Coaching on Growth Mindsets (Optional)
+
+Ask an AI chatbot and see if you can get any useful insights a prompt like this might help:
+
+> Act as a coach specializing in developing a growth mindset for professionals in government and digital services. I will describe a situation where I feel hesitant to take a risk, challenge the status quo, or learn from a setback. Help me reframe the situation to see the opportunity for growth, suggest strategies to embrace calculated risks, and outline steps to turn any potential failure into a learning experience. My situation is: [insert scenario here]
 
 ---
 ## Wellness Rituals to Support You in Times of Transition
