@@ -4,7 +4,7 @@
 
 ### Introduction
 
-When it comes to digital services, success isn't just about technology. It's about people—*your stakeholders*. Some are obvious, like program owners or end users. Others might only become visible once you're deep into the work. By then, their feedback can slow things down or force major changes.
+When it comes to digital services, success isn't just about technology. It's about people, *your stakeholders*. Some are obvious, like program owners or end users. Others might only become visible once you're deep into the work. By then, their feedback can slow things down or force major changes.
 
 That’s why it’s so important to identify the right people early and involve them at the right time. Stakeholders influence decisions, offer key insights, and help you stay aligned with agency goals, policies, and user needs.
 
@@ -14,9 +14,9 @@ Let’s get started.
 
 Consider the following two situations:
 
-* **Situation 1:** You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think. It’s the program office or the program owner \- the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy efficient products, or the government team that will primarily use  this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions – so get them involved in the process\! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders – budget, acquisition policy, Chief Information Officers / Information Technology (CIO/IT), as well as vendors and contractors – who feel strongly about the design and execution of the product or service.
+* **Situation 1:** You’re working on a digital services procurement and need to answer the question, “Who is my customer?” That’s easy, you think. It’s the program office or the program owner, the visionary and champion for the product or service. But wait a minute. Is that always the case? Are they the end users who will use the product or service? For instance, are they the individual entering data into a system, the citizen using your website to learn about energy efficient products, or the government team that will primarily use  this new tool? The answer to this question will drive how you approach the acquisition. End users should drive your technical and design decisions, so get them involved in the process! This sounds simple in theory. However, it’s not so simple in execution, when you have other stakeholders, budget, acquisition policy, Chief Information Officers / Information Technology (CIO/IT), as well as vendors and contractors, who feel strongly about the design and execution of the product or service.
   
-* **Situation 2:** You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder—one you hadn’t thought to include to date—provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times\!) when this has happened and the resulting frustration we felt.
+* **Situation 2:** You’ve spent months putting together an acquisition plan and getting various stakeholders to review and provide feedback along the way. All of a sudden, a new stakeholder, one you hadn’t thought to include to date, provides feedback that requires you to significantly adjust your approach. Frustrated, you think, “If only I had thought to get them on board and involved earlier on, we could’ve had a better product and saved time and money.” We can probably all relate to a time (or times\!) when this has happened and the resulting frustration we felt.
 
 So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in!
 
@@ -33,15 +33,15 @@ To get your stakeholders comfortable with your approaches, you should anticipate
 
 ### So, Is This Really That Different From How You’ve Engaged Stakeholders Before?
 
-In some ways, no. You’ll likely see many of the same roles—program owners, legal, contracting, and policy. But digital services work demands a more intentional and flexible approach to stakeholder engagement.
+In some ways, no. You’ll likely see many of the same roles, program owners, legal, contracting, and policy. But digital services work demands a more intentional and flexible approach to stakeholder engagement.
 
-Why? Because you’re often introducing new methods, tools, or expectations that can feel unfamiliar—or even risky—to others. You’re aiming for faster delivery, more collaboration, and outcomes rooted in user needs. That changes when, how, and with whom you engage.
+Why? Because you’re often introducing new methods, tools, or expectations that can feel unfamiliar, or even risky, to others. You’re aiming for faster delivery, more collaboration, and outcomes rooted in user needs. That changes when, how, and with whom you engage.
 
 ### Why the Landscape Looks Different
 
 The Stakeholder Landscape Map you’ll explore in this activity offers a big-picture view of the many individuals and groups who may shape your acquisition.
 
-It’s not a checklist—it’s a prompt to think strategically about:
+It’s not a checklist, it’s a prompt to think strategically about:
 
 * Who can influence or impact your succes  
 * What role(s) they play  
@@ -53,7 +53,7 @@ Just remember: people don’t fit neatly into one category. For example, your He
 
 You won’t engage a compliance officer the same way you would a product owner or a community outreach lead. Each stakeholder has different priorities, power, and concerns.
 
-That’s why thoughtful engagement—early and tailored to their role—is key. It builds trust, reduces friction, and helps your team avoid unnecessary roadblocks later on.
+That’s why thoughtful engagement, early and tailored to their role, is key. It builds trust, reduces friction, and helps your team avoid unnecessary roadblocks later on.
 
 ![A circular stakeholder map for digital services acquisition, showing categories like Acquisition Stakeholders, Oversight/Governance, Advocates/Influencers, and Partners/Suppliers/Co-Creators, with 'Digital Services Acquisition Partnership' at the center.](https://github.com/kristenjernigan/kj-liatest/blob/1e3a9122e69124a7a37263e7029d849eab3dfe14/Media/Module%202/StakeholderMap_Small.jpg)
 
@@ -62,7 +62,7 @@ That’s why thoughtful engagement—early and tailored to their role—is key. 
 
 Here’s a quick look at the six main stakeholder groups you might encounter in a digital services acquisition:
 
-* **Digital Services Acquisition Partnership:** Your core team—program, product, and procurement partners making it all work.  
+* **Digital Services Acquisition Partnership:** Your core team; program, product, and procurement partners making it all work.  
 * **Served Communities and Customers:** End users, citizens, and front-line staff. Their needs shape the solution.  
 * **Acquisition Stakeholders:** Contracting officers, legal, policy advisors—those who help execute and manage the procurement.  
 * **Partners, Suppliers, and Co-Creators:** Vendors and external collaborators who contribute ideas and expertise.  
