@@ -4,22 +4,21 @@
 
 ### Overview
 
-Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module—**“From** **Discovery to Strategy”**—equips acquisition professionals to make that critical shift.
+Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From** **Discovery to Strategy”** equips acquisition professionals to make that critical shift.
 
-By leveraging early research, user interviews, and process mapping, contracting and program teams can co-create acquisition strategies that are flexible, user-centered, and outcome-driven. Rather than repeating legacy approaches or writing rigid contracts to avoid risk, this module encourages a mindset of adaptability, collaboration, and alignment—core principles of modern digital service delivery.
+By leveraging early research, user interviews, and process mapping, contracting and program teams can co-create acquisition strategies that are flexible, user-centered, and outcome-driven. Rather than repeating legacy approaches or writing rigid contracts to avoid risk, this module encourages a mindset of adaptability, collaboration, and alignment, core principles of modern digital service delivery.
 
-Success in digital services doesn’t start with a delivery milestone—it starts with shared clarity. What problem are we solving? For whom? How will we know we’ve done it well? This section walks through how to define success that helps teams stay aligned, responsive to change, and focused on outcomes, not just outputs.
+Success in digital services doesn’t start with a delivery milestone, it starts with shared clarity. What problem are we solving? For whom? How will we know we’ve done it well? This section walks through how to define success that helps teams stay aligned, responsive to change, and focused on outcomes, not just outputs.
 
 This module emphasizes the strategic role of the acquisition professional in shaping not just the contract, but the success of the entire digital service. By applying these concepts, learners will gain the tools and language to build acquisitions that are not only compliant but truly impactful.
 
 #### Learning objectives
 
-By the end of this module, you will be able to: 
+By the end of this sprint, you will be able to: 
 
 * Define a user-centered problem statement that avoids pre-defined solutions but aligns with user pain points.  
 * Draft a product vision statement using structured facilitation questions to describe the desired future state.  
 * Facilitate a product visioning session that engages stakeholders in clarifying goals and success outcomes.
-
 * Link product vision to procurement objectives and measurable success metrics using the RoM framework.  
 * Differentiate between features and outcomes when writing acquisition objectives and evaluation criteria.  
 * Recognize common pitfalls in early acquisition planning (e.g., vague goals, prescriptive requirements).  
@@ -45,9 +44,9 @@ It should also reflect a complete picture of how you’ll achieve your objective
 
 ### Framing the contract for discovery: 
 
-A contract is simply this: one party has a need, and another agrees to meet that need in exchange for payment, based on mutually accepted terms. Everything else—the complexity, the structure, the competition requirements—builds on top of that foundational exchange.
+A contract is simply this: one party has a need, and another agrees to meet that need in exchange for payment, based on mutually accepted terms. Everything else, the complexity, the structure, the competition requirements, builds on top of that foundational exchange.
 
-In digital services acquisition, it’s essential to approach the strategy phase with a fresh mindset. Don’t begin by trying to patch over the failures of past contracts, or by designing a document so rigid that it attempts to eliminate all future risk. Instead, build an adaptable strategy—and a contract—to support an evolving product and accommodate the unknowns that inevitably surface during delivery.
+In digital services acquisition, it’s essential to approach the strategy phase with a fresh mindset. Don’t begin by trying to patch over the failures of past contracts, or by designing a document so rigid that it attempts to eliminate all future risk. Instead, build an adaptable strategy, and a contract, to support an evolving product and accommodate the unknowns that inevitably surface during delivery.
 
 Modern digital acquisition emphasizes the connection between product vision and product delivery. Whether you’re crafting a performance-based or outcome-based procurement, the principle is the same:
 
@@ -89,7 +88,7 @@ How many times have you, as an acquisition professional, received acquisition re
 
 They’ve done early planning or interviews that the procurement team has not seen, and in doing so, they unknowingly box the acquisition strategy into a corner. You might not realize it until market research turns up misaligned results, the evaluation criteria do not make sense for the product the team needs, or vendors build the wrong thing because the team was solving the wrong problem from the start.
 
-This disconnect frustrates everyone and takes time away from finding a real solution. Here is the DITAP shift: By inserting yourself early, before requirements are locked, you can help the team focus on the problem, which in turn helps create a more flexible, mission-aligned acquisition. This may not have been the traditional role for contracting professionals in the past, but in digital service acquisitions, your strategic involvement from the beginning is encouraged and essential.
+This disconnect frustrates everyone and takes time away from finding a real solution. Here is the DITAP shift: by inserting yourself early, before requirements are locked, you can help the team focus on the problem, which in turn helps create a more flexible, mission-aligned acquisition. This may not have been the traditional role for contracting professionals in the past, but in digital service acquisitions, your strategic involvement from the beginning is encouraged and essential.
 
 **Why this matters:**
 
@@ -142,7 +141,7 @@ Now that we’ve agreed on the problem, our next step is to describe the future 
 
 **Why it matters:**
 
-In the private sector, success is often measured in Return on Investment (ROI)—did they make more money than they spent?
+In the private sector, success is often measured in Return on Investment (ROI), did they make more money than they spent?
 
 However, in government, mission outcomes are the return. Whether delivering benefits faster, increasing public trust, or improving equitable access to services, the actual value of a digital service is measured by how well it advances the agency's mission.
 
@@ -272,9 +271,9 @@ Example: If contractor onboarding takes 90 days and your COR is already at capac
 
 This includes boundaries like:
 
-* Whether work can be done remotely or must be on-site  
-* Whether FedRAMP or ATO timelines affect launch planning  
-* How much of the current process can be reengineered, and how much must stay intact
+* Whether work can be done remotely or must be on-site.  
+* Whether FedRAMP or ATO timelines affect launch planning.  
+* How much of the current process can be reengineered, and how much must stay intact.
 
 **You can choose the right contract type, structure, and performance period.**
 
