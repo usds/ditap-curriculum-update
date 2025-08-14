@@ -682,7 +682,8 @@ How can DevSecOps improve the security of government digital services?
 
 Think about recent challenges in federal cybersecurity. Consider the impact of automation, early testing, and collaboration.
 
--Share one example or idea in the discussion forum section.
+**Share one example or idea in the discussion forum section.**
+
 ---
 
 ### Design \+ DevSecOps: The power combo
