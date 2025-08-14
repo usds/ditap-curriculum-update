@@ -2,7 +2,7 @@
 
 ## Introduction: Developing an Acquisition Strategy
 
-Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users—on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
+Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
 
 This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisitions strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
 
@@ -27,7 +27,7 @@ Just as in our personal lives, in the government, we plan to reduce the risk of 
 
 In either case, it is essential to document all decisions made throughout the pre-award process and include the rationale behind those decisions. This support rationale will be informed by all the pre-award activities you have conducted, including product visions, market research, and all communications with stakeholders.
 
-Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in the Release 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
+Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in a Module 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
 
 ---
@@ -56,12 +56,12 @@ We will discuss each of these in more detail as we proceed, but it’s essential
 
 ![](https://github.com/kristenjernigan/kj-liatest/blob/0d2f0879d93d9deb2ed4363ca05edcfb5bb273ae/Media/Module%203/checklist.png)
 
-As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan—and some of the other required items in the contract file—as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
+As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan, and some of the other required items in the contract file, as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
 
 
 ### Using the Lean Canvas Approach
 
-You were introduced to this tool in **Module 2**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason—it favors testing and experimenting over elaborate upfront planning.
+You were introduced to this tool in **Module 2**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason, it favors testing and experimenting over elaborate upfront planning.
 
 Both large and small businesses across various industries are quickly adopting these “lean” approaches. For instance, you may have read about applications of lean methodologies to User Experience (UX) design as part of the readings in Module 1. These lean approaches were used to develop the “lean canvas” approach for writing “lighter,” more effective business plans.
 
@@ -71,7 +71,7 @@ These concepts can also be applied to acquisitions. Typically, the acquisition s
 
 > The name of our game is **Agile!** We want to be efficient and not spend all of our time planning instead of doing.
 
-The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page—both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
+The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page, both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
 
 ---
 
@@ -410,7 +410,7 @@ Read more about the [Digital Millennium Copyright Act of 1998, U.S. Copyright Of
 ---
 ## FAR Subpart 27.4 Rights in Data and Copyrights
 
-Digital services acquisition—particularly acquisitions involving software development or existing proprietary solutions—is substantially impacted by the contractual arrangements for data rights between the contractor and the government. These arrangements affect competition, legal liability, lifecycle costs, and related issues.
+Digital services acquisition, particularly acquisitions involving software development or existing proprietary solutions, is substantially impacted by the contractual arrangements for data rights between the contractor and the government. These arrangements affect competition, legal liability, lifecycle costs, and related issues.
 
 Accordingly, digital services acquisition professionals like you must be familiar with and understand FAR 27.4 and its clauses. Under FAR 27.402, and as discussed previously in this program, agencies may require data to be delivered under contracts, and the ability to use or disclose it, to:
 
@@ -437,7 +437,7 @@ While these definitions provide a baseline, data rights under a government contr
 
 Contractors must understand that they are required to assert and mark proprietary data or software under the contract’s data rights clauses. Failure to properly assert or mark can result in the government receiving greater rights than the contractor intended, which may include unlimited rights.
 
-Contrary to some assumptions, the government does not inherently prefer complete contractor ownership of data. Instead, the government seeks to acquire sufficient rights—based on its funding and mission needs—to use, maintain, and potentially share or re-use what it pays to develop. In many cases:
+Contrary to some assumptions, the government does not inherently prefer complete contractor ownership of data. Instead, the government seeks to acquire sufficient rights, based on its funding and mission needs, to use, maintain, and potentially share or re-use what it pays to develop. In many cases:
 
 * If the government fully funds the development, it typically obtains unlimited rights.
 * If the development is entirely contractor-funded, the government usually receives only limited or restricted rights.
@@ -482,7 +482,7 @@ From previous content and discussions in the program, we know that open source c
 
 The principle of First Performance is also key. Generally, when the software solution is first developed under a government contract at government expense, the government gets unrestricted rights to the solution. However, it is rarely as clean as that. The software solution may incorporate First Performance data with open source (GPL or BSD) and previously developed proprietary (restricted) software. Ownership of the data and IP assignment gets more complicated in such conditions.
 
-The data rights clauses prescribed in FAR Part 27 enable the establishment of the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
+The data rights clauses prescribed in **FAR Part 27** enable the establishment of the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
 
 ---
 ## Data in the Cloud (It’s Cloudy Out There!)
@@ -595,34 +595,34 @@ By the end of this lesson, participants will be able to:
 
 In modular, iterative contracting, a well-structured multiple award vehicle is one of the most effective strategies for supporting agility, mitigating risk, and maintaining delivery momentum. When thoughtfully designed, this approach creates the flexibility to pivot between vendors if performance falters or priorities shift, without requiring a complete overhaul. It also prevents vendor lock-in and fosters a culture of continuous improvement through healthy competition. 
 
-However, implementing a multi-vendor model isn’t a simple checkbox—it’s a strategic acquisition decision that requires balancing complexity, performance oversight, and mission alignment. Experience has shown that multi-vendor structures deliver better outcomes when tailored to a specific system or digital service, especially in environments that require specialized talent and rapid iteration. The goal isn’t just to hire vendors from generic IT agency-wide vehicles, but to design a delivery ecosystem that promotes resilience, knowledge sharing, and sustained product excellence. 
+However, implementing a multi-vendor model isn’t a simple checkbox, it’s a strategic acquisition decision that requires balancing complexity, performance oversight, and mission alignment. Experience has shown that multi-vendor structures deliver better outcomes when tailored to a specific system or digital service, especially in environments that require specialized talent and rapid iteration. The goal isn’t just to hire vendors from generic IT agency-wide vehicles, but to design a delivery ecosystem that promotes resilience, knowledge sharing, and sustained product excellence. 
 
 ### Modular contracting & scaled agile delivery with multi-vendor teams
 
-In modular, iterative contracting, a multi-vendor delivery model supports flexibility, reduces the risk of vendor lock-in, and promotes ongoing performance improvement. This approach aligns with scaled agile delivery practices, where multiple teams work in parallel on different features, components, or functions—each contributing to the broader product vision. These teams, which may be from various vendors, operate within a unified delivery framework to maintain alignment and cohesion.
+In modular, iterative contracting, a multi-vendor delivery model supports flexibility, reduces the risk of vendor lock-in, and promotes ongoing performance improvement. This approach aligns with scaled agile delivery practices, where multiple teams work in parallel on different features, components, or functions, each contributing to the broader product vision. These teams, which may be from various vendors, operate within a unified delivery framework to maintain alignment and cohesion.
 
 Scaled agile delivery emphasizes breaking down complex needs into smaller, modular workstreams that can be tackled incrementally and assigned independently. This modularization enables easier direction shifts, scope reassignments, and vendor accountability for discrete outcomes, all without disrupting the overall mission. Each team maintains its own backlog, works within a common cadence, and integrates its work with others through structured coordination points, such as shared sprint reviews, backlog refinement sessions, or cross-team retrospectives.
 
 Industry research supports this approach. Organizations that implement scaled agile practices report:
 
-* Faster time to delivery through parallelized work across multiple teams  
-* Higher quality outputs due to focused team ownership and shorter feedback loops  
-* Greater adaptability by enabling modular changes without full-system disruption  
-* Improved vendor engagement by reinforcing a culture of accountability and shared outcomes
+* Faster time to delivery through parallelized work across multiple teams.  
+* Higher quality outputs due to focused team ownership and shorter feedback loops.  
+* Greater adaptability by enabling modular changes without full-system disruption.  
+* Improved vendor engagement by reinforcing a culture of accountability and shared outcomes.
 
-While multiple frameworks support scaled agile delivery—including Large-Scale Scrum (LeSS), Nexus, and SAFe (Scaled Agile Framework)—the core principles remain the same:
+While multiple frameworks support scaled agile delivery, including Large-Scale Scrum (LeSS), Nexus, and SAFe (Scaled Agile Framework), the core principles remain the same:
 
-* Shared product vision  
-* Coordinated, but not necessarily matched, cadences, dependencies, and planning cycles  
-* Defined team responsibilities and interfaces  
-* Transparent Return on Mission metrics across all participating vendors
+* Shared product vision.  
+* Coordinated, but not necessarily matched, cadences, dependencies, and planning cycles.  
+* Defined team responsibilities and interfaces.  
+* Transparent Return on Mission metrics across all participating vendors.
 
 When applied to federal acquisitions, this model enables agencies to:
 
-* Structure work around discrete, outcome-based modules  
-* Retain multiple specialized vendors contributing to a shared ecosystem  
-* Prevent knowledge silos by distributing deliverables, documentation, and decision-making  
-* Encourage performance through continued vendor engagement and competition
+* Structure work around discrete, outcome-based modules.  
+* Retain multiple specialized vendors contributing to a shared ecosystem.  
+* Prevent knowledge silos by distributing deliverables, documentation, and decision-making.  
+* Encourage performance through continued vendor engagement and competition.
 
 By focusing on deliberate team structures, alignment mechanisms, and outcome-based tasking, agencies can foster a high-functioning digital service environment where modular contracting and agile delivery reinforce each other.
 
@@ -643,7 +643,7 @@ This market requires active stewardship:
 * Forecasting future work helps vendors align their capacity and retain their teams.   
   * Vendors who understand the upcoming pipeline can make more informed staffing decisions and deliver higher-quality results.
 * Transparency in award decisions is critical.   
-  * Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence—or boilerplate rejection notices—drives disengagement.
+  * Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence, or boilerplate rejection notices, drives disengagement.
 
 **Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation.
 

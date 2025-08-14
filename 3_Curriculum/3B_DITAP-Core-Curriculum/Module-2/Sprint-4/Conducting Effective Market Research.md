@@ -1,24 +1,24 @@
 # Module 2 Sprint 4
 ## Introduction to Conducting Effective Market Research
 
-Effective market research is the cornerstone of a successful digital services acquisition. It provides the critical insights needed to align government needs with real-world capabilities and ensures the resulting solicitations are grounded in an understanding of current technologies, vendor landscapes, and user expectations. In today’s fast-paced digital environment, traditional approaches to research often fall short—requiring a shift toward more agile, creative, and user-informed techniques.
+Effective market research is the cornerstone of a successful digital services acquisition. It provides the critical insights needed to align government needs with real-world capabilities and ensures the resulting solicitations are grounded in an understanding of current technologies, vendor landscapes, and user expectations. In today’s fast-paced digital environment, traditional approaches to research often fall short, requiring a shift toward more agile, creative, and user-informed techniques.
 
-This unit equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
+This sprint equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
 
 ---
 ### Learning Objectives
 
-By the end of this unit, participants will be able to:
+By the end of this sprint, participants will be able to:
 
 * Explain the role of market research in shaping effective digital acquisitions
 
-* Distinguish between market research and market intelligence—and describe how each informs procurement
+* Distinguish between market research and market intelligence, and describe how each informs procurement
 
 * Identify and apply a variety of digital tools and sources for gathering market data
 
-* Use frameworks like the Gartner Magic Quadrant to segment vendor capabilities based on customer needs
+* Use frameworks like the **Gartner Magic Quadrant** to segment vendor capabilities based on customer needs
 
-* Build a personalized Acquisition Toolkit to document useful research methods, resources, and lessons learned
+* Build a personalized **Acquisition Toolkit** to document useful research methods, resources, and lessons learned
 
 * Assess how data-driven insights from market research can improve requirements definition and vendor engagement
 
@@ -374,7 +374,7 @@ Examples of virtual industry days:
 
 **Using a 3rd party to conduct market research**
 
-When the government needs to make a strategic technology choice—such as selecting a commercial off-the-shelf (COTS) solution, AI platform, open source alternative, or cloud platform—it’s often too complex to decide without deep technical research. By engaging with a third-party vendor to conduct the market research, you can significantly improve your decision-making by providing data that can help better inform acquisition strategies. An 8(a), GSA non-SOW schedule purchase, or a simplified acquisition, can give you a light-weight market research sprint acquisition to help a larger, more complex decision-making process. 
+When the government needs to make a strategic technology choice, such as selecting a commercial off-the-shelf (COTS) solution, AI platform, open source alternative, or cloud platform, it’s often too complex to decide without deep technical research. By engaging with a third-party vendor to conduct the market research, you can significantly improve your decision-making by providing data that can help better inform acquisition strategies. An 8(a), GSA non-SOW schedule purchase, or a simplified acquisition, can give you a light-weight market research sprint acquisition to help a larger, more complex decision-making process. 
 
 **What can this market research cover?**
 
@@ -433,7 +433,7 @@ The more “traditional” ways to engage with industry also have a place. These
 
 ### Evolving market research for digital services
 
-While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage—especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
+While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage, especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
 
 **Key concepts:**
 
@@ -446,7 +446,7 @@ While they can still be used and are often required by acquisition strategy, tra
 * **Ask smarter questions:**  
   Avoid boilerplate checklists. Instead, ask about predictability in iterative delivery.  
   How does the company handle failure or pivots? Ask them to provide real examples of managing risk and client expectations.  
-  Be wary of vendors claiming perfection—true partners acknowledge uncertainty and plan for it.
+  Be wary of vendors claiming perfection, true partners acknowledge uncertainty and plan for it.
 
 * **Watch for AI-filled answers:**  
   With AI now able to auto-fill generic responses, acquisition professionals must intentionally structure questions to reveal authentic capability, not just polished language. Use AI to support the process, but also be aware of overreliance. 
@@ -458,11 +458,11 @@ Effective market research is about getting real insight, not compliance. Be thou
 
 ### 3\. Explore other promising alternatives and approaches 
 
-As the Federal Acquisition Regulation (FAR) continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
+As the **Federal Acquisition Regulation (FAR)** continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
 
 ### Open contracting standards in Canada and Europe
 
-Canada has been a pioneer in adopting open contracting principles. In 2014, it incorporated open contracting into its national action plan, leading to the publication of pilot datasets using the Open Contracting Data Standard (OCDS). The Treasury Board Secretariat is working towards implementing a Proactive Disclosure policy to provide timely and standardized open data on public contracting. Cities like Montreal have also begun publishing open contracting data, enhancing transparency and civic engagement.​
+Canada has been a pioneer in adopting open contracting principles. In 2014, it incorporated open contracting into its national action plan, leading to the publication of pilot datasets using the Open Contracting Data Standard (OCDS). The Treasury Board Secretariat (TBS) is working towards implementing a Proactive Disclosure policy to provide timely and standardized open data on public contracting. Cities like Montreal have also begun publishing open contracting data, enhancing transparency and civic engagement.​
 
 Europe, particularly the European Union (EU), has integrated open contracting into its procurement processes. The EU has aligned its eForms for public procurement notices with the OCDS to standardize data publication. Member states like Italy and Finland have received funding to implement OCDS in their contract registers, promoting transparency and efficiency in public procurement.​
 
@@ -476,7 +476,7 @@ The NMAAHC has embraced open contracting methods to enhance transparency and col
 
 When considering your market research approach, it's essential to consider not only what you want to learn but also what it costs the industry to answer your questions. Every time the government issues an RFI, hosts an industry day, or releases a draft solicitation, vendors must dedicate time and resources to responding. And for industry, time is money.
 
-While large firms may absorb these costs as part of doing business, for small businesses, new entrants, and non-traditional vendors, this can be a significant burden, especially when the timelines to award stretch into months or even years. These costs show up in corporate overhead, impact pricing structures, and can deter companies from participating in future procurements altogether. In effect, overly burdensome market research doesn't just raise costs—it can shrink your vendor pool and reduce competition.
+While large firms may absorb these costs as part of doing business, for small businesses, new entrants, and non-traditional vendors, this can be a significant burden, especially when the timelines to award stretch into months or even years. These costs show up in corporate overhead, impact pricing structures, and can deter companies from participating in future procurements altogether. In effect, overly burdensome market research doesn't just raise costs, it can shrink your vendor pool and reduce competition.
 
 So how can we streamline? Start by asking:
 
@@ -495,11 +495,11 @@ So how can we streamline? Start by asking:
 * Can I reduce response friction?  
    Keep submission instructions simple. Avoid requiring specialized formats, excessive page limits, or hard-to-follow templates. Be human-centered in how you request input.
 
-Ultimately, every RFI or engagement comes at a cost to industry, especially for the small, diverse, and mission-driven companies we want to encourage. Being intentional and efficient with your approach isn't just good stewardship—it’s smart acquisition.
+Ultimately, every RFI or engagement comes at a cost to industry, especially for the small, diverse, and mission-driven companies we want to encourage. Being intentional and efficient with your approach isn't just good stewardship, it’s smart acquisition.
 
 ###  Scenario 1: The 60-Page RFI that no one could answer
 
-Background:  
+**Background**:  
  In 2023, the Department of Homeland Security (DHS) issued [a Request for Information (RFI) for an Investigative Case Management (ICM) system](https://sam.gov/opp/7e20d6751a0e4a97be276139b8bcecad/view). The RFI was comprehensive, requesting detailed technical narratives, staffing plans, past performance examples, and pricing breakdowns—all within a tight 10-day turnaround. ​
 
 Impact on industry:
@@ -578,7 +578,7 @@ These scenarios underscore the importance of thoughtful market research design. 
 
 ### Applying human-centered design to market research in federal acquisition
 
-Human-centered design (HCD) isn’t just for product development—it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
+Human-centered design (HCD) isn’t just for product development, it can (and should) be applied to the acquisition process, especially in the critical early stage of market research. We can build a more effective and inclusive buying process by centering the needs, behaviors, and constraints of the vendor community, procurement staff, and program stakeholders.
 
 #### Start with empathy—even after the RFI closes
 
@@ -600,19 +600,19 @@ After every significant market research activity, bring your team together for a
 
 **Stop doing**: What created friction or added unnecessary burden?
 
-This format helps normalize reflection and ensures everyone—contracting, program, and technical—can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
+This format helps normalize reflection and ensures everyone, contracting, program, and technical, can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
 
 ### Leveraging AI to Enhance Productivity in Federal Market Research
 
 #### Introduction: The challenge
 
-As discussed, Federal acquisition professionals often face tight deadlines, complex regulations, and limited resources. Traditional market research methods—such as drafting RFIs, analyzing vendor responses, and preparing documentation—are time-consuming and labor-intensive. These processes can lead to delays in procurement cycles and increased workloads for already overburdened staff.​
+As discussed, Federal acquisition professionals often face tight deadlines, complex regulations, and limited resources. Traditional market research methods, such as drafting RFIs, analyzing vendor responses, and preparing documentation, are time-consuming and labor-intensive. These processes can lead to delays in procurement cycles and increased workloads for already overburdened staff.​
 
 #### The solution: Integrating AI tools
 
 Artificial Intelligence (AI) tools offer a transformative solution to streamline market research activities. By automating routine tasks, AI can free up valuable time, reduce errors, and enhance the quality of procurement decisions. 
 
-Importantly, AI isn’t here to steal your job but to help you keep your sanity. Think of it as the junior contract specialist you’re training up: eager, fast, sometimes a little too confident, but ultimately helpful in handling the busy work you don’t have time for. You’re still the decision-maker, with the judgment, experience, and authority to guide the acquisition. The checks and balances of the procurement process still apply, and no AI tool is signing anything on your behalf. But if you need help sorting responses, drafting first-pass documents, or chasing down that one clause you can never remember—AI’s your overenthusiastic intern who *never* takes a lunch break.
+Importantly, AI isn’t here to steal your job but to help you keep your sanity. Think of it as the junior contract specialist you’re training up: eager, fast, sometimes a little too confident, but ultimately helpful in handling the busy work you don’t have time for. You’re still the decision-maker, with the judgment, experience, and authority to guide the acquisition. The checks and balances of the procurement process still apply, and no AI tool is signing anything on your behalf. But if you need help sorting responses, drafting first-pass documents, or chasing down that one clause you can never remember, AI’s your overenthusiastic intern who *never* takes a lunch break.
 
 #### Key areas where AI enhances market research
 
@@ -662,7 +662,7 @@ Time savings:
 
 **1\. Sensitive data can be exposed in public AI tools**
 
-DO NOT input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
+**DO NOT** input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
  Why? Some platforms use what you type to train their models, meaning your info could live on beyond your session.
 
 Use AI tools approved by your agency or ensure your tool has a “no data retention” policy or private model settings.
@@ -688,25 +688,25 @@ Be mindful of potential bias in AI outputs, especially when comparing vendors or
 
 **4\. Version drift and inconsistent output**
 
-AI tools change frequently—what you get today may be slightly different tomorrow. Model updates can affect tone, structure, and even the accuracy of responses.
+AI tools change frequently, what you get today may be slightly different tomorrow. Model updates can affect tone, structure, and even the accuracy of responses.
 
-Save outputs you plan to use. Don’t assume you’ll get the same response twice—AI doesn’t have a memory unless you give it one.
+Save outputs you plan to use. Don’t assume you’ll get the same response twice, AI doesn’t have a memory unless you give it one.
 
 ---
 
 **5\. AI can reinforce bad inputs**
 
-If your prompt is vague, incorrect, or biased, the AI will roll with it—and might make things worse. For example:  
+If your prompt is vague, incorrect, or biased, the AI will roll with it and might make things worse. For example:  
  “Write a justification for this sole-source award” will return a different answer than:  
  “Assess if a sole-source justification aligns with FAR 6.302 guidance.”
 
-Prompt engineering matters—how you ask a question influences what you get back. Be clear, specific, and ask for sources when needed.
+Prompt engineering matters, how you ask a question influences what you get back. Be clear, specific, and ask for sources when needed.
 
 ---
 
 **6\. Output may not be audit-ready**
 
-AI can help you draft documents, summaries, and reports—but you’re still responsible for accuracy, compliance, and traceability.
+AI can help you draft documents, summaries, and reports but you’re still responsible for accuracy, compliance, and traceability.
 
 Always double-check final outputs, and don’t submit AI-generated work as-is. Think of AI as a strong first draft machine, not a compliance tool.
 
@@ -722,7 +722,7 @@ Check your agency's policy before using any AI tool or talk to your IT/security 
 
 ### Final thought:
 
-AI can be like the world’s fastest intern—helpful but unreliable. You’re still the Contracting Officer, COR, or Specialist in charge. Use AI to speed up your work—but never let it replace your judgment.
+AI can be like the world’s fastest intern, helpful but unreliable. You’re still the Contracting Officer, COR, or Specialist in charge. Use AI to speed up your work, but never let it replace your judgment.
 
 ---
 

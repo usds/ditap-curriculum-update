@@ -49,7 +49,7 @@ Selecting the appropriate evaluation approach is crucial for ensuring alignment 
 
 **Comparative Evaluation Approach**
 
-Comparative evaluation focuses on assessing the relative merits of each proposal. It enables flexibility and adaptability, making it especially suitable for streamlined acquisitions under FAR Parts 8.4, 12, and 13.5.
+Comparative evaluation focuses on assessing the relative merits of each proposal. It enables flexibility and adaptability, making it especially suitable for streamlined acquisitions under **FAR Parts 8.4, 12, and 13.5**.
 
 * Strengths:
 
@@ -65,7 +65,7 @@ Comparative evaluation focuses on assessing the relative merits of each proposal
       
 **Best-Value Trade-Off**
 
-The best-value trade-off method is used to balance price and non-price evaluation factors, particularly in complex acquisitions under FAR Parts 15 and 16\.
+The best-value trade-off method is used to balance price and non-price evaluation factors, particularly in complex acquisitions under **FAR Parts 15 and 16**.
 
 * Strengths:
 
@@ -127,7 +127,7 @@ Evaluation criteria are the cornerstone of any well-structured source selection 
 8. **Mitigate Legal and Procedural Risk**  
    Properly structured evaluation criteria that align with the FAR and applicable policies reduce the risk of procedural challenges or post-award protests.
 
-In short, evaluation criteria are not a formality—they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
+In short, evaluation criteria are not a formality, they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
 
 ---
 ### III. Selecting Appropriate Evaluation Criteria
@@ -310,7 +310,7 @@ In digital procurements:
 
 * **Early negotiations** can clear up incomplete information in proposals.
 
-* You don’t have to negotiate with everyone — focus on top-ranked vendors to sharpen competition and speed up award.
+* You don’t have to negotiate with everyone,  focus on top-ranked vendors to sharpen competition and speed up award.
 
 **Key benefits of early negotiations:**
 
@@ -320,9 +320,9 @@ In digital procurements:
 
 * Test vendor flexibility and responsiveness
 
-* Improve technical outcomes by getting the best — not just “good enough” — proposals
+* Improve technical outcomes by getting the best, not just “good enough”, proposals
 
-In digital services procurements, negotiations are not an optional afterthought — they are a vital part of selecting the right partner.
+In digital services procurements, negotiations are not an optional afterthought, they are a vital part of selecting the right partner.
 
 ### What are negotiations?  
 
@@ -341,7 +341,7 @@ In **sole-source** acquisitions, the FAR uses “negotiations.” In **competiti
 
 In this lesson, we will use the term “negotiations” to apply to both situations.
 
-The primary purpose of the source selection process is to allow the Government to choose the offer that represents the best value — to select the offer that best meets the Government’s needs at a fair and reasonable price. Contract negotiations are a way to maximize the ability to obtain the best value. 
+The primary purpose of the source selection process is to allow the Government to choose the offer that represents the best value, to select the offer that best meets the Government’s needs at a fair and reasonable price. Contract negotiations are a way to maximize the ability to obtain the best value. 
 
 ### Best Practices for Digital Service Procurements 
 
@@ -349,7 +349,7 @@ The primary purpose of the source selection process is to allow the Government t
 
 * **Focus Negotiations on Top Candidates:** Don't waste time trying to negotiate with every vendor — invest effort where there's a real potential for improvement.
 
-* **Treat Discussions as Mutual Vetting:** You're not just evaluating vendors — you’re letting vendors evaluate the government’s approach and constraints.
+* **Treat Discussions as Mutual Vetting:** You're not just evaluating vendors, you’re letting vendors evaluate the government’s approach and constraints.
 
 * **Resolve Misaligned Assumptions:** Address gaps and misunderstandings now. It's exponentially harder to fix after a contract award.
 
@@ -371,7 +371,7 @@ At advisory or other down-select points, negotiations can be included at multipl
 
 * Offer borderline vendors a chance to strengthen their proposals if they are invited to continue.
 
-This mirrors how agile development itself works — an iterative process of improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
+This mirrors how agile development itself works, an iterative process of improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
 
 #### Example: Negotiation Opportunity During Code Challenge Phase
 
@@ -385,11 +385,11 @@ Rather than eliminating them immediately, the agency opens brief discussions:
 * Explaining the misalignment.  
 * Allowing vendors to clarify or adjust their approach in a final proposal revision.
 
-As a result, one vendor substantially improves their design and security posture, becoming a strong finalist for award — and both the vendor and the Government avoid a potential costly misstep.
+As a result, one vendor substantially improves their design and security posture, becoming a strong finalist for award, and both the vendor and the Government avoid a potential costly misstep.
 
 ### Negotiations and Best Value 
 
-It is important to note that negotiations are not necessarily about obtaining the lowest possible price. The goal of negotiations is to achieve best value — the most advantageous offer consistent with the acquisition’s needs and evaluation factors. Areas under negotiation may vary considerably based on the specifics of the acquisition; in addition to price, the government may negotiate technical requirements, schedule, contract type, or terms of a proposed contract. 
+It is important to note that negotiations are not necessarily about obtaining the lowest possible price. The goal of negotiations is to achieve best value, the most advantageous offer consistent with the acquisition’s needs and evaluation factors. Areas under negotiation may vary considerably based on the specifics of the acquisition; in addition to price, the government may negotiate technical requirements, schedule, contract type, or terms of a proposed contract. 
 
 **For example:** 
 
@@ -457,7 +457,7 @@ Based on what is important to the program office who has established the require
 
 * Clearly define and document possible "tradeoffs."
 
-To attain the best possible overall solution, negotiations often involve tradeoffs. There may be technical aspects of the solution that are so attractive the PM is willing to pay more. For example: An offeror proposes that 80% of transactions are processed within a standard timeframe. The PM prefers a rate of 90% or greater, but realizes that this higher rate will result in a higher price. While the higher rate is technically beneficial, the PM needs to consider if the tradeoff is worth it — if the higher benefit is worth the higher cost. 
+To attain the best possible overall solution, negotiations often involve tradeoffs. There may be technical aspects of the solution that are so attractive the PM is willing to pay more. For example: An offeror proposes that 80% of transactions are processed within a standard timeframe. The PM prefers a rate of 90% or greater, but realizes that this higher rate will result in a higher price. While the higher rate is technically beneficial, the PM needs to consider if the tradeoff is worth it, if the higher benefit is worth the higher cost. 
 
 * Identify and document any deficiencies and significant weaknesses that need to be discussed with the offeror. 
 
@@ -506,7 +506,7 @@ The primary objective of negotiations is to maximize the Government’s ability 
 
 When conducting negotiations, encourage two-way communication and remain flexible in reaching compromises. It can be easy to lose sight of issues that may introduce risks to the contractor, add extra work or requirements, or require additional steps in performance. For example: When offering cloud computing services, it is a standard industry practice to bill the purchaser for resources consumed on a monthly basis. As such, providers track data on a monthly basis. However, the agency PM wants usage data tracked on a *daily* basis and wants the monthly projections updated *weekly*, even though actual usage is stable across the month. Providing the data the PM wants will require a major investment by the offeror. 
 
-When negotiating for commercial services or products, keep in mind that any custom government-specific requirements — such as certifications, compliance standards, or performance metrics beyond what is typically offered commercially — are likely to drive up costs. It’s important to ensure that any items raised during negotiations are truly justifiable and mission-critical, rather than “nice-to-haves” or requirements that don’t align with the nature of the service or product being procured.
+When negotiating for commercial services or products, keep in mind that any custom government-specific requirements, such as certifications, compliance standards, or performance metrics beyond what is typically offered commercially, are likely to drive up costs. It’s important to ensure that any items raised during negotiations are truly justifiable and mission-critical, rather than “nice-to-haves” or requirements that don’t align with the nature of the service or product being procured.
 
 Other tips for conducting effective negotiations:  
 
@@ -665,7 +665,7 @@ Your Response:
 
 Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
 
-Quality feedback — whether through a formal debrief or informal explanation — helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
+Quality feedback, whether through a formal debrief or informal explanation, helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
 
 **Learning Objectives**
 
@@ -677,7 +677,7 @@ By the end of this section, you will be able to:
 
 ## Why It Matters
 
-In modern acquisitions — especially digital services — post-evaluation feedback is essential.
+In modern acquisitions, especially digital services, post-evaluation feedback is essential.
 
 * Offerors invest time and resources into proposals  
 * Clear, fair explanations help them improve and stay engaged  
@@ -685,7 +685,7 @@ In modern acquisitions — especially digital services — post-evaluation feedb
 * Digital vendors expect transparency and speed  
 * Poorly handled feedback drives top firms away
 
-Digital companies expect transparency and speed. The private tech sector is used to feedback loops and open communication. A slow, vague, defensive, or non-existent explanation of decision-making erodes trust — and risks driving these critical players away from future procurements.
+Digital companies expect transparency and speed. The private tech sector is used to feedback loops and open communication. A slow, vague, defensive, or non-existent explanation of decision-making erodes trust, and risks driving these critical players away from future procurements.
 
 Additionally, protests often stem from *poorly executed explanations*, not dissatisfaction with the outcome itself. 
 
@@ -705,7 +705,7 @@ Done well, a post-evaluation feedback can:
 
 ### Key Rules for Formal Debriefings (FAR Part 15)
 
-Debriefings Are Required when using FAR Part 15 (Negotiated Procurement):
+Debriefings Are Required when using **FAR Part 15** (Negotiated Procurement):
 
 |  | Pre-Award Debrief | Post-Award Debrief |
 | ----- | ----- | ----- |
@@ -737,7 +737,7 @@ Other technical specialists participate as needed to address the contractor’s 
 
 One of the biggest misconceptions in government procurement is that sharing less information with unsuccessful offerors lowers protest risk.
 
-In practice — especially in digital services acquisitions — the opposite is true. While the CO can choose to give brief explanations, it may actually cause more confusion and lead to companies wanting more information, which they can get through the process of a protest. 
+In practice, especially in digital services acquisitions, the opposite is true. While the CO can choose to give brief explanations, it may actually cause more confusion and lead to companies wanting more information, which they can get through the process of a protest. 
 
 Today’s tech firms and digital service providers are highly sophisticated. 
 
@@ -782,7 +782,7 @@ Best practices include:
 | **Acknowledgment of Offeror Assumptions** | Addresses where offeror assumptions may have hurt their evaluation — helping them improve in future bids. |
 | **Clear Attribution of Strengths and Weaknesses** | Helps offerors understand competitive gaps without speculating or comparing proposals improperly. |
 
-Digital solutions are often modular, iterative, and designed for change — meaning evaluation panels must be even more careful to:
+Digital solutions are often modular, iterative, and designed for change, meaning evaluation panels must be even more careful to:
 
 * Accurately recognize technical maturity
 
