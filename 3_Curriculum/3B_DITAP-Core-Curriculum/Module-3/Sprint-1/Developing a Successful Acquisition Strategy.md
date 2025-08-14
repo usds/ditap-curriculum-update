@@ -141,6 +141,11 @@ Before you sit down to develop the solicitation package, you should consider som
 ### **Discussion question (optional):**
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
+### **Independent research (optional):**
+To explore other ways to improve RFPs, consider uploading published RFPs to AI, with a prompt like:
+
+> “Act as an experienced federal contracting officer. Review my RFP, including the Statement of Work, evaluation criteria, and instructions to offerors. Identify any unclear requirements, missing details, or compliance risks under the FAR that could reduce competition, cause disputes, or increase performance risk. Suggest specific, FAR-aligned revisions to improve clarity, strengthen evaluation criteria, and add measurable performance metrics. Provide sample language I could insert directly into the RFP, and list three key questions I should ask my program or technical team before release.”
+
 ---
 ## Contract Exit Strategies
 
