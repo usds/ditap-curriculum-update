@@ -14,7 +14,7 @@ This module emphasizes the strategic role of the acquisition professional in sha
 
 #### Learning objectives
 
-By the end of this module, you will be able to: 
+By the end of this sprint, you will be able to: 
 
 * Define a user-centered problem statement that avoids pre-defined solutions but aligns with user pain points.  
 * Draft a product vision statement using structured facilitation questions to describe the desired future state.  
