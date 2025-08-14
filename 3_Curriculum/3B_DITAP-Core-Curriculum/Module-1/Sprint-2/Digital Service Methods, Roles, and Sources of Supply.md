@@ -22,7 +22,7 @@ All digital projects should start with the end user. This simple principle is fo
 
 ### Strategies for Keeping Focused on the End User
 
-![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/ux-design-paradox-comic_lg_source%202.jpg "Strategies listed in Play 1 of the U.S. Digital Service Playbook can help you avoid the humorous situation described in this comic!")
+![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/ux-design-paradox-comic_lg_source%202.jpg "Strategies from Play 1 of the U.S. Digital Service Playbook can help avoid this scenario.") 
 
 Here are some strategies from [Play 1](https://playbook.usds.gov/#play1) of the U.S. Digital Services Playbook to help keep you focused on the user's needs. Note that this list is not all-inclusive. It is a starting point that you will build on throughout your learning journey.
 
@@ -53,10 +53,11 @@ Depending on the type of digital service being developed and the organization, y
 
 You might think you know what your end user needs. However, starting development without testing your hypotheses could create a big headache for you and end up wasting the American taxpayer’s money. Luckily there is a way to test your hypotheses. The MVP is a core component of [Lean Startup methodology](https://theleanstartup.com/principles) developed by Eric Ries. This method focuses on delivering the smallest product possible to test hypotheses about customer needs. This should be a light-weight product, something even as simple as a wireframe or PowerPoint that outlines functionality. It just needs to be big enough for you to test your hypotheses. This can be done by the acquisition professional, program office, or through a vendor. Once you have your MVP, you solicit feedback to test your assumptions, and then document and analyze your results. As a result of your analysis, you will need to choose whether to pivot or persevere. 
 
+
 | Pivot | Persevere |
-| ----- |--------|
-| As a result of your analysis, you adapt your plan to reflect more accurately what you've found. |Your testing supports your hypotheses. What you validate turns into your product backlog. |
-|![Pivot - arrow pointing backwards](https://github.com/kristenjernigan/kj-liatest/blob/4c81762bd0a0e1fc0387736302ca377a86233f72/Media/Module%201/Pivot.jpg) |![Persevere - arrow pointing forward](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/Persevere.jpg)|
+| ----- | --------- |
+| <img src="https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Pivot.jpg" width="200"><br>As a result of your analysis, you adapt your plan to reflect more accurately what you've found. | <img src="https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Persevere.jpg" width="200"><br>Your testing supports your hypotheses. What you validate turns into your product backlog. |
+
 
 #### For Further Exploration
 
@@ -66,7 +67,7 @@ Read how the Department of Education developed a simple prototype made of cardbo
 
 ### A/B Testing
 
-![Two different screens on a tablet, one marked A, one marked B](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/A-B%20Testing%202.jpg)
+![Two different screens on a tablet, one marked A, one marked B](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/a-b_testing_2.jpg)
 
 A/B testing is a method for developing and refining products. This method allows you to test ideas in real time. You can use this method to test even the smallest of components (e.g., layouts, wording, image, amount of text). With A/B testing, seemingly subjective decisions can now be driven by data.
 
@@ -76,7 +77,8 @@ A/B testing is a method for developing and refining products. This method allows
 
 Personas are fictional characters that teams create to help understand their users. Personas are usually concise and visual, with a focus on goals and behaviors rather than tasks or job descriptions.  
 
-![Profile of Linda who is 50 years old,  Lives in Tallahassee, Florida,  Widowed with no children. She needs help finding information online, easy to understand information, and financial support form the government to help pay her bills](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/USA.gov-Personas-March-2015%20Linda.jpg)
+![Profile of Linda who is 50 years old, Lives in Tallahassee, Florida, Widowed with no children. She needs help finding information online, easy to understand information, and financial support form the government to help pay her bills](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/USA.gov-Personas-March-2015%20Linda.jpg)
+
 
 ### Using Personas as an Anchor for Development
 
@@ -96,7 +98,8 @@ Read how USA.gov updated their personas based on themes and insights they collec
 
 You can use journey mapping to explore users' feelings, questions, and needs as they interact with your organization and the service/product offered. Personas can also serve as a foundation for creating journey maps.
 
-![Journey map diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/kj-liatest/blob/a2235c7d6ed21dc35d232d8c76926494a570544c/Media/Module%201/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
+![Journey map diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
+
 
 **For Further Exploration**
 
@@ -176,15 +179,19 @@ Agile methods represent a cultural shift. While some federal stakeholders may be
 
 Search “agile practices” and you’ll discover various approaches to implementing them. 
 
-![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean](https://github.com/kristenjernigan/kj-liatest/blob/759c9c78da9622dff7e557aa1143f3ca609ee971/Media/Module%201/AgilePractices%20Umbrella.png) 
+![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/AgilePractices%20Umbrella.png)
 
 *Sample of agile practices*
 
+---
+
 However, all agile practices adhere to the values outlined in the [Agile Manifesto](https://agilemanifesto.org/) and illustrated in the diagram below. While the items on the right have value, agile values the items on the left more.  
 
-![Agile values are "Individuals and Interactions over processes and tools" "Working software over comprehensive documentation" Customer Collaboration over contract negotiation" and "Responding to Change over following a plan"](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/AgileValues.jpg)  
+![Agile values are "Individuals and Interactions over processes and tools" "Working software over comprehensive documentation" "Customer Collaboration over contract negotiation" and "Responding to Change over following a plan"](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/AgileValues.jpg)
 
 *Agile software development values*
+
+---
 
 **Should agile always be the default solution for digital services or IT projects?**
 
@@ -466,8 +473,8 @@ Before we build anything, we have to understand *who* we're building for. **Huma
 
 Designing under this lens means deeply understanding the needs, behaviors, and emotions of the people you are planning for. Using those insights, you can create solutions that align directly with an exceptional user experience.
 
-![Circular diagram illustrating a human-centered design process. The outer ring is divided into three segments: "Understanding User Needs", "Designing for Their Needs", and "Getting Them Engaged". Each segment lists related activities: "Understanding User Needs" includes Quantitative Research, Qualitative Research, and Ethnography; "Designing for Their Needs" includes Usability Testing, Prototyping, and Co-Creation; "Getting Them Engaged" includes Community Engagement, Awareness & Access, and Messaging & Communication. The inner circle is labeled "Synthesizing Insights into Actions," surrounded by arrows indicating a flow from "Strategy & Assessment" on the left to "Program Design & Implementation" on the right.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/HCD.png)  
-*HCD graphic by [https://www.dalberg.com](https://dalberg.com/our-ideas/human-centered-design-design-process/)*
+![Circular diagram illustrating a human-centered design process. The outer ring is divided into three segments: "Understanding User Needs", "Designing for Their Needs", and "Getting Them Engaged". Each segment lists related activities: "Understanding User Needs" includes Quantitative Research, Qualitative Research, and Ethnography; "Designing for Their Needs" includes Usability Testing, Prototyping, and Co-Creation; "Getting Them Engaged" includes Community Engagement, Awareness & Access, and Messaging & Communication. The inner circle is labeled "Synthesizing Insights into Actions," surrounded by arrows indicating a flow from "Strategy & Assessment" on the left to "Program Design & Implementation" on the right.](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/HCD.png)
+
 
 In federal digital service projects, HCD is a mindset and methodology that supports better government outcomes. By involving users early and often, HCD helps teams deliver usable and truly useful tools and services.
 
@@ -614,9 +621,12 @@ DevSecOps stands for Development, Security, and Operations. It’s a modern appr
 
 In traditional government IT projects, development, security review, and operations often happen in separate silos, which can lead to delays, miscommunications, and vulnerabilities. Usually, these tasks are completed manually, creating possibilities for human error. DevSecOps is a framework that breaks down those silos by creating mechanisms to automate system and code deployment and maintenance tasks. Automation significantly reduces the possibility of human error and speeds up deployment tasks. Instead of waiting until the end to test for vulnerabilities, DevSecOps integrates automated security checks into every step of the process. This includes code reviews, server configuration and deployment, network hardening, vulnerability, and compliance scans that are triggered anytime a change is made to a system.
 
-![Diagram illustrating the 'Old Way' of DevOps, showing a linear flow from Code by Developers, to Build, then Test, Release, and Operate, with handoffs between each stage.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20old%20way.png)  
+![Diagram illustrating the 'Old Way' of DevOps, showing a linear flow from Code by Developers, to Build, then Test, Release, and Operate, with handoffs between each stage.](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/DevOps%20the%20old%20way.png)
 
-*![Diagram illustrating the 'New Way' of DevOps, showing a continuous, circular flow of Code, Build, Test, Release, and Operate, with a central team of developers.](https://github.com/kristenjernigan/kj-liatest/blob/860d3f4103cafc1a5d9cf29db74672bad964690e/Media/Module%201/DevOps%20the%20new%20way.png) 
+---
+
+![Diagram illustrating the 'New Way' of DevOps, showing a continuous, circular flow of Code, Build, Test, Release, and Operate, with a central team of developers.](https://github.com/kristenjernigan/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/DevOps%20the%20new%20way.png)
+
 
 *What is DevOps from [https://medium.com/strategio/devops-a-harmonious-movement-1380e03e5bdd](https://medium.com/strategio/devops-a-harmonious-movement-1380e03e5bdd)* 
 
