@@ -604,11 +604,11 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 
 1. Review the short scenario provided.
 
-2. Reflect on the following questions:  
-    - What were the main user challenges the agency discovered?  
-    - How did HCD methods help address these challenges?  
-    - What was the outcome of the redesign?  
-    - How did it improve equity or accessibility?
+2. Reflect on the following questions:  <br>
+    - What were the main user challenges the agency discovered?  <br>
+    - How did HCD methods help address these challenges?  <br>
+    - What was the outcome of the redesign?  <br>
+    - How did it improve equity or accessibility?<br>
 
 3. Write a short response in the course discussion area.
 
