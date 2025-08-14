@@ -2,15 +2,15 @@
 
 ## Strategic Planning and Execution in Digital Acquisitions
 
-In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods—anchored in prescriptive requirements, fixed personnel, and lengthy timelines—often fail to deliver timely and adaptable solutions, especially in digital service contexts.
+In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
-This unit prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape—supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a manner that fosters trust, clarity, and optimal value outcomes.
+This sprint prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape, supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a manner that fosters trust, clarity, and optimal value outcomes.
 
 By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
 
 ### Learning Objectives
 
-By the end of this unit, participants will be able to:
+By the end of this sprint, participants will be able to:
 
 1. **Analyze tradeoffs and mission priorities** using structured case study methods to inform acquisition strategy decisions.
 
@@ -25,7 +25,7 @@ By the end of this unit, participants will be able to:
 ---
 ## Understanding FAR 37.6: How Does Agile Methodology Fit Into Federal Acquisitions?
 
-While FAR 37.6 does not specifically mention Agile methodologies, it aligns with the principles and practices that underpin Agile development approaches. Here’s how FAR 37.6 can be linked to Agile software development:
+While **FAR 37.6** does not specifically mention Agile methodologies, it aligns with the principles and practices that underpin Agile development approaches. Here’s how FAR 37.6 can be linked to Agile software development:
 
 1\. **Outcome-Focused Approach:** FAR 37.6 emphasizes the importance of focusing on outcomes rather than prescribing specific methods or processes. Similarly, Agile software development emphasizes delivering value and achieving desired outcomes through iterative development and frequent feedback loops.
 
@@ -35,7 +35,7 @@ While FAR 37.6 does not specifically mention Agile methodologies, it aligns with
 
 4\. **Iterative Delivery and Continuous Improvement:** Agile software development promotes iterative delivery, allowing for the early release of functional software components. FAR 37.6 supports the concept of progressive acquisition, where contracts are structured to enable incremental deliveries and continuous improvement, aligning with the iterative nature of Agile development.
 
-While FAR 37.6 does not explicitly prescribe Agile methodologies, it provides a framework that aligns with the principles of Agile software development. By leveraging the flexibility, collaboration, iterative delivery, and outcome-focused approach of both FAR 37.6 and Agile, government agencies can foster more efficient and effective software development processes that deliver value to stakeholders.
+By leveraging the flexibility, collaboration, iterative delivery, and outcome-focused approach of both FAR 37.6 and Agile, government agencies can foster more efficient and effective software development processes that deliver value to stakeholders.
 
 It’s important to note that compliance with FAR 37.6 and the specific procurement regulations of government agencies is necessary when implementing Agile software development within a government context. Consulting with legal and procurement experts familiar with government regulations is recommended to ensure adherence to all applicable guidelines.
 
