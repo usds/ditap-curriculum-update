@@ -608,7 +608,6 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
    * How did HCD methods help address these challenges?  
    * What was the outcome of the redesign?  
    * How did it improve equity or accessibility?
-
 3. Write a short response in the course discussion area.
 ---
 
