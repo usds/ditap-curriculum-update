@@ -75,7 +75,7 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 
 ### Assignment Instructions:
 
-1. Start your Toolkit in the first week of the course and organize it however makes sense for you\! Refer to the Acquisition Toolkit Worksheet to help you get started.
+1. Start your Toolkit in the first week of the course and organize it however makes sense for you! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
 3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
 
@@ -128,7 +128,7 @@ The Magic Quadrant is a market research tool used by the market research firm Ga
 ![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9e4c0e623315e0cfe41418eedf977e06bf706f16/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Gartner%20Magic%20Quadrant.png?raw=true)
 
 
-*Graphic retrieved from [http://www.business2community.com/](http://www.business2community.com/) on 10/7/2016*  
+*Graphic retrieved from [http://www.business2community.com/](http://www.business2community.com/) on 10/7/2016* <br> 
 *Gartner Quadrant \- © 2016 Gartner, Inc. and/or its Affiliates. All Rights Reserved.*
 
 Using a tool like this can help you further segment the market and make market research more efficient. Read more about the Gartner Magic Quadrant approach [here and how you can tailor it for your use](http://www.gartner.com/technology/research/methodologies/research_mq.jsp). If you want to dive deeper into a current Gartner Quadrant, check [this one out from Deloitte](https://www.deloitte.com/global/en/about/recognition/analyst-relations/gartner-magic-quadrant-for-digital-experience-services.html). 
@@ -148,7 +148,7 @@ Market research is the process of gathering and analyzing information about capa
 
 
 
-## **Responsible Pre-Solicitation Communication**
+## Responsible Pre-Solicitation Communication
 
 ### Introduction
 
@@ -169,13 +169,13 @@ While the FAR allows for a good deal of flexibility in establishing pre-solicita
 After completing this module, you should be able to: 
 
 * Discuss why pre-solicitation communication with offerors is essential in acquiring digital services.  
-  * Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
-  * Identify best practices for responsible pre-solicitation communication when procuring digital services.
+* Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
+* Identify best practices for responsible pre-solicitation communication when procuring digital services.
  
 ---
 ## Acquisition Process Myths 
 
-To alleviate some of these concerns and encourage agencies to pursue all legitimate avenues of communication, the Office of Federal Procurement Policy (OFPP) developed two memoranda addressing 10 government and eight vendor “myths” regarding the acquisition process. Review these lists before you dig into this module, and then keep them in mind as you move forward. Many of the myths deal with responsible pre-solicitation (the focus of this module), but others apply to other phases in the acquisition lifecycle. Do your part as an acquisition myth-buster\!
+To alleviate some of these concerns and encourage agencies to pursue all legitimate avenues of communication, the Office of Federal Procurement Policy (OFPP) developed two memoranda addressing 10 government and eight vendor “myths” regarding the acquisition process. Review these lists before you dig into this module, and then keep them in mind as you move forward. Many of the myths deal with responsible pre-solicitation (the focus of this module), but others apply to other phases in the acquisition lifecycle. Do your part as an acquisition myth-buster!
 
 ### Government Myths
 
@@ -249,8 +249,8 @@ What is available from the industry will inform other considerations when formin
 By engaging vendors in discussion and information sharing before issuing a solicitation, you condition the market to submit more constructive proposals. Vendors can’t submit good offers on what they don’t understand. Communicating about what you want to buy and sharing your vision for the contract outcome helps the industry:
 
 * Prepare for pursuit, including finding teaming partners  
-  * Decrease the overall business costs by allowing them to plan and forecast more accurately  
-  * Find labor and other resources in advance rather than during the proposal.
+* Decrease the overall business costs by allowing them to plan and forecast more accurately  
+* Find labor and other resources in advance rather than during the proposal.
 
 Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
 
@@ -293,8 +293,8 @@ Some constraints are absolutely necessary, and potential vendors should be aware
 **4\. Timelines and resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
 
 * Will software development and/or testing be done on government or vendor servers?  
-  * How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
-  * How much is the government willing to invest? What the government is willing to budget impacts the proposed resulting system's quality, acceptability, and functionality.
+* How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
+* How much is the government willing to invest? What the government is willing to budget impacts the proposed resulting system's quality, acceptability, and functionality.
 
 A vendor can’t and won’t propose a premier solution on a shoestring budget. Still, since you’re trying to determine what’s possible, you may choose not to disclose timelines and resources available for the acquisition. Instead, indicate a broad range, from “x” to “y” of available resources, and encourage industry to expand on trade-offs and potential solutions within that schedule and resources.
 
