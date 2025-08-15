@@ -14,28 +14,28 @@ You’ll move through two focused sprints:
 
 Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**—one that empowers you and those around you to lead change and guide customers toward the best solutions.
 
-Learning Objectives
+### Learning Objectives
 
 By the end of this module, you will be able to:
 
-* Define what it means to be a change agent and identify your individual change style
+* Define what it means to be a change agent and identify your individual change style.
 
-* Apply strategies to influence and engage stakeholders effectively
+* Apply strategies to influence and engage stakeholders effectively.
 
-* Build and leverage networks and coalitions to support change efforts
+* Build and leverage networks and coalitions to support change efforts.
 
-* Describe approaches for staying informed about emerging technologies and evolving practices
+* Describe approaches for staying informed about emerging technologies and evolving practices.
 
-* Identify opportunities to scale successful practices across teams or organizations
+* Identify opportunities to scale successful practices across teams or organizations.
 
-* Develop a personal plan for contributing to and promoting change within your agency and beyond
+* Develop a personal plan for contributing to and promoting change within your agency and beyond.
 
-* Apply techniques to foster a culture of innovation that enables effective leadership and customer engagement
+* Apply techniques to foster a culture of innovation that enables effective leadership and customer engagement.
 
 ---
 ## Preparing for and Having an Influence Conversation 
 
-Introduction 
+### Introduction 
 
 You recently practiced influence conversations as a way to engage a variety of stakeholders.
 
@@ -203,16 +203,16 @@ Once you have considered the above, consider some strategies to overcome these c
 
 ## Transitioning to the Conversation
 
-The next online module will teach you how to survive a difficult conversation by identifying constructive approaches in a conversation, identifying useful tactics to react to problems, and recognizing common topics that can cause misalignment with acquisition strategies and Agile methodology.
+The next section will teach you how to survive a difficult conversation by identifying constructive approaches in a conversation, identifying useful tactics to react to problems, and recognizing common topics that can cause misalignment with acquisition strategies and Agile methodology.
 
 
 ---
 
 ## Difficult Conversations
 
-In this module, you will learn about the art of surviving a difficult conversation. You have already practiced preparing for and having influence conversations, but what should you do when the conversation doesn’t go according to plan? Be it delivering bad news or attempting to persuade a peer to support your decision, we all struggle with having difficult conversations that may be out of our comfort zone. 
+In this section, you will learn about the art of surviving a difficult conversation. You have already practiced preparing for and having influence conversations, but what should you do when the conversation doesn’t go according to plan? Be it delivering bad news or attempting to persuade a peer to support your decision, we all struggle with having difficult conversations that may be out of our comfort zone. 
 
-At the conclusion of this module, you will be able to: 
+At the conclusion of this section, you will be able to: 
 
 * Identify constructive approaches to hard conversations.   
 * Identify useful tactics for how to react to problems.   
@@ -228,7 +228,7 @@ At the conclusion of this module, you will be able to:
 
 \-**Winston Churchill** 
 
-As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers—that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
+As you saw in the classroom sessions, implementing change is not easy; it requires courage and a willingness to both lead and listen, just as Churchill so astutely acknowledges. It requires humility and recognition that we don’t always know the answers, that’s why we must talk to our users ([Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)!) first and foremost and why we value validated learning over untested assumptions. These tenets all apply when we approach conversations that we expect to be challenging—or perhaps even downright difficult. How do you make these conversations most productive? 
 
 ## Preparing for a Difficult Conversation
 
@@ -239,7 +239,7 @@ The first step in navigating difficult conversations and situations in general, 
 
 **1\. Reframe** 
 
-The first thing is to not think of it as a difficult conversation that you need to have, but rather frame your approach in a more positive way. Social psychologists have long explored the impact that labels have in influencing people’s behavior—from perpetuating stereotypes to even changing people’s fundamental self-concepts and identities. In this case, don’t label the conversation—or more importantly the person—as difficult. Instead, approach the conversation as though you’re having a constructive conversation about development. Think about your shared goals and the fact that you’re trying to produce better outcomes for you and the person you’re talking to. Leave the combative me vs. them mentality at home. 
+The first thing is to not think of it as a difficult conversation that you need to have, but rather frame your approach in a more positive way. Social psychologists have long explored the impact that labels have in influencing people’s behavior, from perpetuating stereotypes to even changing people’s fundamental self, concepts and identities. In this case, don’t label the conversation, or more importantly the person, as difficult. Instead, approach the conversation as though you’re having a constructive conversation about development. Think about your shared goals and the fact that you’re trying to produce better outcomes for you and the person you’re talking to. Leave the combative me vs. them mentality at home. 
 
 ![A man wearing glasses, a dark suit, and a tie is seated at a desk, intently typing on a computer keyboard.](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/man%20at%20computer.png)
 
@@ -326,7 +326,7 @@ Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights
 
 ## Common Topic for Difficult Conversations: Knowledge of Agile
 
-Agile methods have been developed and used most extensively in the non government/DoD commercial sector with small- to medium-sized projects. Experience with larger projects has recently started to accumulate in the commercial sector. As a result, few government acquisition professionals and contractors are familiar with the use of Agile or possess the necessary experience to effectively implement it—which is exactly the issue that this program is seeking to address\! Review the write-up below for additional context on this issue. 
+Agile methods have been developed and used most extensively in the non government/DoD commercial sector with small- to medium-sized projects. Experience with larger projects has recently started to accumulate in the commercial sector. As a result, few government acquisition professionals and contractors are familiar with the use of Agile or possess the necessary experience to effectively implement it, which is exactly the issue that this program is seeking to address! Review the write-up below for additional context on this issue. 
 
 **Context:** The acquisition community’s imperfect understanding of Agile might undermine the success of an Agile contractor. Agile is relatively new to the government and has its genesis in the software development community, which is mostly isolated from acquisition concerns. As a result, relatively few acquisition professionals have direct experience with Agile, and Agile-unaware PMO members might insist on the more familiar project documents, oversight process, and metrics that do not fit with Agile. Acquisition professionals may want to include requirement specifications to ensure the contractor be held accountable for delivery and may be uncomfortable with buying sprints of undetermined functionality or code demonstrations in lieu of written proposals. Program managers may like the flexibility to change priorities and less documentation, but may not be prepared for the level and frequency of engagement. 
 
@@ -348,7 +348,7 @@ Culture is the customary knowledge, beliefs, behaviors, and traits displayed by 
 
 **Context:** The government is heavily invested in the use of waterfall for acquisition in general, and this has been applied to software acquisition as well. While other methods have been used, waterfall and its accompanying precepts are most familiar to most PMOs.   
 
-**Observation:** Moving to Agile is difficult—many of the “old ways” and paradigms need to be modified using a fundamental culture change. Not long ago, the training in the interpretation of software acquisition requirements is skewed toward the waterfall approach. Thus, a PMO employing Agile will need to be trained in Agile concepts.   
+**Observation:** Moving to Agile is difficult, many of the “old ways” and paradigms need to be modified using a fundamental culture change. Not long ago, the training in the interpretation of software acquisition requirements is skewed toward the waterfall approach. Thus, a PMO employing Agile will need to be trained in Agile concepts.   
 
 Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22   
     
@@ -455,24 +455,24 @@ You have a good working relationship with the team lead. She responds to your su
 
 >Carmen Medina, the former CIA analyst, was repeatedly told “no” by her superiors and peers for more than a decade as she attempted to push for real-time information sharing across intelligence agencies. However, she kept trying—for more than a decade. As a result, she helped create the intelligence community’s version of Wikipedia.
 
-As these examples illustrate, innovation by definition requires risk taking and change. Change is not easy, and people will resist it—even when they suffer most from it (see political psychologist John Jost’s [theory of system justification](https://en.wikipedia.org/wiki/System_justification) for an interesting application of this). As a result, you’re going to be told no—frequently—as you advance change. Most important initiatives will have more people saying no than saying yes—at first. How do you prime yourself—and your team and agency—to respond productively in these situations and build momentum in support of the change?
+As these examples illustrate, innovation by definition requires risk taking and change. Change is not easy, and people will resist it, even when they suffer most from it (see political psychologist John Jost’s [theory of system justification](https://en.wikipedia.org/wiki/System_justification) for an interesting application of this). As a result, you’re going to be told no, frequently, as you advance change. Most important initiatives will have more people saying no than saying yes, at first. How do you prime yourself, and your team and agency, to respond productively in these situations and build momentum in support of the change?
 
 In addition, technologists and individuals across the private sector and government talk about “failing fast,” and you’ve learned about building/buying small and missing small. Knowing that failure is okay versus *believing* that it’s okay (and getting your leadership to believe it) are two different things. How do you truly accept and cultivate this mindset over time?
 
 In this module, you’ll learn techniques to help you cultivate your mindset around change and thus, respond productively when you encounter setbacks and pushback. Specifically, you’ll learn:
 
-* Characteristics of a “growth mindset”  
-* Wellness rituals and techniques that can enhance your performance during transition  
-* How resilience and a growth mindset help you take risks and innovate  
-* How to positively respond to negative feedback and failure by analyzing the situation and adjusting your approach  
-* How to differentiate between situations where it makes sense to continue pushing for change and others where you may need to redirect
+* Characteristics of a “growth mindset.”  
+* Wellness rituals and techniques that can enhance your performance during transition.  
+* How resilience and a growth mindset help you take risks and innovate.  
+* How to positively respond to negative feedback and failure by analyzing the situation and adjusting your approach.  
+* How to differentiate between situations where it makes sense to continue pushing for change and others where you may need to redirect.
 
 ---
 ## Cultivating Your Growth Mindset
 
 Consider another example: Walt Disney had great success with 1994’s The Lion King. However, the company struggled thereafter, producing a series of movies that lacked the same popularity with audiences. Then, Disney acquired Pixar in 2006\. Ed Catmull, current president of Disney and Animation and Pixar, describes what happened thereafter in this book, *Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration*. As Catmull describes it, “Creativity has to do with problem solving…the issue is that companies and the officer ... put blocks in the way – well-meaning, trying to think they’re being safe or help things along, but in fact they’re throwing blocks up.” By removing those blocks and adopting Pixar’s culture of risk-taking, the Disney Animation team has since created a series of hits like *Tangled* and *Frozen*—their biggest hits since *The Lion King*. And as Catmull says, “Here’s the key takeaway – it’s largely the same people who were there when they were failing. All we were doing was trying to remove the roadblocks.”
 
-What Disney Animation—and many other firms and individuals—sometimes lack is a true belief in risk taking and the importance of embracing failure as part of the learning journey. Psychologist Carol Dweck explores perspectives on risk-taking, among other things, in her study of what she calls the “growth mindset.” As Dweck explains in her [TED talk on the topic](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), having a growth mindset is the difference between thinking flexibly and having a static mindset. Dweck has explored how this concept applies to K-12 education as well as to adults and organizations. The infographic below describes some of the main characteristics of this mindset.
+What Disney Animation, and many other firms and individuals, sometimes lack is a true belief in risk taking and the importance of embracing failure as part of the learning journey. Psychologist Carol Dweck explores perspectives on risk-taking, among other things, in her study of what she calls the “growth mindset.” As Dweck explains in her [TED talk on the topic](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), having a growth mindset is the difference between thinking flexibly and having a static mindset. Dweck has explored how this concept applies to K-12 education as well as to adults and organizations. The infographic below describes some of the main characteristics of this mindset.
 
 ![Infographic explaining the characteristics of a fixed vs. growth mindset. A fixed mindset avoids challenges, gives up easily, sees effort as fruitless or worse, ignores useful negative feedback and feels threatened by the success of others. A growth mindset embraces challenges, persists in the face of setbacks, sees effort as the path to master, learns from criticism, and finds lessons and inspiration in the success of others.](https://github.com/kristenjernigan/kj-liatest/blob/a841b35a44e7356b294d3a5632b66ba6dbe6f9ba/Media/Module%205/growth%20mindset.png)
 
@@ -480,25 +480,25 @@ What Disney Animation—and many other firms and individuals—sometimes lack is
 
 For you and your work in digital services acquisition, two characteristics are particularly relevant and important to cultivate:
 
-* **Perspective on risk:** People who embrace a growth mindset are more willing to step outside of their comfort zone and take risks that might result in a short term “failure.” When you’re advocating for the non-traditional approaches you’ve learned about in this program, chances are that these are relatively—or entirely—new for your agency. As you learned in the Leading Change module, leading change from the middle is not easy; however, it is possible. By working to change your perspective on risk and those of your team members (and employing the other strategies discussed in the Leading Change module), you can gradually contribute to the growth mindset of your organization.  
-* **Embracing failure as you challenge the status quo:** By undertaking challenges, you open yourself up to learning opportunities. Failure will be part of that learning—that is, if you make a conscious effort to learn from it. Learning from failure means you analyze what happened and explore what you could’ve done differently to create an alternative outcome. Pixar embodies this approach (read more about their approach, introduced above, [here](https://www.brainpickings.org/2014/05/02/creativity-inc-ed-catmull-book/)). NASA is another organization that has adopted this mindset over the years. For instance, in the 1960s during the race to the moon, NASA leadership deliberately encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud; in this way, everyone would know that their division had tried and failed, but at least they had tried.
+* **Perspective on risk:** People who embrace a growth mindset are more willing to step outside of their comfort zone and take risks that might result in a short term “failure.” When you’re advocating for the non-traditional approaches you’ve learned about in this program, chances are that these are relatively, or entirely, new for your agency. As you learned in the Leading Change module, leading change from the middle is not easy; however, it is possible. By working to change your perspective on risk and those of your team members (and employing the other strategies discussed in the Leading Change module), you can gradually contribute to the growth mindset of your organization.  
+* **Embracing failure as you challenge the status quo:** By undertaking challenges, you open yourself up to learning opportunities. Failure will be part of that learning, that is, if you make a conscious effort to learn from it. Learning from failure means you analyze what happened and explore what you could’ve done differently to create an alternative outcome. Pixar embodies this approach (read more about their approach, introduced above, [here](https://www.brainpickings.org/2014/05/02/creativity-inc-ed-catmull-book/)). NASA is another organization that has adopted this mindset over the years. For instance, in the 1960s during the race to the moon, NASA leadership deliberately encouraged engineers to take more risks. When unmanned rockets exploded on takeoff, department heads would applaud; in this way, everyone would know that their division had tried and failed, but at least they had tried.
 
 ---
 ## Wellness Rituals to Support You in Times of Transition
 
-As our discussion of the growth mindset indicates, failure is going to be part of your journey. It is normal. If you aren’t failing along the way, then you likely aren’t taking enough risks. As you’ve learned, the key is to take calculated, small risks over time (remember the buy small, miss small principle—this applies in all aspects of work), but learning to accept failure may not come naturally for you. Even if it does, there may be times where the stress gets to you. What do you do to support yourself through the change? We've provided some strategies to help you answer that question.
+As our discussion of the growth mindset indicates, failure is going to be part of your journey. It is normal. If you aren’t failing along the way, then you likely aren’t taking enough risks. As you’ve learned, the key is to take calculated, small risks over time (remember the buy small, miss small principle, this applies in all aspects of work), but learning to accept failure may not come naturally for you. Even if it does, there may be times where the stress gets to you. What do you do to support yourself through the change? We've provided some strategies to help you answer that question.
 
 First, interesting research has been done around treating performance in the workplace much like we treat word-class athletes, in that we consider all components of performance. As performance psychologist Jim Loehr and executive vice president of LGE Tony Schwartz explore in their research (explored in the [“The Making of a Corporate Athlete,” Harvard Business Review, 2001](https://hbr.org/2001/01/the-making-of-a-corporate-athlete)):
 
 >*“Some executives thrive under pressure. Others wilt. Is the reason all in their heads? Hardly. Sustained high achievement demands physical and emotional strength as well as a sharp intellect. To bring mind, body, and spirit to peak condition, executives need to learn what world-class athletes already know: recovering energy is as important as expending.”*
 
-Loehr and Schwartz’s used two decades of work at LGE with world-class athletes to create what they termed “The High Performance Pyramid.” They translated its techniques with athletes into high performance in the workplace. Achieving the “Ideal Performance State” requires engagement of all four capacities: the body, the emotions, the mind, and the spirit by treating the individual as a whole being. (Note “spirit” refers to the energy unleashed by tapping into one’s deepest values and defining a strong sense of purpose—for some, that’s religion; for others, that may be the outdoors, connections with family, etc.) The High Performance Period is shown below.
+Loehr and Schwartz’s used two decades of work at LGE with world-class athletes to create what they termed “The High Performance Pyramid.” They translated its techniques with athletes into high performance in the workplace. Achieving the “Ideal Performance State” requires engagement of all four capacities: the body, the emotions, the mind, and the spirit by treating the individual as a whole being. (Note “spirit” refers to the energy unleashed by tapping into one’s deepest values and defining a strong sense of purpose, for some, that’s religion; for others, that may be the outdoors, connections with family, etc.) The High Performance Period is shown below.
 
 Research has shown that small rituals, repeated over time, can be used to enhance performance in these four areas. “Rituals” refer to the small, relatively low-effort activities you can do every day that can have a big difference.
 
-In times of hardship or transition, it can become easy for healthy routines to slip to the back of your mind. However, your **physical capacity** is important for mental and emotional recovery. It’s easy to get stressed out, angry, or resentful when you’re facing rejection. It’s important to think about ways that you can enhance your **emotional capacity** during these times. Additionally, your **mental capacity** can become hindered, and it may be difficult to stay focused. When your **spiritual capacity** is compromised, you may lack motivation, determination, or endurance. If you want to perform at your best—just like a star athlete—you must pay attention to all four performance areas.
+In times of hardship or transition, it can become easy for healthy routines to slip to the back of your mind. However, your **physical capacity** is important for mental and emotional recovery. It’s easy to get stressed out, angry, or resentful when you’re facing rejection. It’s important to think about ways that you can enhance your **emotional capacity** during these times. Additionally, your **mental capacity** can become hindered, and it may be difficult to stay focused. When your **spiritual capacity** is compromised, you may lack motivation, determination, or endurance. If you want to perform at your best, just like a star athlete, you must pay attention to all four performance areas.
 
-All that said, the reality is there’s a difference between *knowing* you should pay attention to these areas—and then actually *doing* it. As explored in *“Why is resilience so hard?” by Steven Snyder in* Harvard Business Review, if you notice that in times of stress you break from routines that are part of a healthy lifestyle, taking the time to get back on track can have positive outcomes. By exercising and stepping back from your work for self-reflection, you can strengthen each of your capacities. Positive effects from these minor changes include increased clarity and inspired creativity.
+All that said, the reality is there’s a difference between *knowing* you should pay attention to these areas, and then actually *doing* it. As explored in *“Why is resilience so hard?” by Steven Snyder in* Harvard Business Review, if you notice that in times of stress you break from routines that are part of a healthy lifestyle, taking the time to get back on track can have positive outcomes. By exercising and stepping back from your work for self-reflection, you can strengthen each of your capacities. Positive effects from these minor changes include increased clarity and inspired creativity.
 
 When dealing with rejection in the workplace, it’s easy to isolate yourself to avoid facing hardships. Instead of allowing yourself to fall into a rut, try falling back on your support system. Those who are close to you can provide you with motivating encouragement, and can serve as a source for new ideas and inspiration.
 
@@ -523,7 +523,7 @@ To avoid falling victim to these cognitive traps, take a step back and revisit y
 
 Once you’ve analyzed the situation, and you understand the origin of the “no,” assess whether this is a challenge that you should pursue. Ask yourself the following questions:
 
-* **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA—and the intelligence community—was at risk by not having a real-time way to share information.  
+* **Is this a situation that, if left unaddressed, could cause real harm to my agency or the government or threaten our ability to achieve our mission?** The answer to this question is relative, and it’s not black and white. Recall the discussion from the classroom session and the example included at the beginning of this module about Carmen Medina. Ms. Medina felt that the mission of the CIA, and the intelligence community, was at risk by not having a real-time way to share information.  
 * **What are my obstacles and opportunities?** Size up the risks associated with continuing to advocate for this change, and determine if it’s a risk worth taking. Ask yourself: could continuing to push for this change *in the same way* threaten my job? How might I adjust my approach or bide my time until conditions are more favorable? Again, think of Carmen Medina and her approach to change. (Beware of using the “bide my time” approach as a cop-out\!)  
 * **How do I advance some change—any change—while also maintaining working relationships?** Consider how to meet the person where they are and advance change incrementally, while maintaining relationships and not demoralizing the team. As you learned earlier, this is the essence of being a network leader, and your role in digital services acquisition; you have to collaborate with people in your network to make change happen. Remember the content around influence? Meeting another person where they are shows that you care about them and makes them more willing to work with you over time. 
 
@@ -548,7 +548,7 @@ Now that you’ve learned about a framework you can use to figure out why you we
 
 First, review the scenario below:
 
-You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you—they need to write a contract that supports agile software development\! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them\! How could they be so deluded?\!
+You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them\! How could they be so deluded?\!
 
 Review the following factors were at play in this situation:
 
@@ -566,7 +566,7 @@ Analyze the “no” a bit more. Besides not presenting the change in a way that
 
 **Select 2 responses that apply:**
 
-- [x] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it—system justification theory at work!  
+- [x] The technical team recognizes there is a problem with the status quo, but ironically is resistant to change it, system justification theory at work!  
 - [x] The technical team is so afraid of another failure that they’re afraid to do anything that might “rock the boat” (like the Disney Animation studio before they acquired Pixar).  
 - [ ] The technical team likely didn’t trust you because they didn’t know your credentials. You should’ve started your presentation by listing your credentials and the successful contracts you’ve administered in the past.  
 
@@ -602,55 +602,55 @@ Remember our discussion of wellness rituals and performance areas from our earli
 
 **Why Your Story Matters**
 
-Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work—what went right, what went sideways, and what you’d do differently—is such a powerful contribution to the community.
+Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work, what went right, what went sideways, and what you’d do differently, is such a powerful contribution to the community.
 
 You don’t have to be a professional writer. You just have to be willing to reflect, be honest, and share. Storytelling helps you communicate complex decisions, lessons, and context that others might not find in a policy memo or contract clause. By putting your real-world experiences into words, you help others learn faster and navigate similar challenges with more confidence.
 
-As a DITAP graduate, you’ve learned a lot about designing smarter, more flexible procurements. Now, you’re in a great position to pay it forward by documenting what worked (and what didn’t) and sharing your experience with others. Think of it as contributing to the larger body of knowledge—one story at a time.
+As a DITAP graduate, you’ve learned a lot about designing smarter, more flexible procurements. Now, you’re in a great position to pay it forward by documenting what worked (and what didn’t) and sharing your experience with others. Think of it as contributing to the larger body of knowledge, one story at a time.
 
 ### Why Sharing Matters in Government Procurement
 
 #### When You Share, Everyone Gets Smarter
 
-We all know procurement can be messy, especially when you’re dealing with new technologies, tight timelines, or unexpected curveballs. But every procurement teaches you something—about collaboration, process, communication, risk, or innovation. When you share those lessons, it helps the whole ecosystem work better.
+We all know procurement can be messy, especially when you’re dealing with new technologies, tight timelines, or unexpected curveballs. But every procurement teaches you something, about collaboration, process, communication, risk, or innovation. When you share those lessons, it helps the whole ecosystem work better.
 
 Knowledge sharing helps:
 
-* Make future procurements stronger by avoiding repeat mistakes
+* Make future procurements stronger by avoiding repeat mistakes.
 
-* Build resilience by highlighting how you adapted to challenges
+* Build resilience by highlighting how you adapted to challenges.
 
-* Spread good ideas across agencies
+* Spread good ideas across agencies.
 
-* Create a record of lessons learned that others can build on
+* Create a record of lessons learned that others can build on.
 
 Whether it’s a quick blog post, a deeper case study, or a hallway chat, these conversations add up to a smarter, more connected acquisition workforce.
 
 #### Stories Help Make Sense of the Work
 
-Let’s be real: most acquisition work isn’t linear. You make trade-offs, adapt plans, and build relationships that shape the outcome. A story gives you the space to explain the “why” and “how” behind the decisions—not just the end result. That kind of nuance is hard to capture in checklists or templates, but stories bring it to life.
+Let’s be real: most acquisition work isn’t linear. You make trade-offs, adapt plans, and build relationships that shape the outcome. A story gives you the space to explain the “why” and “how” behind the decisions, not just the end result. That kind of nuance is hard to capture in checklists or templates, but stories bring it to life.
 
-They also help others *feel* the experience. A good story isn’t just informative—it’s memorable. That emotional connection helps others remember the lesson and apply it later, even in totally different situations.
+They also help others *feel* the experience. A good story isn’t just informative, it’s memorable. That emotional connection helps others remember the lesson and apply it later, even in totally different situations.
 
 #### What’s Worth Sharing?
 
 There are two types of knowledge to think about when telling your story:
 
-* Explicit knowledge is easy to document—things like policies, templates, and rules.
+* Explicit knowledge is easy to document, things like policies, templates, and rules.
 
-* Tacit knowledge is harder to explain—it’s the gut instincts, relationship strategies, and workarounds you develop through experience.
+* Tacit knowledge is harder to explain, it’s the gut instincts, relationship strategies, and workarounds you develop through experience.
 
 Your procurement story is a great way to turn that tacit knowledge into something useful for others. Talk about the decisions you made, the questions you asked, the conversations that helped move things forward. These details are gold for other acquisition professionals who might face similar situations.
 
 #### Building a Culture of Sharing Starts With Us
 
-For knowledge sharing to really take root, we need to normalize it—and that starts with leadership and culture. That means:
+For knowledge sharing to really take root, we need to normalize it, and that starts with leadership and culture. That means:
 
-* Creating space for learning from mistakes, not hiding them
+* Creating space for learning from mistakes, not hiding them.
 
-* Encouraging open, judgment-free conversations
+* Encouraging open, judgment-free conversations.
 
-* Recognizing and rewarding people who take time to reflect and share
+* Recognizing and rewarding people who take time to reflect and share.
 
 Psychological safety plays a big part in this. People need to feel safe being honest, even when things didn’t go perfectly. And while financial rewards aren’t always feasible, small things like public shout-outs, leadership support, or adding knowledge sharing to performance goals can go a long way.
 
@@ -658,16 +658,16 @@ Psychological safety plays a big part in this. People need to feel safe being ho
 
 #### Why Blog?
 
-Blogging is one of the easiest ways to start sharing what you know. It doesn’t have to be fancy or long—just honest, helpful, and clear. Think of it as talking to a colleague who wasn’t in the room but wants to understand how you approached something tricky or how a particular strategy played out. Check out [TTS’s Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/) for more guidance and other ways to get started.
+Blogging is one of the easiest ways to start sharing what you know. It doesn’t have to be fancy or long, just honest, helpful, and clear. Think of it as talking to a colleague who wasn’t in the room but wants to understand how you approached something tricky or how a particular strategy played out. Check out [TTS’s Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/) for more guidance and other ways to get started.
 
-Sharing your experiences helps others feel less alone, speeds up learning across teams, and builds a sense of community. Plus, it reinforces your own thinking and makes your work visible—both inside and outside your agency.
+Sharing your experiences helps others feel less alone, speeds up learning across teams, and builds a sense of community. Plus, it reinforces your own thinking and makes your work visible, both inside and outside your agency.
 
 Blogs can:
 
-* Break down what worked and why  
-* Highlight tools, templates, or techniques others can borrow  
-* Help you process challenges and share lessons learned  
-* Serve as starting points for bigger case studies
+* Break down what worked and why.  
+* Highlight tools, templates, or techniques others can borrow.  
+* Help you process challenges and share lessons learned.  
+* Serve as starting points for bigger case studies.
 
 The act of blogging is also a form of "working in the open." It models the user-centered, iterative approach we push for in digital services.
 
@@ -681,7 +681,7 @@ Ask yourself:
 * What do I want them to learn?  
 * What will help them do their work better?
 
-A blog post doesn’t have to be long—500 to 800 words is often enough. Use plain language. Break things into sections with clear headers. Add links or visuals if it helps. Be specific. Be real. And make sure it’s accessible (use good contrast, alt text, and readable fonts).
+A blog post doesn’t have to be long, 500 to 800 words is often enough. Use plain language. Break things into sections with clear headers. Add links or visuals if it helps. Be specific. Be real. And make sure it’s accessible (use good contrast, alt text, and readable fonts).
 
 #### Blog Structure: Keep it Simple
 
@@ -697,7 +697,7 @@ End with a small call to action, like inviting others to try the approach, share
 
 #### What Makes a Good Case Study?
 
-Case studies have been a core part of this course—used to evaluate vendor approaches, support your in-class activities, and serve as key reference material drawn from the Periodic Table of Acquisition Innovations. They help us learn not just by doing, but by seeing how others have approached similar challenges. In fact, creating your own case study is an outstanding way to reflect and capture the insights you’ve gained from a particular strategy, approach, or procurement process. It helps solidify your learning and contributes to the broader community of practice. Case studies give you the chance to go deep—to show not just what happened, but how and why. They offer a fuller picture of your procurement approach, including the real-world conditions that shaped your decisions and the results that followed.
+Case studies have been a core part of this course, used to evaluate vendor approaches, support your in-class activities, and serve as key reference material drawn from the Periodic Table of Acquisition Innovations. They help us learn not just by doing, but by seeing how others have approached similar challenges. In fact, creating your own case study is an outstanding way to reflect and capture the insights you’ve gained from a particular strategy, approach, or procurement process. It helps solidify your learning and contributes to the broader community of practice. Case studies give you the chance to go deep, to show not just what happened, but how and why. They offer a fuller picture of your procurement approach, including the real-world conditions that shaped your decisions and the results that followed.
 
 They're not just stories to read; they're tools for learning. Whether someone is looking for examples to follow or pitfalls to avoid, a well-written case study becomes a how-to guide grounded in lived experience.
 
@@ -723,7 +723,7 @@ A good case study balances narrative and analysis. It provides the big picture a
 * **Include supporting materials.** Add links to relevant RFQs, templates, evaluation criteria, or performance dashboards if you can. These make it easier for others to reuse what worked.  
 * **Tell a story.** Use a narrative arc. Think beginning (the challenge), middle (what you tried), and end (what happened). It helps readers stay engaged.
 
-By documenting your process in this way, you help others avoid having to reinvent the wheel. You show that good procurement work isn't always linear or perfect—and that shared learning makes us all better.
+By documenting your process in this way, you help others avoid having to reinvent the wheel. You show that good procurement work isn't always linear or perfect, and that shared learning makes us all better.
 
 We have included a sample case study template for Procurements of AI Tools, which is a relevant and immediate topic. The more agencies can share what and how they are procuring AI solutions, the better everyone will get. 
 
@@ -737,7 +737,7 @@ Navigating disclosure requires a balance between openness and strategic protecti
 
 ### Getting Internal Approval to Publish
 
-Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down—there are steps you can take to make the process smoother and increase your chances of a green light.
+Publishing your procurement story often means getting approval from your agency’s communications office, Office of General Counsel (OGC), and sometimes public affairs or external media teams. Don’t let that slow you down, there are steps you can take to make the process smoother and increase your chances of a green light.
 
 Tips to navigate approvals:
 
