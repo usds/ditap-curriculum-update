@@ -37,15 +37,15 @@ Planning your acquisition strategy helps you outline the scheduling, integration
 
 Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution. The Product Vision also influences how other conditions and considerations, both in the market and your acquisition environment, will be addressed in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
 
-These other conditions and considerations include, but are not limited to:
-* Stakeholder engagement, including their level of capability and cooperation
-* Availability and applicability of existing contract vehicles
-* New contract vehicle considerations
-* Contract type and pricing structure
-* Funding and programmatic considerations
-* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.
-* State of the market
-* How do you evaluate vendor quotes/proposals
+These other conditions and considerations include, but are not limited to: <br>
+* Stakeholder engagement, including their level of capability and cooperation <br>
+* Availability and applicability of existing contract vehicles <br>
+* New contract vehicle considerations <br>
+* Contract type and pricing structure <br>
+* Funding and programmatic considerations <br>
+* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc. <br>
+* State of the market <br>
+* How do you evaluate vendor quotes/proposals <br>
   
 We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
@@ -138,7 +138,7 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | |
 
 
-### **Discussion question (optional):**
+### Discussion question (optional):
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
 ---
@@ -146,7 +146,7 @@ Based on what you’ve learned, what are some mistakes you would avoid for your 
 
 As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consdier a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
 
-The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure\!
+The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure!
 
 **Challenge: Have a clear vision of what you are buying and why.**
 
@@ -673,7 +673,7 @@ To avoid reinforcing incumbency and inequity, agencies should:
 
 * Support new entrants with:
 
-  * Pre-award Q\&A or due diligence sessions
+  * Pre-award Q&A or due diligence sessions
 
   * Post-award evaluation feedback  
   * Shadowing opportunities or partner team-ups
@@ -710,7 +710,7 @@ The Vendor Collaboration Index (VCI) is a performance metric that assesses the e
 | ----- | ----- |
 | **Performance standard** | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
 | **Measurement methods** | • Participation in shared retrospectives and planning sessions • Responsiveness in cross-vendor communication • Willingness to support shared technical integration or data sharing • Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
-| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors.  **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
+| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors. <br> **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.<br>  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
 
 Bottom line: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
 
