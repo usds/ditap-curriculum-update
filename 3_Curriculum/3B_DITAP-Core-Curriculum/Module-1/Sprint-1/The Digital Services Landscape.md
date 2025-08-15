@@ -17,7 +17,8 @@ Let’s start with the what. What is meant by digital services? That is, in fact
 
 Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
-![Digital Services Wheel with sections for who, what, where, why and how](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/digital%20service%20wheel%202.jpg)
+![Digital Services Wheel with sections for who, what, where, why and how](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/digital%20service%20wheel.jpg)
+
 
 
 
@@ -50,7 +51,8 @@ USCIS wants to provide its customers with information and services digitally to 
 
 Because the site is responsive, users can access it from their computers and mobile devices. Check this out.
 
-![screenshot of My USCIS website on a mobile device](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/My%20USCIS%20screenshot%20on%20mobile%20device.jpg)
+![screenshot of My USCIS website on a mobile device](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/My%20USCIS%20screenshot%20on%20mobile%20device.jpg)
+
 
 **How?**
 
@@ -61,7 +63,7 @@ In our online learning module, Digital Services – The How (in Module 1, Sprint
 
 Let’s consider the definition of digital services differently. Imagine it as a three-layered cake.
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://github.com/kristenjernigan/kj-liatest/blob/a35fff1d65346dbbf84d2220b3749b3eaf86658a/Media/Module%201/Digital%20Services%20Cake%20updated.png)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Digital%20Services%20Cake%20updated.png)
 
 We’ve taken some important information from [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) which explains each layer in a concise manner.
 
@@ -97,7 +99,7 @@ This is the technical ingredients for the cake. The platform layer is the place 
 
 When the digital services “cake” is served to end users, it’s put on a sturdy and stable plate. What does this mean? 
 
-![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services, sitting on a layer titled security and privacy](https://github.com/kristenjernigan/kj-liatest/blob/015395ca895e708cc78106c3637c249ef1b06add/Media/Module%201/Digital%20Services%20Cake%20Security%20and%20Privacy.PNG)
+![A 3-layered cake with the layers labeled as information layer, presentation layer, and platform layer representing digital services, sitting on a layer titled security and privacy](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Digital%20Services%20Cake%20Security%20and%20Privacy.png)
 
 Security, privacy, and data protection must be built into the technology's life cycle to ensure the safe and secure delivery and use. Thus, the layers of digital services rest on a platform of security and privacy.
 
@@ -125,7 +127,7 @@ Explanation: Digital services can be deployed on a mobile phone using your data 
 - [[ ]] True
 - [[X]] False
 
-Explanation: As a grade-school student, you could access a teacher’s webpage to find homoework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
+Explanation: As a grade-school student, you could access a teacher’s webpage to find homework for that day. That’s a digital service! You might also use websites like Study Island or Khan Academy. These are digital services as well. You’re able to access information and complete “transactions” in a digital manner.
 
 
 ## The Digital Services EcoSystem
@@ -143,7 +145,8 @@ When outside help is needed, the organization, private sector, or government sec
 The multi-disciplinary teams that design and develop digital services could include the following roles: 
 
 
-![Digital Services hierarchy diagram illustrating the structure of a digital service team. The top section shows two groups: "Developers – In-House" and " Developers – Professional Service Vendors," both connecting to an "Organization (Government or Private Sector)." The organization then connects to "The end user," depicted as a smartphone displaying a digital service interface. Below the developers, a vertical list details team roles which are explained in the next section.](https://github.com/kristenjernigan/kj-liatest/blob/67d12c0757ca87a3ee720ea433584bce7c142fdc/Media/Module%201/digital%20services%20team.jpg)
+![Digital Services hierarchy diagram illustrating the structure of a digital service team. The top section shows two groups: "Developers – In-House" and "Developers – Professional Service Vendors," both connecting to an "Organization (Government or Private Sector)." The organization then connects to "The end user," depicted as a smartphone displaying a digital service interface. Below the developers, a vertical list details team roles which are explained in the next section.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/digital%20services%20team.jpg?raw=true)
+
 
 - __Product Owner__: This individual represents the organization and is responsible for working with the digital services development team (in-house or vendor). Some roles include prioritizing feature and functionality development, defining acceptance criteria for features, and providing demonstrations and reviews to the organization’s stakeholders. The Product Owner is ultimately accountable for the success of the digital service.
 
@@ -189,21 +192,21 @@ __What about mobile apps?__
 
 Look how you can find information about and report information to the [City of Philadelphia](https://www.phila.gov/departments/philly311/) from your mobile device.
 
-![Woman looking at her mobile phone](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/Woman%20looking%20at%20cell%20phone.png) 
+![Woman looking at her mobile phone](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Woman%20looking%20at%20cell%20phone.png) 
 
 __Do only government agencies (federal, state or municipal) provide digital services?__
 
 Private sector and commercial organizations can also provide digital services to the end user. In fact, in a given day, you might access websites to perform transactions such as: 
 
-![Woman sitting at a computer asking who ordered from a dog bone website, dog with bone sits behind her](https://github.com/kristenjernigan/kj-liatest/blob/2810af7ee6289c4a0e6fe7a752bee578cdcb9070/Media/Module%201/comic.1.jpg)
+![Woman sitting at a computer asking who ordered from a dog bone website, dog with bone sits behind her](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/comic.1.jpg)
 
 _View and pay your bills online._
 
- ![Cat asking receptionist how to pay vet bill](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.3.jpg) 
+![Cat asking receptionist how to pay vet bill](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/comic.3.jpg)
 
 _Check the status of a healthcare claim online._
 
- ![Young boy sitting in front of TV, procrastinating on doing his book report](https://github.com/kristenjernigan/kj-liatest/blob/d37b229592a40ba81c1263e6d61e3127b7c47104/Media/Module%201/comic.2.jpg) 
+![Young boy sitting in front of TV, procrastinating on doing his book report](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/comic.2.jpg)
 
 _Order new TV services online._
 
@@ -218,7 +221,7 @@ We’ve now learned the roles of individuals and teams within the digital servic
 
 ### Multiple Choice
 
-![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly." ](https://github.com/kristenjernigan/kj-liatest/blob/7d812a8b27abe4f39802dfd4ead5afcc8a7dff07/Media/Module%201/Knowledge%20check%20question%20two%20dogs%202.jpg)
+![Cartoon image of two dogs. One dog, sitting on a chair in front of a computer asks "Did you design this website? It is not dog friendly!" The second dog responds, "Well, you know these days it's all about being people friendly."](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Knowledge%20check%20question%20two%20dogs.jpg)
 
 Which of the following is being portrayed in the conversation above?
 

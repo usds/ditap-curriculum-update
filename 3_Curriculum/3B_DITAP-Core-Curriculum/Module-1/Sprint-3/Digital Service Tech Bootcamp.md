@@ -608,7 +608,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [Accessibility Insights](https://www.google.com/url?q=https://accessibilityinsights.io/&sa=D&source=docs&ust=1754424299274526&usg=AOvVaw1mOO_qLyputqNzV5Aw1893) | A simple browser plugin that works like a spellcheck for accessibility.  |
 | [Disability:INclusive Workplaces](https://disabilityin.org/procurement-toolkit/) [Accessible Technology Procurement Toolkit](https://disabilityin.org/procurement-toolkit/) | Accessible procurement toolkit built for and by the private sector. |
 | [Section 508](https://www.section508.gov/) | Learn more about Section 508 policies, assessments, and tools.  |
-| [Sample Contracting Language](https://docs.google.com/document/d/1wnBNyk0AuYmLWG4G6vTXXYSpH3E_G4lsqXv2dcJiVxI/edit?tab=t.0#heading=h.mg8ks5ewfp7t) | Contracting language for accessible procurement and ICT.  |
+| [Sample Contracting Language](https://github.com/kristenjernigan/ditap-curriculum-update/blob/3291fb288be82ec8510a70d68e0156fd7c1f1490/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/sample-contracting-language.md) | Contracting language for accessible procurement and ICT.  |
 | [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria. |
 
 ---
@@ -665,7 +665,6 @@ Properly maintained OSS is just as secure as, and often more secure than, its pr
 
 The U.S. government is actively involved in strengthening the security of OSS. Several federal agencies contribute to the [Open Source Security Foundation](https://openssf.org/), a collaborative effort to improve security for both open source and private developers. As an example, the Department of Defense’s [Platform One](https://p1.dso.mil/) is heavily leveraging open source to improve security and overcome common barriers. Their [Iron Bank](https://p1.dso.mil/ironbank) project distributes pre-configured, containerized versions of OSS which speeds up the process of getting the required [Authority to Operate (ATO)](https://csrc.nist.gov/glossary/term/authorization_to_operate). This process ensures that no new vulnerabilities are introduced when the software is reused. These are just a few of the many government-led initiatives which enhance overall security and reduce costs through the use of open source software.
 
-## 
 
 ### The Cost of "Free" Open Source Software
 
