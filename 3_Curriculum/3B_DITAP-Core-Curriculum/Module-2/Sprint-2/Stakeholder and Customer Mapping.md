@@ -55,7 +55,8 @@ You won’t engage a compliance officer the same way you would a product owner o
 
 That’s why thoughtful engagement, early and tailored to their role, is key. It builds trust, reduces friction, and helps your team avoid unnecessary roadblocks later on.
 
-![A circular stakeholder map for digital services acquisition, showing categories like Acquisition Stakeholders, Oversight/Governance, Advocates/Influencers, and Partners/Suppliers/Co-Creators, with 'Digital Services Acquisition Partnership' at the center.](https://github.com/kristenjernigan/kj-liatest/blob/1e3a9122e69124a7a37263e7029d849eab3dfe14/Media/Module%202/StakeholderMap_Small.jpg)
+![A circular stakeholder map for digital services acquisition, showing categories like Acquisition Stakeholders, Oversight/Governance, Advocates/Influencers, and Partners/Suppliers/Co-Creators, with 'Digital Services Acquisition Partnership' at the center.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/515f52cbc3993aea1fb81c238135baa644f52256/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/StakeholderMap_Small.jpg?raw=true)
+
 
 
 ### Zooming Out: Who’s in the Landscape?
