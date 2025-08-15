@@ -298,7 +298,7 @@ Choose a digital service your agency currently uses or is developing. This servi
 
    
 
-**Due Date:** Your discussion post is due by the end of the current module, **\[DATE\].**
+**Due Date:** Your discussion post is due by the end of the current module.
 
 **Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
 

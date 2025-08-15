@@ -38,14 +38,16 @@ Planning your acquisition strategy helps you outline the scheduling, integration
 Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution. The Product Vision also influences how other conditions and considerations, both in the market and your acquisition environment, will be addressed in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
 
 These other conditions and considerations include, but are not limited to:
-* Stakeholder engagement, including their level of capability and cooperation
-* Availability and applicability of existing contract vehicles
-* New contract vehicle considerations
-* Contract type and pricing structure
-* Funding and programmatic considerations
-* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.
-* State of the market
-* How do you evaluate vendor quotes/proposals
+
+- Stakeholder engagement, including their level of capability and cooperation
+- Availability and applicability of existing contract vehicles
+- New contract vehicle considerations
+- Contract type and pricing structure
+- Funding and programmatic considerations
+- Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.
+- State of the market
+- How do you evaluate vendor quotes/proposals
+
   
 We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
@@ -54,7 +56,7 @@ We will discuss each of these in more detail as we proceed, but it’s essential
 
 ## The Acquisition Plan and Lean Canvas Approach
 
-![](https://github.com/kristenjernigan/kj-liatest/blob/0d2f0879d93d9deb2ed4363ca05edcfb5bb273ae/Media/Module%203/checklist.png)
+![checklist](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/checklist.png?raw=true)
 
 As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan, and some of the other required items in the contract file, as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
 
@@ -74,8 +76,8 @@ These concepts can also be applied to acquisitions. Typically, the acquisition s
 The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page, both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
 
 ---
-
-### Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
+### Examples 
+Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
 
 
 #### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
@@ -138,7 +140,7 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | |
 
 
-### **Discussion question (optional):**
+### Discussion question (optional):
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
 ---
@@ -146,7 +148,7 @@ Based on what you’ve learned, what are some mistakes you would avoid for your 
 
 As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consdier a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
 
-The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure\!
+The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure!
 
 **Challenge: Have a clear vision of what you are buying and why.**
 
@@ -344,7 +346,7 @@ Your OGC may not have in-depth knowledge of your program or acquisition, making 
 
 In the digital age, Intellectual Property (IP) isn’t as easy to safeguard as it was in the past. In the past, an artist like Van Gogh would paint a unique piece, which would be sold by the artist only once. Now that you can re-print a canvas, you can buy multiple copies of The Starry Night. However, the painting—the original image—is still the artist's intellectual property and resides in a museum. So, how does he (his estate) get compensated for reprints? How can this artist monitor or account for people who find the image online and upload it to a local printer or website to create their own reprints on canvas? Of course, these sorts of questions extend to all digital media. If it is on the internet, can it be kept safe? Can we prevent people from obtaining a movie illegally or sharing music?
 
-![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/kj-liatest/blob/756e6befb702c053263822fb4d9296fcccf12b21/Media/Module%203/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg) 
+![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg?raw=true) 
 
 When buying digital services, you can apply many of these concepts to the government. IP is protected in law through patents, copyrights, and trademarks, which enable individuals to earn recognition or financial benefits from what they invent or create. 
 
@@ -358,7 +360,7 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 
 ### Copyright
 
-![Copyright icon – a pencil over a sheet of paper](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Copyright.jpg)
+![Copyright icon – a pencil over a sheet of paper](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Copyright.jpg?raw=true)
 
 **Copyright** is a legal term that describes the rights of creators over their literary and artistic works. Copyrighted works encompass a wide range of items, including books, music, paintings, sculptures, films, as well as computer programs, databases, advertisements, maps, and technical drawings.
 
@@ -366,7 +368,7 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 
 ### Patent
 
-![Patent icon – a gear and document](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Patent.jpg)
+![Patent icon – a gear and document](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Patent.jpg?raw=true)
 
 A **patent** is an exclusive right granted for an invention. Generally speaking, a patent gives the owner the right to decide how—or whether—others can use the invention. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document.
 
@@ -374,7 +376,7 @@ A **patent** is an exclusive right granted for an invention. Generally speaking,
 
 ### Trademark
 
-![Trademark icon – a stamp with a registered symbol](https://github.com/kristenjernigan/kj-liatest/blob/f6b3a8c6266cbe72eca1c0ab63db9c4c957b08de/Media/Module%203/Trademark.jpg)
+![Trademark icon – a stamp with a registered symbol](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Trademark.jpg?raw=true)
 
 A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.
 
@@ -382,7 +384,7 @@ A **trademark** is a sign capable of distinguishing the goods or services of one
 
 ### Industrial Design
 
-![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/kj-liatest/blob/dc60f9d5272a18544e5eebd401e778cfed2ac260/Media/Module%203/industrial%20design.jpg)
+![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/industrial%20design.jpg?raw=true)
 
 An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
 
@@ -390,7 +392,7 @@ An **industrial design** constitutes the ornamental or aesthetic aspect of an ar
 
 ### Geographical Indications and Appellations of Origin
 
-![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/kj-liatest/blob/89c6dc29d24d3e6f5bc07484d3f4d63aa79e60a1/Media/Module%203/Geographical.jpg)
+![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Geographical.jpg?raw=true)
 
 **Geographical indications and appellations of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California renowned for its unique growing conditions that facilitate the production of high-quality wine.
 
@@ -595,7 +597,7 @@ By the end of this lesson, participants will be able to:
 
 In modular, iterative contracting, a well-structured multiple award vehicle is one of the most effective strategies for supporting agility, mitigating risk, and maintaining delivery momentum. When thoughtfully designed, this approach creates the flexibility to pivot between vendors if performance falters or priorities shift, without requiring a complete overhaul. It also prevents vendor lock-in and fosters a culture of continuous improvement through healthy competition. 
 
-However, implementing a multi-vendor model isn’t a simple checkbox, it’s a strategic acquisition decision that requires balancing complexity, performance oversight, and mission alignment. Experience has shown that multi-vendor structures deliver better outcomes when tailored to a specific system or digital service, especially in environments that require specialized talent and rapid iteration. The goal isn’t just to hire vendors from generic IT agency-wide vehicles, but to design a delivery ecosystem that promotes resilience, knowledge sharing, and sustained product excellence. 
+However, implementing a multi-vendor model isn’t a simple checkbox; it’s a strategic acquisition decision that requires balancing complexity, performance oversight, and mission alignment. Experience has shown that multi-vendor structures deliver better outcomes when tailored to a specific system or digital service, especially in environments that require specialized talent and rapid iteration. The goal isn’t just to hire vendors from generic IT agency-wide vehicles, but to design a delivery ecosystem that promotes resilience, knowledge sharing, and sustained product excellence. 
 
 ### Modular contracting & scaled agile delivery with multi-vendor teams
 
@@ -673,7 +675,7 @@ To avoid reinforcing incumbency and inequity, agencies should:
 
 * Support new entrants with:
 
-  * Pre-award Q\&A or due diligence sessions
+  * Pre-award Q&A or due diligence sessions
 
   * Post-award evaluation feedback  
   * Shadowing opportunities or partner team-ups
@@ -710,7 +712,7 @@ The Vendor Collaboration Index (VCI) is a performance metric that assesses the e
 | ----- | ----- |
 | **Performance standard** | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
 | **Measurement methods** | • Participation in shared retrospectives and planning sessions • Responsiveness in cross-vendor communication • Willingness to support shared technical integration or data sharing • Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
-| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors.  **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
+| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors. <br> **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.<br>  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
 
 Bottom line: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
 

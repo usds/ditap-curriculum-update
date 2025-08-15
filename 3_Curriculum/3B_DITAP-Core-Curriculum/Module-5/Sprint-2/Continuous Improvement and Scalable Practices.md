@@ -56,11 +56,13 @@ Staying current also means learning from the people shaping the conversation. Yo
 
 * **Follow thought leaders** on platforms like LinkedIn or tune in to interviews on Federal News Network
 
-* **Join professional organizations** like:  
-  * **[NCMA](https://ncmahq.org/)** – National Contract Management Association  
-  * **[Technologists for the Public Good](https://www.publicgood.tech/)** \- nonprofit professional association connecting technologists from across government and industry to modernize public-sector services
-  * **[Apolitical](https://apolitical.co/en)** - a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**
-* **[ACT-IAC](https://www.actiac.org/)** – Public-private partnership events and reports on federal tech  
+ 
+* **Join professional organizations** like:  <br>
+    - **[NCMA](https://ncmahq.org/)** – National Contract Management Association  <br>
+    - **[Technologists for the Public Good](https://www.publicgood.tech/)** – nonprofit professional association connecting technologists from across government and industry to modernize public-sector services  <br>
+    - **[Apolitical](https://apolitical.co/en)** – a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**  <br>
+    - **[ACT-IAC](https://www.actiac.org/)** – Public-private partnership events and reports on federal tech <br>
+  
 
 * **Subscribe to curated content** that filters the noise and brings key updates to your inbox:  
   * Federal News Network newsletters  
@@ -71,7 +73,7 @@ Staying current also means learning from the people shaping the conversation. Yo
 It’s easy to fall behind if learning isn’t part of your routine. Here are small but effective ways to stay on top of change:
 
 * **Set a monthly “tech check” reminder** to scan newsletters or skim recent articles  
-  **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team  
+* **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team  
 * **Add tech trend reviews** to after-action discussions or procurement retrospectives  
 * **Block time during less busy weeks** for self-guided learning or event replays
 
@@ -137,39 +139,39 @@ Use the template below to guide your Procurement Retrospective and reflect on wh
 
 1\. What went well?
 
-*   
-*   
-* 
+*   <br>
+*   <br>
+*  <br>
 
 ---
 
 2\. What could have gone better?
 
-*   
-*   
-* 
+*    <br>
+*    <br>
+*  <br>
 
 ---
 
 3\. What should we try next time?
 
-*   
-*   
-* 
+*    <br>
+*    <br>
+*  <br>
 
 ---
 
 4\. What should we repeat or reinforce?
 
-*   
-*   
-* 
+*   <br> 
+*    <br>
+*  <br>
 
 ---
 
 5\. Lessons Learned Summary
 
-*(Summarize the top 1–3 takeaways in 1–2 sentences.)*
+*(Summarize the top 1–3 takeaways in 1–2 sentences.)*  <br> <br>
 
 ---
 
@@ -353,7 +355,7 @@ Over 40 years ago, Dr. Kotter began observing leaders and organizations as they 
 
 Let’s look at each of these eight steps by studying examples of companies, organizations, and even some unlikely heroes who have put each (if not all) of these steps into action.
 
-![A circular diagram representing the 8 steps of Kotter's Model. The steps are presented as bubbles in a clockwise order starting from the top: 1. Create a sense of urgency. 2. Build a guiding coalition. 3. Form a strategic vision 4. Enlist a volunteer army. 5. Enable action by removing barriers. 6. Generate short-term wins. 7. Sustain acceleration. 8. Institute change](https://github.com/kristenjernigan/kj-liatest/blob/94aaa942ab3164668e59706b41d92276c52e6514/Media/Module%205/8Steps_Final_Transparent%20resized2.webp)
+![A circular diagram representing the 8 steps of Kotter's Model. The steps are presented as bubbles in a clockwise order starting from the top: 1. Create a sense of urgency. 2. Build a guiding coalition. 3. Form a strategic vision 4. Enlist a volunteer army. 5. Enable action by removing barriers. 6. Generate short-term wins. 7. Sustain acceleration. 8. Institute change](https://github.com/kristenjernigan/ditap-curriculum-update/blob/999f0210943953dccd872f0dbaf3ac191fb9ddf7/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/8Steps_Final_Transparent%20resized2.webp?raw=true)
 
 *Figure 1 Source: [Kotter International](http://www.kotterinternational.com/the-8-step-process-for-leading-change/)*
 
