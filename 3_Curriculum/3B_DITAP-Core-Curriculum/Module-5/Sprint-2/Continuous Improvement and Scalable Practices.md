@@ -73,7 +73,7 @@ Staying current also means learning from the people shaping the conversation. Yo
 It’s easy to fall behind if learning isn’t part of your routine. Here are small but effective ways to stay on top of change:
 
 * **Set a monthly “tech check” reminder** to scan newsletters or skim recent articles  
-  **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team  
+* **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team  
 * **Add tech trend reviews** to after-action discussions or procurement retrospectives  
 * **Block time during less busy weeks** for self-guided learning or event replays
 
@@ -139,39 +139,39 @@ Use the template below to guide your Procurement Retrospective and reflect on wh
 
 1\. What went well?
 
-*   
-*   
-* 
+*   <br>
+*   <br>
+*  <br>
 
 ---
 
 2\. What could have gone better?
 
-*   
-*   
-* 
+*    <br>
+*    <br>
+*  <br>
 
 ---
 
 3\. What should we try next time?
 
-*   
-*   
-* 
+*    <br>
+*    <br>
+*  <br>
 
 ---
 
 4\. What should we repeat or reinforce?
 
-*   
-*   
-* 
+*   <br> 
+*    <br>
+*  <br>
 
 ---
 
 5\. Lessons Learned Summary
 
-*(Summarize the top 1–3 takeaways in 1–2 sentences.)*
+*(Summarize the top 1–3 takeaways in 1–2 sentences.)*  <br> <br>
 
 ---
 
