@@ -729,7 +729,7 @@ With respect to communications with unsuccessful offerors, FAR Subpart 13.106-3(
 
 FAR 8.405-2(d) states: “If an unsuccessful offeror requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the award decision shall be provided.” As with simplified acquisitions, explanations can be simply stated. For example, the CO may say that the selected offer provides better value consistent with the evaluation factors outlined in the Government’s Request for Quotations. While not required to furnish additional information to an unsuccessful offeror, some agencies may elect to do so.
 
-⚠️ *Avoid using “FAR Part 15” language for simplified methods — it may trigger protest grounds.*
+>⚠️ *Avoid using “FAR Part 15” language for simplified methods — it may trigger protest grounds.*
 
 Generally, the Contracting Officer schedules and organizes the feedback session once a request is received, in a timely fashion. The COR, Program Manager/Program Lead, and other technical specialists support the CO and may lead the discussion of or address questions related to the technical findings/evaluation, if applicable.
 
