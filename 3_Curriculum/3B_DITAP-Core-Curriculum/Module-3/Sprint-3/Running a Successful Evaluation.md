@@ -26,7 +26,9 @@ Agile acquisitions commonly use a multi-phased evaluation approach, or down-sele
 ---
    
 **3\. Interactive Evaluation**  
-  Subsequent phases involve interactive exchanges with shortlisted vendors. These may include:  
+
+Subsequent phases involve interactive exchanges with shortlisted vendors. These may include:  
+
 * Technical demonstrations  
 * Solution walkthroughs  
 * Team presentations or problem-solving sessions
