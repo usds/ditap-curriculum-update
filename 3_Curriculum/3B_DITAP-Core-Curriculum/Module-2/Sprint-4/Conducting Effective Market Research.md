@@ -91,9 +91,10 @@ List any tools, websites, or platforms that you find valuable.
 
 | Name/Link | Description | Why It’s Useful to Me |
 | :---- | :---- | :---- |
-| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
-| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
-| &nbsp;<br><br> | &nbsp;<br><br> | &nbsp;<br><br> |
+| <br><br> | <br><br> | <br><br> |
+| <br><br> | <br><br> | <br><br> |
+| <br><br> | <br><br> | <br><br> |
+
 
 
 ### Concepts I Want to Try:
