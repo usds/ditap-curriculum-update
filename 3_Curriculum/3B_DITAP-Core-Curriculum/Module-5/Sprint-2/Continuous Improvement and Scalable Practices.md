@@ -8,7 +8,7 @@ Technology and policy in the federal space are evolving faster than ever. From e
 
 In your role, you’re not just supporting procurement, you’re enabling agency success. Your ability to adapt, learn, and apply new knowledge directly impacts how effectively your agency meets its goals.
 
-But keeping up doesn’t just happen. It takes intention. Continuous learning isn’t a one-time event \- it’s a mindset and a habit. By staying curious, seeking out new tools and trends, and learning from each acquisition you manage, you build resilience and stay relevant in a fast-changing environment.
+But keeping up doesn’t just happen. It takes intention. Continuous learning isn’t a one-time event, it’s a mindset and a habit. By staying curious, seeking out new tools and trends, and learning from each acquisition you manage, you build resilience and stay relevant in a fast-changing environment.
 
 Continuous learning also strengthens your ability to lead change. Whether you're exploring new contracting strategies, testing out new digital tools, or mentoring others, your growth can create a ripple effect across your team and agency.
 
@@ -25,18 +25,18 @@ Technology is reshaping the way the federal government delivers services, and ac
 
 Emerging tech isn’t just for IT teams. Staying informed about technology trends empowers you to:
 
-* Engage in more meaningful conversations with program and technical staff  
-* Structure solicitations that reflect modern capabilities  
-* Anticipate how industry might respond to your requirements  
-* Support mission delivery with smarter, more adaptive contracts
+* Engage in more meaningful conversations with program and technical staff.  
+* Structure solicitations that reflect modern capabilities.  
+* Anticipate how industry might respond to your requirements.  
+* Support mission delivery with smarter, more adaptive contracts.
 
 ### Tech in Action: Generative AI and Federal Acquisition
 
 Take **generative AI** as an example. It has already begun influencing how acquisition professionals:
 
-* Conduct **market research** by analyzing vendor data more efficiently  
-* Draft or refine **performance work statements** using AI-assisted language tools  
-* Create **procurement templates** that reflect emerging best practices
+* Conduct **market research** by analyzing vendor data more efficiently.  
+* Draft or refine **performance work statements** using AI-assisted language tools.  
+* Create **procurement templates** that reflect emerging best practices.
 
 This type of fast-moving innovation requires curiosity and a commitment to staying informed, even when formal guidance is still evolving.
 
@@ -99,7 +99,7 @@ Continuous improvement doesn’t always require a big initiative. In fact, some 
 
 ### Conducting Mini "Lessons Learned"
 
-After each procurement, take time to reflect on what went well and what could be improved. This doesn't have to be formal—just 20–30 minutes of focused discussion with your team or program partners can surface valuable insights.
+After each procurement, take time to reflect on what went well and what could be improved. This doesn't have to be formal, just 20–30 minutes of focused discussion with your team or program partners can surface valuable insights.
 
 You might ask:
 
@@ -216,7 +216,7 @@ You don’t need permission to improve. You just need a process. Continuous impr
 
 ### Why Practical Guides Matter
 
-In a world where priorities shift quickly, and government work often spans legacy systems, new technology, and evolving policy—all at once—practical guides serve as anchors. These aren’t academic white papers or compliance manuals. They’re the working memory of an organization—what to do, how to do it, and why it works.
+In a world where priorities shift quickly, and government work often spans legacy systems, new technology, and evolving policy, all at once, practical guides serve as anchors. These aren’t academic white papers or compliance manuals. They’re the working memory of an organization, what to do, how to do it, and why it works.
 
 From playbooks and field guides to toolkits and checklists, these documents help public servants act with clarity and confidence. When done well, they create space for consistency and flexibility, helping teams avoid reinventing the wheel without boxing them in. Practical guides are useful not because they prescribe every step, but because they distill collective experience into something others can learn from, use, and adapt.
 
@@ -273,15 +273,15 @@ All of these can be living documents that evolve over time—and they should.
 
 In digital services and procurement, the best guides are shaped by the work itself. They reflect the real challenges and lessons teams face: the security hurdles, the policy gray areas, the user needs that were harder to pin down than expected.
 
-A good practical guide doesn’t start from scratch. It connects the dots across what’s already known: past successes, near-misses, and repeatable strategies. That’s why they’re so valuable in government—where historical knowledge often lives in inboxes or walks out the door when someone retires.
+A good practical guide doesn’t start from scratch. It connects the dots across what’s already known: past successes, near-misses, and repeatable strategies. That’s why they’re so valuable in government, where historical knowledge often lives in inboxes or walks out the door when someone retires.
 
 Practical guides help:
 
-* Standardize quality while allowing for local adaptation  
-* Onboard new team members faster  
-* Support decision-making in complex or unfamiliar situations  
-* Preserve institutional knowledge  
-* Promotes user-centered thinking
+* Standardize quality while allowing for local adaptation.  
+* Onboard new team members faster.  
+* Support decision-making in complex or unfamiliar situations.  
+* Preserve institutional knowledge.  
+* Promotes user-centered thinking.
 
 ### Creating Your Own: What Makes a Guide Practical
 
@@ -293,29 +293,29 @@ Here’s what separates a practical guide from a dense report or policy doc:
 * **It includes context, but not fluff**: People need just enough background to understand how to apply it.  
 * **It evolves**: It’s meant to be updated based on what people learn using it.
 
-The best guides aren’t written in a vacuum. They’re co-created by the people doing the work. They document how the team actually operates—not just how it should.
+The best guides aren’t written in a vacuum. They’re co-created by the people doing the work. They document how the team actually operates, not just how it should.
 
 ### When to Create One
 
 Not every challenge needs a guide. But if any of these sound familiar, it might be time:
 
-* You’re answering the same questions repeatedly  
-* Your team is trying to scale or onboard new people quickly  
-* A process is harder than it needs to be  
-* Institutional memory is at risk  
-* You want to spread something that worked well to other teams
+* You’re answering the same questions repeatedly.  
+* Your team is trying to scale or onboard new people quickly.  
+* A process is harder than it needs to be.  
+* Institutional memory is at risk.  
+* You want to spread something that worked well to other teams.
 
 ### A Tool for Culture Change
 
 Creating and using practical guides isn’t just about documentation. It’s about culture. When teams invest time in making things clearer and more repeatable, they’re also investing in transparency, equity, and shared ownership.
 
-Encouraging others to adapt and improve the guides over time makes them more than just a resource—they become part of how your organization learns. And when your guides are public or shared across agencies, they build bridges. They become proof that government can work smarter, together.
+Encouraging others to adapt and improve the guides over time makes them more than just a resource, they become part of how your organization learns. And when your guides are public or shared across agencies, they build bridges. They become proof that government can work smarter, together.
 
 ### Final Thoughts
 
-In the public sector, these practical guides represent a strategic mechanism for navigating the complexities of digital transformation. They provide a structured approach to overcome challenges such as legacy systems, skill gaps, and bureaucratic inertia, effectively bridging the digital divide between the public and private sectors. Beyond mere standardization, playbooks in government play a dual role: they standardize effective practices while simultaneously driving cultural transformation. They instill new mindsets—emphasizing user-centricity and digital-first approaches—and cultivate an environment of agility, transparency, and innovation necessary to modernize public service delivery.
+In the public sector, these practical guides represent a strategic mechanism for navigating the complexities of digital transformation. They provide a structured approach to overcome challenges such as legacy systems, skill gaps, and bureaucratic inertia, effectively bridging the digital divide between the public and private sectors. Beyond mere standardization, playbooks in government play a dual role: they standardize effective practices while simultaneously driving cultural transformation. They instill new mindsets, emphasizing user-centricity and digital-first approaches, and cultivate an environment of agility, transparency, and innovation necessary to modernize public service delivery.
 
-You don’t have to write a book. Sometimes all you need is a one-pager that helps someone take the next step with confidence. The goal of any guide—no matter the format—is the same:
+You don’t have to write a book. Sometimes all you need is a one-pager that helps someone take the next step with confidence. The goal of any guide, no matter the format, is the same:
 
 **Make it easier for people to do the right thing well.**
 
@@ -328,7 +328,7 @@ Start small. Keep it real. And make it shareable.
 
 Introduction
 
-Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them—in combination with other tactics and techniques—to drive change. This online learning will build upon that study and focus on how to lead the change itself.
+Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them, in combination with other tactics and techniques, to drive change. This online learning will build upon that study and focus on how to lead the change itself.
 
 In this online module, you’ll learn about a framework to help you think about the phases of change and some specific strategies you can use to implement change at each phase.
 
@@ -336,11 +336,11 @@ In this online module, you’ll learn about a framework to help you think about 
 
 Change is one of the few constants. According to Dr. John Kotter, a Harvard Professor and authority on change and leadership, society is not only changing, it’s changing faster than ever before, and our capacity to keep up with said change is not maintaining the same pace.
 
-Typically, change can be viewed as something that happens *to* you, rather than something that is created *by* you. This may be a symptom of position – or operating from the middle of the organization without a lot of formal authority. This may also be a matter of comfort or complacency; after all, if you’re not calling the shots, you can’t be blamed for the decision if it goes wrong (or so the thought process goes). Change can be scary, inconvenient, and cumbersome, but change can also lead to better, more efficient processes, innovative thinking, and a reinvigorated workforce.
+Typically, change can be viewed as something that happens *to* you, rather than something that is created *by* you. This may be a symptom of position, or operating from the middle of the organization without a lot of formal authority. This may also be a matter of comfort or complacency; after all, if you’re not calling the shots, you can’t be blamed for the decision if it goes wrong (or so the thought process goes). Change can be scary, inconvenient, and cumbersome, but change can also lead to better, more efficient processes, innovative thinking, and a reinvigorated workforce.
 
 ### Start Small
 
-A key best practice to leading change—whether leading change in how your agency operates or leading change in your own life (e.g., starting a new exercise regime)—is to start with small, iterative changes. Choose something that is “easy” to adopt and implement. The success of even the smallest accomplishments can prepare you to succeed in bigger areas, as well as build your influence and reputation within your agency as a person who can accomplish tasks. It’s the same concept that underlies the “buy small/miss small” principle you learned about in earlier releases.
+A key best practice to leading change—whether leading change in how your agency operates or leading change in your own life (e.g., starting a new exercise regime), is to start with small, iterative changes. Choose something that is “easy” to adopt and implement. The success of even the smallest accomplishments can prepare you to succeed in bigger areas, as well as build your influence and reputation within your agency as a person who can accomplish tasks. It’s the same concept that underlies the “buy small/miss small” principle you learned about in earlier releases.
 
 Once you’ve successfully accomplished one change, look for the next one. If the next change is bigger, analyze how to break it down into smaller pieces and work incrementally until the change is accomplished.
 
@@ -475,7 +475,7 @@ Have you ever had a manager who was able to get you what you needed when you nee
 ---
 ### Step 6: Generate Short-Term Wins
 
-Small successes should be “collected, categorized, and communicated – early and often – to track progress and energize your army to drive change.” Wins should be widely agreed upon as successes that, when celebrated, act to “pull” or intrigue the “skeptics.” They also help carry the army through the long-term rollercoaster of a new project or process. It also makes people feel better in the face of inevitable setbacks.
+Small successes should be “collected, categorized, and communicated, early and often, to track progress and energize your army to drive change.” Wins should be widely agreed upon as successes that, when celebrated, act to “pull” or intrigue the “skeptics.” They also help carry the army through the long-term rollercoaster of a new project or process. It also makes people feel better in the face of inevitable setbacks.
 
 Here are some things to keep in mind when considering how to celebrate short-term wins:
 
@@ -624,7 +624,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 Knowing your change style is a powerful first step. Now, it’s time to turn that insight into action.
 
-Continuous learning and improvement don’t happen by accident—they happen through small, intentional choices made over time. This section prompts you to craft a simple plan to guide how you'll contribute to positive change in your agency, starting today.
+Continuous learning and improvement don’t happen by accident, they happen through small, intentional choices made over time. This section prompts you to craft a simple plan to guide how you'll contribute to positive change in your agency, starting today.
 
 Take a few minutes to reflect and jot down your responses to the prompts below. You’re encouraged to tie your personal strengths, whether you’re a Connector, Implementer, Strategist, or Challenger, to specific, concrete actions.
 
@@ -644,7 +644,7 @@ Take a few minutes to reflect and jot down your responses to the prompts below. 
  *(Example: I’ll set aside one hour each month for a “tech check” and review a recent article or case study.)*  
  
 
-This doesn’t need to be a full strategic plan—just a focused way to anchor your strengths to action. Whether you’re mentoring a colleague, piloting a new procurement strategy, or simply building your tech fluency, **your contribution matters**.
+This doesn’t need to be a full strategic plan, just a focused way to anchor your strengths to action. Whether you’re mentoring a colleague, piloting a new procurement strategy, or simply building your tech fluency, **your contribution matters**.
 
 >**Tip:** Want to take it further? Share your plan with a teammate, mentor, or supervisor to help stay accountable—and inspire others to do the same.
 
@@ -653,7 +653,7 @@ This doesn’t need to be a full strategic plan—just a focused way to anchor y
 
 **Stay curious. Stay current. Stay engaged.**
 
-As you wrap up this module—and the course—you’ve explored how continuous learning, personal strengths, and proactive curiosity are essential tools for thriving in a rapidly evolving federal acquisition landscape.
+As you wrap up this module, and the course, you’ve explored how continuous learning, personal strengths, and proactive curiosity are essential tools for thriving in a rapidly evolving federal acquisition landscape.
 
 >**Remember:** leading change doesn’t require a title—it requires initiative.  
 Small actions, consistent habits, and a willingness to try something new can have a meaningful impact on your agency, your team, and the citizens you serve.
