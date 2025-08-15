@@ -43,13 +43,13 @@ As with most processes and initiatives, work gets accomplished in acquisition as
 
 As you lead change in digital services acquisition (and therefore change in your agency’s acquisition policies and practices), these networks, relationships, and employee commitments are assets you need. 
 
-![An overhead shot of people sitting around a large white circular table, most holding smartphones or tablets.](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/influence%20conversation.png)
+![An overhead shot of people sitting around a large white circular table, most holding smartphones or tablets.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/influence%20conversation.png?raw=true)
 
 To meet the contracting needs of your digital services team, you'll be asking your agency to make changes in its procurement practices, how people work together, and the operating tempo of the acquisition lifecycle. 
 
 In this module, you'll revisit how to prepare for an influence conversation by taking a second look at the following steps: 
 
-![An infographic with four steps, each representing a step in an influence conversation. From top to bottom: 1. Identify the Need or Problem for the Influence Conversation. 2. Target the range of influencers who can satisfy the need or help solve the problem. 3. Select those with the greatest leverage. 4. Prepare for the conversation using the Ladder of Inference.](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/steps%20for%20influence%20conversation.png)
+![An infographic with four steps, each representing a step in an influence conversation. From top to bottom: 1. Identify the Need or Problem for the Influence Conversation. 2. Target the range of influencers who can satisfy the need or help solve the problem. 3. Select those with the greatest leverage. 4. Prepare for the conversation using the Ladder of Inference.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/steps%20for%20influence%20conversation.png?raw=true)
 
 ## Identify the Need or Problem
 
@@ -57,7 +57,7 @@ As you lead a digital services procurement, you'll likely need to accomplish out
 
 You can anticipate this resistance by understanding what you are working to change and what roles in the process it might affect.   
 
-![A man in a dark suit and blue shirt with a tie sits at a round table, looking down thoughtfully while writing on a piece of paper. ](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/man%20thinking.png)
+![A man in a dark suit and blue shirt with a tie sits at a round table, looking down thoughtfully while writing on a piece of paper.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/man%20thinking.png?raw=true)
 
 Think of a particular problem, opportunity, or need you have as a digital services acquisition leader. The following are representative examples of challenges you may face in your agencies and live digital assignments: 
 
@@ -91,7 +91,7 @@ As you think about this topic, consider the following:
 
 Based on the problem you have selected, identify the range of influencers who can help you address this problem. Refer back to the Stakeholder Analysis Activity to help you get started. In some cases, you may need to reach out to your own network and mentors for help in identifying the influencers who you have some direct or indirect power over. 
 
-![A group of business people stand on a network of interconnected circles, simulating a social or professional network](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/target%20range%20of%20influencers.png)
+![A group of business people stand on a network of interconnected circles, simulating a social or professional network](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/target%20range%20of%20influencers.png?raw=true)
 
 The following table lists some example challenges you may encounter, along with the potential range of influencers affected by that issue or challenge. These influencers have the potential to either improve your ability to overcome the challenge or prevent you from accomplishing what you need. 
 
@@ -127,7 +127,7 @@ As you think about this topic, consider the following:
 
 After identifying the range of influencers, you need to narrow down your list and choose those with the greatest leverage or impact over your issue or challenge. You may need to turn to your adviser or mentor for assistance in this process.   
 
-![A professional woman in a dark shirt gestures towards a complex network of interconnected circular profile pictures of individuals, appearing to touch one of the connections. The network of faces spreads around her, symbolizing connections and influence.](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/leverage.png)
+![A professional woman in a dark shirt gestures towards a complex network of interconnected circular profile pictures of individuals, appearing to touch one of the connections. The network of faces spreads around her, symbolizing connections and influence.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/leverage.png?raw=true)
 
 To help you determine who has the greatest leverage in your situation, answer the following questions: 
 
@@ -144,7 +144,7 @@ Based on your answer to these questions, select the influencer who can most impa
 
 ## Prepare for the Conversation Using the Ladder of Inference 
 
-![Two businessmen, both wearing suits, are shaking hands and smiling](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/two%20men%20shaking%20hands.png)
+![Two businessmen, both wearing suits, are shaking hands and smiling](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/two%20men%20shaking%20hands.png?raw=true)
 
 Now that you have identified the person of greatest influence for your problem, it's time to plan your conversation with them.   
 We each enter a new conversation or new environment with a set of preconceptions or biases. The Ladder of Inference is a tool to understand how we develop and take action on these biases and preconceptions. The Ladder works like this: 
@@ -155,7 +155,7 @@ We each enter a new conversation or new environment with a set of preconceptions
 4. On the third rung, we develop theories and beliefs that explain our interpretation.   
 5. Finally, we take action based on those theories and beliefs. 
 
-![An image of a blue step ladder on the left, with an upward-pointing blue arrow next to it on the right. Along the arrow, five bullet points are listed from bottom to top, representing the steps of the Ladder of Inference: -Observable data or phenomena, -Focus on specific data, -Interpret the data and explain what it means, -Develop theories and beliefs, -Take action.](https://github.com/kristenjernigan/kj-liatest/blob/9e11fd265cf81cfb6b797f6045e80a6f8f157447/Media/Module%205/ladder%20of%20inference.png)
+![An image of a blue step ladder on the left, with an upward-pointing blue arrow next to it on the right. Along the arrow, five bullet points are listed from bottom to top, representing the steps of the Ladder of Inference: -Observable data or phenomena, -Focus on specific data, -Interpret the data and explain what it means, -Develop theories and beliefs, -Take action.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/ladder%20of%20inference.png?raw=true)
 
 You can best prepare for your influence conversation by working to understand the potential Ladders of Inference you and your influencer may be using. 
 
@@ -218,11 +218,11 @@ At the conclusion of this section, you will be able to:
 * Identify useful tactics for how to react to problems.   
 * Recognize common topics that contribute to misalignment of acquisition strategies and Agile methodology. 
 
-![Checkmark](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/check%20mark.png)
+![Checkmark](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/check%20mark.png?raw=true)
 
 ## Why Can Conversations Be Difficult?
 
-![A black and white headshot of Winston Churchill wearing a dark hat and a bow tie.](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/churchill.png)
+![A black and white headshot of Winston Churchill wearing a dark hat and a bow tie.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/churchill.png?raw=true)
 
 “**Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.**”
 
@@ -234,26 +234,26 @@ As you saw in the classroom sessions, implementing change is not easy; it requir
 
 The first step in navigating difficult conversations and situations in general, is to prepare and strategize. Here are some techniques to help you prepare for a difficult conversation. 
 
-![A hand holding a piece of chalk is drawing a clock face with the hands at almost 12 o'clock on a dark blue chalkboard. Above the clock face, the words 'Time to Think' are written in large, yellow chalk letters](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/time%20to%20think.png)
+![A hand holding a piece of chalk is drawing a clock face with the hands at almost 12 o'clock on a dark blue chalkboard. Above the clock face, the words 'Time to Think' are written in large, yellow chalk letters](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/time%20to%20think.png?raw=true)
 
 
 **1\. Reframe** 
 
 The first thing is to not think of it as a difficult conversation that you need to have, but rather frame your approach in a more positive way. Social psychologists have long explored the impact that labels have in influencing people’s behavior, from perpetuating stereotypes to even changing people’s fundamental self, concepts and identities. In this case, don’t label the conversation, or more importantly the person, as difficult. Instead, approach the conversation as though you’re having a constructive conversation about development. Think about your shared goals and the fact that you’re trying to produce better outcomes for you and the person you’re talking to. Leave the combative me vs. them mentality at home. 
 
-![A man wearing glasses, a dark suit, and a tie is seated at a desk, intently typing on a computer keyboard.](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/man%20at%20computer.png)
+![A man wearing glasses, a dark suit, and a tie is seated at a desk, intently typing on a computer keyboard.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/man%20at%20computer.png?raw=true)
 
 **2\. Prepare** 
 
 If someone comes to you with an issue that might lead to a hard conversation, breathe, take a break – get a cup of coffee or get a glass of water. Collect your thoughts. Before you revisit the conversation, jot down a few notes to help you maintain your focus to be simple, clear, direct, and neutral. Be flexible and consider potential responses.
 
-![An overhead shot of three business people at a rectangular table covered with papers](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/business%20people%20at%20table%20with%20papers.png)
+![An overhead shot of three business people at a rectangular table covered with papers](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/business%20people%20at%20table%20with%20papers.png?raw=true)
 
 **3\. Listen Deeply** 
 
 Think back to Churchill’s quote. Truly and actively listening is a courageous act and one that will buy you goodwill with the other person and help you get to the bottom of the issue. Listen for what the problem is, and for what the other person thinks the problem is. If you don’t understand what the problem is, acknowledge that and ask, and make sure neither of you are making assumptions. Show an interest in the person’s feelings that you’re talking to, and look for overlap in your points of view. Problems are complicated. Avoid oversimplification by respecting the problem you’re trying to resolve and the person you’re talking to.  
 
-![A man and a woman in business attire are seated at a table in an office setting. The man on the left is holding up a paper and gesturing with his right hand as he speaks to the woman. The woman on the right is looking at the papers on the table and appears to be speaking or explaining something](https://github.com/kristenjernigan/kj-liatest/blob/640bc6b71dc44f34b09c2be3ab1dcdd429f9de09/Media/Module%205/man%20woman%20at%20table.png)
+![A man and a woman in business attire are seated at a table in an office setting. The man on the left is holding up a paper and gesturing with his right hand as he speaks to the woman. The woman on the right is looking at the papers on the table and appears to be speaking or explaining something](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/man%20woman%20at%20table.png?raw=true)
 
 **4\. Deliver Difficult News Directly but Considerately** 
 
@@ -474,7 +474,7 @@ Consider another example: Walt Disney had great success with 1994’s The Lion K
 
 What Disney Animation, and many other firms and individuals, sometimes lack is a true belief in risk taking and the importance of embracing failure as part of the learning journey. Psychologist Carol Dweck explores perspectives on risk-taking, among other things, in her study of what she calls the “growth mindset.” As Dweck explains in her [TED talk on the topic](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve), having a growth mindset is the difference between thinking flexibly and having a static mindset. Dweck has explored how this concept applies to K-12 education as well as to adults and organizations. The infographic below describes some of the main characteristics of this mindset.
 
-![Infographic explaining the characteristics of a fixed vs. growth mindset. A fixed mindset avoids challenges, gives up easily, sees effort as fruitless or worse, ignores useful negative feedback and feels threatened by the success of others. A growth mindset embraces challenges, persists in the face of setbacks, sees effort as the path to master, learns from criticism, and finds lessons and inspiration in the success of others.](https://github.com/kristenjernigan/kj-liatest/blob/a841b35a44e7356b294d3a5632b66ba6dbe6f9ba/Media/Module%205/growth%20mindset.png)
+![Infographic explaining the characteristics of a fixed vs. growth mindset. A fixed mindset avoids challenges, gives up easily, sees effort as fruitless or worse, ignores useful negative feedback and feels threatened by the success of others. A growth mindset embraces challenges, persists in the face of setbacks, sees effort as the path to master, learns from criticism, and finds lessons and inspiration in the success of others.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/ed7baf42f63b389dfef9792fcbab9b9a494ec387/3_Curriculum/3B_DITAP-Core-Curriculum/Module-5/Module-5-Media/growth%20mindset.png?raw=true)
 
 *Farnam Street Media Inc. (2015, March – April). *Carol Dweck: A summary of growth and fixed mindsets* \[Diagram\]. *Farnam Street*. [https://fs.blog/carol-dweck-mindset/](https://fs.blog/carol-dweck-mindset/)*
 
@@ -593,7 +593,7 @@ You’ve determined that this is an important enough topic that you should pursu
 
 Now that you’ve assessed the root of the “no,” considered whether or how to advance change, and considered the right-size amount of change, determine how best to approach the situation. Use the Lean “[build-measure-learn](http://theleanstartup.com/principles)” approach here. Decide how to adjust, test it out, and see how it works. Then, learn from the experience by documenting lessons learned and sharing them with others.
 
-Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal\! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
+Remember our discussion of wellness rituals and performance areas from our earlier discussion? [Well, it just so happens that research shows that capitalizing on your strengths leads you to feel revitalized](http://www.sciencedirect.com/science/article/pii/S0191886910003946). Another wellness ritual to add to your arsenal! If you’re dealing with a difficult situation, remind yourself and affirm your strengths. Then, think about how to leverage those strengths along your change and innovation journey.
 
 ---
 ## Telling Your Procurement Story
