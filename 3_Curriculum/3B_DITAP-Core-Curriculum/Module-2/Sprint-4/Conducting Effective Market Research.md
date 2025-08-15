@@ -125,7 +125,8 @@ Jot down any questions that come up during the course you want to revisit or dis
 
 The Magic Quadrant is a market research tool used by the market research firm Gartner. The Magic Quadrant tool helps you think about the market through the lens of your customer’s needs. As Gartner explains in its discussion of the Magic Quadrant, you can generally segment a market four ways as depicted in the Magic Quadrant below:
 
-![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/kristenjernigan/kj-liatest/blob/a167e49b6dcb9af8b1d5faeaf9d8aebf4824e9b9/Media/Module%202/Gartner%20Magic%20Quadrant.png)
+![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9e4c0e623315e0cfe41418eedf977e06bf706f16/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Gartner%20Magic%20Quadrant.png?raw=true)
+
 
 *Graphic retrieved from [http://www.business2community.com/](http://www.business2community.com/) on 10/7/2016*  
 *Gartner Quadrant \- © 2016 Gartner, Inc. and/or its Affiliates. All Rights Reserved.*
