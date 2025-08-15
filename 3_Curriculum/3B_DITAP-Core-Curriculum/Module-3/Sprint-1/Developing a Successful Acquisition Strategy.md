@@ -37,15 +37,17 @@ Planning your acquisition strategy helps you outline the scheduling, integration
 
 Several key considerations inform the development of an acquisition strategy. It begins with the Product Vision, the principal driver of the overall acquisition solution. The Product Vision also influences how other conditions and considerations, both in the market and your acquisition environment, will be addressed in the acquisition solution. Conditions and considerations as they exist in the market and at your agency may have either positive or negative impacts on the acquisition strategy and solution. You want to plan for these impacts to seize opportunities and mitigate potential problems.
 
-These other conditions and considerations include, but are not limited to: <br>
-* Stakeholder engagement, including their level of capability and cooperation <br>
-* Availability and applicability of existing contract vehicles <br>
-* New contract vehicle considerations <br>
-* Contract type and pricing structure <br>
-* Funding and programmatic considerations <br>
-* Legacy systems and services, i.e., technical requirements, security concerns, risk, etc. <br>
-* State of the market <br>
-* How do you evaluate vendor quotes/proposals <br>
+These other conditions and considerations include, but are not limited to:
+
+- Stakeholder engagement, including their level of capability and cooperation
+- Availability and applicability of existing contract vehicles
+- New contract vehicle considerations
+- Contract type and pricing structure
+- Funding and programmatic considerations
+- Legacy systems and services, i.e., technical requirements, security concerns, risk, etc.
+- State of the market
+- How do you evaluate vendor quotes/proposals
+
   
 We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
 
