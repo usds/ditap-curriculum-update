@@ -197,31 +197,31 @@ Designing incentives is a team effort. The program office, product manager, and 
 
 When selecting metrics for your agile contract:
 
-1. Focus on a small number of high-impact metrics (5-7 maximum)  
-2. Ensure metrics are objective and measurable  
-3. Include both process metrics (how work is done) and outcome metrics (what value is delivered)  
-4. Establish realistic baseline expectations before setting targets  
-5. Plan for regular review and refinement of metrics as the project evolves  
+1. Focus on a small number of high-impact metrics (5-7 maximum).  
+2. Ensure metrics are objective and measurable.  
+3. Include both process metrics (how work is done) and outcome metrics (what value is delivered).  
+4. Establish realistic baseline expectations before setting targets.  
+5. Plan for regular review and refinement of metrics as the project evolves.  
    
 
 **Structuring Effective Incentives**
 
 When designing incentives:
 
-1. Align incentives with genuine value delivery, not just compliance activities  
-2. Make sure incentives are "tied to the process and ~~to~~ the release of functional code."  
-3. Consider using shorter performance periods with more frequent evaluation  
-4. Structure incentives to encourage collaboration rather than competition  
-5. Ensure incentives reach the actual team members performing the work  
+1. Align incentives with genuine value delivery, not just compliance activities.  
+2. Make sure incentives are "tied to the process and to the release of functional code."  
+3. Consider using shorter performance periods with more frequent evaluation.  
+4. Structure incentives to encourage collaboration rather than competition.  
+5. Ensure incentives reach the actual team members performing the work.  
    
 
 **Contract Administration Considerations**
 
-1. Establish clear processes for metrics collection and verification  
-2. Define the cadence for metrics review (typically aligned with sprint or release cycles)  
-3. Document how metrics will inform contract decisions  
-4. Train CORs specifically on agile metrics evaluation  
-5. Create feedback mechanisms to share performance insights with contractors
+1. Establish clear processes for metrics collection and verification.  
+2. Define the cadence for metrics review (typically aligned with sprint or release cycles).  
+3. Document how metrics will inform contract decisions.  
+4. Train CORs specifically on agile metrics evaluation.  
+5. Create feedback mechanisms to share performance insights with contractors.
 
 ---
 
@@ -356,9 +356,9 @@ Your success depends on creating structures that enable vendors to collaborate e
 
 * **Curating opportunities for feedback**, continuous improvement, and shared accountability across the ecosystem.
 
-A well-architected delivery marketplace creates the conditions for strong performance, reduced procurement lead times, and continuous improvement—not because vendors are forced to compete, but because the environment inspires quality, trust, and shared success.
+A well-architected delivery marketplace creates the conditions for strong performance, reduced procurement lead times, and continuous improvement, not because vendors are forced to compete, but because the environment inspires quality, trust, and shared success.
 
-Quarterly reviews and joint retrospectives are part of this architecture. These are not just status updates—they are intentional moments where vendors can:
+Quarterly reviews and joint retrospectives are part of this architecture. These are not just status updates, they are intentional moments where vendors can:
 
 * Raise systemic blockers
 
@@ -548,7 +548,7 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 * **Role Clarification Across Teams:** Clearly define how the COR, CO, PO, vendor team leads, and agency stakeholders interact to avoid duplicated or dropped responsibilities.
 
-* **Team Topologies:** Map how vendor teams are structured—e.g., platform team vs. feature teams—and clarify interdependencies.
+* **Team Topologies:** Map how vendor teams are structured, e.g., platform team vs. feature teams—and clarify interdependencies.
 
 #### Governance and Oversight
 
