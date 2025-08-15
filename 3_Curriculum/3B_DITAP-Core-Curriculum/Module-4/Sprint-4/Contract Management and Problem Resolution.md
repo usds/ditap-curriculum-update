@@ -2,7 +2,7 @@
 
 ## Federal IT Acquisition, Management, and Software Engineering Practices 
 
-Introduction
+### Introduction
 
 You have studied modern software engineering best practices, including DevOps, continuous integration and continuous delivery (CI/CD), DevSecOps, and AI-powered automation. These practices have revolutionized how successful organizations develop and deploy technology solutions. This module examines real federal IT challenges from the [U.S. Government Accountability Office (GAO)'s 2025 High Risk List](https://www.gao.gov/press-release/gao-urges-attention-2025-high-risk-list-save-billions-improve-government-efficiency-effectiveness) to help you apply these modern practices to government acquisition scenarios and understand how effective procurement can prevent systemic IT failures.
 
@@ -54,7 +54,7 @@ The Department of Education's attempt to modernize the Free Application for Fede
 
 **Quality Assurance and Testing Gaps:** Following deployment, the FSA identified 55 defects in the FPS, with seven categorized as "critical" and 20 remaining unresolved as of August 2024\. FSA told GAO that "they accepted the risk of reducing testing activities because the application cycle was already late and the department was required to launch by the statutory deadline".
 
-This decision reflects fundamental misunderstandings about balancing speed and quality in software delivery—principles that effective procurement structures should embed from contract inception.
+This decision reflects fundamental misunderstandings about balancing speed and quality in software delivery, principles that effective procurement structures should embed from contract inception.
 
 **Integration and Data Processing Problems:** The direct IRS data integration, a marquee feature of the new system, failed for approximately 20 percent of applications, necessitating extensive reprocessing. Integration challenges like this are predictable in complex modernization projects and should be addressed through contract requirements for iterative testing and incremental delivery.
 
