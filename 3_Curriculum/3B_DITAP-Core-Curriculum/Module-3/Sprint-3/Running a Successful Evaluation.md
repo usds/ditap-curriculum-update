@@ -533,9 +533,9 @@ Other tips for conducting effective negotiations:
 Once negotiations have concluded, several follow-up actions may occur:  
 
 * The Government may eliminate an offeror from further consideration because it no longer is considered part of the competitive range.    
-  * The CO confirms the negotiations in writing with each offeror and requests a final proposal revision. The revised proposal reflects all changes the offeror agreed to in the course of the negotiations.  
-  * After the Government receives the final proposal revisions, the evaluation team reconvenes and revises previous evaluation findings.   
-  * Finally, a source is selected for contract award.
+* The CO confirms the negotiations in writing with each offeror and requests a final proposal revision. The revised proposal reflects all changes the offeror agreed to in the course of the negotiations.  
+* After the Government receives the final proposal revisions, the evaluation team reconvenes and revises previous evaluation findings.   
+* Finally, a source is selected for contract award.
 
 ### Conclusion
 
