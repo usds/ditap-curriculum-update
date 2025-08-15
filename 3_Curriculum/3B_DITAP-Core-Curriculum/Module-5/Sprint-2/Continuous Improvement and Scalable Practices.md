@@ -57,11 +57,11 @@ Staying current also means learning from the people shaping the conversation. Yo
 * **Follow thought leaders** on platforms like LinkedIn or tune in to interviews on Federal News Network
 
  
-* **Join professional organizations** like:  
-    - **[NCMA](https://ncmahq.org/)** – National Contract Management Association  
-    - **[Technologists for the Public Good](https://www.publicgood.tech/)** – nonprofit professional association connecting technologists from across government and industry to modernize public-sector services  
-    - **[Apolitical](https://apolitical.co/en)** – a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**  
-    - **[ACT-IAC](https://www.actiac.org/)** – Public-private partnership events and reports on federal tech
+* **Join professional organizations** like:  <br>
+    - **[NCMA](https://ncmahq.org/)** – National Contract Management Association  <br>
+    - **[Technologists for the Public Good](https://www.publicgood.tech/)** – nonprofit professional association connecting technologists from across government and industry to modernize public-sector services  <br>
+    - **[Apolitical](https://apolitical.co/en)** – a Certified B Corporation which offers training opportunities for the public service and free communities on subjects like **Innovative Procurement**  <br>
+    - **[ACT-IAC](https://www.actiac.org/)** – Public-private partnership events and reports on federal tech <br>
   
 
 * **Subscribe to curated content** that filters the noise and brings key updates to your inbox:  
