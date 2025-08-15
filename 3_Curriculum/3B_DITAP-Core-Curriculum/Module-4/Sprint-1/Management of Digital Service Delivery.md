@@ -41,7 +41,7 @@ Your role supports this by ensuring contracts provide flexibility for discovery 
 
 ### Laying the Groundwork for Success
 
-The first few times you manage a digital service delivery, it may feel unfamiliar. That’s okay. It’s not about getting everything perfect upfront—it’s about building shared understanding and accountability.
+The first few times you manage a digital service delivery, it may feel unfamiliar. That’s okay. It’s not about getting everything perfect upfront, it’s about building shared understanding and accountability.
 
 Start by getting clear on roles and expectations:
 
@@ -51,15 +51,15 @@ Start by getting clear on roles and expectations:
 
 Before the contractor team even kicks off, consider establishing a project charter or communication plan that outlines how you’ll work together. These can be lightweight but powerful tools that define:
 
-* What success looks like  
-* How progress gets tracked  
-* Who owns decisions at different stages  
-* How and when to escalate concerns  
-* How you’ll celebrate wins—and how you’ll course-correct if needed
+* What success looks like.  
+* How progress gets tracked.  
+* Who owns decisions at different stages.  
+* How and when to escalate concerns.  
+* How you’ll celebrate wins—and how you’ll course-correct if needed.
 
 Remember: this stage is about delivery, but it’s also about learning, improving, and staying connected to the people and goals you’re serving. Agile contracts have shown up to three times higher success rates than traditional waterfall efforts—because of this continuous involvement, shared accountability, and focus on delivering real, working results.
 
-See the attached Sample Project Charter for a template to kick off this process  
+See the attached Sample Project Charter for a template to kick off this process:  
 [Project Charter](https://github.com/kristenjernigan/kj-liatest/blob/f53d53229e7892c3db3da17d4f9114d1dbc12982/Media/Module%204/Digital%20Service%20Delivery%20Project%20Charter.docx)
 
 
