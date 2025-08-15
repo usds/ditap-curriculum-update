@@ -76,8 +76,8 @@ These concepts can also be applied to acquisitions. Typically, the acquisition s
 The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page, both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
 
 ---
-
-### Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
+### Examples 
+Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
 
 
 #### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
