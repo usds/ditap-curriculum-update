@@ -36,8 +36,8 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 #### Activity: Leading Change and Navigating Resistance
 
-Time: 45–60 minutes <br>
-Purpose: To help learners recognize leadership traits and apply adaptive strategies for navigating resistance and advancing innovation
+**Time:** 45–60 minutes <br>
+**Purpose:** To help learners recognize leadership traits and apply adaptive strategies for navigating resistance and advancing innovation
 
 **Instructions:**
 
