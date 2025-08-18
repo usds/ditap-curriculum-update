@@ -34,7 +34,7 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 ### III. Session Agenda & Activities
 
-#### **Activity: Leading Change and Navigating Resistance**
+#### Activity: Leading Change and Navigating Resistance
 
 Time: 45–60 minutes <br>
 Purpose: To help learners recognize leadership traits and apply adaptive strategies for navigating resistance and advancing innovation
@@ -82,7 +82,7 @@ Purpose: To help learners recognize leadership traits and apply adaptive strateg
 - Help learners connect resistance patterns to common federal scenarios (budget cycles, political transitions, compliance concerns)
 - Guide discussion toward practical influence tactics within federal hierarchies
 
-**IV. Next Steps/Follow-Up:**
+### IV. Next Steps/Follow-Up:
 
 - Prepare for final reflections and recommendations in Module 6 (Milestones 4 and 5)
 - [Case studies on Acquisition Innovation challenges](https://acquisitiongateway.gov/additional-resources/resources/4173?\_a%5Eg_nid=252)
