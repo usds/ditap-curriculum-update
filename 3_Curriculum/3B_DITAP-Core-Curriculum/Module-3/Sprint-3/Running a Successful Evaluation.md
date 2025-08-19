@@ -129,7 +129,7 @@ Evaluation criteria are the cornerstone of any well-structured source selection 
 8. **Mitigate Legal and Procedural Risk**  
    Properly structured evaluation criteria that align with the FAR and applicable policies reduce the risk of procedural challenges or post-award protests.
 
-In short, evaluation criteria are not a formality, they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
+In short, evaluation criteria are not a formality; they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
 
 ---
 ### III. Selecting Appropriate Evaluation Criteria
@@ -544,7 +544,7 @@ Negotiations can be daunting, but with planning and preparation, you can navigat
 
 Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Template_Pre-Negotiation_Memo.doc)
+* [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/327d5714aab33bb50a7d11c6a216c3f374991a82/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Pre-Negotiation_Memo_Template.md)
 * [Checklist of Negotiation Steps](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Checklist_Negotiation_Steps.doc)
 * [Negotiations and Source Selection Q&A](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
 * [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
