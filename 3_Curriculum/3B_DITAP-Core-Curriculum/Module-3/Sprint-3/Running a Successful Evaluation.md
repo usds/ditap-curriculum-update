@@ -129,7 +129,7 @@ Evaluation criteria are the cornerstone of any well-structured source selection 
 8. **Mitigate Legal and Procedural Risk**  
    Properly structured evaluation criteria that align with the FAR and applicable policies reduce the risk of procedural challenges or post-award protests.
 
-In short, evaluation criteria are not a formality, they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
+In short, evaluation criteria are not a formality; they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
 
 ---
 ### III. Selecting Appropriate Evaluation Criteria
@@ -544,10 +544,10 @@ Negotiations can be daunting, but with planning and preparation, you can navigat
 
 Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Template_Pre-Negotiation_Memo.doc)
-* [Checklist of Negotiation Steps](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/VAO_Checklist_Negotiation_Steps.doc)
-* [Negotiations and Source Selection Q&A](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
-* [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
+* [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/327d5714aab33bb50a7d11c6a216c3f374991a82/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Pre-Negotiation_Memo_Template.md)
+* [Checklist of Negotiation Steps](https://github.com/kristenjernigan/ditap-curriculum-update/blob/0b37aeabeb7011d0b21ddd805477bef5cce0e5bd/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Checklist_of_Negotiation_Steps.md)
+* [Negotiations and Source Selection Q&A](https://github.com/kristenjernigan/ditap-curriculum-update/blob/87b28ec8afe6285794d6510ac525eaeea5aa5ed9/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
+* [Price Negotiation Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/51a7ccbe80d381e2c0134be1df772904be15037f/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Price_NEG_Memo.pdf)
 
 
 ---
@@ -844,9 +844,9 @@ During the debriefing, DON’T:
 
 Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Debriefing Agendas Template](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Debriefing_Agendas.cfm.docx)   
-* [Proposed Debriefing Agenda](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Proposed_Debriefing_Agenda.cfm.doc)   
-* [Sample Debriefing](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Sample_Debriefing.pdf)
+* [Debriefing Agendas Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Debriefing_Agendas.pdf)   
+* [Proposed Debriefing Agenda](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
+* [Sample Debriefing](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Sample_Debriefing.pdf)
 
 ---
 

@@ -6,7 +6,7 @@
 
 | M# | Module Name | Module Objectives | Where | When | 
 | :---- | :---- | :---- | :---- | :---- |
-| M1 | Module 1: Describe | Underrstanding 21st Century Digital Services and Their Value in Government Procurement | Learning Portal | Week 3 |
+| M1 | Module 1: Describe | Understanding 21st Century Digital Services and Their Value in Government Procurement | Learning Portal | Week 3 |
 | M1 | Sprint 1: The Digital Services Landscape |   | Virtual Classroom | Week 4 |
 | M1 | Sprint 2: Digital Service Methods, Roles, and Sources of Supply |  | Virtual Classroom | Week 4 |
 | M1 | Sprint 3: Digital Service Tech Bootcamp |  | Virtual Classroom | Week 5 |
@@ -23,7 +23,7 @@
 
 | M# | Module Name | Module Objectives | Where | When | 
 | :---- | :---- | :---- | :---- | :---- |
-| M3 | Module 2: Award | Designing a Fit-for-Purpose Acquisition Strategy for Digital Services | Learning Portal | Week 11 |
+| M3 | Module 3: Design | Designing a Fit-for-Purpose Acquisition Strategy for Digital Services | Learning Portal | Week 11 |
 | M3 | Sprint 1: Developing a Successful Acqusition Strategy |   | Virtual Classroom | Week 12 |
 | M3 | Sprint 2: Developing the Solicitation |  | Virtual Classroom | Week 12 |
 | M3 | Sprint 3: Running a Successful Evaluation |  | Virtual Classroom | Week 13 |
