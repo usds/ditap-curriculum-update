@@ -2,8 +2,8 @@
 
 Debriefings can significantly help shape the way vendors bid on future procurements, as well as provide an opportunity to explain why they didn’t win and what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Debriefing Agendas Template](https://docs.google.com/document/d/1QshpYl4a3CK3SXWLC5N-EnCTpcnnWSgc/edit?usp=drive_link&ouid=103094351288456230496&rtpof=true&sd=true)   
-* [Proposed Debriefing Agenda](https://docs.google.com/document/d/15iPtSZrxL44n74tLeCI22T_npjv4ykLn/edit?usp=drive_link&ouid=103094351288456230496&rtpof=true&sd=true)   
+* [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Debriefing%20Agendas%20Template.md)   
+* [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Proposed%20Debriefing%20Agenda%20Template.md)   
 * [Sample Debriefing ](https://drive.google.com/file/d/1aj0kc7BuR4kkgcQfFhgKGoKo3UG2dkYo/view?usp=drive_link) 
 
 ## Facilitation Format Options
