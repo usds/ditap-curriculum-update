@@ -696,6 +696,7 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 * Carefully vet requirements before selecting a solution.   
 * Don’t forget about migration costs.  
 * Include compliance as a recurring cost.
+* Consider independently sponsoring open source projects used.
 
 ### Tools & Resources
 
