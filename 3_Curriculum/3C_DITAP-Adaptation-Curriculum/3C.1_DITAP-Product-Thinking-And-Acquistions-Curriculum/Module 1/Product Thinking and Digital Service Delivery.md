@@ -2,9 +2,9 @@
 Digital services and the product mindset are fundamentally intertwined in modern government.
 
 ## How Digital Services and the Product Mindset Work Together
-In traditional government IT, technology is often treated as a one-time deliverable—something that’s built, handed off, and left unchanged. _**But digital services are never truly “done**”._ They must evolve with user behavior, policy shifts, accessibility standards, and mission needs.
+In traditional government IT, technology is often treated as a one-time deliverable, something that’s built, handed off, and left unchanged. _**But digital services are never truly “done**”._ They must evolve with user behavior, policy shifts, accessibility standards, and mission needs.
 
-A product mindset equips digital service teams to:
+A **product mindset** equips digital service teams to:
 - **Focus on users, not just requirements**.
     - Success is defined by how well the service works in real-life situations—not just whether it meets a spec.
 - **Continuously improve**.
@@ -16,12 +16,12 @@ A product mindset equips digital service teams to:
 
 ## Examples in Action
 Rather than delivering a one-time website to apply for disaster relief, a team using a product mindset builds a **scalable platform** that adapts over time:
-- New content is added when policies or eligibility rules change
-- Interfaces improve based on usability testing and analytics
-- Accessibility is enhanced through audits and feedback
-- Language support and mobile features expand to reach more users
+- New content is added when policies or eligibility rules change.
+- Interfaces improve based on usability testing and analytics.
+- Accessibility is enhanced through audits and feedback.
+- Language support and mobile features expand to reach more users.
 
-By treating digital services as evolving products—not static projects—government teams can build trust, improve equity, and deliver truly responsive public services.
+By treating digital services as evolving products, not static projects—government teams can build trust, improve equity, and deliver truly responsive public services.
 
 
 ### Additional resources:
