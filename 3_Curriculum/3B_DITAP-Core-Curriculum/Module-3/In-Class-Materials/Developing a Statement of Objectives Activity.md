@@ -39,7 +39,7 @@ Your agency needs a new platform for tracking and managing stakeholder engagemen
 * **Performance Standards or Metrics:** How success will be measured  
 * **Constraints or Assumptions (optional):** Known limitations or contextual information
 
-Participants can use this [Developing a Statement of Objectives (SOO)](https://docs.google.com/document/d/1XUQe96cyaFgEKRBXTRe4tjGN7x-94o2l-s1A7x5IHdw/edit?tab=t.bnpm7z5xdpht) template.
+Participants can use this [Developing a Statement of Objectives (SOO)](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) template.
 
 Encourage them to **focus on outcomes**, not prescriptive tasks.
 
