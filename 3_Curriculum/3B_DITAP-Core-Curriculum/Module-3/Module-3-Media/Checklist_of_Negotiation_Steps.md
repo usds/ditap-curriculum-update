@@ -43,10 +43,10 @@ a. Use all available information (including master bidders' list and information
 
 b. Give particular attention to:
 1. General programs and policies, such as:  
-   - (5) Obtaining maximum competition consistent with the procurement.  
-   - (6) Industrial readiness planning policies.  
-   - (7) Small business policies.  
-   - (8) Interdepartmental procurement rules.  
+   - (a) Obtaining maximum competition consistent with the procurement.  
+   - (b) Industrial readiness planning policies.  
+   - (c) Small business policies.  
+   - (d) Interdepartmental procurement rules.  
 
 2. Other requirements, such as:  
    - (a) Responsibility requirements.  
