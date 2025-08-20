@@ -1,4 +1,4 @@
-# DITAP Discovery Sprint Lab \- Week 3/Day 3
+# Discovery Sprint Lab \- Week 3/Day 3
 
 ## Discovery Sprint Lab \#3: Frame the Solution and Connect to the Acquisition
 
