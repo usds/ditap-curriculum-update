@@ -617,13 +617,13 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 
 ### Understanding Open Source Software
 
-Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to it. These licenses often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
+Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to their copy of it. These licenses often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
 
 Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools it is a key building block in software security and supply chain risk management, 
 
 ### Open Source Software is Used Everywhere
 
-If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases contain open source, and four out of five Fortune 500 companies use OSS for mission-critical functions. This widespread adoption is projected to continue its high growth rate for the foreseeable future.
+If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases [contain open source](https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf), and four out of five Fortune 500 companies use OSS for mission-critical functions. A more practical example is that an open source project called [Curl that runs in the world’s top 47 car brands](https://ostechnix.com/curl-runs-in-top-car-brands/). This widespread adoption is projected to continue its high growth rate for the foreseeable future.
 
 #### Examples of open source in action
 
@@ -635,7 +635,7 @@ Many of the technologies you interact with daily are built on OSS.
 
 #### GitHub
 
-GitHub is a key player in the open source ecosystem, serving as the world's largest repository for software development. It's more than just a place to store code; it's a collaborative platform for version control, bug tracking, managing feature requests, and creating documentation. The reach of GitHub is immense, with users spanning from individual developers to major organizations. Its user base includes 67 national governments, 157 US federal agencies, 50 state governments, and over 21 million software developers, highlighting just how integral open source has become to both public and private sectors. In 2018, GitHub was purchased by Microsoft for $7.5 billion, and has continued to define what is expected in modern software development. 
+GitHub is a key player in the open source ecosystem, serving as the world's largest repository for software development. It's more than just a place to store code; it's a collaborative platform for version control, bug tracking, managing feature requests, and creating documentation. The reach of GitHub is immense, with users spanning from individual developers to major organizations. Its user base includes 67 national governments, [164 US federal agencies](https://government.github.com/community/), 52 US state and territory governments, almost [20,000 USA businesses](https://theirstack.com/en/technology/github/us) and over [25 million software developers in the USA alone](https://innovationgraph.github.com/global-metrics/developers), highlighting just how integral open source has become to both public and private sectors. In 2018, GitHub was purchased by Microsoft for $7.5 billion, and has continued to define what is expected in modern software development. 
 
 ### Why Open Source Software Matters in Federal Procurement
 
@@ -672,7 +672,7 @@ While the initial cost of OSS is often free, its implementation and maintenance 
 
 #### Avoiding vendor lock-in
 
-Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straight forward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
+Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straightforward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
 
 ### How to Procure Open Source Software
 
