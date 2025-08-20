@@ -1,45 +1,45 @@
 # Facilitator Guide: Discovery Sprint Labs
-For Product Managers and Contracting Officer’s Representatives (CORs)
+For Product Managers and Contracting Officer’s Representatives (CORs).
 
 ## Overview and Purpose
 Digital services often fail when teams assume too much and learn too late. This three-part lab simulates a **lightweight discovery sprint** tailored for government environments, helping participants:
-* Focus on real user needs and not assumptions  
-* Understand policy, technical, and operational constraints  
-* Align product decisions and acquisitions to mission outcomes
+* Focus on real user needs and not assumptions.  
+* Understand policy, technical, and operational constraints.  
+* Align product decisions and acquisitions to mission outcomes.
 
 These labs provide hands-on experience with tools and mindsets introduced throughout the course, culminating in outputs that can inform real-world procurement activities.
 
 ## Course Connection
 This lab reinforces key concepts from earlier modules:
 * **Module 1: Digital Services & Why Product Thinking Matters in Government**  
-  - Practice user-centered, iterative thinking in a cross-functional team  
+  - Practice user-centered, iterative thinking in a cross-functional team.  
 * **Module 2: Understanding Problems & People**  
-  - Apply techniques like stakeholder interviews, journey mapping, and defining success criteria  
+  - Apply techniques like stakeholder interviews, journey mapping, and defining success criteria.  
 * **Module 3: Agile Solicitations, Evaluation and Award**  
-   - Convert discovery findings into usable inputs for a SOO/PWS or evaluation strategy  
+   - Convert discovery findings into usable inputs for a SOO/PWS or evaluation strategy.  
 * **Module 4: Managing Digital Delivery**   
-  - Understand how good discovery work sets the foundation for performance
+  - Understand how good discovery work sets the foundation for performance.
 
 ## Alignment to Acquisition Lifecycle
 
 The outputs from this lab can directly support:
 * **Market Research & Requirements Development**  
-  Discovery outputs feed a meaningful SOO or PWS
+  Discovery outputs feed a meaningful SOO or PWS.
 * **Acquisition Strategy**  
-  Clear understanding of what outcomes matter and what constraints exist
+  Clear understanding of what outcomes matter and what constraints exist.
 * **Proposal Evaluation Planning**  
-  User needs and success criteria help define what “good” looks like
+  User needs and success criteria help define what “good” looks like.
 
 ## Learning Objectives
 
-* **Apply a product mindset** to early-stage problem framing  
-  * Focus on the *problem*, not the solution  
+* **Apply a product mindset** to early-stage problem framing.  
+  * Focus on the *problem*, not the solution.  
 * **Conduct self-directed research** to uncover user needs, policy drivers, and technical constraints.  
   * Utilize discovery techniques, including stakeholder interviews, reviewing existing documentation, and analyzing current systems and processes.→ Learn to ask meaningful questions, identify significant patterns, and make informed decisions even when information is incomplete.  
 * **Identify and prioritize user needs, mission drivers, and environmental constraints.**  
   * Translate raw observations into structured insights that guide design and acquisition.  
 *  **Capture findings in acquisition-aligned format.**  
-   * Document key insights as usable inputs for a Statement of Objectives (SOO), Performance Work Statement (PWS), or evaluation criteria  
+   * Document key insights as usable inputs for a Statement of Objectives (SOO), Performance Work Statement (PWS), or evaluation criteria.  
 *   **Collaborate in a cross-functional team.**  
     - Experience the dynamics of working with researchers, technologists, SMEs, and acquisition professionals.
 
@@ -62,21 +62,21 @@ The outputs from this lab can directly support:
 
 **Facilitator Provides:**
 
-* Orientation to Sprint Discovery  
-* Scenario overview \+ starter problem statement  
-* 3–5 pre-defined personas
+* Orientation to Sprint Discovery. 
+* Scenario overview \+ starter problem statement.  
+* 3–5 pre-defined personas.
 
 **Team Activities \+ Key Deliverables:**
 
-* Team Charter & Name: Define team norms, working agreements, and goals  
-* Pain Points & Opportunities summary: Identify early themes based on the provided problem and personas  
-* Persona Prioritization: Tier 1 (Primary), Tier 2 (Secondary), Tier 3 (Tertiary)
+* Team Charter & Name: Define team norms, working agreements, and goals.  
+* Pain Points & Opportunities summary: Identify early themes based on the provided problem and personas.  
+* Persona Prioritization: Tier 1 (Primary), Tier 2 (Secondary), Tier 3 (Tertiary).
 
 **Tips for Facilitation:** 
 
-* Encourage the challenge of assumptions baked into the starter problem  
-* Reinforce empathy when reviewing personas  
-* Watch for premature solutioning—focus on understanding the problem first
+* Encourage the challenge of assumptions baked into the starter problem.  
+* Reinforce empathy when reviewing personas.  
+* Watch for premature solutioning—focus on understanding the problem first.
 
 ### Discovery Sprint Lab \#2: Understand the User & Explore the Context 
 
@@ -84,22 +84,22 @@ The outputs from this lab can directly support:
 
 **Facilitator Provides:**
 
-* Stakeholder Interview Prompt  
-* Chat GPT Instructions for Simulated AI Interviews  
-* Journey Map template
+* Stakeholder Interview Prompt.  
+* Chat GPT Instructions for Simulated AI Interviews.  
+* Journey Map template.
 
 **Team Activities \+ Key Deliverables:**
 
-* **Stakeholder Interviews (AI Simulated):**  Each role generates insights from their unique angle  
-* **Consolidated & Prioritized User Needs:** Teams identify patterns and key insights from interviews  
-* **Self-Directed Research Drills:** Teams pursue targeted exploration into policies, systems, and constraints  
-* **User Journey Map:** Visualize current state experience from a user perspective
+* **Stakeholder Interviews (AI Simulated):**  Each role generates insights from their unique angle.  
+* **Consolidated & Prioritized User Needs:** Teams identify patterns and key insights from interviews.  
+* **Self-Directed Research Drills:** Teams pursue targeted exploration into policies, systems, and constraints.  
+* **User Journey Map:** Visualize current state experience from a user perspective.
 
 **Tips for Facilitation:** 
 
-* Reinforce the importance of pattern recognition and avoiding anecdotal bias  
-* Use journey maps to expose pain points and system-level issues  
-* Help roles reflect on how their functional area interprets research
+* Reinforce the importance of pattern recognition and avoiding anecdotal bias.  
+* Use journey maps to expose pain points and system-level issues.  
+* Help roles reflect on how their functional area interprets research.
 
 ### Discovery Sprint Lab \#3: Frame the Solution & Connect to the Acquisition
 
@@ -107,7 +107,7 @@ The outputs from this lab can directly support:
 
 **Facilitator Provides:**
 
-* Draft Hypothesis Statement (Based on discovery synthesis)
+* Draft Hypothesis Statement (Based on discovery synthesis).
 
 **Team Activities \+ Key Deliverables:**
 
@@ -117,22 +117,22 @@ The outputs from this lab can directly support:
 
 **Tips for Facilitation:** 
 
-* Guide students to keep the SOO high-level and outcome-focused  
-* Help CORs and Contracting Specialists link findings to evaluation and oversight strategies  
-* Wrap with a reflection on discovery’s role in delivery success
+* Guide students to keep the SOO high-level and outcome-focused.  
+* Help CORs and Contracting Specialists link findings to evaluation and oversight strategies.  
+* Wrap with a reflection on discovery’s role in delivery success.
 
 **Final Presentation and Reflection:** 
 
 **Each team presents:**
 
-* Problem framing and persona priorities  
-* Product vision, metrics, and draft SOO
+* Problem framing and persona priorities.  
+* Product vision, metrics, and draft SOO.
 
 **Facilitator Role:**
 
-* Moderate the presentations  
-* Provide structured feedback  
-* Highlight how this sprint sets the foundation for better solicitation planning and performance management
+* Moderate the presentations.  
+* Provide structured feedback.  
+* Highlight how this sprint sets the foundation for better solicitation planning and performance management.
 
 ## Details for Lab Facilitation 
 
@@ -144,10 +144,10 @@ As members of the Office of Civil Rights digital procurement team, you’ve been
 
 This discovery sprint will help your team:
 
-* Understand the most significant barriers to ESA registration today  
-* Identify the core users of the system and uncover what they need  
-* Explore operational, policy, and technical constraints  
-* Define measurable outcomes for success  
+* Understand the most significant barriers to ESA registration today.  
+* Identify the core users of the system and uncover what they need.  
+* Explore operational, policy, and technical constraints.  
+* Define measurable outcomes for success.  
 * Draft a Statement of Objectives (SOO) to serve as the starting point for market research and a future solicitation.
 
 Your findings will directly inform the government’s acquisition approach and lay the groundwork for a more equitable, accessible, and trustworthy ESA registration experience.
@@ -192,13 +192,13 @@ Finally, name your team\! Tie it to the Emotional Support Animal theme. You can 
 ### Facilitator Prompt: Pain Points & Opportunities
 
 Before we dive into research or interviews, we want to ground our teams in what we *already know* from the personas and scenarios.
-- Using the ESA Registry scenario and the starter problem statements, identify the most significant pain points users face in today’s process. Then, shift gears and look for opportunities—where could this registry have the most important positive impact?
-- Consider pain from all angles: emotional stress, time burdens, a lack of trust, or unclear guidance. And think about opportunities beyond tech—this might be a chance to build dignity, fairness, or access into the system.
+- Using the ESA Registry scenario and the starter problem statements, identify the most significant pain points users face in today’s process. Then, shift gears and look for opportunities, where could this registry have the most important positive impact?
+- Consider pain from all angles: emotional stress, time burdens, a lack of trust, or unclear guidance. And think about opportunities beyond tech, this might be a chance to build dignity, fairness, or access into the system.
 
 **Starter Problem Statement (Can be used as a whole or broken down for different teams):** 
 - While multiple federal policies support the right to ESA accommodations, there is no unified digital infrastructure to support implementation. This disconnect leaves agencies and providers struggling to strike a balance between legal compliance, operational feasibility, and user experience.
 - The current process for verifying emotional support animals is fragmented, unclear, and lacks a centralized registry. This results in confusion for users, inconsistent verification for landlords and airlines, and an increase in fraud. A more effective process could enhance dignity, alleviate burden, and address legitimate needs.
-- People with legitimate emotional support needs—particularly veterans, low-income individuals, and those with mental health conditions—face inconsistent, confusing, and stigmatizing processes when seeking accommodations for their ESAs. The lack of a centralized, accessible ESA registry disproportionately impacts those already marginalized by bureaucracy.
+- People with legitimate emotional support needs, particularly veterans, low-income individuals, and those with mental health conditions, face inconsistent, confusing, and stigmatizing processes when seeking accommodations for their ESAs. The lack of a centralized, accessible ESA registry disproportionately impacts those already marginalized by bureaucracy.
 - Emotional Support Animal Registry Personas
 
 **Alicia (she/her), 34, Veteran**
@@ -206,99 +206,99 @@ Before we dive into research or interviews, we want to ground our teams in what 
 - **Location:** Cleveland, OH
 - **Background:** Alicia is a Navy veteran managing post-traumatic stress disorder (PTSD). She lives in HUD-subsidized housing and relies heavily on her Labrador, Bella, for emotional support. She has a letter from a previous therapist, but was recently told by a new property manager that it was “not official.”
 - **Pain Points:**
-    *  Has been denied accommodations despite presenting what she believed was proper documentation  
-    *  Feels retraumatized by being asked to “prove” her mental health condition multiple times  
-    *  Finds the ESA approval process inconsistent and invalidating
+    *  Has been denied accommodations despite presenting what she believed was proper documentation.  
+    *  Feels retraumatized by being asked to “prove” her mental health condition multiple times.  
+    *  Finds the ESA approval process inconsistent and invalidating.
 - **Needs:**
-    *  A simple, standard way to validate her ESA status across housing providers  
-    *  Protection from being disqualified over paperwork technicalities  
-    * A system she can trust, with minimal re-traumatization and maximum dignity
+    *  A simple, standard way to validate her ESA status across housing providers.  
+    *  Protection from being disqualified over paperwork technicalities.  
+    * A system she can trust, with minimal re-traumatization and maximum dignity.
 
 **Tyrell (he/him), 27, College Student**
 - **Location:** Tallahassee, FL
 - **Background:** Tyrell is a first-generation college student studying computer science. He was recently diagnosed with generalized anxiety disorder. His cat, Nori, helps him manage his symptoms, but his off-campus housing has a strict no-pet policy.
 - **Pain Points:**
-    * Received different answers from his university, landlord, and online forums about what qualifies as valid ESA documentation  
-    * Pressured to pay $199 for a letter from an online service, which turned out to be fake  
-    * Doesn't know what the official government position is or if one exists
+    * Received different answers from his university, landlord, and online forums about what qualifies as valid ESA documentation.  
+    * Pressured to pay $199 for a letter from an online service, which turned out to be fake.  
+    * Doesn't know what the official government position is or if one exists.
 - **Needs:**
-    * Clear, authoritative information about ESA rights and requirements  
-    * Affordable, verified access to documentation  
-    * A digital process that fits his lifestyle and avoids scams
+    * Clear, authoritative information about ESA rights and requirements.  
+    * Affordable, verified access to documentation.  
+    * A digital process that fits his lifestyle and avoids scams.
 
 **Ms. Leone (she/her), 59, Public Housing Manager**
 - **Location:** Sacramento, CA
 - **Background:** Ms. Leone has managed a large public housing complex for over 15 years. She believes in tenant rights and fair access to accommodations, but she’s overwhelmed by the volume of ESA requests, many of which come with suspicious documentation.
 - **Pain Points:**
-    * Receives ESA letters that appear to be auto-generated or signed by out-of-state providers with no contact info  
-    * Doesn’t have the tools or authority to verify legitimacy, but is still held liable if she denies a real request  
-    * Has seen tensions rise among residents over what they perceive as unequal enforcement
+    * Receives ESA letters that appear to be auto-generated or signed by out-of-state providers with no contact info.  
+    * Doesn’t have the tools or authority to verify legitimacy, but is still held liable if she denies a real request.  
+    * Has seen tensions rise among residents over what they perceive as unequal enforcement.
 - **Needs:**
-    * A centralized verification method she can trust without becoming a gatekeeper  
-    * Clear guidance on compliance with HUD and ADA regulations  
-    * Tools to document and track ESA requests and decisions
+    * A centralized verification method she can trust without becoming a gatekeeper.  
+    * Clear guidance on compliance with HUD and ADA regulations.  
+    * Tools to document and track ESA requests and decisions.
 
 **Dr. Saito (they/them), 45, Licensed Therapist**
 - **Location:** Seattle, WA
 -**Background:**  A licensed mental health therapist with a focus on trauma and identity-based stress. Dr. Saito regularly evaluates patients for ESA eligibility and issues supporting documentation. They take this responsibility seriously and want to ensure the letters aren’t misused.
 - **Pain Points:**
-    * Once learned that a patient had altered their letter to include a second animal  
-    * Has no way to revoke or monitor the use of their ESA recommendations  
-    * Worries that widespread fraud undermines trust in legitimate mental health support
+    * Once learned that a patient had altered their letter to include a second animal.  
+    * Has no way to revoke or monitor the use of their ESA recommendations.  
+    * Worries that widespread fraud undermines trust in legitimate mental health support.
 - **Needs:**
-    * A secure, auditable way to issue and track ESA documentation  
-    * Protection against impersonation or document tampering  
-    * Integration with the existing systems they use for client care
+    * A secure, auditable way to issue and track ESA documentation.  
+    * Protection against impersonation or document tampering.  
+    * Integration with the existing systems they use for client care.
 
 **Victor (he/him), 52, Airline Compliance Officer**
 - **Location:** Chicago, IL
 - **Background:** Victor oversees compliance with Department of Transportation (DOT) guidance for a mid-sized airline. He has seen a sharp rise in complaints about emotional support animals, especially before recent regulatory changes limited the number of animals allowed on board.
 - **Pain Points:**
-    * ESA documentation submitted at the gate is inconsistent and hard to verify  
-    * Staff are not trained to evaluate mental health letters or discern legitimate claims  
-    * Negative passenger experiences (e.g., allergies, animal misbehavior) create liability issues
+    * ESA documentation submitted at the gate is inconsistent and hard to verify.  
+    * Staff are not trained to evaluate mental health letters or discern legitimate claims.  
+    * Negative passenger experiences (e.g., allergies, animal misbehavior) create liability issues.
 - **Needs:**
-    * A reliable, government-backed way to verify ESA eligibility pre-boarding  
-    * A clear distinction between service animals, ESAs, and pets in policy enforcement  
-    * Less ambiguity and more clarity from federal agencies on rights and responsibilities
+    * A reliable, government-backed way to verify ESA eligibility pre-boarding.  
+    * A clear distinction between service animals, ESAs, and pets in policy enforcement.  
+    * Less ambiguity and more clarity from federal agencies on rights and responsibilities.
 
 **Nayeli (she/her), 40, Single Mother & Federal Benefits Recipient**
 - **Location:** El Paso, TX
 - **Background:** Nayeli receives federal housing assistance and Supplemental Security Income (SSI) due to a long-term anxiety disorder. Her teenage daughter also experiences social-emotional challenges. Their dog, Churro, has been essential to both of their well-being.
 - **Pain Points:**
-    * Struggles to understand what documentation is needed to keep Churro in her housing complex  
-    * Encountered predatory websites offering expensive ESA certificates  
-    * Has limited internet access and digital literacy
+    * Struggles to understand what documentation is needed to keep Churro in her housing complex.  
+    * Encountered predatory websites offering expensive ESA certificates.  
+    * Has limited internet access and digital literacy.
 - **Needs:**
-    * A simple, affordable, and mobile-friendly process for registering her ESA  
-    * Clear guidance in both English and Spanish  
-    * Reassurance that she’s not doing anything wrong by asking for accommodations
+    * A simple, affordable, and mobile-friendly process for registering her ESA.  
+    * Clear guidance in both English and Spanish.  
+    * Reassurance that she’s not doing anything wrong by asking for accommodations.
 
 **Derrick (he/him), 38, Federal Policy Analyst (HUD)**
 - **Location:** Washington, D.C.
 - **Background**: Works in HUD’s Fair Housing Division. Tasked with improving guidance to housing providers on ESA documentation while balancing tenant rights and fraud concerns. Frequently receives stakeholder complaints from both sides.
 - **Pain Points:**
-    - Housing providers complain about fake letters and confusion around what is “official”
-    - Tenants and advocates demand a more straightforward, rights-centered process
-    - His office lacks data to make informed policy adjustments
+    - Housing providers complain about fake letters and confusion around what is “official”.
+    - Tenants and advocates demand a more straightforward, rights-centered process.
+    - His office lacks data to make informed policy adjustments.
 - **Needs:**
-    * A trustworthy system that helps distinguish legitimate requests without adding unnecessary burdens  
-    * Insights from the field to inform rulemaking  
-    * A way to track how guidance is being used across jurisdictions
+    * A trustworthy system that helps distinguish legitimate requests without adding unnecessary burdens.  
+    * Insights from the field to inform rulemaking.  
+    * A way to track how guidance is being used across jurisdictions.
 
 - **Stephanie (she/her), 48, Local Government Liaison**
 - **Location**: Des Moines, IA
 - **Background:** Stephanie works for the city’s Department of Public Services as a liaison between local agencies, housing providers, and the city council. She frequently fields calls from landlords, transit supervisors, and residents who are frustrated by the perceived abuse of ESA accommodations. While Stephanie personally believes in mental health support, she often finds herself caught between policy and public opinion.
 - **Pain Points:**
-    * Regularly receives complaints from constituents who believe ESAs are “loopholes” for pet ownership  
-    * Faces pressure from local officials to “crack down” on ESA-related complaints despite unclear legal guidance  
-    * Struggles to mediate between residents who feel unfairly impacted (e.g., allergies, fear of animals) and individuals requesting accommodations  
-    * Feels unsupported by federal agencies when trying to explain the legal rights around ESAs to skeptical or hostile stakeholders
+    * Regularly receives complaints from constituents who believe ESAs are “loopholes” for pet ownership.  
+    * Faces pressure from local officials to “crack down” on ESA-related complaints despite unclear legal guidance.  
+    * Struggles to mediate between residents who feel unfairly impacted (e.g., allergies, fear of animals) and individuals requesting accommodations.  
+    * Feels unsupported by federal agencies when trying to explain the legal rights around ESAs to skeptical or hostile stakeholders.
 - **Needs:**
-    * A credible, non-political source of truth she can refer to when challenged by local opposition   
-    * Educational tools or templates to dispel myths and clarify rights for both sides  
-    * A registry or verification system that helps reduce friction between those seeking accommodations and those enforcing local rules  
-    * More two-way communication with federal partners to elevate local concerns and apply guidance in context
+    * A credible, non-political source of truth she can refer to when challenged by local opposition.   
+    * Educational tools or templates to dispel myths and clarify rights for both sides.  
+    * A registry or verification system that helps reduce friction between those seeking accommodations and those enforcing local rules.  
+    * More two-way communication with federal partners to elevate local concerns and apply guidance in context.
 
 ### Week 2: Understand the User & Explore the Context 
 
@@ -307,9 +307,9 @@ Before we dive into research or interviews, we want to ground our teams in what 
 Teams dive into stakeholder discovery, conduct simulated interviews using GPT, map the current user experience, and identify patterns across user needs and system pain points.
 
 **Facilitator Provides:** 
-* User Research Instructions for Simulated Stakeholder Interview  
-* Instructions for self-guided research  
-* Journey Map template
+* User Research Instructions for Simulated Stakeholder Interview.  
+* Instructions for self-guided research.  
+* Journey Map template.
 
 **Week 2 Student Deliverables**
 
@@ -331,11 +331,11 @@ Stakeholder Interview Exercise Instructions
 In this activity, you will independently conduct a simulated interview with a stakeholder using ChatGPT (or another GPT-based assistant). Your goal is to generate realistic insights that mirror what a government professional might learn in early-stage discovery.
 
 **You will:**
-1. Use your role-specific prompt to initiate the simulation  
-2. Create an interview guide with 5–7 thoughtful, open-ended questions  
-3. Conduct a dialogue with GPT to simulate a real-time stakeholder exchange  
-4. Capture notes on key insights, surprises, and unanswered questions  
-   Bring your insights to your role-based group session for consolidation
+1. Use your role-specific prompt to initiate the simulation.  
+2. Create an interview guide with 5–7 thoughtful, open-ended questions.  
+3. Conduct a dialogue with GPT to simulate a real-time stakeholder exchange.  
+4. Capture notes on key insights, surprises, and unanswered questions.  
+   Bring your insights to your role-based group session for consolidation.
 
 **General Instructions (Provided to Participants)**
 
@@ -345,9 +345,9 @@ In this activity, you will independently conduct a simulated interview with a st
 4. **Capture notes** during your conversation. Don’t worry about perfection—treat it like real discovery: messy, exploratory, and human.  
 5. **Be curious and empathetic**—ask follow-ups if needed.  
 6. **After the interview**, summarize:  
-   * 3–5 key insights  
-   * 1–2 surprises or unexpected takeaways  
-   * Any open questions or follow-up areas
+   * 3–5 key insights.  
+   * 1–2 surprises or unexpected takeaways.  
+   * Any open questions or follow-up areas.
 
 **Role-Based GPT Prompts & Interview Focus**
 
@@ -417,10 +417,10 @@ _You are a program manager or oversight lead who has implemented federal service
 
 Prepare a summary to share with your **role-based group**:
 
-* **Top 3–5 Insights** (What did you learn?)  
-* **Surprises** (What was unexpected?)  
-* **Open Questions** (What gaps remain?)  
-* **Quote or theme** that stood out (optional)
+* **Top 3–5 Insights** (What did you learn?).  
+* **Surprises** (What was unexpected?).  
+* **Open Questions** (What gaps remain?).  
+* **Quote or theme** that stood out (optional).
 
 You’ll use this to consolidate research and identify shared patterns across roles in preparation for the sprint team synthesis.
 
@@ -436,26 +436,26 @@ Participants will independently explore 1–2 key areas related to ESA accommoda
 
 By the end of this exercise, participants should come back with:
 
-* **Relevant policies, rules, or systems** that would impact the registry  
-* **Constraints or enablers** worth raising in team discussions  
-* **Insights** that could shape product direction, scope, or evaluation strategy
+* **Relevant policies, rules, or systems** that would impact the registry.  
+* **Constraints or enablers** worth raising in team discussions.  
+* **Insights** that could shape product direction, scope, or evaluation strategy.
 
 **Instructions for Participants**
 
-1. Choose 1–2 topics from the list provided (based on your role or curiosity)  
-   Spend 30–45 minutes researching articles, policy memos, government websites, or agency guidance  
-2. Document your findings using the reflection questions below  
-3. Be prepared to bring your takeaways to your next team session
+1. Choose 1–2 topics from the list provided (based on your role or curiosity).  
+   Spend 30–45 minutes researching articles, policy memos, government websites, or agency guidance.  
+2. Document your findings using the reflection questions below.  
+3. Be prepared to bring your takeaways to your next team session.
 
 ### Suggested Research Topics (Pick 1–2)
 
 | Category | Research Topic |
 | ----- | ----- |
-| **Policy & Regulation** | ADA and Fair Housing Act ESA definitions HUD guidance on ESA documentation DOT regulations on emotional support animals and travel |
-| **Procurement & Legal** | Legal risks in procuring systems involving medical or behavioral data Past ESA-related fraud or complaints What federal privacy laws (HIPAA, Privacy Act) apply |
-| **Technology & Systems** | Is there an existing registry or verification system in another agency? Could Login.gov or ID verification tools support this system? Interoperability with HUD or VA systems |
-| **User Trust & Access** | Examples of federal services that gained or lost public trust Digital inclusion concerns: broadband, literacy, multilingual access Cost or burden for low-income users |
-| **Evaluation & Oversight** | How success is typically measured in accommodation programs What performance indicators could be used in an ESA system How FOIA, audits, or public records affect transparency |
+| **Policy & Regulation** | ADA and Fair Housing Act ESA definitions HUD guidance on ESA documentation DOT regulations on emotional support animals and travel. |
+| **Procurement & Legal** | Legal risks in procuring systems involving medical or behavioral data Past ESA-related fraud or complaints What federal privacy laws (HIPAA, Privacy Act) apply. |
+| **Technology & Systems** | Is there an existing registry or verification system in another agency? Could Login.gov or ID verification tools support this system? Interoperability with HUD or VA systems. |
+| **User Trust & Access** | Examples of federal services that gained or lost public trust Digital inclusion concerns: broadband, literacy, multilingual access Cost or burden for low-income users. |
+| **Evaluation & Oversight** | How success is typically measured in accommodation programs What performance indicators could be used in an ESA system How FOIA, audits, or public records affect transparency. |
 
 ### Reflection Questions (for Individual Notes)
 
@@ -463,14 +463,14 @@ Encourage participants to jot down their answers to these prompts as they resear
 
 1. What did you learn that surprised you?  
 2. What seems like a major constraint or risk?  
-3. What existing systems or policies could we align with—or avoid duplicating?  
+3. What existing systems or policies could we align with or avoid duplicating?  
 4. How could this influence our product vision or acquisition strategy?
 
 **Optional:** Share a quote, stat, or headline that made you think differently about the problem.
 
 ### **Tips for Facilitation**
 
-* Encourage participants to stay curious—this isn’t about being right, it’s about discovering what matters.  
+* Encourage participants to stay curious, this isn’t about being right, it’s about discovering what matters.  
 * Recommend they focus on relevance over depth—a key insight or contradiction is more useful than a full legal brief.  
 * You may invite participants to drop quick notes in Slack or a shared doc before the next session.
 
@@ -484,10 +484,10 @@ The result will be a shared visual tool that informs problem framing, user needs
 
 **Materials Needed**
 
-* Printed or digital Journey Map Template (one per team)  
-* Persona Cards (from the ESA Registry scenario)  
-* Markers or Miro/Mural/Google Slides (if virtual)  
-* Sticky notes or digital note boxes for each stage
+* Printed or digital Journey Map Template (one per team).  
+* Persona Cards (from the ESA Registry scenario).  
+* Markers or Miro/Mural/Google Slides (if virtual).  
+* Sticky notes or digital note boxes for each stage.
 
 **Activity Setup**
 
@@ -500,9 +500,9 @@ The result will be a shared visual tool that informs problem framing, user needs
 **2\. Choose a Persona (5 minutes)**
 
 **Instructions to each sprint team:**
-* Select one persona from the eight provided  
-  * Tip: Facilitators ensure each team has a different persona. You can choose to pre-assign   
-* Briefly re-read or reintroduce themselves to the persona’s background, pain points, and needs
+* Select one persona from the eight provided.  
+  * Tip: Facilitators ensure each team has a different persona. You can choose to pre-assign.   
+* Briefly re-read or reintroduce themselves to the persona’s background, pain points, and needs.
 
 **3\. Journey Map Template**
 
@@ -519,10 +519,10 @@ Each team will fill out a simple **Current State Journey Map** with the followin
 **Facilitator Tip:** These stages are customizable if the persona’s story differs (e.g., therapist issuing a letter, housing manager processing a request).
 
 **Time Breakdown (60 minutes total)**
-* **5 minutes:** Select persona & assign team facilitator/note-taker  
-* **30 minutes:** Complete the journey map together (focus on user experience—not internal processes)  
-* **15 minutes:** Do a “gallery walk” so each team can provide a readout to the rest of the class that highlights their key takeaways for each persona  
-* **5 minutes:** Prepare a short reflection for the next team share-out or synthesis session
+* **5 minutes:** Select persona & assign team facilitator/note-taker.  
+* **30 minutes:** Complete the journey map together (focus on user experience—not internal processes).  
+* **15 minutes:** Do a “gallery walk” so each team can provide a readout to the rest of the class that highlights their key takeaways for each persona.  
+* **5 minutes:** Prepare a short reflection for the next team share-out or synthesis session.
 
 ### **Descriptions for the Prompts in Each Column**
 
@@ -557,9 +557,9 @@ Teams synthesize their research and insights to define a product vision and meas
 
 **Facilitator Provides:**
 
-* A Draft Hypothesis Statement to anchor team synthesis
-* Guidance or template for creating a Product Vision, Success Metrics, and SOO
-* Examples of clear, high-level SOOs (optional)
+* A Draft Hypothesis Statement to anchor team synthesis.
+* Guidance or template for creating a Product Vision, Success Metrics, and SOO.
+* Examples of clear, high-level SOOs (optional).
 
 **Sprint Team Activities & Deliverables:**
 
@@ -585,11 +585,11 @@ These artifacts will lay the foundation for your draft Statement of Objectives (
 
 A strong Product Vision:
 
-* Is short and inspiring: 1–3 sentences max  
-* Reflects real user needs and mission goals  
-* Avoids jargon and is easily shareable  
-* Focuses on value or transformation, not features  
-* Is broad enough to invite creative solutions but focused enough to guide decisions
+* Is short and inspiring: 1–3 sentences max.  
+* Reflects real user needs and mission goals.  
+* Avoids jargon and is easily shareable.  
+* Focuses on value or transformation, not features.  
+* Is broad enough to invite creative solutions but focused enough to guide decisions.
 
 **Facilitator-Provided Hypotheses (Choose or Adapt):**
 
@@ -635,11 +635,11 @@ This is the bridge from discovery to delivery. Make it meaningful, specific, and
 
 **Success Metrics Example Ideas:**
 
-* % of ESA registrations verified in under 48 hours  
-* Reduction in rejected or incomplete applications  
-* User-reported trust or satisfaction scores  
-* % of underserved users completing registration successfully  
-* Fewer fraud reports or complaints from service providers
+* % of ESA registrations verified in under 48 hours.  
+* Reduction in rejected or incomplete applications.  
+* User-reported trust or satisfaction scores.  
+* % of underserved users completing registration successfully.  
+* Fewer fraud reports or complaints from service providers.
 
 ### Facilitator Instructions: Drafting the SOO
 
@@ -654,26 +654,26 @@ This will be the final team deliverable of the sprint and should reflect your us
 You’ve defined the problem, prioritized user needs, mapped the current experience, and crafted a product vision. Now it’s time to connect your discovery work to a real-world acquisition outcome: the Statement of Objectives.
 
 This is the type of language the government uses to communicate goals to industry without dictating the solution. Your draft SOO should capture:
-* The problem we’re trying to solve  
-* The mission outcomes we want to achieve  
-* The performance expectations or success metrics  
-* And any significant constraints or environmental factors
+* The problem we’re trying to solve.  
+* The mission outcomes we want to achieve.  
+* The performance expectations or success metrics.  
+* And any significant constraints or environmental factors.
 
 **SOO Structure**
 
 Encourage teams to use this structure (modify as needed):
 1. Background / Context
    * Why is this needed? What are the drivers?  
-   * Reference the user pain points, policy shifts, or fraud concerns  
+   * Reference the user pain points, policy shifts, or fraud concerns.  
 2. Problem Statement / Objective  
-   * A 1–2 sentence description of what the government aims to solve or improve
+   * A 1–2 sentence description of what the government aims to solve or improve.
 3. Desired Outcomes  
    * What should this solution achieve for users, staff, or the public?  
-   * Building out the statement of objectives to align with the product vision
+   * Building out the statement of objectives to align with the product vision.
 4. Performance Considerations  
    * What would success look like? How should it be measured?
 5. Constraints / Environment  
-   * Any legal, policy, or tech factors that must be considered
+   * Any legal, policy, or tech factors that must be considered.
 
 **Brainstorm Prompts for Teams**
 
@@ -736,6 +736,6 @@ Use these prompts to facilitate a group discussion:
 
 Ask each participant or team to share one of the following:
 
-* One idea you’re taking back to your workplace  
-* One thing you’d change in how discovery is approached  
-* One thing you appreciated about how your team worked together
+* One idea you’re taking back to your workplace.  
+* One thing you’d change in how discovery is approached.  
+* One thing you appreciated about how your team worked together.
