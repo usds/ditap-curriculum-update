@@ -617,7 +617,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 
 ### Understanding Open Source Software
 
-Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to it. These licenses often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
+Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to their copy of it. These licenses often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
 
 Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools it is a key building block in software security and supply chain risk management, 
 
@@ -672,7 +672,7 @@ While the initial cost of OSS is often free, its implementation and maintenance 
 
 #### Avoiding vendor lock-in
 
-Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straight forward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
+Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straightforward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
 
 ### How to Procure Open Source Software
 
