@@ -844,9 +844,9 @@ During the debriefing, DON’T:
 
 Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Debriefing Agendas Template](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Debriefing_Agendas.cfm.docx)   
-* [Proposed Debriefing Agenda](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Template_Proposed_Debriefing_Agenda.cfm.doc)   
-* [Sample Debriefing](https://github.com/kristenjernigan/kj-liatest/blob/4086a8c8656030276efbcb0cd59d281ed877a289/Media/Module%203/Sample_Debriefing.pdf)
+* [Debriefing Agendas Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Debriefing_Agendas.pdf)   
+* [Proposed Debriefing Agenda](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
+* [Sample Debriefing](https://github.com/kristenjernigan/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Sample_Debriefing.pdf)
 
 ---
 
