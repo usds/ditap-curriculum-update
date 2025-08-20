@@ -7,7 +7,7 @@ Adopting a product mindset means moving away from delivering one-time, fixed-sco
 
 <img width="761" height="279" alt="Table comparing product and project mindsets." src="https://github.com/user-attachments/assets/1f88fab6-94e4-4ba9-be3f-5bb08f0e724f" />
 
-Digital service teams embrace a **product mindset** because it supports iterative delivery, user-centered design, and long-term sustainability. It enables teams to learn from real users, adapt as needed, and deliver value continuously—not just at the moment of launch.
+Digital service teams embrace a **product mindset** because it supports iterative delivery, user-centered design, and long-term sustainability. It enables teams to learn from real users, adapt as needed, and deliver value continuously, not just at the moment of launch.
 
 ### Additional resources:
 - [United States Digital Service](https://www.usds.gov/)
