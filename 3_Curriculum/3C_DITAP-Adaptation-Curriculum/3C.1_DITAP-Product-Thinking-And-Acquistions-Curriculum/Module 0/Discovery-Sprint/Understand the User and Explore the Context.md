@@ -1,4 +1,4 @@
-# DITAP Discovery Sprint Lab \- Week 2/Day 2
+# Discovery Sprint Lab \- Week 2/Day 2
 
 ## Discovery Sprint Lab \#2: Understand the User and Explore the Context 
 
@@ -19,12 +19,12 @@ You’re part of a sprint team tasked with modernizing or improving an existing 
 **Team Instructions**  
 Work together to:
 
-* Conduct a **simulated stakeholder interview** using the prompt and instructions provided  
-* Share insights from your individual interviews and consolidate common **user needs, expectations, and pain points**  
-* Complete a **self-directed research drill** to explore relevant policies, systems, or legal/technical constraints  
-* Create a **high-level As-Is Journey Map** showing the current user experience  
-* Annotate the journey with **pain points**, “**moments that matter**,” and **system-level challenges**  
-* Identify **1–2 opportunity areas** where improvements would have the most impact
+* Conduct a **simulated stakeholder interview** using the prompt and instructions provided.  
+* Share insights from your individual interviews and consolidate common **user needs, expectations, and pain points**.  
+* Complete a **self-directed research drill** to explore relevant policies, systems, or legal/technical constraints.  
+* Create a **high-level As-Is Journey Map** showing the current user experience.  
+* Annotate the journey with **pain points**, “**moments that matter**,” and **system-level challenges**.  
+* Identify **1–2 opportunity areas** where improvements would have the most impact.
 
 **Reflection Prompts**
 
@@ -33,5 +33,3 @@ Work together to:
 * How did different functional roles interpret the problem?  
 * What patterns did you observe across interviews and research?  
 * How could your findings shape future procurement or product decisions?
-
-
