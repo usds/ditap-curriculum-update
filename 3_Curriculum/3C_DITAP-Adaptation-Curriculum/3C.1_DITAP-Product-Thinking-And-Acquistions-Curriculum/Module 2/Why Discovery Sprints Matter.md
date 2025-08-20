@@ -54,11 +54,11 @@ Discovery Sprints help agencies **write the right requirements** by uncovering w
     - Example: “How might we help residents understand and apply for childcare subsidies online?”
 2. Identify stakeholders and user groups
 - Map out everyone affected by the service, including both external stakeholders (e.g., residents, applicants) and internal stakeholders (e.g., program staff, call center agents, IT)
-3. Conduct user research (quick and targeted)
+3. Conduct user research (quick and targeted).
 - Interview or observe real users, if possible, or use proxies (such as frontline staff, support tickets, or analytics) to gather insights into user needs, pain points, and behaviors.
 4. Create or update user personas
 - Turn insights into representative personas that reflect your core user types. These guide design and prioritization later.
-5. Map the current state (as-is journey map)
+5. Map the current state (as-is journey map).
 - Document how users currently experience the service or process, what works, where they get stuck, and what tools they use. Keep it high-level but grounded in evidence.
 6. Identify pain points and opportunity areas
 - Synthesize the research to spot high-friction steps, policy constraints, or technology barriers. These inform future ideation or procurements.
