@@ -9,8 +9,8 @@ Participants take a few minutes to jot down their thoughts:
 
 ## Step 2: Small Group Discussion (8 minutes)
 In groups of 3–4, participants:
-- Share their individual examples
-- Select one scenario to explore in more detail
+- Share their individual examples.
+- Select one scenario to explore in more detail.
 - As a group, discuss and capture:
     - What user needs were likely missed?
     - How could a product mindset improve the experience?
@@ -20,6 +20,5 @@ In groups of 3–4, participants:
 Invite 2–3 groups to briefly share their selected scenario and one product mindset shift they would recommend.</br>
 </br>
 
-(Optional) **Wrap-Up Prompt (30 seconds)**
-- _Digital services are more than one-time deliverables—they’re public experiences that should evolve with people’s needs. Product thinking helps us design with users, not just for them_.
-
+**Optional Wrap-Up Prompt (30 seconds)**
+_Digital services are more than one-time deliverables, they’re public experiences that should evolve with people’s needs. Product thinking helps us design with users, not just for them_.
