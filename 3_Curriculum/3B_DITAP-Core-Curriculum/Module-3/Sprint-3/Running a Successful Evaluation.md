@@ -547,7 +547,7 @@ Here are several readings to help further your understanding of this process, as
 * [Pre-Negotiation Memo Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/327d5714aab33bb50a7d11c6a216c3f374991a82/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Pre-Negotiation_Memo_Template.md)
 * [Checklist of Negotiation Steps](https://github.com/kristenjernigan/ditap-curriculum-update/blob/0b37aeabeb7011d0b21ddd805477bef5cce0e5bd/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Checklist_of_Negotiation_Steps.md)
 * [Negotiations and Source Selection Q&A](https://github.com/kristenjernigan/ditap-curriculum-update/blob/87b28ec8afe6285794d6510ac525eaeea5aa5ed9/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Q_A_B2B_Overview_of_Negotiations_and_source_Selection.pdf)
-* [Price Negotiation Template](https://github.com/kristenjernigan/kj-liatest/blob/c08c614c72b5a394b3c946bc154ec9d5817c13a4/Media/Module%203/Template_Price_NEG_Memo.doc)
+* [Price Negotiation Template](https://github.com/kristenjernigan/ditap-curriculum-update/blob/51a7ccbe80d381e2c0134be1df772904be15037f/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Price_NEG_Memo.pdf)
 
 
 ---
