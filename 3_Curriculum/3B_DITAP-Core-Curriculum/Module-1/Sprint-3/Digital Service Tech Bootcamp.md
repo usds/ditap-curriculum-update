@@ -623,7 +623,7 @@ Procurement officers need to understand how OSS fits within federal procurement 
 
 ### Open Source Software is Used Everywhere
 
-If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases contain open source, and four out of five Fortune 500 companies use OSS for mission-critical functions. This widespread adoption is projected to continue its high growth rate for the foreseeable future.
+If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases [contain open source](https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf), and four out of five Fortune 500 companies use OSS for mission-critical functions. A more practical example is that an open source project called [Curl that runs in the world’s top 47 car brands](https://ostechnix.com/curl-runs-in-top-car-brands/). This widespread adoption is projected to continue its high growth rate for the foreseeable future.
 
 #### Examples of open source in action
 
