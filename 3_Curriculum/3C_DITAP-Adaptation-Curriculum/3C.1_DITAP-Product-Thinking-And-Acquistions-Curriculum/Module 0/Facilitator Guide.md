@@ -1,5 +1,5 @@
 # Facilitator Guide: DITAP for Product Thinking and Acquisitions 
-In this packet, you have access to the module outlines, required topics, module activities, and the Discovery Sprint Lab 
+In this packet, you have access to the module outlines, required topics, module activities, and the **Discovery Sprint Lab**. 
 
 ## Module Outline:
 This provides you with a centralized location for all your module needs. You’ll find your module objectives, required topics, training artifacts, and interactive activities for participants. 
@@ -8,15 +8,15 @@ This provides you with a centralized location for all your module needs. You’l
 - **Class Activities**: Each module features interactive activities designed to reinforce its learning objectives.
 
 ## Learning Modules:
-Your learning modules are the curriculum for the course. Each topic listed in the Module Outline corresponds to a specific learning module. The curriculum and case study guides appear in each learning module topic. It also includes a prompt for an optional module retrospective. Your agency determines the best way to deliver this information, whether via slide decks, in-person delivery, or virtual classroom delivery. The curriculum guides participants away from rigid procurement cycles to adaptive, iterative, and human-centered approaches, providing rapid and actionable insights into how product management principles can transform acquisition outcomes. 
+The learning modules are the curriculum for the course. Each topic listed in the Module Outline corresponds to a specific learning module. The curriculum and case study guides appear in each learning module topic. It also includes a prompt for an optional module retrospective. Your agency determines the best way to deliver this information, whether via slide decks, in-person delivery, or virtual classroom delivery. The curriculum guides participants away from rigid procurement cycles to adaptive, iterative, and human-centered approaches, providing rapid and actionable insights into how product management principles can transform acquisition outcomes. 
 
 ## The Discovery Sprint Labs 
-The Discovery Lab is a hands-on simulation of a lightweight federal discovery sprint, introduced after Module 1. The facilitator schedules the two subsequent labs at strategic points across the remaining modules to provide participants with practical experience in applying product thinking to user research, problem framing, and acquisition planning.
+**The Discovery Lab** is a hands-on simulation of a lightweight federal discovery sprint, introduced after Module 1. The facilitator schedules the two subsequent labs at strategic points across the remaining modules to provide participants with practical experience in applying product thinking to user research, problem framing, and acquisition planning.
 
 ## Module 1: Facilitation Guidance
 ### Module 1: Digital Services and Why Product Thinking Matters in Government
 
-Module Overview
+**Module Overview**
 
 This module introduces participants to the foundational concepts of digital service delivery in government and the importance of adopting a product mindset. Participants explore how product thinking differs from traditional project approaches and how it drives adaptability, user-centered value, and lasting mission impact. They also learn about the key roles and responsibilities of digital service teams and how these roles collaborate across the delivery lifecycle.
 
@@ -30,10 +30,10 @@ By the end of this module, participants will be able to:
 - Recognize opportunities to apply product thinking and analyze how it can be used to address real-world government challenges.
 
 **Activities and Training Artifacts**
-- **Activity**: Fix It Like a Product Team – Participants reflect on and discuss a real-world government service, identify missed user needs, and reimagine how a product mindset could improve the experience.
-- **Optional Activity**: Module Retrospective – Participants reflect on what worked well, what could be improved, and ways to enhance the learning experience for future iterations.
+- **Activity**: *Fix It Like a Product Team* – participants reflect on and discuss a real-world government service, identify missed user needs, and reimagine how a product mindset could improve the experience.
+- **Optional Activity**: *Module Retrospective* – participants reflect on what worked well, what could be improved, and ways to enhance the learning experience for future iterations.
 
-**Discovery Lab Introduction**: The Facilitator should follow the Lab Guide to introduce the description and Lab 1 of the Discovery Lab Sprints. 
+**Discovery Lab Introduction**: The Facilitator should follow the **Lab Guide** to introduce the description and Lab 1 of the Discovery Lab Sprints. 
 - **Artifacts**: Materials from Discovery Lab #1
 
 **Facilitation Tips**
@@ -47,7 +47,7 @@ By the end of this module, participants will be able to:
 ## Module 2: Facilitation Guidance 
 ### Module 2: Understanding People and Problems
 
-Module Overview
+**Module Overview**
 
 This module equips participants with the skills to identify and frame real user problems before shaping solutions or acquisitions. Using the Discovery Sprint framework, participants analyze fictional personas, journey maps, and user research to uncover root causes, prioritize needs, and define measurable success criteria. These activities reinforce how early discovery directly impacts mission outcomes and informs more innovative procurement strategies.
 
@@ -56,17 +56,17 @@ This module equips participants with the skills to identify and frame real user 
 By the end of this module, participants will be able to:
 - Describe the purpose and structure of a Discovery Sprint and how it supports more innovative acquisitions.
 - Analyze user research to identify root problems and craft strong problem statements.
-- Apply product tools such as stakeholder maps, personas, and journey maps to uncover user needs
+- Apply product tools such as stakeholder maps, personas, and journey maps to uncover user needs.
 - Define success criteria and next steps that link user outcomes to mission goals.
 
 **Activities and Training Artifacts**
 
 Scenario: ESA Registry – _Pet.gov_
-- Activity 1: Analyzing User Types and Their Challenges
+- **Activity 1**: Analyzing User Types and Their Challenges
     - Participants identify three potential personas, list three pain points per persona, and highlight the three biggest challenges, their impacts, and the consequences of inaction.
-- Activity 2: Analyze the ESA Registration Journey (Part 1)
+- **Activity 2**: Analyze the ESA Registration Journey (Part 1)
     - Participants review a fictional journey map (Chloe and “Professor Nibbles”), identify top three pain points, propose an improvement opportunity, and frame a “how might we” question.
-- Activity 3: Define Success Criteria (Part 2)
+- **Activity 3**: Define Success Criteria (Part 2)
     - Participants revisit the chosen opportunity and define 2–3 measurable, user-centered success criteria.
 
 **Artifacts**: n/a 
@@ -77,12 +77,12 @@ Scenario: ESA Registry – _Pet.gov_
 - Model good “how might we” framing:  Keep it broad enough for creativity but anchored in the user problem, not the solution.
 - Tie insights back to acquisition: Reinforce that what they surface today becomes the foundation for requirements, SOO/PWS drafting, and evaluation planning.
 - Watch for premature solutioning: If groups start designing features, redirect them to dig deeper into the problem space first.
-- Highlight measurability in success criteria – Remind participants that well-defined criteria can be tracked and used for oversight, not just initial planning.
+- Highlight measurability in success criteria: Remind participants that well-defined criteria can be tracked and used for oversight, not just initial planning.
 
 ## Module 3 Facilitation Guidance 
 ### Module 3: Agile Solicitations, Evaluation, and Award
 
-Module Overview
+**Module Overview**
 
 This module bridges discovery insights and acquisition execution. Participants learn how to select the right contracting approach, incorporate agile and human-centered design principles into solicitation language, estimate the cost of agile work, and design evaluation strategies that identify vendors capable of delivering iterative and collaborative solutions. Through scenario-based activities, they practice aligning acquisition structures and evaluation methods with real-world agile delivery.
 
@@ -96,16 +96,16 @@ By the end of this module, participants will be able to:
 - Design a high-level evaluation strategy for a fictional ESA registry procurement that reflects agile best practices.
   
 **Activities and Training Artifacts**
-- Activity 1: PWS or SOO? Choosing the Right Agile Contracting Approach
+- **Activity 1**: PWS or SOO? Choosing the Right Agile Contracting Approach
     - Participants review the ESA registry scenario, assess readiness and clarity of requirements, and decide whether a PWS or SOO is most appropriate. They justify their choice and identify one potential risk and mitigation approach.
         - Artifacts: Delivery Sprint Report, ESA Statement of Objectives (SOO), and ESA Performance Work Statement (PWS)
-- Activity 2: Estimating the Cost of Agile Delivery
+- **Activity 2**: Estimating the Cost of Agile Delivery
     - Using the Agile Team Estimator tool and their earlier contracting approach decision, teams develop a draft IGCE for the ESA registry.     - They consider team composition, sprint length, number of iterations, optional tasks, and other direct costs.
         - Artifact: IGCE (Excel or worksheet) 
-- Activity 3: Designing an Agile Evaluation Strategy
+- **Activity 3**: Designing an Agile Evaluation Strategy
     - Teams design a phased evaluation approach for the ESA registry procurement. They define evaluation phases, criteria, proposal requirements, and collaboration/governance plans with the CO.
         - Artifact: n/a 
-- Optional Activity: Module Retrospective
+- **Optional Activity**: Module Retrospective
     - Participants reflect on what worked, what could be improved, and how they’ll apply lessons learned in their acquisition work.
 
 **Facilitation Tips**
@@ -128,7 +128,7 @@ By the end of this module, participants will be able to:
 ## Module 4 Facilitation Guidance 
 ### Module 4: Leading with a Product Mindset
 
-Module Overview
+**Module Overview**
 
 This module focuses on post-award success for agile digital delivery. Participants examine the complementary roles of the Product Manager (PM), Product Owner (PO), and Contracting Officer’s Representative (COR) in supporting iterative delivery, maintaining oversight, and fostering collaboration. Through realistic sprint report scenarios, they practice identifying delivery risks, determining who should take action, and deciding how to respond to keep the product and contract on track. The session also addresses the difference between contract oversight metrics and agile delivery metrics, and how to use both to support mission-focused delivery.
 
@@ -142,9 +142,10 @@ By the end of this module, participants will be able to:
 - Foster a collaborative, mission-focused delivery environment after contract award.
 
 **Activities and Training Artifacts**
-- Activity: Sprint Report Analysis – ESA Registry Project
+- **Activity**: Sprint Report Analysis – ESA Registry Project
     - The ESA Registry development project is three months into delivery. Participants play the role of PO, COR, or PM and review a series of fictional sprint reports, each reflecting a common agile delivery challenge—missed deliverables, unplanned changes, and team strain.
-        - Artifact: n/a
+
+**Artifacts**: n/a
 
 **Facilitation Tips** 
 - Keep the analysis grounded in realistic scenarios of government delivery.
@@ -158,7 +159,7 @@ By the end of this module, participants will be able to:
 ## Module 5 Facilitation Guidance 
 ### Module 5: Leading with a Product Mindset
 
-Module Overview
+**Module Overview**
 
 This module focuses on the leadership behaviors, language, and cultural signals that help PMs, CORs, and other acquisition professionals champion a product mindset within their agencies. Participants learn how to recognize and model product-focused thinking in daily decisions, interactions, and communications. They explore how to influence culture without formal authority, guide teams toward outcome-focused delivery, and commit to continuous learning and reflection.
 
@@ -171,10 +172,10 @@ By the end of this module, participants will be able to:
 - Apply intentional strategies for ongoing learning and reflection.
 
 **Activities and Training Artifacts**
-- Activity 1: Spot the Mindset
+- **Activity 1**: Spot the Mindset
     - Participants review example statements and determine whether each reflects a project mindset or a product mindset. If a statement is project-focused, they rewrite it to emphasize user outcomes, evidence-based decision-making, and continuous learning.
         - Artifact: n/a
-- Activity 2: Product Leader Journal (Optional): Participants create a short daily or weekly journal to reflect on.
+- **Optional Activity**: Product Leader Journal: Participants create a short daily or weekly journal to reflect on.
 
 **Facilitation Tips**
 - Encourage participants to go beyond “right or wrong” answers and explain why a statement reflects a project or product mindset.
