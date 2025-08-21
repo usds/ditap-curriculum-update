@@ -1,6 +1,6 @@
 # Lead by Example 
 
-**Product leadership isn’t about titles.** It’s about how you show up—in meetings, in feedback, and in the decisions you make every day. When you lead with a product mindset, you influence how others think, act, and collaborate. This section explores common leadership moments where PMs, CORs, and POs can model product-aligned behaviors that keep teams focused on users, outcomes, and continuous learning.
+**Product leadership isn’t about titles.** It’s about how you show up, in meetings, in feedback, and in the decisions you make every day. When you lead with a product mindset, you influence how others think, act, and collaborate. This section explores common leadership moments where PMs, CORs, and POs can model product-aligned behaviors that keep teams focused on users, outcomes, and continuous learning.
 
 ## Key Moments for Modeling Product Leadership
 
@@ -12,7 +12,7 @@ Use this opportunity to reinforce user-centered goals and spark alignment around
 * Offer feedback that reflects both mission needs and agile flexibility.  
 * Show appreciation for team effort while nudging toward continuous improvement.
 
-**Why it matters:** Sprint reviews aren’t just demos—they’re a space to validate direction and focus on delivering value to users.
+**Why it matters:** Sprint reviews aren’t just demos, they’re a space to validate direction and focus on delivering value to users.
 
 ### Vendor check-ins 
 Approach vendor relationships with curiosity and partnership—not just oversight.
@@ -28,14 +28,14 @@ Approach vendor relationships with curiosity and partnership—not just oversigh
 Use your influence to shape solicitations that invite innovation.
 
 * Push for outcome-based language that reflects real user needs.  
-* Ensure evaluation criteria assess a vendor’s ability to deliver iteratively—not just write a good proposal.  
+* Ensure evaluation criteria assess a vendor’s ability to deliver iteratively, not just write a good proposal.  
 * Collaborate with the CO to align solicitation documents with agile values.
 
 **Why it matters:** What you ask for is what you get. Scope and evaluation language can either enable or block the agility you want to see.
 
 ### Escalating blockers
 
-Step in early when something’s off-track—but do it with care.
+Step in early when something’s off-track, but do it with care.
 
 * Raise issues early and clearly, but constructively.  
 * Focus on unblocking the team, not assigning blame.  
@@ -45,7 +45,7 @@ Step in early when something’s off-track—but do it with care.
 **Why it matters:** Momentum matters. Agile leaders protect team flow by helping unblock problems quickly and constructively.
 
 ### Responding to risk
-Don’t just monitor risk—reframe it.
+Don’t just monitor risk, reframe it.
 
 * Identify risks early and frame them in terms of user impact and mission outcomes.  
 * Don’t wait for a contract issue to escalate — call attention to delivery concerns too.  
@@ -65,4 +65,3 @@ Even small choices send strong signals about what matters. Consider the contrast
 | Team conflict about delivery | "Let’s stick to the original plan" | "Let’s pause and revisit the outcome we’re trying to reach" |
 
 **Takeaway:** Every interaction, big or small, is a chance to reinforce a culture of learning, iteration, and user focus. Leading by example means showing others what good looks like.
-
