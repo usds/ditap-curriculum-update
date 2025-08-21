@@ -172,8 +172,6 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Greater program uptake** | Easier access leads to more eligible families enrolling, which supports the program’s mission. |
 | **Cost savings to the government and applicants** | Less staff burden, fewer application errors, and reduced in-office foot traffic. |
 
-**Activity:** The “Using AI to Draft Your Return on Mission and Performance Metrics” activity will be facilitated during class as a guided exercise.
-
 ## Linking Product Vision → Procurement Objective → Metrics → Return on Mission
 
 | Phase | Purpose | Key output |
@@ -273,7 +271,7 @@ This includes boundaries like:
 
 * Whether work can be done remotely or must be on-site.  
 * Whether FedRAMP or ATO timelines affect launch planning.  
-* How much of the current process can be reengineered, and how much must stay intact.
+* How much of the current process can be reengineered, and how much must stay intact?
 
 **You can choose the right contract type, structure, and performance period.**
 
