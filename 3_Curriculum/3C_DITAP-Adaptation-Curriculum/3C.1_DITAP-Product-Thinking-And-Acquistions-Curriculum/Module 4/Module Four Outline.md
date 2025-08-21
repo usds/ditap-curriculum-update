@@ -4,11 +4,11 @@ The Managing Digital Delivery module focuses on effective agile product delivery
 
 ## Module Objectives:
 
-* Describe the roles of the PM, PO, and COR in agile product delivery  
-* Identify common sprint delivery issues and determine appropriate responses  
-* Differentiate between contract oversight metrics and agile delivery metrics  
-* Support continuous improvement and compliance through agile rituals and performance documentation  
-* Foster a collaborative, mission-focused delivery environment after contract award
+* Describe the roles of the PM, PO, and COR in agile product delivery.  
+* Identify common sprint delivery issues and determine appropriate responses.  
+* Differentiate between contract oversight metrics and agile delivery metrics.  
+* Support continuous improvement and compliance through agile rituals and performance documentation.  
+* Foster a collaborative, mission-focused delivery environment after contract award.
 
 ## Required Topics:
 
@@ -20,10 +20,7 @@ The Managing Digital Delivery module focuses on effective agile product delivery
 ### Class Activity:
 
 * [Sprint Report Analysis](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%204/Class%20Activity%3A%20Sprint%20Report%20Analysis.md) 
-<br>
 
-_Optional_ </br>
-Conduct a module retrospective
-
-* Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
-
+**Optional Activity**
+- Conduct a module retrospective
+  - Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
