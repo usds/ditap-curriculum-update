@@ -1,6 +1,7 @@
 # Defining the Problem and Understanding the People 
 Now that you understand what a discovery sprint is and why it matters, this next section focuses on how to execute one, starting with the two most essential ingredients:</br>
-**the problem you're trying to solve and the people it impacts**.
+1. **the problem you're trying to solve**
+2. **the people it impacts**.
 
 Discovery work begins long before a vendor is selected or a contract is awarded. It begins by clearly defining the challenge, grounding it in user experience, and identifying the stakeholders involved in the process or affected by its outcomes. In this submodule, you’ll learn how to frame a problem in a way that’s actionable and user-centered, and how to identify the right people, internal and external, who need to be part of your research and design process. These early steps are crucial in shaping an acquisition that yields meaningful, mission-aligned results.
 
@@ -10,12 +11,12 @@ The problem statement is the _north star_ of your discovery sprint. It frames wh
 Begin by developing a hypothesis based on current knowledge and understanding of the key challenges in the existing process, system, or tools. Then, use user research conducted during the discovery sprint to test and validate (or refine) that hypothesis based on what you learn.
 
 ### What makes a good problem statement?
-- User-Centered: Focus on the people who experience the issue, not just internal processes or systems.
+- **User-Centered**: Focus on the people who experience the issue, not just internal processes or systems.
     - Bad: “Improve the intake form's backend validation.”
     - Good: “Help applicants avoid errors that cause delays in benefit approval.”
-- Mission-Aligned: Link the problem to the agency’s larger goals (example: access, equity, transparency).
+- **Mission-Aligned**: Link the problem to the agency’s larger goals (example: access, equity, transparency).
     - Example: “Reduce application abandonment rates for food assistance by understanding why users drop off mid-process.”
-- Open-Ended but Actionable: A question or statement that invites exploration—not just a yes/no answer.
+- **Open-Ended but Actionable**: A question or statement that invites exploration—not just a yes/no answer.
     - Use statements such as:
         - “How might we…”
         - “To what extent can we…”
@@ -44,10 +45,10 @@ Start by identifying both internal and external potential users.
 **External Users** (End Users / Public-Facing)
 
 These are people who use or experience the service directly:
-- U.S. residents, citizens, immigrants, or applicants
-- Caregivers, veterans, small business owners
-- People with accessibility needs or language barriers
-- First-time vs. repeat users
+- U.S. residents, citizens, immigrants, or applicants.
+- Caregivers, veterans, small business owners.
+- People with accessibility needs or language barriers.
+- First-time vs. repeat users.
 
 Ask:
 - Who interacts with the system, form, or process?
@@ -57,12 +58,12 @@ Ask:
 **Internal Stakeholders** (Operational / Decision-Makers)
 
 These are people who run, maintain, or are impacted by the service internally:
-- Program managers and business unit leaders
-- Customer service agents or case workers
-- Acquisition and contracts staff
-- IT/Security teams
-- Policy, legal, or compliance officials
-- Finance and budget officers
+- Program managers and business unit leaders.
+- Customer service agents or case workers.
+- Acquisition and contracts staff.
+- IT/Security teams.
+- Policy, legal, or compliance officials.
+- Finance and budget officers.
 
 Ask:
 - Who touches the process internally?
