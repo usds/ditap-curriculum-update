@@ -17,9 +17,7 @@ The Digital Services and Executive Leadership in Government module equips leader
 
 ### Case Study Exercise:
 - [Executive Leverage in Digital Transformation](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%201/Case%20Study%20Exercise%3A%20Executive%20Leverage%20in%20Digital%20Transformation.md)
-<br>
 
-_Optional_ </br>
-Conduct a module retrospective
-- Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations.
-
+**Optional Activity**
+- Conduct a module retrospective
+  - Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations.
