@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/14787117-9ff9-484a-990c-a0bd7d13ee4f" />
+
 # Optional Reflection Activity: Product Leader Journal 
 
 Use this journal to build awareness of your growth as a product-minded leader. Set aside 5–10 minutes at the end of each day or week to reflect. You can do this individually or as part of a regular check-in with your team.
