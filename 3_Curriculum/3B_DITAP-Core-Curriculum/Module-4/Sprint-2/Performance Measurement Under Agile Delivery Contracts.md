@@ -267,8 +267,9 @@ When designing incentives:
 ---
 
 ### Discussion Prompt (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-For your DITAP discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
+For this discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
 
 Choose a digital service your agency currently uses or is developing. This service could be:
 
@@ -349,11 +350,8 @@ Your success depends on creating structures that enable vendors to collaborate e
 **These structures include:**
 
 * **Structuring transparency** so vendors understand the pipeline of opportunities, task order priorities, and evaluation timelines.
-
 * **Designing fair, responsive processes** that prevent vendor lock-in and reward meaningful performance, not just incumbency.
-
 * **Fostering conditions for collaboration** between vendors rather than competition that turns toxic.
-
 * **Curating opportunities for feedback**, continuous improvement, and shared accountability across the ecosystem.
 
 A well-architected delivery marketplace creates the conditions for strong performance, reduced procurement lead times, and continuous improvement, not because vendors are forced to compete, but because the environment inspires quality, trust, and shared success.
@@ -361,11 +359,8 @@ A well-architected delivery marketplace creates the conditions for strong perfor
 Quarterly reviews and joint retrospectives are part of this architecture. These are not just status updates, they are intentional moments where vendors can:
 
 * Raise systemic blockers
-
 * Recommend procurement or performance process improvements
-
 * Share engineering or delivery challenges that may affect multiple teams
-
 * Co-design ways to improve coordination and reduce rework
 
 You’re building more than just contracts, you’re engineering a delivery ecosystem that is resilient, adaptable, and continually optimizing over time. 
@@ -415,7 +410,7 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 | Procurement Velocity | Targeted TO lead times & pre-positioned templates | Faster delivery starts, less administrative drag |
 | Incentive Structures | Award terms, performance bonuses, QASP collaboration metrics | Reward quality and partnership behavior |
 
-### 
+
 
 #### 1\. Ecosystem Governance for Scaled Delivery
 
@@ -500,11 +495,8 @@ Multi-vendor environments inevitably encounter breakdowns. A healthy system does
 Instead of finger-pointing:
 
 * Emphasize joint root cause analysis (RCA): All involved vendors and stakeholders participate in uncovering what went wrong and why.
-
 * Use data-driven retrospectives: Rely on logs, velocity metrics, backlog records and not assumptions or hearsay.
-
 * Document findings transparently: Avoid creating confidentiality silos unless necessary.
-
 * Reinforce psychological safety: People should feel safe owning mistakes in pursuit of the mission.
 
 **Suggested RCA Structure:**
@@ -522,7 +514,6 @@ Add these outputs to shared governance documentation and review them regularly i
 A critical measure of multi-vendor maturity is the ability to issue and award task orders quickly and fairly.
 
 * Set goals by complexity:
-
   * Low-risk TOs: \~3 weeks  
   * Moderate TOs: ≤ 3 months  
   * Complex TOs: ≤ 6 months  
@@ -531,9 +522,7 @@ A critical measure of multi-vendor maturity is the ability to issue and award ta
 * Reduce friction: Pre-plan templates, streamline evaluation requirements, use oral evaluations, and delegate task order planning when possible.
 
 * Incentivize quality:
-
   * Consider award term extensions for vendors with exceptional technical performance and inter-vendor collaboration.
-
   * Use incentive fees for specific behaviors (e.g., mentoring smaller firms, contributing shared tools, and resolving cross-vendor issues ).
 
 ---
@@ -545,41 +534,31 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 #### Operational Structures
 
 * **Vendor Onboarding Playbook:** Standardize the process of bringing new vendors  into the ecosystem, including shared tools, security protocols, performance expectations, and definitions of success.
-
 * **Role Clarification Across Teams:** Clearly define how the COR, CO, PO, vendor team leads, and agency stakeholders interact to avoid duplicated or dropped responsibilities.
-
 * **Team Topologies:** Map how vendor teams are structured, e.g., platform team vs. feature teams—and clarify interdependencies.
 
 #### Governance and Oversight
 
 * **Joint Governance Board or Review Panel:** Include rotating vendor representation to increase transparency and co-ownership of improvement ideas.
-
 * **Integrated Risk Registers:** Maintain a centralized view of delivery risks that’s updated collaboratively across vendors and agency leadership.
-
 * **Standardized Task Order Evaluation Criteria:** Reduce variance and the perception of favoritism by using consistent scoring templates and rubrics across awards.
 
 #### Delivery Alignment
 
 * **Shared Product Vision:** All vendors should understand the end goals of the platform or service. Consider using a roadmap wall or “North Star” artifact reviewed quarterly.
-
 * **Backlog Coordination**: Create a shared high-level backlog and organize features into modular chunks that can be distributed and sequenced across vendors.
-
 * **Dependency Mapping:** Maintain a live dependency matrix across vendors to avoid blockers, duplications, or sequencing issues.
 
 #### Performance Management
 
 * **QASP Metrics for Team Collaboration:** Include metrics for cooperation, responsiveness, joint planning, and support of other vendors.
-
 * **Vendor Self-Assessments:** Let vendors assess their own performance quarterly before retrospectives to promote self-awareness and improvement.
-
 * **Performance Leaderboard or Radar Chart:** Visualize delivery metrics (velocity, quality, collaboration, responsiveness) across vendors for internal government visibility.
 
 #### Culture & Incentives
 
 * **Psychological Safety Practices:** Encourage agencies to model transparency and ownership when issues arise (no scapegoating).
-
 * **Win-Together, Learn-Together Sessions:** Celebrate successful joint releases or key deliveries, with time built in for failure analysis without blame.
-
 * **Performance-Based Incentives:** Use award terms, incentive fees, or task order preference for vendors who consistently collaborate well or exceed delivery goals.
 
 ---
@@ -818,7 +797,7 @@ When you see these signs, step back and assess whether your coordination structu
 ---
 ## Warranties in Agile Development Readings 
 
-As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. After completing, share your thoughts in the discussion board and reply to at least two of your classmates by the end of this sprint.
+As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
 
 Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
 
@@ -1068,6 +1047,7 @@ In this reading, warranties and liability are compared in traditional contractin
 ---
 
 ### Discussion (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 **Based on the warranty readings, post your response to the following questions:**
 
