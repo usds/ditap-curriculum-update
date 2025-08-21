@@ -56,7 +56,7 @@ We will discuss each of these in more detail as we proceed, but it’s essential
 
 ## The Acquisition Plan and Lean Canvas Approach
 
-![checklist](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/checklist.png?raw=true)
+![checklist](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/checklist.png?raw=true)
 
 As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan, and some of the other required items in the contract file, as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
 
@@ -346,7 +346,7 @@ Your OGC may not have in-depth knowledge of your program or acquisition, making 
 
 In the digital age, Intellectual Property (IP) isn’t as easy to safeguard as it was in the past. In the past, an artist like Van Gogh would paint a unique piece, which would be sold by the artist only once. Now that you can re-print a canvas, you can buy multiple copies of The Starry Night. However, the painting—the original image—is still the artist's intellectual property and resides in a museum. So, how does he (his estate) get compensated for reprints? How can this artist monitor or account for people who find the image online and upload it to a local printer or website to create their own reprints on canvas? Of course, these sorts of questions extend to all digital media. If it is on the internet, can it be kept safe? Can we prevent people from obtaining a movie illegally or sharing music?
 
-![The Starry Night by Vincent van Gogh](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg?raw=true) 
+![The Starry Night by Vincent van Gogh](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/The%20Starry%20Night%20-%20Vincent%20van%20Gogh.jpg?raw=true) 
 
 When buying digital services, you can apply many of these concepts to the government. IP is protected in law through patents, copyrights, and trademarks, which enable individuals to earn recognition or financial benefits from what they invent or create. 
 
@@ -360,7 +360,7 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 
 ### Copyright
 
-![Copyright icon – a pencil over a sheet of paper](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Copyright.jpg?raw=true)
+![Copyright icon – a pencil over a sheet of paper](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Copyright.jpg?raw=true)
 
 **Copyright** is a legal term that describes the rights of creators over their literary and artistic works. Copyrighted works encompass a wide range of items, including books, music, paintings, sculptures, films, as well as computer programs, databases, advertisements, maps, and technical drawings.
 
@@ -368,7 +368,7 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 
 ### Patent
 
-![Patent icon – a gear and document](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Patent.jpg?raw=true)
+![Patent icon – a gear and document](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Patent.jpg?raw=true)
 
 A **patent** is an exclusive right granted for an invention. Generally speaking, a patent gives the owner the right to decide how—or whether—others can use the invention. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document.
 
@@ -376,7 +376,7 @@ A **patent** is an exclusive right granted for an invention. Generally speaking,
 
 ### Trademark
 
-![Trademark icon – a stamp with a registered symbol](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Trademark.jpg?raw=true)
+![Trademark icon – a stamp with a registered symbol](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Trademark.jpg?raw=true)
 
 A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.
 
@@ -384,7 +384,7 @@ A **trademark** is a sign capable of distinguishing the goods or services of one
 
 ### Industrial Design
 
-![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/industrial%20design.jpg?raw=true)
+![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/industrial%20design.jpg?raw=true)
 
 An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
 
@@ -392,7 +392,7 @@ An **industrial design** constitutes the ornamental or aesthetic aspect of an ar
 
 ### Geographical Indications and Appellations of Origin
 
-![Geographical indication icon – a map pin and vineyard](https://github.com/kristenjernigan/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Geographical.jpg?raw=true)
+![Geographical indication icon – a map pin and vineyard](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Geographical.jpg?raw=true)
 
 **Geographical indications and appellations of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California renowned for its unique growing conditions that facilitate the production of high-quality wine.
 

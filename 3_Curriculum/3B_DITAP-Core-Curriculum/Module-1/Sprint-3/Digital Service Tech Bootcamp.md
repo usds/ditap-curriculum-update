@@ -252,7 +252,7 @@ According to the National Institute of Standards and Technology (NIST), a true c
 
 These characteristics allow agencies to access computing resources when they need them, from almost anywhere, and scale usage up or down depending on demand, all while tracking and managing usage.
 
-![Diagram illustrating the 5 essential characteristics of cloud computing: On-Demand Self-Service, Broad Network Access, Resource Pooling, Rapid Elasticity, and Measured Service, all stemming from a central cloud icon.](https://raw.githubusercontent.com/kristenjernigan/ditap-curriculum-update/e0c2ace59ae43fb910dbddc0fbfb2c4c45093908/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/5_essentials_cloud.png) 
+![Diagram illustrating the 5 essential characteristics of cloud computing: On-Demand Self-Service, Broad Network Access, Resource Pooling, Rapid Elasticity, and Measured Service, all stemming from a central cloud icon.](https://raw.githubusercontent.com/usds/ditap-curriculum-update/e0c2ace59ae43fb910dbddc0fbfb2c4c45093908/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/5_essentials_cloud.png) 
 
 https://cic.gsa.gov/basics/cloud-basics
 
@@ -608,7 +608,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [Accessibility Insights](https://www.google.com/url?q=https://accessibilityinsights.io/&sa=D&source=docs&ust=1754424299274526&usg=AOvVaw1mOO_qLyputqNzV5Aw1893) | A simple browser plugin that works like a spellcheck for accessibility.  |
 | [Disability:INclusive Workplaces](https://disabilityin.org/procurement-toolkit/) [Accessible Technology Procurement Toolkit](https://disabilityin.org/procurement-toolkit/) | Accessible procurement toolkit built for and by the private sector. |
 | [Section 508](https://www.section508.gov/) | Learn more about Section 508 policies, assessments, and tools.  |
-| [Sample Contracting Language](https://github.com/kristenjernigan/ditap-curriculum-update/blob/3291fb288be82ec8510a70d68e0156fd7c1f1490/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/sample-contracting-language.md) | Contracting language for accessible procurement and ICT.  |
+| [Sample Contracting Language](https://github.com/usds/ditap-curriculum-update/blob/3291fb288be82ec8510a70d68e0156fd7c1f1490/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/sample-contracting-language.md) | Contracting language for accessible procurement and ICT.  |
 | [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria. |
 
 ---
@@ -706,8 +706,8 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 | [Digital Public Goods Registry](https://www.digitalpublicgoods.net/registry) | Registry of digital solutions recognized as a Digital Public Good (DPG). DPG are a list of pre-approved software applications which have been vetted to ensure they meet generic government needs. |
 | [How to Write an RFP for Open Source Solutions](https://www.drupal.org/association/blog/how-to-write-an-rfp-for-open-source-solutions-featuring-drupal-certified-partners) | A guide for crafting a Drupal RFP that prioritizes OSS contributions.  |
 | [Open Source Initiative Licenses](https://opensource.org/licenses) | Licenses that comply with the Open Source Definition, meaning they allow software to be freely used, modified, and shared. |
-| [Open Source Procurement Checklist](https://github.com/kristenjernigan/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
-| [Open Source Procurement FAQ](https://github.com/kristenjernigan/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_faq.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
+| [Open Source Procurement Checklist](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
+| [Open Source Procurement FAQ](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_faq.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
 
 
 
