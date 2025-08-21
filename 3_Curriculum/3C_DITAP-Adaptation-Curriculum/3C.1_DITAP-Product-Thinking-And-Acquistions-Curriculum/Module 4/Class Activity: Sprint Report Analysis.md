@@ -2,7 +2,7 @@
 
 **Scenario setup:** Your agency is overseeing development of a digital ESA (Emotional Support Animal) Registry designed to help citizens register their ESAs, verify documentation, and reduce fraud. You’re serving in the role of Product Owner (PO), Contracting Officer’s Representative (COR), or Product Manager (PM), and the vendor is now three months into delivery.
 
-In this activity, you’ll review a series of fictional sprint reports and evaluate what’s happening from a delivery and oversight perspective. Each report reflects a common challenge in agile contracts—missed deliverables, unplanned changes, and signs of team strain.
+In this activity, you’ll review a series of fictional sprint reports and evaluate what’s happening from a delivery and oversight perspective. Each report reflects a common challenge in agile contracts, missed deliverables, unplanned changes, and signs of team strain.
 
 You’ll work in groups to analyze each sprint, determine who should take action (PO, COR, or CO), and decide how to respond to keep delivery on track and aligned with contract expectations.
 
@@ -22,27 +22,27 @@ You’ll work in groups to analyze each sprint, determine who should take action
 
 **Sprint goals:**
 
-* Implement identity verification screen for healthcare providers  
-* Integrate with legacy credential validation API  
-* Display confirmation to users after validation
+* Implement identity verification screen for healthcare providers.  
+* Integrate with legacy credential validation API.  
+* Display confirmation to users after validation.
 
 **Summary of work completed:**
 
-* UI for verification screen completed and demoed  
-* API integration was planned but delayed due to missing credentials  
-* Confirmation screen implemented but lacks error messaging
+* UI for verification screen completed and demoed.  
+* API integration was planned but delayed due to missing credentials.  
+* Confirmation screen implemented but lacks error messaging.
 
 **Demo notes:**
 
-* Vendor demoed the UI screen, but the API call was mocked, not live  
-* PO accepted the ticket based on visual completion  
-* Developer noted integration was "90% done" and would wrap next sprint
+* Vendor demoed the UI screen, but the API call was mocked, not live.  
+* PO accepted the ticket based on visual completion.  
+* Developer noted integration was "90% done" and would wrap next sprint.
 
 **Risks and blockers:**
 
-* API access delay cited as external blocker  
-* COR was not informed prior to the demo that integration wasn’t functional  
-* No documentation updated to reflect the gap
+* API access delay cited as external blocker.  
+* COR was not informed prior to the demo that integration wasn’t functional.  
+* No documentation updated to reflect the gap.
 
 **Discussion questions:**
 
@@ -56,25 +56,25 @@ You’ll work in groups to analyze each sprint, determine who should take action
 
 **Sprint goals:**
 
-* Improve accessibility for screen reader users  
-* Rewrite form logic to simplify validation
+* Improve accessibility for screen reader users.  
+* Rewrite form logic to simplify validation.
 
 **Summary of work completed:**
 
-* Accessibility improvements demoed (alt text, labels, keyboard nav)  
-* Team also rewrote backend logic for ESA form validation — not planned in sprint backlog  
-* PO reviewed accessibility work and approved stories  
-* Backend logic changes were not demoed, tested, or documented
+* Accessibility improvements demoed (alt text, labels, keyboard nav).  
+* Team also rewrote backend logic for ESA form validation — not planned in sprint backlog.  
+* PO reviewed accessibility work and approved stories.  
+* Backend logic changes were not demoed, tested, or documented.
 
 **Demo notes:**
 
-* Dev team “squeezed in” extra work, saying it was needed to make the accessibility changes easier  
-* COR only found out about the backend change during retrospective
+* Dev team “squeezed in” extra work, saying it was needed to make the accessibility changes easier.  
+* COR only found out about the backend change during retrospective.
 
 **Risks and blockers:**
 
-* Potential impact on form validation rules, which tie directly to legal compliance  
-* No user stories written or acceptance criteria for the backend logic changes
+* Potential impact on form validation rules, which tie directly to legal compliance.  
+* No user stories written or acceptance criteria for the backend logic changes.
 
 **Discussion questions:**
 
@@ -88,27 +88,27 @@ You’ll work in groups to analyze each sprint, determine who should take action
 
 **Sprint goals:**
 
-* Build final “Submit ESA Registration” screen  
-* Store submission data in the system  
-* Send confirmation email to users and providers
+* Build final “Submit ESA Registration” screen.  
+* Store submission data in the system.  
+* Send confirmation email to users and providers.
 
 **Summary of work completed:**
 
-* Submit screen built but had critical bugs during demo  
-* Database write partially functional; developer notes indicate reliability issues  
-* Email feature not started due to illness of lead developer  
-* Sprint velocity dropped by 40%
+* Submit screen built but had critical bugs during demo.  
+* Database write partially functional; developer notes indicate reliability issues.  
+* Email feature not started due to illness of lead developer.  
+* Sprint velocity dropped by 40%.
 
 **Demo notes:**
 
-* PO rejected the submit screen pending bug fix  
-* Team appears demoralized, citing unclear priorities and excessive backlog pressure
+* PO rejected the submit screen pending bug fix.  
+* Team appears demoralized, citing unclear priorities and excessive backlog pressure.
 
 **Risks and blockers:**
 
-* Burnout and lack of backup planning  
-* Features not ready for integration testing next sprint  
-* No formal plan to address missed work
+* Burnout and lack of backup planning.  
+* Features not ready for integration testing next sprint.  
+* No formal plan to address missed work.
 
 **Discussion questions:**
 
