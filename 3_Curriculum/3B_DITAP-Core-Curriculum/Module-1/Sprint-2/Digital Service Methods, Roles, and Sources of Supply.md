@@ -229,7 +229,7 @@ Kanban is a visual workflow management method that enhances efficiency and trans
 
 Key elements of Kanban include:
 
-* **Visual boards**: Tasks are represented as cards on a board, moving through columns that de workflow stages (e.g., To Do, In Progress, Done).  
+* **Visual boards**: Tasks are represented as cards on a board, moving through columns that denote workflow stages (e.g., To Do, In Progress, Done).  
 * **Work-In-Progress (WIP) limits**: Limiting the number of tasks in each stage prevents overloading and highlights bottlenecks.  
 * **Flow Metrics**: Metrics such as lead time, cycle time, and throughput provide insights into process efficiency and help in continuous improvement.
 
