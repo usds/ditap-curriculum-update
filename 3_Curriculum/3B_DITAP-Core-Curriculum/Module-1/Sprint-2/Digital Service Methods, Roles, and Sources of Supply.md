@@ -16,7 +16,7 @@ After this module, you will be able to:
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Service Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
 ### Discussion: The Good, The Bad, and The Ugly (Optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
