@@ -1,6 +1,6 @@
 # Class Activity: PWS or SOO? Choosing the Right Agile Contracting Approach
 
-Exercise Instructions:  
+**Exercise Instructions**  
 Work as an acquisition team to evaluate the same fictional ESA (Emotional Support Animal) project scenario. Based on what you learn, decide whether your agency should pursue a Performance Work Statement (PWS) or a Statement of Objectives (SOO) and justify your choice using discovery-informed decision criteria.
 
 **Here's what you'll do:**
@@ -15,9 +15,9 @@ Work as an acquisition team to evaluate the same fictional ESA (Emotional Suppor
 
 Submit a short written summary that includes:
 
-* **Your Recommendation**: PWS or SOO  
-* **Your Rationale**: 1–2 sentences per decision question  
-* **Risk Consideration**: One key risk of your chosen approach and how your team would mitigate it  
+* **Your Recommendation**: PWS or SOO.  
+* **Your Rationale**: 1–2 sentences per decision question.  
+* **Risk Consideration**: One key risk of your chosen approach and how your team would mitigate it.  
 * Prepare to share a summary of your decision and reasoning in a class debrief.
 
 ### 
