@@ -20,10 +20,7 @@ The Leading with a Product Mindset module emphasizes the importance of leading w
 
 * [Spot the Mindset](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Spot%20the%20Mindset.md)  
 * [Product Leader Journal](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Product%20Leader%20Journal.md)
-<br>
 
-_Optional_ </br>
-Conduct a module (or course) retrospective
-
-* Participants share what they liked about the module/course, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
-
+**Optional Activity**
+- Conduct a module (or course) retrospective
+  - Participants share what they liked about the module/course, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 

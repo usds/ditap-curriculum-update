@@ -3,7 +3,7 @@
 # Class Activity: Analyzing Users and Their Pain Points  
 This two-part activity gives you the chance to apply what you’ve learned about discovery tools. To begin, you’ll analyze a fictional user journey to identify pain points and uncover opportunities for improvement. In Part Two, you’ll define success criteria that reflect real user outcomes based on that opportunity.
 
-Together, these exercises will help you practice translating user insights into actionable guidance—just like a discovery team would do before shaping a procurement strategy.
+Together, these exercises will help you practice translating user insights into actionable guidance, just like a discovery team would do before shaping a procurement strategy.
 
 ## Activity Instructions:
 
@@ -12,10 +12,10 @@ Citizens across the country want to register their emotional support animals (ES
 
 **Instructions:**
 
-1. Review Chloe’s journey map  
-2. Identify the top three pain points  
-3. Propose one opportunity for improvement  
-4. Frame a “how might we” question based on that opportunity
+1. Review Chloe’s journey map.  
+2. Identify the top three pain points. 
+3. Propose one opportunity for improvement.
+4. Frame a “how might we” question based on that opportunity.
 
 ### Journey map analysis
 **Fictional Journey Map:** Chloe, College Student with Anxiety and a Ferret ("Professor Nibbles")</br>
@@ -34,7 +34,8 @@ Citizens across the country want to register their emotional support animals (ES
 - What’s the most emotionally frustrating moment?  
 - Where is the user most likely to be confused or misinformed?  
 - Which pain point has the greatest impact and is the most fixable?  
-- Did your group agree on the same pain points?  -* What kind of user data would help you validate your assumptions?
+- Did your group agree on the same pain points?
+- What kind of user data would help you validate your assumptions?
 
 ## Class Activity: Defining the Success Criteria 
 Now that you’ve identified a key opportunity to improve the user experience, it’s time to define what success would look like. In this activity, you’ll work with your team to develop clear, measurable success criteria that reflect user needs and outcomes—not just system delivery. This step helps connect discovery insights to performance measures that can guide procurement planning and delivery oversight.

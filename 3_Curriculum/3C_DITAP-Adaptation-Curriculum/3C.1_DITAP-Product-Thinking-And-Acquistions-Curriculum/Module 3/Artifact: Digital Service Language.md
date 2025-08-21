@@ -37,7 +37,7 @@
 
 ## Human-Centered Design (HCD) Expectations in Scope Language
 
-Human-Centered Design (HCD) is a foundational approach in digital services that ensures products are grounded in real user needs. Including HCD activities in your scope communicates to vendors that discovery, usability, and iteration are not optional — they are expected. These tasks help ensure the final product is useful, usable, and effective in supporting mission outcomes.
+Human-Centered Design (HCD) is a foundational approach in digital services that ensures products are grounded in real user needs. Including HCD activities in your scope communicates to vendors that discovery, usability, and iteration are not optional, they are expected. These tasks help ensure the final product is useful, usable, and effective in supporting mission outcomes.
 
 ### A. HCD approach and collaboration
 
@@ -73,71 +73,70 @@ Modern digital service delivery is iterative, user-driven, and performance-focus
 
 * The Contractor shall prepare and maintain a Product Plan and Roadmap that serves as the authoritative reference for all planning, design, and performance tracking.
 * The Product Plan shall include:
-  * A description of the user problem being addressed
-  * Summaries of formative user research
-  * The team’s delivery approach
-  * Key Performance Indicators (KPIs) developed in collaboration with the Product Owner and stakeholders
-  * Methods for evaluating performance against KPIs throughout the product’s lifecycle
+  * A description of the user problem being addressed.
+  * Summaries of formative user research.
+  * The team’s delivery approach.
+  * Key Performance Indicators (KPIs) developed in collaboration with the Product Owner and stakeholders.
+  * Methods for evaluating performance against KPIs throughout the product’s lifecycle.
 
 ### II. Backlog and sprint management
 
 * The Contractor shall maintain a continuously groomed backlog of work tied to validated user needs and supported by research artifacts.
 * Each task in the backlog shall include:
-  * Description of the user need
-  * Reference to relevant research or discovery artifacts
-  * Proposed solution approach
-  * Level-of-effort estimate
+  * Description of the user need.
+  * Reference to relevant research or discovery artifacts.
+  * Proposed solution approach.
+  * Level-of-effort estimate.
 * Before each sprint:
-  * The Product Owner and stakeholders will prioritize backlog items and approve a Sprint Plan
-  * The Sprint Plan must define clear goals and acceptance criteria
+  * The Product Owner and stakeholders will prioritize backlog items and approve a Sprint Plan.
+  * The Sprint Plan must define clear goals and acceptance criteria.
 * During the sprint:
-  * Teams may refine approaches as new information emerges, but acceptance criteria and effort levels remain fixed
+  * Teams may refine approaches as new information emerges, but acceptance criteria and effort levels remain fixed.
 * After the sprint:
-  * The Contractor shall conduct a Sprint Demonstration to validate functionality
+  * The Contractor shall conduct a Sprint Demonstration to validate functionality.
   * A Sprint Certification Package shall be submitted, including:
-    * Summary of completed/incomplete work
-    * Issues encountered and resolutions
-    * Links to all deliverables and artifacts
-  * Approval by the Product Owner and COR is required before starting the next sprint
+    * Summary of completed/incomplete work.
+    * Issues encountered and resolutions.
+    * Links to all deliverables and artifacts.
+  * Approval by the Product Owner and COR is required before starting the next sprint.
 
 ### III. Common product lifecycle activities
 
 **A. Discovery and research**
 * Adhere to objectives outlined in the [U.S. Digital Services Playbook](https://playbook.cio.gov)
 * Conduct discovery on:
-  * Existing product features and architecture
-  * User journeys and stakeholder needs
-  * Business processes and data sources
-* Produce and maintain a Discovery Report summarizing findings
-* Partner with internal and external teams to ensure service integration and alignment
-* Use rapid prototyping to gather feedback before full development begins
+  * Existing product features and architecture.
+  * User journeys and stakeholder needs.
+  * Business processes and data sources.
+* Produce and maintain a Discovery Report summarizing findings.
+* Partner with internal and external teams to ensure service integration and alignment.
+* Use rapid prototyping to gather feedback before full development begins.
 
 **B. Agile engineering practices**
-* Define, develop, and test code that meets user and technical requirements
-* Use Agile, test-driven development (TDD), and pair programming where appropriate
+* Define, develop, and test code that meets user and technical requirements.
+* Use Agile, test-driven development (TDD), and pair programming where appropriate.
 * Continuously integrate and deploy code:
-  * Target daily production deployments
-  * Use lower environments for pre-release validation
-* Implement build, release, and deployment pipelines as version-controlled code
-* Maintain familiarity with agency tools (e.g., GitHub)
-* Host code in public source repositories under OMB M-16-21 Open Source guidance
-* Integrate with relevant internal and external systems and document all integration points
-* Plan and document data migration strategies (e.g., from on-prem to cloud)
+  * Target daily production deployments.
+  * Use lower environments for pre-release validation.
+* Implement build, release, and deployment pipelines as version-controlled code.
+* Maintain familiarity with agency tools (e.g., GitHub).
+* Host code in public source repositories under OMB M-16-21 Open Source guidance.
+* Integrate with relevant internal and external systems and document all integration points.
+* Plan and document data migration strategies (e.g., from on-prem to cloud).
 
 **C. Metrics and measurement**
-* Define and track KPIs tied to user needs and problem statements
-* Establish baseline metrics to support continuous improvement
-* Use metrics to inform prioritization and roadmap adjustments
+* Define and track KPIs tied to user needs and problem statements.
+* Establish baseline metrics to support continuous improvement.
+* Use metrics to inform prioritization and roadmap adjustments.
 
 **D. Collaboration and communication**
-* Participate in stakeholder and planning meetings (virtual and in-person)
-* Manage meeting documentation (agendas, minutes, action items)
-* Support integrated, cross-functional teams that include both government and contractor staff
-* Share knowledge and lessons learned across the team
+* Participate in stakeholder and planning meetings (virtual and in-person).
+* Manage meeting documentation (agendas, minutes, action items).
+* Support integrated, cross-functional teams that include both government and contractor staff.
+* Share knowledge and lessons learned across the team.
 * Maintain comprehensive documentation of:
   * Specifications
   * Design decisions
   * Data models
   * Dependencies
   * Architecture and systems integration details
-

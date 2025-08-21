@@ -126,7 +126,7 @@ Jot down any questions that come up during the course you want to revisit or dis
 
 The Magic Quadrant is a market research tool used by the market research firm Gartner. The Magic Quadrant tool helps you think about the market through the lens of your customer’s needs. As Gartner explains in its discussion of the Magic Quadrant, you can generally segment a market four ways as depicted in the Magic Quadrant below:
 
-![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9e4c0e623315e0cfe41418eedf977e06bf706f16/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Gartner%20Magic%20Quadrant.png?raw=true)
+![A chart divided into four quadrants by horizontal and vertical axes. The horizontal axis is labeled "Completeness of Vision" and the vertical axis is labeled "Ability to Execute." The four quadrants are labeled as follows: Top Left: Challengers, Top Right: Leaders, Bottom Left: Niche Players, Bottom Right: Visionaries.](https://github.com/usds/ditap-curriculum-update/blob/9e4c0e623315e0cfe41418eedf977e06bf706f16/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Gartner%20Magic%20Quadrant.png?raw=true)
 
 
 *Graphic retrieved from [http://www.business2community.com/](http://www.business2community.com/) on 10/7/2016* <br> 
@@ -160,7 +160,7 @@ There are two goals to this interaction:
 1. To improve procurement outcomes by obtaining as much information as possible regarding potential solutions from vendors before preparing a solicitation  
 2.  To better communicate government needs to vendors, so they will provide better-informed offers. 
 
-![The White House and a city connected by an arrow reading, "Information"](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Govt%20Vendor%20Information%20Sharing.png?raw=true)
+![The White House and a city connected by an arrow reading, "Information"](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Govt%20Vendor%20Information%20Sharing.png?raw=true)
 
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
@@ -221,7 +221,7 @@ We will refer to these memos again later in the module.
 
 Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
 
-![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/pre-solicitation%20communication%20cartoon.png?raw=true)
+![Two panel cartoon with workers gathered around a table discussing an RFP](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/pre-solicitation%20communication%20cartoon.png?raw=true)
 
 
 The cartoon shows that the government may issue a clear solicitation to them, only to have vendors interpret it differently when it “hits the street.” This is the situation illustrated in the above cartoon. If you avoid situations like the one in the cartoon and keep the lines of communication open between government and industry during the pre-solicitation phase, you’ll wind up with:
@@ -238,7 +238,7 @@ Let the experts be experts. This is particularly important in the digital servic
 
 Industry representatives are constantly exposed to new technologies and must be aware of changing marketplace trends. Take advantage of their expertise on digital products and services you may be procuring to discover solutions and approaches you may not be aware of.
 
-![two heads, one with a question, the other with an answer](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/questions%20answers.png?raw=true)
+![two heads, one with a question, the other with an answer](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/questions%20answers.png?raw=true)
 
 
 By engaging with potential vendors early on, you can solicit their feedback on what’s possible. You might learn your ideal solution may not be the best choice. 
@@ -278,7 +278,7 @@ By now, you can explain why pre-solicitation communication is important. Let’s
 
 Think of the information you have to provide in the shape of a pyramid. The background and mission of your agency program form the foundation of that pyramid, and the other elements are built on top of that foundation. When going into the market research phase, you may not know the constraints, requirements, timelines, and resources you have or need for the acquisition. Utilize market research to get information that will help guide the requirements development process and determine the rest of the information needed for a solicitation. 
 
-![A pyramid diagram illustrating a hierarchy for effective communication, from a broad base to a narrow top: Background and Mission, Desired Outcomes, Constraints, Timelines and Resources, and Reqs (Requirements)](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/communicate%20effectively%20pyramid.png?raw=true)
+![A pyramid diagram illustrating a hierarchy for effective communication, from a broad base to a narrow top: Background and Mission, Desired Outcomes, Constraints, Timelines and Resources, and Reqs (Requirements)](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/communicate%20effectively%20pyramid.png?raw=true)
 
 
 Read about each building block of the pyramid above. 
@@ -310,19 +310,19 @@ As you’ve learned throughout this module, engaging early with industry is crit
 
 **MVPs & challenges.** MVPs and challenges help test acquisition hypotheses to determine how best to conduct a full solicitation for a product. They allow for a lightweight way to determine if a particular platform, service, or tool can be implemented in an agency or solve an agency problem before making a significant investment. These approaches prove that the platform, service, or tool works or doesn’t work via actual delivery; they get a functioning solution from end users to see how well they respond. This reduces overall risk and lets an agency try before it buys. Contrast this with long-term market analysis reports that provide helpful information but don’t allow you to try and test with end users.
 
-![A hand-drawn blue circular brushstroke framing the red text, 'Do the minimum needed to test your product'](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/MVP.png?raw=true)
+![A hand-drawn blue circular brushstroke framing the red text, 'Do the minimum needed to test your product'](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/MVP.png?raw=true)
 
 
 **MVPs:** The Minimum Viable Product (MVP), or alpha delivery, can be complex. In product development, the minimum viable product (MVP) has just enough features to gather “validated learning” about the product and its continued development. It uses a minimum investment to test a product. An MVP tests the actual usage scenario in contrast to conventional market research that relies on surveys or focus groups, often providing misleading results. Here are some more resources to further your understanding of MVPs:
 
 * The popular file-sharing system [Dropbox](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) started as an MVP.
 
-![Challenges](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Challenges.jpg?raw=true)
+![Challenges](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Challenges.jpg?raw=true)
 
 
 **Challenges:** Challenges are a great way to test out pilots or prototypes – get small MVPs created without going through the formal acquisition process. Also, it is potentially a way to encourage the open-source community to interact with the government. It does not require that individuals or companies be registered with a DUNS number, unless the challenge rules call for that specifically. [Challenge.gov](https://www.challenge.gov/) has a complete list of current challenges and how to use them.
 
-![Reverse Industry Days](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/IndustryDays.jpg?raw=true)
+![Reverse Industry Days](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/IndustryDays.jpg?raw=true)
 
 
 **Reverse industry days:** When determining where to take market research and how to understand what is available in a certain technology sector, a reverse industry day is a great market research tool. Short presentations allow the industry to tell the government what existing solutions can meet the problem. There is no specific FAR reference to these. Still, they are becoming more common and in the digital service sector could be very beneficial to finding and getting companies interested in telling the government what kind of products or services exist that can meet our needs without a formal “RFI” process having to be completed first. Here are a few recent examples:
@@ -363,7 +363,7 @@ This [sample Word version](https://techfarhub.cio.gov/assets/files/Sources%20Sou
 
 NOTE: [If Google Forms can’t be accessed, alternative tools can be found](https://www.makeuseof.com/best-google-forms-alternatives/). Some are open source, and some have paid-for versions. 
 
-![Webinars](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
+![Webinars](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
 
 
 **Virtual industry day webinar or videos:**   
@@ -374,12 +374,12 @@ Examples of virtual industry days:
 * [Mission and Installation Contracting Command (MICC) Advance Planning Briefing for Industry (APBI):](https://www.army.mil/article/282863/registration_open_for_2025_army_contracting_virtual_outreach_for_industry?utm_source=chatgpt.com) In response to COVID-19 safety precautions, the MICC transitioned to a virtual format for its annual APBI event. This approach allowed small businesses and industry partners to engage in contracting forecasts and discussions without the need for physical attendance.  
 * [PILCast Episode \#9](https://www.youtube.com/watch?v=u_FQM9yR_2Q) \- Innovative Techniques for Market Research: The PIL has experimented with incorporating videos into these solicitations to provide a more dynamic and comprehensive understanding of project needs.
 
-![Blog](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Blog.jpg?raw=true)
+![Blog](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Blog.jpg?raw=true)
 
 
 **Blogs \+ social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
 
-![Industry experts](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Industry_Experts.jpg?raw=true)
+![Industry experts](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Industry_Experts.jpg?raw=true)
 
 **Similar industry experts:** Another way to interact with the industry is as an advisor. Finding an industry with similar challenges and problems as ours and discussing how they implement digital service techniques and solutions can help lend insight to how the commercial world buys these services. For example, Virgin Air has been awarded the Best Functional Web Design, Webby Award. An airline company is similar to an agency in terms of regulations, compliance, etc., but it must also engage customers to use its web services to book travel. Nothing prevents the government from contacting other industries to candidly discuss the method and the market that supports their products. In this space, the government is another consumer with similar challenges. 
 
@@ -436,7 +436,7 @@ The more “traditional” ways to engage with industry also have a place. These
 * **Requests for Information (RFIs):** Issue an RFI to ensure the government understands the industry's capabilities and can develop or improve its acquisition strategy regarding contract type, performance requirements, performance work statements/statements of work, and performance metrics. Although not required, sometimes releasing a draft Request for Proposal (RFP), including sections L and M, ensures clear solicitation instructions. Get feedback from the industry on whether the evaluation instructions are clear or what could make them better performance indicators.  
 *  **Industry days:** Industry days are hosted by government agencies and offer a forum where vendors can learn more about pending procurements, identify potential partners and competitors, and interact and build relationships with government personnel. Such events can encourage competition and create a level playing field for all potential offerors. See the [ACT-IAC Report: Industry Day Best Practices for more guidelines on conducting an Industry Day](https://www.actiac.org/groups/document/industry-day-best-practices-white-paper-122014).
  
-![A group of people in business attire viewing a presentation](https://github.com/kristenjernigan/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Government%20employees%20attending%20an%20industry%20day.jpg?raw=true) 
+![A group of people in business attire viewing a presentation](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Government%20employees%20attending%20an%20industry%20day.jpg?raw=true) 
 
 
   * **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.  

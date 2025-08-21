@@ -18,9 +18,9 @@ _How might we create an ESA registry that earns the trust of users and service i
 
 **Identify 2–3 user personas to represent potential users of an ESA system application**</br> 
 Examples:
-- Anxious college student with a ferret
-- Landlord with twelve ESA requests this week 
-- Government, ESA application reviewer
+- Anxious college student with a ferret.
+- Landlord with twelve ESA requests this week. 
+- Government, ESA application reviewer.
 
 **List three pain points for each persona**</br>
 Examples:
@@ -29,6 +29,6 @@ Examples:
 - “People are abusing the system and bringing alpacas into Trader Joe’s.”
 
 **Identify problems to solve**
-- The three most significant problems we see
-- The impact the problems have on the users or agency
-- Consequences of not taking action
+- The three most significant problems we see.
+- The impact the problems have on the users or agency.
+- Consequences of not taking action.

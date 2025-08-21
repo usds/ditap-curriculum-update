@@ -60,7 +60,7 @@ Before the contractor team even kicks off, consider establishing a project chart
 Remember: this stage is about delivery, but it’s also about learning, improving, and staying connected to the people and goals you’re serving. Agile contracts have shown up to three times higher success rates than traditional waterfall efforts—because of this continuous involvement, shared accountability, and focus on delivering real, working results.
 
 See the attached Sample Project Charter for a template to kick off this process:  
-[Project Charter](https://github.com/kristenjernigan/ditap-curriculum-update/blob/d0e92385bb4b3d14be7b45ffe14cafc73c5c125a/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/Module-4-Media/Digital_Service_Project_Charter.md)
+[Project Charter](https://github.com/usds/ditap-curriculum-update/blob/d0e92385bb4b3d14be7b45ffe14cafc73c5c125a/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/Module-4-Media/Digital_Service_Project_Charter.md)
 
 
 ### Agile Framework in Federal Procurement 
