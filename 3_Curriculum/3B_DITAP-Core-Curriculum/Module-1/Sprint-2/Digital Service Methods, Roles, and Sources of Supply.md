@@ -388,10 +388,11 @@ Transparency builds trust between contractors and federal stakeholders and impro
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
 ---
+
 ## Discussion (Optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
-Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
+Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
 
 ---
@@ -782,11 +783,6 @@ Select two companies from the list of Digital Service Coalition members listed [
 * How much experience has each company had performing under federal contracts so far?   
 * What else would you be interested to learn about each company? 
 
-### Activity – Group exercise: 
->Note for vendors: this is an optional in-class activity.
-
-In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
-
 ### Discussion prompt (Optional) 
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
@@ -813,11 +809,6 @@ Once the right supplier type is identified, the next step is choosing the approp
 **Note:**  
  Agency-specific vehicles are increasingly designed to support agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
 
-**Activity – Vehicle match game:**  
->Note for vendors: this is an optional in-class activity.
-
-In small groups, review different digital service needs. Match each need with a suitable supplier type and acquisition pathway, and explain your reasoning.
-
 ---
 
 ### Models of collaboration
@@ -832,10 +823,6 @@ Common models include:
 
 * **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
 
-### Activity – Role play:
->Note for vendors: this is an optional in-class activity.
-
-Participants role-play various collaboration models, taking on roles such as Project Manager, Vendor Lead, and Federal Product Owner. Teams discuss the benefits and challenges of each model.
 
 ---
 
@@ -849,10 +836,6 @@ Participants role-play various collaboration models, taking on roles such as Pro
 * A large integrator leads DevSecOps operations while a digital consultancy handles UX/UI and front-end development.  
 * A digital services company partners with an internal federal team to co-develop a modular CMS platform, sharing sprint planning and product ownership duties.
 
-### Activity – Group analysis:
->Note for vendors: this is an optional in-class activity.
-
- Review a real-world case study (anonymized) and identify the agency's responsibilities vs. the vendor’s responsibilities. Discuss how each role contributed to project success.
 
 ---
 ## Recommended Readings
