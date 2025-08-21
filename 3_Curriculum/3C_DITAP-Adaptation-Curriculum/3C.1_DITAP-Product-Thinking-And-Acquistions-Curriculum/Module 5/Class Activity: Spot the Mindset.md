@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/a8b5cae1-8d90-4af0-95e4-cfea9aa73b73" />
+
 # Class Activity: Spot the Mindset 
 
 **Activity Setup:** This activity helps you practice recognizing the difference between a **project mindset** and a **product mindset** in day-to-day language. These subtle shifts in how we talk can shape team behavior, influence decisions, and signal what we value.
