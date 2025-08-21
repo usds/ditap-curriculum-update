@@ -10,7 +10,7 @@
 
 ## 
 
-# Executive Summary
+## Executive Summary
 
 The DITAP curriculum refresh represents a comprehensive modernization of the program, driven by evidence-based research and stakeholder feedback. This guide provides vendors with essential information about curriculum changes, implementation requirements, and new resources to ensure successful program delivery.
 
