@@ -787,7 +787,7 @@ Select two companies from the list of Digital Service Coalition members listed [
 
 In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
 
-### Self-paced reflection prompt (Optional) 
+### Discussion prompt (Optional) 
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
