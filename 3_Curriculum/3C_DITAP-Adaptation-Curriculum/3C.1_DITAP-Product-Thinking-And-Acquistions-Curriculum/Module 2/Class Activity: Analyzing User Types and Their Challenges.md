@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/2d21fa0a-03a8-4260-9518-e5f19e6f851a" />
+
 # Class Activity: Analyzing User Types and Their Challenges
 **Discovery Sprint for: Pet.gov, The Federal Emotional Support Animal Registry**
 

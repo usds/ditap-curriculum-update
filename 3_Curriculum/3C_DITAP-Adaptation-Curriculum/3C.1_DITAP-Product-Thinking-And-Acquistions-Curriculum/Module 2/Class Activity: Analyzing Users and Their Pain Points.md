@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/dddf2dc0-6e98-4a95-8151-22fa7a4b90b9" />
+
 # Class Activity: Analyzing Users and Their Pain Points  
 This two-part activity gives you the chance to apply what you’ve learned about discovery tools. To begin, you’ll analyze a fictional user journey to identify pain points and uncover opportunities for improvement. In Part Two, you’ll define success criteria that reflect real user outcomes based on that opportunity.
 

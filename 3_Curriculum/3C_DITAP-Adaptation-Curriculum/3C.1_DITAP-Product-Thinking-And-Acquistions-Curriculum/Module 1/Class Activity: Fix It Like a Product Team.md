@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/ad4fdeb2-9302-49ec-916b-920c6fff2d9d" />
+
 # Class Activity: Fix It Like a Product Team 
 Now that you understand how digital services work and why a product mindset matters, it’s time to apply that thinking to a real-world example. In this activity, you’ll reflect on a government service you’ve used that felt confusing or outdated and explore how a product-minded team might improve it. You’ll connect service challenges to missed user needs and consider how continuous delivery and user-centered design can lead to better outcomes.
 
