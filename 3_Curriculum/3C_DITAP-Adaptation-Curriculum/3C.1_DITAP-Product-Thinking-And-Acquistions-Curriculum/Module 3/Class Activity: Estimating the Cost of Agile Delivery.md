@@ -19,8 +19,7 @@ Your estimate should reflect both the current state of the project and the struc
 
 * A completed IGCE using the Excel tool (including base and option periods).  
 * A summary (1–2 paragraphs) that explains:  
-  * How your IGCE reflect the needs of your scenario  
+  * How your IGCE reflect the needs of your scenario.  
   * How your PWS or SOO decision influenced your cost assumptions.
 
 **Optional Team Share-Out:** Time permitting, teams may share highlights from their estimates and compare assumptions across scenarios.
-
