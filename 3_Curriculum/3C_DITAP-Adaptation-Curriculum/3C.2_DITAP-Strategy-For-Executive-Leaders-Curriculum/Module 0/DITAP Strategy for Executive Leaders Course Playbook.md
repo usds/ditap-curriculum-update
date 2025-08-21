@@ -11,16 +11,16 @@ A strategic leadership course that complements the core DITAP program but adopts
 
 ## Target Audience
 Cross-functional federal staff involved in shaping, managing, or influencing digital service delivery and acquisition. Ideal for federal acquisition leaders or professionals across acquisition leadership roles, such as:
-- Political appointees
-- Senior executives
-- Stakeholders who play a role in the strategy of digital services and IT procurement for an agency
-- DITAP alumni looking to refresh their skills and advance their careers
+- Political appointees.
+- Senior executives.
+- Stakeholders who play a role in the strategy of digital services and IT procurement for an agency.
+- DITAP alumni looking to refresh their skills and advance their careers.
 
 ## Objectives
 <img width="615" height="278" alt="image" src="https://github.com/user-attachments/assets/76577a3a-cddd-4ee5-9254-c2efa2eb499e" />
 
 ## Delivery Format
 The course offers maximum flexibility in both content and scheduling. The interactive activities offer frequent changes in modality, featuring a pared-down design that facilitates seamless transitions between in-person and virtual formats.
-- 5 course modules that include curriculum and interactive activities
-- Target course length of 16 training hours
-- The course can be delivered in-person or virtually, with a preference for in-person
+- 5 course modules that include curriculum and interactive activities.
+- Target course length of 16 training hours.
+- The course can be delivered in-person or virtually, with a preference for in-person.
