@@ -15,7 +15,7 @@ The PO owns the product backlog, prioritizes work, and ensures alignment with us
 * **Reject Incomplete Work:** If sprint deliverables don’t meet the Definition of Done, the PO can reject them during the Sprint Review. Rejected work is returned to the backlog for rework or re-prioritization.
 * **Clarify Requirements or Priorities:** Delivery issues may result from misalignment. The PO can work with the team to clarify stories, adjust scope, or reorder the backlog.
 * **Assess Team Dynamics:** Use the retrospective to surface delivery risks, gaps in ownership, or velocity concerns.
-* **Communicate Early and Often:** Alert the COR and stakeholders to emerging concerns—don’t wait until sprint close-out.
+* **Communicate Early and Often:** Alert the COR and stakeholders to emerging concerns, don’t wait until sprint close-out.
 * **Escalate Delivery Risks:** When patterns of failure emerge, document them and alert the COR for possible contract-level intervention.
 
 🔍 **PO takeaway:** The PO addresses delivery from a product and team perspective. They don’t manage contracts but are critical in diagnosing and documenting why delivery is off track.
@@ -32,18 +32,17 @@ The COR ensures that the vendor meets contractual obligations and that performan
 * **Coordinate with the CO:** For persistent or contractual issues, notify the Contracting Officer. Only the CO can take formal action (e.g., issuing a Cure Notice or modifying the contract).
 * **Facilitate a Corrective Action Plan:** Work with the PO and CO to request a vendor plan outlining improvements, staffing adjustments, or revised timelines.
 * **Monitor Remediation:** Track follow-through on the corrective plan and escalate if issues remain unresolved.
-* **Support Formal Remedies (if needed):** If remediation fails, provide documentation that supports next steps—payment withholds, task order termination, or past performance action.
+* **Support Formal Remedies (if needed):** If remediation fails, provide documentation that supports next steps, payment withholds, task order termination, or past performance action.
 
 🔍 **COR takeaway:** The COR addresses delivery failure from a contractual and performance perspective. They ensure the government stays protected while giving vendors fair opportunity to course correct.
 
 ## Working Together: PO and COR Collaboration
 
 Although the PO and COR operate under different authorities, they should remain tightly aligned throughout delivery. Together, they can:
-
-* Share sprint notes and backlog context  
-* Document issues collaboratively  
-* Elevate concerns to vendor leadership  
-* Jointly escalate risks to the CO when needed
+* Share sprint notes and backlog context.  
+* Document issues collaboratively.  
+* Elevate concerns to vendor leadership.  
+* Jointly escalate risks to the CO when needed.
 
 ## Common Issues in Agile Sprints
 
@@ -86,11 +85,11 @@ Agile projects are iterative, but certain challenges tend to repeat. Here are th
 
 ## Early Warning Signs of Escalation
 
-* Sprint velocity drops two cycles in a row  
-* Repeated delivery without user testing or feedback  
-* Defensive or evasive vendor behavior in retrospectives  
-* Government receives complaints from users or stakeholders  
-* Contractual deliverables (e.g., accessibility, documentation) are consistently missing
+* Sprint velocity drops two cycles in a row.  
+* Repeated delivery without user testing or feedback.  
+* Defensive or evasive vendor behavior in retrospectives.  
+* Government receives complaints from users or stakeholders.  
+* Contractual deliverables (e.g., accessibility, documentation) are consistently missing.
 
 ## Investigating Issues: Asking the Right Questions
 
@@ -115,15 +114,15 @@ Agile projects are iterative, but certain challenges tend to repeat. Here are th
 
 ### What the PO can do:
 
-* Reprioritize the backlog and flag delayed stories  
-* Use retrospectives to adjust expectations  
-* Ask the vendor what support is needed
+* Reprioritize the backlog and flag delayed stories.  
+* Use retrospectives to adjust expectations.  
+* Ask the vendor what support is needed.
 
 ### What the COR can do:
 
-* Document the disruption clearly  
-* Determine if it’s a one-time issue or pattern  
-* Avoid penalizing for true emergencies, but monitor for trends
+* Document the disruption clearly.  
+* Determine if it’s a one-time issue or pattern.  
+* Avoid penalizing for true emergencies, but monitor for trends.
 
 🔍 **Important note:** Agile allows flexibility but not ambiguity. Always document what changed and why.
 
@@ -132,9 +131,9 @@ Agile projects are iterative, but certain challenges tend to repeat. Here are th
 If problems repeat across multiple sprints:
 
 * Request a formal **Corrective Action Plan** through the CO  
-* Increase check-in frequency  
-* Consider additional contract guardrails (e.g., interim checkpoints)  
-* Revisit your QASP for clarity and shared expectations
+* Increase check-in frequency.  
+* Consider additional contract guardrails (e.g., interim checkpoints).  
+* Revisit your QASP for clarity and shared expectations.
 
 ## Sample Questions for Retrospective or Standup Check-Ins
 
@@ -148,4 +147,3 @@ If problems repeat across multiple sprints:
 ## Class Activity: [Sprint Report Analysis](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%204/Class%20Activity%3A%20Sprint%20Report%20Analysis.md)  
 
 Now that you have explored how Product Owners (POs), Contracting Officer’s Representatives (CORs), and Product Managers (PMs) support agile delivery, it is time to apply what you have learned. In this activity, you will step into the role of a federal delivery leader reviewing real sprint updates from the ESA Registry project. Using a set of vendor sprint reports, you and your team will assess performance, identify risks, and decide what actions (if any) are needed and who should take them. Use this opportunity to sharpen your ability to connect delivery observations with contract oversight, performance documentation, and team coordination.
-
