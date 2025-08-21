@@ -22,15 +22,15 @@ Together, you form a **triangle of trust and delivery** balancing product, perfo
 
 ### Product Owner (PO)
 
-The PO manages the day-to-day decisions that shape the product. They serve as the voice of the user and work closely with the vendor team to ensure the right things are being delivered—and delivered well.
+The PO manages the day-to-day decisions that shape the product. They serve as the voice of the user and work closely with the vendor team to ensure the right things are being delivered and delivered well.
 
 **Key responsibilities:**
 
-* Own and prioritize the product backlog  
-* Make real-time decisions about scope and tradeoffs  
-* Accept or reject completed work based on the Definition of Done  
-* Engage users to validate features and gather feedback  
-* Maintain open communication between vendor and government teams
+* Own and prioritize the product backlog.  
+* Make real-time decisions about scope and tradeoffs.  
+* Accept or reject completed work based on the Definition of Done.  
+* Engage users to validate features and gather feedback.  
+* Maintain open communication between vendor and government teams.
 
 The PO is your product expert on the ground, guiding delivery in real time.
 
@@ -40,11 +40,11 @@ The COR ensures that contract terms are met and that delivery is responsible, ti
 
 **Key responsibilities:**
 
-* Monitor vendor performance (quality, timeliness, communication)  
-* Document findings for performance records and oversight (e.g., QASP)  
-* Collaborate with the PO to align work with contract goals  
-* Identify and elevate risks or issues affecting scope or compliance  
-* Notify the CO when action is needed on scope, funding, or legal concerns
+* Monitor vendor performance (quality, timeliness, communication).  
+* Document findings for performance records and oversight (e.g., QASP).  
+* Collaborate with the PO to align work with contract goals.  
+* Identify and elevate risks or issues affecting scope or compliance.  
+* Notify the CO when action is needed on scope, funding, or legal concerns.
 
 The COR ensures that agile delivery remains compliant and protects the government's investment.
 
@@ -54,11 +54,11 @@ The PM leads with a strategic lens—connecting user needs, agency goals, delive
 
 **Key responsibilities:**
 
-* Define and communicate the product vision and mission priorities  
-* Support the PO in prioritization and tradeoff decisions  
-* Align the team with broader agency strategies and user goals  
-* Coordinate across leadership, delivery, and acquisition stakeholders  
-* Identify delivery risks early and escalate when necessary
+* Define and communicate the product vision and mission priorities.  
+* Support the PO in prioritization and tradeoff decisions.  
+* Align the team with broader agency strategies and user goals.  
+* Coordinate across leadership, delivery, and acquisition stakeholders.  
+* Identify delivery risks early and escalate when necessary.
 
 The PM ensures the product stays aligned with the mission and continues to deliver value throughout its lifecycle.
 
@@ -68,9 +68,9 @@ Before sprint work begins, it’s essential to align your team around a shared v
 
 Start by co-creating the delivery environment:
 
-* Clarify roles and expectations across all team members—including Product Owner (PO), Contracting Officer’s Representative (COR), vendors, and stakeholders  
-* Draft a simple **project charter** or **communications plan** to guide decision-making and collaboration  
-* Establish regular touchpoints and delivery rituals (e.g., standups, sprint reviews, risk check-ins) to support continuous feedback and course correction
+* Clarify roles and expectations across all team members, including Product Owner (PO), Contracting Officer’s Representative (COR), vendors, and stakeholders.  
+* Draft a simple **project charter** or **communications plan** to guide decision-making and collaboration.  
+* Establish regular touchpoints and delivery rituals (e.g., standups, sprint reviews, risk check-ins) to support continuous feedback and course correction.
 
 As you launch the project, consider the following questions:
 
@@ -80,4 +80,3 @@ As you launch the project, consider the following questions:
 * What does “done” look like, and how will you know you’re on track?
 
 🔍 **Tip:** Use the [Sample Project Charter](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%204/Artifact%3A%20Digital%20Service%20Project%20Charter.md) to help you align your team and set shared expectations from Day 1\. This living document can support smoother collaboration throughout the lifecycle of the contract.
-
