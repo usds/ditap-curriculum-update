@@ -414,9 +414,13 @@ All participants must demonstrate competency across three important areas:
 * Pre- and post-assessments 
 
   * Pre- and post-course assessments bookend the DITAP learning experience, helping participants and facilitators measure growth, identify focus areas, and align learning activities to real-world application. While neither is graded, they provide valuable benchmarks that guide ongoing support and reflection.  
+
   * Pre-Assessment: Surfaces baseline understanding and confidence with DITAP tools and frameworks. Helps facilitators anticipate support needs and tailor early instruction.  
+
   * Post-Assessment: Captures growth in conceptual fluency, confidence, and applied decision-making. Comparing results offers participants a clear view of their progress.  
+
   * Baseline assessments are provided. Vendors may amend scenarios or questions but should ensure consistent administration for comparable results across cohorts.  
+
 * Knowledge checks embedded in self-paced content
 
   * Formative, Not Summative: Low-stakes and non-graded; their purpose is reflection and reinforcement, not compliance
@@ -428,10 +432,8 @@ All participants must demonstrate competency across three important areas:
 * Applied Learning Assignments and In-Class Discussions:
 
   * Stakeholder Research Assignment
- 
   * 
   * Shadowing Assignment
- 
   * 
   * In-Class Discussions of the Threaded Case Scenario
 
