@@ -22,9 +22,9 @@ Agile delivery runs on a steady rhythm of short cycles and continuous feedback. 
 
 In traditional contracts, feedback often comes too late typically in quarterly reviews or after issues have already escalated. In agile delivery, your active participation ensures that:
 
-* Feedback loops are fast and frequent  
-* Risks are surfaced early and addressed collaboratively  
-  Success is measured not just by checkboxes, but by working software and real user outcomes
+* Feedback loops are fast and frequent.  
+* Risks are surfaced early and addressed collaboratively.  
+  Success is measured not just by checkboxes, but by working software and real user outcomes.
 
 You're not just managing a contract, you're helping steward a product into the world. That means focusing on **how well it works for users**, not just whether it matches the initial SOW.
 
@@ -32,20 +32,20 @@ You're not just managing a contract, you're helping steward a product into the w
 
 Success in digital service delivery is dynamic. Instead of waiting for final deliverables, teams should:
 
-* Celebrate early wins  
-* Show usable outcomes regularly  
-* Flag risks and blockers quickly—with context  
-* Reflect, adapt, and continuously improve together
+* Celebrate early wins.  
+* Show usable outcomes regularly.  
+* Flag risks and blockers quickly, with context.  
+* Reflect, adapt, and continuously improve together.
 
 This culture of transparency, feedback, and iteration is what keeps agile teams aligned and effective.
 
 ### You are on the team
 
-As a COR, PM, or PO, you are not a passive overseer—you are a **critical part of the team**. Your insight and involvement help:
+As a COR, PM, or PO, you are not a passive overseer, you are a **critical part of the team**. Your insight and involvement help:
 
-* Maintain clarity around goals and scope  
-* Remove obstacles before they derail delivery  
-* Foster trust and collaboration across roles
+* Maintain clarity around goals and scope.  
+* Remove obstacles before they derail delivery.  
+* Foster trust and collaboration across roles.
 
 Digital delivery succeeds when procurement and program teams work together, not in silos.
 
@@ -59,15 +59,15 @@ To show how agile practices map to federal oversight roles, here’s an example 
  Participants: Vendor team, PO, COR (observer), technical stakeholders  
  Activities:
 
-* **User Story Sizing**: Vendor team and PO review upcoming stories and estimate effort  
-* **Backlog Refinement**: PO re-prioritizes tasks based on team velocity and mission priorities  
-* **Definition of Done Review**: Clarifies expectations and ensures alignment before development begins
+* **User Story Sizing**: Vendor team and PO review upcoming stories and estimate effort.  
+* **Backlog Refinement**: PO re-prioritizes tasks based on team velocity and mission priorities.  
+* **Definition of Done Review**: Clarifies expectations and ensures alignment before development begins.
 
-By setting a steady cadence and clear roles early, federal teams create the foundation for agile success—one sprint at a time.
+By setting a steady cadence and clear roles early, federal teams create the foundation for agile success, one sprint at a time.
 
 ## Product Management and Procurement Alignment
 
-Agile delivery isn’t just about building software—it’s about ensuring that delivery activities are supported by clear oversight, measurable expectations, and early risk detection. That’s where strong collaboration between Product Owners (POs), Contracting Officer’s Representatives (CORs), and the broader procurement team becomes essential.
+Agile delivery isn’t just about building software, it’s about ensuring that delivery activities are supported by clear oversight, measurable expectations, and early risk detection. That’s where strong collaboration between Product Owners (POs), Contracting Officer’s Representatives (CORs), and the broader procurement team becomes essential.
 
 Below illustrates how key agile ceremonies map to procurement oversight responsibilities, showing where alignment is critical to success.
 
@@ -80,7 +80,7 @@ The vendor team, PO, and development team meet to plan the sprint. Stories are s
 **Procurement alignment**
 
 * The COR attends to observe planned work, identify complexity, and assess potential risks.  
-* The PO and COR document sprint goals, caveats, and key assumptions—establishing a shared baseline for tracking performance. 
+* The PO and COR document sprint goals, caveats, and key assumptions, establishing a shared baseline for tracking performance. 
 * Early warning signs (e.g., ambiguous requirements or resourcing constraints) can be flagged and escalated to the Contracting Officer (CO) if needed.
 
 **Why it matters**  
@@ -91,7 +91,7 @@ Sprint planning ensures the team is aligned not only on what they’re building,
 
 **What happens**  
 
-At the end of each sprint, the vendor demonstrates completed work—ideally working software or tangible features.
+At the end of each sprint, the vendor demonstrates completed work, ideally working software or tangible features.
 
 **Procurement alignment**
 
@@ -101,7 +101,7 @@ At the end of each sprint, the vendor demonstrates completed work—ideally work
 
 **Why it matters**  
 
-The sprint review is a critical checkpoint—it verifies that outcomes meet expectations and supports timely, informed performance oversight.
+The sprint review is a critical checkpoint, it verifies that outcomes meet expectations and supports timely, informed performance oversight.
 
 ### Sprint retrospective: reflecting and improving
 
@@ -131,5 +131,4 @@ Roughly once a month, additional agency stakeholders are invited to see progress
 
 **Why it matters**  
 
-Feedback from real users and partners keeps delivery focused on what matters most—solving the right problems, not just following the right process.
-
+Feedback from real users and partners keeps delivery focused on what matters most, solving the right problems, not just following the right process.
