@@ -282,7 +282,7 @@ As government agencies embrace modern technology and user-centered practices, it
 
 
 ## Activity Break (Optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Start your own Who's Who list by finding an organization or other thought leader in the digital service community to follow on social media (X, LinkedIn, Facebook, and so forth) or on a blog or newsletter that you sign up to receive.
 
