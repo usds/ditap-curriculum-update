@@ -4,7 +4,7 @@
 
 | Module | Sprint | Activity Title | Case Study Milestone Alignment |
 | :---- | :---- | :---- | :---- |
-| **Module 1** | Sprint 1 | Introduction to Cynuria Case | Not a formal milestone, serves as Case Study narrative intro |
+| **Module 1** | Sprint 1 | Introduction to Nagivating Stakeholder and Decision-Making Challenges Case | Not a formal milestone, serves as Case Study narrative intro |
 | **Module 2** | Sprint 1 | Stakeholder Mapping | Milestone 1 |
 | **Module 2** | Sprint 4 | Market Research Planning | Not a formal milestone, builds on Milestone 1 |
 | **Module 2** | Sprint 4 | FAR 10 Integration Assignment | Not a formal milestone. It’s an extension activity. |
@@ -38,15 +38,15 @@ The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https:
 * Analyze how federal acquisition processes can enable or constrain digital service delivery methods.  
 * Define digital services and describe their key characteristics.
 
-This is the first of several touchpoints with the Cynuria case, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
+This is the first of several touchpoints with the Nagivating Stakeholder and Decision-Making Challenges case, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
 
-| Note: This is an extension activity designed to orient learners to the Cynuria case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
+| Note: This is an extension activity designed to orient learners to the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
 | :---- |
 
 ### II. Materials & Preparation
 
 **Required Materials:**
-* Cynuria Case Study: Full Version (Pre-read before class)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Full Version (Pre-read before class)  
   * Note: There’s a shorter, more narrative driven version provided as well  
 * Module 1 slide deck  
 * Shared digital board (Jamboard, MURAL, etc.) for brainstorming
@@ -124,7 +124,7 @@ _____________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Cynuria case study. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
+In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Nagivating Stakeholder and Decision-Making Challenges case study. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
 
 This activity builds foundational awareness of how stakeholder relationships, organizational readiness, and early planning inform strategic decisions throughout the digital acquisition process.
 
@@ -138,14 +138,14 @@ This activity builds foundational awareness of how stakeholder relationships, or
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study: Milestone 1 (Stakeholder Analysis)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
 * Slides on stakeholder research  
 * Optional resources:  
   * Stakeholder Mapping Templates or Worksheets  
   * Market Research Planning Template
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study   
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study   
 * Specifically prepare for Milestone 1: Stakeholder Analysis
 
 ### III. Session Agenda & Activities
@@ -209,7 +209,7 @@ ______________________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners apply market research planning techniques to Casey’s CRM project from the Cynuria case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
+In this session, learners apply market research planning techniques to Casey’s CRM project from the Nagivating Stakeholder and Decision-Making Challenges case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
 
 **Learning Objectives**:
 * Draft research questions based on known needs and uncertainties  
@@ -217,20 +217,20 @@ In this session, learners apply market research planning techniques to Casey’s
 * Understand how stakeholder insights shape early research priorities  
 * Connect research activities to downstream procurement decisions
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study: Milestone 1 (Stakeholder Analysis)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
 * Casey’s Stakeholder Maps (from previous Case Study class)  
 * Module 2 Slide Deck  
 * Market Research Planning Template / FAR Industry Engagement Guidelines from the new FAR 10  
 * Optional: Prepare/Source a short example of a research plan to model format
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 1: Stakeholder Analysis
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 1: Stakeholder Analysis
 
 ### III. Session Agenda & Activities
 
@@ -260,7 +260,7 @@ In this session, learners apply market research planning techniques to Casey’s
 
 * Stakeholder Map Template (Power/Interest Grid)  
 * Sample Market Research Plan Framework  
-* Cynuria Case Study – Narrative and Milestone Versions
+* Nagivating Stakeholder and Decision-Making Challenges Case Study – Narrative and Milestone Versions
 
 ### FAR 10 Integration Assignments  
 
@@ -376,7 +376,7 @@ Context Bridge to Your Work
 **Part C: Session Bridge Preparation** (10-15 minutes)
 
 Milestone 2 Connection: Technical Integration Analysis
-- **Pre-Reading Assignment**: Read Cynuria Case Study Milestone 2 \- Integration Solutions
+- **Pre-Reading Assignment**: Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2 \- Integration Solutions
 - **Reading Focus with New FAR Context**: As you read Milestone 2, consider how Casey's strategically designed market research (using new FAR flexibility) would inform their technical evaluation:
 
 **Key Questions for Reading:**
@@ -500,7 +500,7 @@ _________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners use SWOT analysis to evaluate CRM integration options in the Cynuria case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
+In this session, learners use SWOT analysis to evaluate CRM integration options in the Nagivating Stakeholder and Decision-Making Challenges case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
 
 **Learning Objectives:**
 * Use SWOT analysis to evaluate CRM solution paths  
@@ -510,11 +510,11 @@ In this session, learners use SWOT analysis to evaluate CRM integration options 
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study Milestone 2  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2  
 * SWOT Analysis Template
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 2
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2
 
 ### III. Session Agenda & Activities
 
@@ -593,7 +593,7 @@ ____________________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners will analyze two data security options presented in **Milestone 3** of the Cynuria case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
+In this session, learners will analyze two data security options presented in **Milestone 3** of the Nagivating Stakeholder and Decision-Making Challenges case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
 
 **Learning Objectives:**
 * Use SWOT analysis to compare data security options  
@@ -603,12 +603,12 @@ In this session, learners will analyze two data security options presented in **
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study Milestone 3  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3  
 * SWOT Analysis Template  
 * GAO 12-Step Life Cycle Cost Estimate (LCCE) Visual (linked in case)
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 3
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3
 
 ### III. Session Agenda & Activities
 
@@ -666,20 +666,20 @@ ______________________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Cynuria case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
+In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Nagivating Stakeholder and Decision-Making Challenges case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
 
 **Learning Objectives:**
 * Draft a clear Statement of Objectives (SOO) based on discovery and solution analysis  
 * Define evaluation factors that reflect key performance needs and constraints  
 * Identify an evaluation method aligned to solution complexity and risks
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case study. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
 | :---- |
 
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
 * Optional  
 * FAR 12 Commercial Item, Far 39 IT Acquisition  
 * FAR 8 & 16 for task orders  
@@ -742,7 +742,7 @@ ________________________________________________
 
 ### I. Overview & Objectives
 
-In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Cynuria case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
+In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Nagivating Stakeholder and Decision-Making Challenges case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
 
 **Learning Objectives:**
 * Define early performance metrics and indicators of agile delivery health  
@@ -750,13 +750,13 @@ In this session, learners explore how to manage digital service delivery after c
 * Explore CO/COR/PO alignment and agile contracting governance  
 * Apply course concepts to practical delivery and kickoff scenarios
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ### II. Materials & Preparation
 
 **Required Pre-Read for Participants:**
-* Cynuria Case Study (Final section focused on Casey’s post-award challenges)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study (Final section focused on Casey’s post-award challenges)  
 * Digital Service Delivery Project Charter \+ Contract Kickoff resources
 
 **Facilitator Notes for Students**
@@ -836,11 +836,11 @@ In this session, learners will explore how to apply adaptive leadership and infl
 ### II. Materials & Preparation Required Materials
 
 **Materials**
-* Cynuria Case Study  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study  
 * "Exploring Your Role in Leading Change" PDF
 
 **Pre-Read for Participants:**
-* Cynuria Case Study  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study  
 * "Exploring Your Role in Leading Change" PDF
 
 ### III. Session Agenda & Activities 
@@ -924,7 +924,7 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 ### II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study Milestones 1–5  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study Milestones 1–5  
 * Milestone 4 and 5 Instructions (Written and Presentation Guidance)  
 * Optional: Slide deck template
 
