@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/06b0f13f-653c-4e1f-bae6-8f416a0db18b" />
+
 # Class Activity: Sprint Report Analysis 
 
 **Scenario setup:** Your agency is overseeing development of a digital ESA (Emotional Support Animal) Registry designed to help citizens register their ESAs, verify documentation, and reduce fraud. You’re serving in the role of Product Owner (PO), Contracting Officer’s Representative (COR), or Product Manager (PM), and the vendor is now three months into delivery.
