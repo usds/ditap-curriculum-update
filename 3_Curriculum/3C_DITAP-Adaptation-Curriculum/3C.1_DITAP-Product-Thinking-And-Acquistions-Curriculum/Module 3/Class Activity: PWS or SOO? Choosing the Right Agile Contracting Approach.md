@@ -1,3 +1,5 @@
+<img width="1224" height="400" alt="Class Activity" src="https://github.com/user-attachments/assets/05c94d66-386e-4693-b390-7b3388728403" />
+
 # Class Activity: PWS or SOO? Choosing the Right Agile Contracting Approach
 
 Exercise Instructions:  
