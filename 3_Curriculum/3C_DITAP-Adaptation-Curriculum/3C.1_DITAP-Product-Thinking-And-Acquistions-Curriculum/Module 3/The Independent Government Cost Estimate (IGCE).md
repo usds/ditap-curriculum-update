@@ -14,12 +14,12 @@ Agile emphasizes team-based delivery over tracking individual hours. Therefore, 
 When building your Independent Government Cost Estimate (IGCE) for an Agile contract, use the following core elements. These help define the structure, scale, and duration of the work being priced.
 
 **Key agile pricing factors**
-- Team Size: 6–12 full-time employees (FTEs) per Agile team
-- Number of Teams: Based on scope, deadlines, and budget
-- Iteration Type(s): Discovery, Development, Envisioning, or Hybrid
-- Iteration Length: Typically 2–4 weeks
-- Period of Performance: Usually 6–12 months
-- Incentives: Consider Award Fees or Award Terms to reward strong performance
+- Team Size: 6–12 full-time employees (FTEs) per Agile team.
+- Number of Teams: Based on scope, deadlines, and budget.
+- Iteration Type(s): Discovery, Development, Envisioning, or Hybrid.
+- Iteration Length: Typically 2–4 weeks.
+- Period of Performance: Usually 6–12 months.
+- Incentives: Consider Award Fees or Award Terms to reward strong performance.
 
 **Deciding How Many Teams You Need**</br>
 Ask these two questions:
@@ -55,12 +55,10 @@ The **IGCE Agile Team Estimator** is a flexible, user-friendly tool designed to 
 - The tool automatically calculates the price per sprint based on the team composition, sprint duration, and total number of sprints.
 - It includes fields for Other Direct Costs (ODCs) and can account for optional tasks by calculating the cost of additional sprints.
 - The Summary page can be adjusted to reflect input from multiple team tabs, allowing for coordinated cost planning across several Agile teams.
-- This estimator supports streamlined planning and promotes consistency in Agile IGCE development
+- This estimator supports streamlined planning and promotes consistency in Agile IGCE development.
 
 ## Class Activity: [Estimating the Cost of Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Estimating%20the%20Cost%20of%20Agile%20Delivery.md)
 In this activity, you will create a draft [Independent Government Cost Estimate (IGCE)](https://docs.google.com/spreadsheets/d/1d-4_YvhplWhIyl09KnlK-AT4fexjBdPXAw4FiqZRWDA/edit?usp=sharing) for the ESA registration project scenario your team analyzed earlier. Working with the Agile Team Estimator tool, your team will translate project-specific factors such as delivery method, team composition, timeline, and contract structure into a realistic, agile-informed cost estimate.
 
 Your IGCE should reflect the conditions outlined in your assigned scenario and the decision your team made in the PWS or SOO Activity. Consider how agile delivery impacts pricing assumptions, labor mix, and risk management, and how your estimate will help inform the acquisition planning process.
 By the end of this activity, you will strengthen your ability to scope, structure, and justify agile digital service costs in a way that aligns with discovery insights and supports mission outcomes.
-
-
