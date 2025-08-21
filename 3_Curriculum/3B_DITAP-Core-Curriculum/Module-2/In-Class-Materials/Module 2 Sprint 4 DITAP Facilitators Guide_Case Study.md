@@ -10,7 +10,7 @@
 
 ## I. Overview & Objectives
 
-In this session, learners apply market research planning techniques to Casey’s CRM project from the Cynuria case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
+In this session, learners apply market research planning techniques to Casey’s CRM project from the Nagivating Stakeholder and Decision-Making Challenges case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
 
 **Learning Objectives**:
 * Draft research questions based on known needs and uncertainties  
@@ -18,20 +18,20 @@ In this session, learners apply market research planning techniques to Casey’s
 * Understand how stakeholder insights shape early research priorities  
 * Connect research activities to downstream procurement decisions
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ## II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study: Milestone 1 (Stakeholder Analysis)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
 * Casey’s Stakeholder Maps (from previous Case Study class)  
 * Module 2 Slide Deck  
 * Market Research Planning Template / FAR Industry Engagement Guidelines from the new FAR 10  
 * Optional: Prepare/Source a short example of a research plan to model format
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 1: Stakeholder Analysis
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 1: Stakeholder Analysis
 
 ## III. Session Agenda & Activities
 
@@ -61,7 +61,7 @@ In this session, learners apply market research planning techniques to Casey’s
 
 * Stakeholder Map Template (Power/Interest Grid)  
 * Sample Market Research Plan Framework  
-* Cynuria Case Study – Narrative and Milestone Versions
+* Nagivating Stakeholder and Decision-Making Challenges Case Study – Narrative and Milestone Versions
 
 
 Based on assignment review, Session 2 will include:
