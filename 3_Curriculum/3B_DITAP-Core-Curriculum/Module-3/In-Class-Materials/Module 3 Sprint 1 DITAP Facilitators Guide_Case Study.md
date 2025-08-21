@@ -11,7 +11,7 @@
 
 ## I. Overview & Objectives
 
-In this session, learners use SWOT analysis to evaluate CRM integration options in the Cynuria case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
+In this session, learners use SWOT analysis to evaluate CRM integration options in the Nagivating Stakeholder and Decision-Making Challenges case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
 
 **Learning Objectives:**
 * Use SWOT analysis to evaluate CRM solution paths  
@@ -21,11 +21,11 @@ In this session, learners use SWOT analysis to evaluate CRM integration options 
 ## II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study Milestone 2  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2  
 * SWOT Analysis Template
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 2
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2
 
 ## III. Session Agenda & Activities
 
