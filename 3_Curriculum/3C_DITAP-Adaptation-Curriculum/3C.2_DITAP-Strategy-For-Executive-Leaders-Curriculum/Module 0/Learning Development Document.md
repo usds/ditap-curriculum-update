@@ -1,4 +1,4 @@
-# Learning Development Document
+# Learning Development Document (LDD)
 
 | Module | Phase | Terminal Learning Objective | Supporting Learning Objectives |
 | :---- | :---- | :---- | :---- |
