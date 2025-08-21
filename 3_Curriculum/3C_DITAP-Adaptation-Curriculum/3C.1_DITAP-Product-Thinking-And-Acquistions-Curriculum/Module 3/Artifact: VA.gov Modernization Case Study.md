@@ -15,10 +15,10 @@ This case study highlights how the Department of Veterans Affairs (VA) modernize
 
 The Web Brand Consolidation Working Group was created to take action on the modernization of VA's primary Veteran-facing web properties: va.gov, vets.gov, myhealth.va.gov, ebenefits.va.gov, and explore.va.gov. The group identified four key problems with the current Veteran experience across these web properties:
 
-* Veterans cannot find the tools and services they need online
-* Users are confused by the disjointed navigation between sites
-* VA web sites are designed for the Administrations, not users
-* Cross-administration governance of VA.gov is complicated
+* Veterans cannot find the tools and services they need online.
+* Users are confused by the disjointed navigation between sites.
+* VA web sites are designed for the Administrations, not users.
+* Cross-administration governance of VA.gov is complicated.
 
 To address these problems, the Working Group decided to design and build a new Veteran-first experience for VA.gov. 
 
@@ -28,9 +28,9 @@ From a contracting perspective, the challenge was to find a capable vendor who h
 
 To ensure we had the largest possible pool of talent from which to choose, based on market research, it was determined an open market acquisition strategy using Simplified Acquisition Procedures (SAP) in accordance with FAR Part 13.1 was best. Since SAP provides significant flexibility in the evaluation and award of commercial contracts, we tailored an innovative multi-step approach that used:
 
-* Case Studies  
-* A short Written Technical Solution  
-* An in-person technical demonstration  
+* Case Studies.  
+* A short Written Technical Solution.  
+* An in-person technical demonstration.  
 * A final PWS negotiation round with the apparent winner to transition from a Statement of Objective (SOO) (used in the solicitation) to a Performance Work Statement based on the Offeror’s technical approach. 
 
 This approach allowed us to not only ensure the proper technical expertise and approach would be implemented upon award, but as we were able to actually see the proposed vendor team perform, provided us the confidence they would be capable of meeting our innovative technical needs after the award of a contract. Additionally, SAP provides many streamlined procedures, like comparative analysis, which has the potential to significantly improve VA’s ability to find the right vendor to meet its technical needs. 
@@ -85,7 +85,7 @@ Vendors shall fill in the provided Section B document their proposed Contract Li
 
 Additionally, a price proposal shall be submitted in Microsoft Excel spreadsheet format. The first tab shall be a summary to include a top-level rollup of the total dollars and percentages by labor, materials, travel, Other Direct Costs, and total Task Order price. Labor shall further be broken out by labor categories, labor rates, and hours. A separate tab shall be used for the Prime and each Subcontractor. Additionally, any material or travel handling rates proposed for the Material or Travel line items shall be noted as well.
 
-VA’s pricing approach gave vendors flexibility while requiring detailed backup (e.g., labor hours, categories, and rates) to support a fair and thorough price evaluation. Since agile work is hard to scope precisely, VA shared its estimated budget upfront. This encouraged vendors to focus on maximizing value rather than underbidding—helping enable both comparative analysis and best-value trade-offs.
+VA’s pricing approach gave vendors flexibility while requiring detailed backup (e.g., labor hours, categories, and rates) to support a fair and thorough price evaluation. Since agile work is hard to scope precisely, VA shared its estimated budget upfront. This encouraged vendors to focus on maximizing value rather than underbidding, helping enable both comparative analysis and best-value trade-offs.
 
 ## Technical Capabilities Demonstration (TCD)
 
@@ -116,5 +116,4 @@ The process was successful in selecting a highly capable vendor for a complex, h
 
 ## Bottom Line
 
-Both the Government and vendors viewed the process positively and encouraged continued use of similar methods. The Case Study helped quickly narrow the field with minimal vendor burden. The short, focused Written Approach avoided lengthy, boilerplate responses, and the live demonstration provided a clear view of actual capabilities, saving time and avoiding 50-page technical volumes. Comparative Analysis lets us evaluate diverse approaches without rigid scoring formulas. The entire process—from acquisition package to award—was completed in just six weeks, proving that a streamlined, innovative approach is not only effective, but fully compliant with the FAR.
-
+Both the Government and vendors viewed the process positively and encouraged continued use of similar methods. The Case Study helped quickly narrow the field with minimal vendor burden. The short, focused Written Approach avoided lengthy, boilerplate responses, and the live demonstration provided a clear view of actual capabilities, saving time and avoiding 50-page technical volumes. Comparative Analysis lets us evaluate diverse approaches without rigid scoring formulas. The entire process, from acquisition package to award—was completed in just six weeks, proving that a streamlined, innovative approach is not only effective, but fully compliant with the FAR.
