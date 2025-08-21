@@ -21,54 +21,54 @@ If user needs and technical constraints are well understood, a PWS may be a suit
 
 ### What agile contracting requires
 
-Agile delivery is collaborative by design. It relies on regular engagement from both government and vendor teams throughout the lifecycle of the work—not just during planning or closeout. That means you, as a COR, program lead, or key acquisition advisor, play a critical role in shaping the outcomes.
+Agile delivery is collaborative by design. It relies on regular engagement from both government and vendor teams throughout the lifecycle of the work, not just during planning or closeout. That means you, as a COR, program lead, or key acquisition advisor, play a critical role in shaping the outcomes.
 
-Successful agile teams are cross-functional. They include contributions from the program side, the acquisition office, and often technical and user research leads. You don’t need to be a formal product manager. Still, you do need to understand how to support product thinking \- staying involved, responding to new insights, and championing user-centered approaches from acquisition planning through contract execution.
+Successful agile teams are cross-functional. They include contributions from the program side, the acquisition office, and often technical and user research leads. You don’t need to be a formal product manager. Still, you do need to understand how to support product thinking, staying involved, responding to new insights, and championing user-centered approaches from acquisition planning through contract execution.
 
 ### Key elements for agile success in government contracts
-- **Agile development requires active participation** from both government personnel and contractors — it's a team sport.
+- **Agile development requires active participation** from both government personnel and contractors, it's a team sport.
 - **Agency leaders must be prepared for hands-on involvement** from roles that may not traditionally engage deeply during execution.
 - **Successful agile teams are cross-functional**, with representatives from both the program and acquisition offices.
 
 **How to Decide?**
 
-As a federal acquisition or program professional, use the following diagnostic questions to assess whether a PWS or SOO is more appropriate—based on what your team has learned through discovery and how ready your agency is to support iterative delivery.
+As a federal acquisition or program professional, use the following diagnostic questions to assess whether a PWS or SOO is more appropriate, based on what your team has learned through discovery and how ready your agency is to support iterative delivery.
 
 ### Discovery sprint-based questions
 1. Do we have a clear understanding of the problem and user needs?
-    - *Yes* → PWS *may* be appropriate
-    - *No or partial* → SOO preferred (lets vendors propose solutions)
+    - *Yes* → PWS *may* be appropriate.
+    - *No or partial* → SOO preferred (lets vendors propose solutions).
 2. Do we already know what the solution should look like or what it should do?
-    - *Yes* (e.g., “Build an online form using X tool”) → PWS  
-    - *No* (e.g., “Users are failing to apply because the process is too confusing”) → SOO
+    - *Yes* (e.g., “Build an online form using X tool”) → PWS.  
+    - *No* (e.g., “Users are failing to apply because the process is too confusing”) → SOO.
 3. Did the discovery sprint produce concrete, testable outcomes?
-    - *If yes* → Can use in either format (SOO objectives or PWS deliverables)  
-    - *If no* → Might need to allow for continued discovery, favoring SOO
+    - *If yes* → Can use in either format (SOO objectives or PWS deliverables).  
+    - *If no* → Might need to allow for continued discovery, favoring SOO.
 4. Are we still uncertain about technical constraints, integration points, or policy requirements?
-    - *Yes* → SOO allows vendor flexibility and iteration  
-    - *No* → PWS is more manageable with a fixed scope
+    - *Yes* → SOO allows vendor flexibility and iteration.  
+    - *No* → PWS is more manageable with a fixed scope.
 
 ### Team capacity and engagement questions
 1. Do we have a dedicated product owner or SME available during delivery?
-    - *Yes* → SOO is viable (government team helps steer the work)  
-    - *No* → PWS may be safer (vendor follows more explicit instructions)
+    - *Yes* → SOO is viable (government team helps steer the work).  
+    - *No* → PWS may be safer (vendor follows more explicit instructions).
 2. Can our team provide feedback frequently and make quick decisions?
-    - *Yes* → SOO supports collaborative, agile-style delivery  
-    - *No* → PWS reduces dependency on gov-side responsiveness
+    - *Yes* → SOO supports collaborative, agile-style delivery.  
+    - *No* → PWS reduces dependency on gov-side responsiveness.
 3. Are we prepared to evaluate proposals based on approach, not just price?
-    - *Yes* → SOO allows creative responses and should be evaluated accordingly  
-    - *No* → PWS with clear evaluation criteria may be better
+    - *Yes* → SOO allows creative responses and should be evaluated accordingly.  
+    - *No* → PWS with clear evaluation criteria may be better.
 
 ### Contract management and risk questions
 1. Do we need to control how the work is done (due to compliance, security, etc.)?
-    - *Yes* → PWS  
-    - *No* → SOO provides vendor autonomy
+    - *Yes* → PWS.  
+    - *No* → SOO provides vendor autonomy.
 2. Is the project high-risk or high-visibility, requiring flexibility and learning?
-    - *Yes* → SOO preferred to avoid premature solution lock-in 
-    - *No* → PWS acceptable if risks are well understood
+    - *Yes* → SOO preferred to avoid premature solution lock-in. 
+    - *No* → PWS acceptable if risks are well understood.
 3. Are we open to modular or phased delivery (discovery → alpha → beta → live)?
-    - *Yes* → SOO supports iterative planning
-    - *No* → A more detailed PWS might be appropriate
+    - *Yes* → SOO supports iterative planning.
+    - *No* → A more detailed PWS might be appropriate.
 
 **Decision Tip:**
 - *If clarity is high and flexibility is low → PWS*  
@@ -97,17 +97,17 @@ Understanding an Agile team’s maturity helps determine how much structure, sup
 
 Key indicators of Agile maturity include:
 - **Team Composition**:
-    - Cross-functional team with clearly defined roles (e.g., Product Owner, Scrum Master, developers, designers)
+    - Cross-functional team with clearly defined roles (e.g., Product Owner, Scrum Master, developers, designers).
 - **Process Discipline**:
-    - Regularly conducts Agile ceremonies such as sprint planning, retrospectives, and demos
+    - Regularly conducts Agile ceremonies such as sprint planning, retrospectives, and demos.
 - **User Engagement**:
-    - Actively involves users in research, testing, and feedback loops
+    - Actively involves users in research, testing, and feedback loops.
 - **Delivery Cadence**:
-    - Produces working, testable software at the end of each sprint
+    - Produces working, testable software at the end of each sprint.
 - **Backlog Health**:
-    - Maintains a well-groomed, prioritized backlog informed by research
+    - Maintains a well-groomed, prioritized backlog informed by research.
 - **Performance Awareness**:
-    - Uses metrics to drive delivery improvements and product decisions
+    - Uses metrics to drive delivery improvements and product decisions.
 
 Depending on the government team’s Agile readiness, whether **novice**, **intermediate**, or **expert**, the contract should be tailored to fill gaps in knowledge, capacity, or process maturity. 
 
@@ -118,4 +118,4 @@ For example:
 - Expert teams often prefer leaner contracts that emphasize outcomes, rapid delivery, and deep technical integration without prescriptive process support.
 
 ## Class Activity: [PWS or SOO? Choosing the Right Agile Contracting Approach](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20PWS%20or%20SOO%3F%20Choosing%20the%20Right%20Agile%20Contracting%20Approach.md)
-In this activity, you’ll step into the role of an acquisition team preparing to procure a digital service—in this case, a centralized ESA registration system. Based on a project scenario and delivery sprint report, your team will determine whether a Performance Work Statement (PWS) or a Statement of Objectives (SOO) is the more suitable option for the procurement. You’ll use discovery-informed criteria to guide your decision and provide a short justification for your recommendation. Either outcome is acceptable—as long as your reasoning aligns with the scenario conditions and supports agile delivery. By the end of this activity, you’ll better understand how discovery insights shape contract structure, and how your choice impacts vendor flexibility, delivery risk, and mission outcomes.
+In this activity, you’ll step into the role of an acquisition team preparing to procure a digital service, in this case, a centralized ESA registration system. Based on a project scenario and delivery sprint report, your team will determine whether a Performance Work Statement (PWS) or a Statement of Objectives (SOO) is the more suitable option for the procurement. You’ll use discovery-informed criteria to guide your decision and provide a short justification for your recommendation. Either outcome is acceptable, as long as your reasoning aligns with the scenario conditions and supports agile delivery. By the end of this activity, you’ll better understand how discovery insights shape contract structure, and how your choice impacts vendor flexibility, delivery risk, and mission outcomes.

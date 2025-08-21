@@ -1,7 +1,7 @@
 # Conducting User Research
 Once you have defined the problem and identified the people involved, the next step is to understand what those people experience when they interact with a government service. This section introduces the core discovery tools that help federal teams uncover those experiences: user research, personas, and journey mapping.
 
-For Contracting Officer Representatives and program staff, these tools are critical. They help you move beyond assumptions and internal preferences, and instead ground acquisition planning in direct evidence from the people your service is meant to support. Understanding user needs, behaviors, and pain points gives you the insight necessary to develop clearer scopes of work, identify practical success criteria, and oversee contracts that deliver real value—not just compliance.
+For Contracting Officer Representatives and program staff, these tools are critical. They help you move beyond assumptions and internal preferences, and instead ground acquisition planning in direct evidence from the people your service is meant to support. Understanding user needs, behaviors, and pain points gives you the insight necessary to develop clearer scopes of work, identify practical success criteria, and oversee contracts that deliver real value, not just compliance.
 
 By collecting and synthesizing user insights early, you strengthen your ability to guide vendors, make informed decisions, and ensure that the services you acquire are usable, accessible, and mission-aligned from day one.
 
@@ -11,11 +11,11 @@ User research is the foundation of a meaningful Discovery Sprint. It helps uncov
 Good user research shifts the focus from “What do we want to build?” to “What do people need?” It ensures that the government's work is more human-centered, accessible, and practical from the outset.
 
 ## Primary Goals of User Research
-- Understand who the users are
-- What various users are trying to accomplish
-- What are the roadblocks that get in the way
-- What matters most to them
-- What behaviors, frustrations, and workarounds currently exist
+- Understand who the users are.
+- What various users are trying to accomplish.
+- What are the roadblocks that get in the way.
+- What matters most to them.
+- What behaviors, frustrations, and workarounds currently exist.
 
 ### What to ask
 In interviews or shadowing, focus on open-ended questions like:
@@ -34,10 +34,10 @@ In interviews or shadowing, focus on open-ended questions like:
 
 ### Why it matters
 User research is where hidden problems, unmet needs, and critical design insights surface. It can:
-- Debunk assumptions
-- Reveal accessibility issues or digital barriers
-- Show the impact of policy and tech decisions on real people
-- Help define a clear, actionable scope in a PWS or SOO
+- Debunk assumptions.
+- Reveal accessibility issues or digital barriers.
+- Show the impact of policy and tech decisions on real people.
+- Help define a clear, actionable scope in a PWS or SOO.
 
 ## Create or Update User Personas
 The purpose of creating user personas is to ensure that services, products, or policies are designed with the real needs, behaviors, and goals of users in mind. 
@@ -47,10 +47,10 @@ The personal preferences and assumptions of internal staff often influence agenc
 To ensure broad adoption and meaningful impact, it's essential to involve representatives of all potential users when developing personas. When done thoughtfully, personas help the team stay focused on these key stakeholders and design solutions that are more likely to succeed.
 
 **Benefits**: 
-- Focuses on people above other factors
-- Deepens your empathy for others
-- Summarizes your research findings
-- Challenges your preconceptions
+- Focuses on people above other factors.
+- Deepens your empathy for others.
+- Summarizes your research findings.
+- Challenges your preconceptions.
 
 ### Steps for creating user personas
 1. Define the Purpose
@@ -60,8 +60,7 @@ To ensure broad adoption and meaningful impact, it's essential to involve repres
 Use data collected during user research to:
     - Group users by common traits (example: tasks, goals, frustrations).
     - Look for behavioral or attitudinal patterns, not just demographics.
-3. Create Persona Profiles to represent groups of users
-Include:
+3. Create Persona Profiles to represent groups of users. Include:
     - Name (fictional but realistic)
     - Role or Situation (example: "Frustrated First-Time Applicant")
     - Goals
@@ -85,7 +84,7 @@ Name:
 - Mary Smith – “Determined Benefits Seeker”
 
 Role or Context:
-- First-time applicant for a federal benefits program (example: healthcare subsidy or housing assistance)
+- First-time applicant for a federal benefits program (example: healthcare subsidy or housing assistance).
 
 Demographics (if relevant):
 - Age: 38
@@ -93,34 +92,34 @@ Demographics (if relevant):
 - Language: English and Spanish
 
 Access:
-- Smartphone only; limited Wi-Fi access
+- Smartphone only; limited Wi-Fi access.
 
 Goals:
-- Successfully apply for benefits without needing in-person help
-- Understand eligibility requirements
-- Track application status and receive timely updates
+- Successfully apply for benefits without needing in-person help.
+- Understand eligibility requirements.
+- Track application status and receive timely updates.
 
 Frustrations/Pain Points:
-- Confusing forms and unfamiliar jargon
-- Website errors or timeouts
-- Lack of mobile-friendly design
-- Long wait times for phone support
+- Confusing forms and unfamiliar jargon.
+- Website errors or timeouts.
+- Lack of mobile-friendly design.
+- Long wait times for phone support.
 
 Behaviors and Technology Use:
-- Comfortable using a smartphone but prefers step-by-step guidance
-- Uses Google to look up answers when confused
-- Tries to complete applications outside of business hours due to childcare responsibilities
+- Comfortable using a smartphone but prefers step-by-step guidance.
+- Uses Google to look up answers when confused.
+- Tries to complete applications outside of business hours due to childcare responsibilities.
 
 Needs:
-- Clear, plain-language instructions
-- Mobile-friendly design
-- Ability to save progress and come back later
-- Accessible help (live chat, FAQs, videos)
+- Clear, plain-language instructions.
+- Mobile-friendly design.
+- Ability to save progress and come back later.
+- Accessible help (live chat, FAQs, videos).
 
 ## Class Activity: Analyzing Users and Their Pain Points
 Now that you’ve learned how to define a clear problem statement and identify key stakeholders and user groups, it’s time to put those skills into practice.
 
-In this activity, you’ll step into a fictional discovery sprint scenario and work with your team to identify user personas and uncover real challenges those users might face. Your goal is to build a shared understanding of the problem space—before jumping to solutions.
+In this activity, you’ll step into a fictional discovery sprint scenario and work with your team to identify user personas and uncover real challenges those users might face. Your goal is to build a shared understanding of the problem space, before jumping to solutions.
 
 This exercise will help you start thinking like a product team by focusing on the people behind the problem and understanding their needs, pain points, and lived experiences. What you uncover here lays the foundation for smarter, more user-centered acquisition planning.
 
@@ -182,8 +181,8 @@ You may need separate maps for:
 
 ### Why it matters
 Journey maps:
-- Reveal root causes of failure (not just symptoms)
-- Build empathy across stakeholders
-- Uncover shared problems affecting both users and staff
-- Shape meaningful scope in future PWS/SOO documents
-- Set a baseline to measure improvement
+- Reveal root causes of failure (not just symptoms).
+- Build empathy across stakeholders.
+- Uncover shared problems affecting both users and staff.
+- Shape meaningful scope in future PWS/SOO documents.
+- Set a baseline to measure improvement.

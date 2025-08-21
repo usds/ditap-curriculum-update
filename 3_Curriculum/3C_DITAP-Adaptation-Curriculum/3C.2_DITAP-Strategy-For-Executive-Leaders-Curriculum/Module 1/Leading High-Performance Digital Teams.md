@@ -4,15 +4,15 @@ The government faces significant talent challenges in successfully executing dig
 Those conditions include a clear mission connection, autonomy to work effectively, and removal of bureaucratic friction. Digital professionals seek to work on problems that matter, within effective teams, utilizing modern tools and techniques. Leaders who provide these conditions find that mission-driven talent will choose government service even at lower compensation levels and find it more empowering to execute agile projects in the federal sector.
 
 **Essential team structure elements for leaders to establish to deliver successful Agile projects:**
-- **Cross-functional composition:** Teams include all skills needed to deliver end-to-end solutions
-- **Product ownership:** Clear accountability for outcomes, not just outputs
-- **User research capability:** Direct connection to citizen needs and feedback
-- **Technical expertise:** Modern development, design, and data analysis skills
-- **Procurement support:** Ability to acquire tools and services rapidly
+- **Cross-functional composition:** Teams include all skills needed to deliver end-to-end solutions.
+- **Product ownership:** Clear accountability for outcomes, not just outputs.
+- **User research capability:** Direct connection to citizen needs and feedback.
+- **Technical expertise:** Modern development, design, and data analysis skills.
+- **Procurement support:** Ability to acquire tools and services rapidly.
 
 **Strategic talent decisions:**
 
-Building digital capacity isn't just about hiring—it's about cultural transformation. High-performing digital teams require psychological safety, rapid decision-making, and direct access to users. These artistic elements are more important than technical skills and require sustained leadership attention to develop.</br>
+Building digital capacity isn't just about hiring, it's about cultural transformation. High-performing digital teams require psychological safety, rapid decision-making, and direct access to users. These artistic elements are more important than technical skills and require sustained leadership attention to develop.
 
 Leaders must decide when to build internal teams versus partnering with contractors. Internal teams offer long-term capabilities and institutional knowledge, but they require significant investment in recruitment and retention. Contractor partnerships can provide immediate expertise but require sophisticated management to ensure knowledge transfer and avoid vendor dependency.
 
@@ -32,7 +32,6 @@ Agile is the preferred methodology for software development, particularly for co
 The graphic below depicts a typical Agile process: the Product Vision is used to create a product roadmap that organizes the strategic goals achieved during the performance period. Elements of the roadmap are then broken down into task-level details prioritized in the product backlog via user stories. User stories describe the desired functions of the digital service and are refined by team members. Product backlog items are then used to develop technical requirements, which are delivered through releases and sprints. The backlog contains user stories that have been reviewed, refined, and selected by the team to be worked on during a sprint. Sprints are commonly 1 to 4 week cycles, representing when user stories are converted into applicable code or working software. 
 
 <img width="1500" height="704" alt="the sprint cycle from product vision to product backlog and sprint backllg into the sprint cycle and ends with the completed product and software release" src="https://github.com/user-attachments/assets/db45917d-cedb-4b8e-88c8-8483aea3ece9" />
-
 
 
 ### Additional resources:

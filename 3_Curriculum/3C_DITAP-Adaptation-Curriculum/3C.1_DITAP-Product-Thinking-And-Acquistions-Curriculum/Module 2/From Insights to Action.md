@@ -156,25 +156,25 @@ Don't just inform stakeholders, engage them! Their feedback may refine your unde
 Focus on the most relevant, high-impact insights. A good stakeholder readout typically includes:
 
 1. The Problem You Explored
-   - Brief recap of the problem statement and why it matters  
-   - What you set out to learn or validate    
+   - Brief recap of the problem statement and why it matters.  
+   - What you set out to learn or validate.    
 2. What You Heard
-   - Direct quotes or themes from user interviews and research  
-   - Key personas and what they experience today  
-   - Emotional insights (e.g., anxiety, confusion, frustration)    
+   - Direct quotes or themes from user interviews and research.  
+   - Key personas and what they experience today.  
+   - Emotional insights (e.g., anxiety, confusion, frustration).    
 3. Current-State Journey Map (Highlights)
-   - Friction points and moments of breakdown  
-   - Insights from backend or operational perspectives      
+   - Friction points and moments of breakdown.  
+   - Insights from backend or operational perspectives.      
 4. Pain Points and Opportunity Areas
-   - Most critical problems to solve  
-   - Early ideas or “how might we” questions      
+   - Most critical problems to solve.  
+   - Early ideas or “how might we” questions.      
 5. Success Criteria and Suggested Next Steps
-   - What good looks like  
-   - What the agency could do next, and why it matters now
+   - What good looks like.  
+   - What the agency could do next, and why it matters now.
 
 ## Best Practices
 - **Tell a story.** Start with the user. Anchor the findings in a human experience, not just charts or quotes.  
-- **Highlight what's new or surprising.**Stakeholders tune in when insights challenge assumptions or unlock actionable insights. **  
+- **Highlight what's new or surprising.** Stakeholders tune in when insights challenge assumptions or unlock actionable insights.   
 - **Tailor to your audience.** Finance wants ROI and efficiency. Program staff want relief. Policy teams want compliance.  
 - **Leave room for discussion.** Use your findings as a conversation starter—not a final report.  
 - **Connect to next steps.** Be clear about what you recommend and what support or decision is needed.
