@@ -1,8 +1,8 @@
 # Product Mindset in Action 
 
-Product leadership is less about titles and more about how you show up. Whether you're a Product Manager, Contracting Officer’s Representative, or a program leader, the way you think, speak, and act sends powerful signals to your team. In this section, you’ll explore what it looks like to model a product mindset in your day-to-day work—not through formal authority, but through the influence you build, the questions you ask, and the practices you normalize.
+Product leadership is less about titles and more about how you show up. Whether you're a Product Manager, Contracting Officer’s Representative, or a program leader, the way you think, speak, and act sends powerful signals to your team. In this section, you’ll explore what it looks like to model a product mindset in your day-to-day work, not through formal authority, but through the influence you build, the questions you ask, and the practices you normalize.
 
-True product thinking is an ongoing practice. It means staying curious, grounded in user needs, open to change, and committed to outcomes rather than just outputs. You’ll examine how everyday interactions—from sprint demos to hallway conversations—can reinforce a culture of learning, iteration, and user focus. Because culture is not taught in a classroom. It is modeled, repeated, and reinforced by the people others look to for direction.
+True product thinking is an ongoing practice. It means staying curious, grounded in user needs, open to change, and committed to outcomes rather than just outputs. You’ll examine how everyday interactions, from sprint demos to hallway conversations, can reinforce a culture of learning, iteration, and user focus. Because culture is not taught in a classroom. It is modeled, repeated, and reinforced by the people others look to for direction.
 
 In the pages ahead, you’ll reflect on your own behaviors, learn from real-world scenarios, and identify intentional ways to lead with a product mindset. Your actions can help your team move toward better, more adaptive government services.
 
@@ -26,7 +26,7 @@ In the pages ahead, you’ll reflect on your own behaviors, learn from real-worl
 
 * **Insisting on cross-functional collaboration.**
 
-  Good digital service work requires diverse expertise — product, design, engineering, legal, acquisition, and user research — all working together, not in silos. Collaboration ensures that solutions are practical, user-centered, and feasible.
+  Good digital service work requires diverse expertise,  product, design, engineering, legal, acquisition, and user research, all working together, not in silos. Collaboration ensures that solutions are practical, user-centered, and feasible.
 
 Together, these points describe a culture that **challenges traditional, waterfall-style project management** in favor of **flexible, iterative, and user-driven approaches**. It aligns closely with agile, lean, and digital service best practices.
 
@@ -40,6 +40,4 @@ Together, these points describe a culture that **challenges traditional, waterfa
 
 ## Class Activity: [Spot the Mindset](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Spot%20the%20Mindset.md) 
 
-Before we dive deeper into strategies for modeling a product mindset, let’s sharpen your ability to recognize it in action. One of the fastest ways to shift culture is by noticing the language we use every day. In this next activity, you’ll practice distinguishing between project-focused and product-focused thinking—and explore how even small changes in language can influence team behavior, decision-making, and delivery outcomes.
-
-
+Before we dive deeper into strategies for modeling a product mindset, let’s sharpen your ability to recognize it in action. One of the fastest ways to shift culture is by noticing the language we use every day. In this next activity, you’ll practice distinguishing between project-focused and product-focused thinking, and explore how even small changes in language can influence team behavior, decision-making, and delivery outcomes.
