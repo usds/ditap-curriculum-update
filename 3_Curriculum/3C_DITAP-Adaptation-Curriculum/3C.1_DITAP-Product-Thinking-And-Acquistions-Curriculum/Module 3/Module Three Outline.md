@@ -19,8 +19,6 @@ This module provides participants with essential knowledge and practical skills 
 - [Estimating the Cost of Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Estimating%20the%20Cost%20of%20Agile%20Delivery.md)
 - [Designing an Agile Evaluation Strategy](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Designing%20an%20Agile%20Evaluation%20Strategy.md)
 
-<br>
-
-_Optional_ </br> 
-Conduct a module retrospective
-- Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
+**Optional Activity**
+- Conduct a module retrospective
+  - Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
