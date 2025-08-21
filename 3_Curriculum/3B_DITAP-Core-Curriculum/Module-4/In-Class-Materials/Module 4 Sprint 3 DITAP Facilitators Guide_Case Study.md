@@ -11,7 +11,7 @@
 
 ## I. Overview & Objectives
 
-In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Cynuria case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
+In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Nagivating Stakeholder and Decision-Making Challenges case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
 
 **Learning Objectives:**
 * Define early performance metrics and indicators of agile delivery health  
@@ -19,13 +19,13 @@ In this session, learners explore how to manage digital service delivery after c
 * Explore CO/COR/PO alignment and agile contracting governance  
 * Apply course concepts to practical delivery and kickoff scenarios
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
 ## II. Materials & Preparation
 
 **Required Pre-Read for Participants:**
-* Cynuria Case Study (Final section focused on Casey’s post-award challenges)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study (Final section focused on Casey’s post-award challenges)  
 * Digital Service Delivery Project Charter \+ Contract Kickoff resources
 
 **Facilitator Notes for Students**

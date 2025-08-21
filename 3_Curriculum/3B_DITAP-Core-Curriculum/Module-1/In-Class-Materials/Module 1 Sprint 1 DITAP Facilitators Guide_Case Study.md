@@ -22,15 +22,15 @@ The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https:
 * Analyze how federal acquisition processes can enable or constrain digital service delivery methods.  
 * Define digital services and describe their key characteristics.
 
-This is the first of several touchpoints with the Cynuria case, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
+This is the first of several touchpoints with the Nagivating Stakeholder and Decision-Making Challenges case, providing participants with a narrative thread that connects technical concepts with real challenges and decisions.
 
-| Note: This is an extension activity designed to orient learners to the Cynuria case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
+| Note: This is an extension activity designed to orient learners to the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
 | :---- |
 
 ## II. Materials & Preparation
 
 **Required Materials:**
-* Cynuria Case Study: Full Version (Pre-read before class)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Full Version (Pre-read before class)  
   * Note: There’s a shorter, more narrative driven version provided as well  
 * Module 1 slide deck  
 * Shared digital board (Jamboard, MURAL, etc.) for brainstorming

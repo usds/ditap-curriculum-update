@@ -11,20 +11,20 @@
 
 ## I. Overview & Objectives
 
-In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Cynuria case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
+In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Nagivating Stakeholder and Decision-Making Challenges case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
 
 **Learning Objectives:**
 * Draft a clear Statement of Objectives (SOO) based on discovery and solution analysis  
 * Define evaluation factors that reflect key performance needs and constraints  
 * Identify an evaluation method aligned to solution complexity and risks
 
-| Note: This is an extension activity designed to deepen application of the Cynuria case. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
+| Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
 | :---- |
 
 ## II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
 * Optional  
 * FAR 12 Commercial Item, Far 39 IT Acquisition  
 * FAR 8 & 16 for task orders  

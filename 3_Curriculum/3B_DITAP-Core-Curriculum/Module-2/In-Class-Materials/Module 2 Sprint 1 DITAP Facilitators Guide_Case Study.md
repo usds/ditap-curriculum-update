@@ -10,7 +10,7 @@
 
 ## I. Overview & Objectives
 
-In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Cynuria case study. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
+In this session, learners apply stakeholder mapping techniques to **Milestone 1** of the Nagivating Stakeholder and Decision-Making Challenges case study. The focus is on identifying key players, analyzing their influence and concerns, and understanding how those dynamics shape acquisition planning.
 
 This activity builds foundational awareness of how stakeholder relationships, organizational readiness, and early planning inform strategic decisions throughout the digital acquisition process.
 
@@ -24,14 +24,14 @@ This activity builds foundational awareness of how stakeholder relationships, or
 ## II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study: Milestone 1 (Stakeholder Analysis)  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
 * Slides on stakeholder research  
 * Optional resources:  
   * Stakeholder Mapping Templates or Worksheets  
   * Market Research Planning Template
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study   
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study   
 * Specifically prepare for Milestone 1: Stakeholder Analysis
 
 ## III. Session Agenda & Activities

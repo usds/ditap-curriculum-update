@@ -26,7 +26,7 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 
 **Materials:**
 
-- Cynuria Case Study Milestones 1–5
+- Nagivating Stakeholder and Decision-Making Challenges Case Study Milestones 1–5
 - Milestone 4 and 5 Instructions (Written and Presentation Guidance)
 - Optional: Slide deck template
 

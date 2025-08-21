@@ -24,12 +24,12 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 **Materials**
 
-- Cynuria Case Study
+- Nagivating Stakeholder and Decision-Making Challenges Case Study
 - "Exploring Your Role in Leading Change" PDF
 
 **Pre-Read for Participants:**
 
-- Cynuria Case Study
+- Nagivating Stakeholder and Decision-Making Challenges Case Study
 - "Exploring Your Role in Leading Change" PDF
 
 ### III. Session Agenda & Activities
