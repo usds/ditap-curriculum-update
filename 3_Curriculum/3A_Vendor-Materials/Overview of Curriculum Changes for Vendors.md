@@ -425,10 +425,14 @@ All participants must demonstrate competency across three important areas:
 
   * Flexible Implementation: May be referenced in live facilitation, supplemented with additional checks, or adapted for agency-specific scenarios.
 
-* Applied Learning Assignments and In-Class Discussions including:
+* Applied Learning Assignments and In-Class Discussions:
 
-  * Stakeholder Research Assignment  
-  * Shadowing Assignment  
+  * Stakeholder Research Assignment
+ 
+  * 
+  * Shadowing Assignment
+ 
+  * 
   * In-Class Discussions of the Threaded Case Scenario
 
 ### Recommended Cadence:
