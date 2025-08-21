@@ -162,6 +162,7 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 
 ---
 ## Discussion Prompt (Optional): How Should AI Influence Acquisition Strategy Development?
+>Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
 AI is rapidly changing the landscape of both private industry and public sector operations. From predictive analytics that forecast long-term sustainment and supply chain trends, to generative tools that draft acquisition documents or simulate operational environments, AI has clear potential to improve how we design and deliver acquisition strategies.
 
