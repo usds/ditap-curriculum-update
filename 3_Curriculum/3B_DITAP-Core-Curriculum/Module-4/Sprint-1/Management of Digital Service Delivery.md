@@ -13,11 +13,8 @@ Your continued involvement matters. Agile product delivery thrives when all part
 This sprint will help you recognize:
 
 * What product ownership looks like in federal digital service delivery
-
 * How CORs and POs interact and support agile delivery
-
 * Why communication rhythms, shared understanding, and rituals matter
-
 * How to help your team celebrate progress and spot success
 
 
@@ -145,15 +142,11 @@ This agile rhythm allows the government to:
 
 Agile contracts necessitate distinct risk management approaches compared to traditional acquisitions. Instead of trying to define everything upfront, you manage risks through transparency and frequent checkpoints.
 
-**Technical Risks**: Regular demos reveal technical problems early when they're easier to fix.
-
-**Scope Risks**: Product owners continuously prioritize features, ensuring the most valuable work gets completed first.
-
-**Performance Risks**: Short sprints provide frequent opportunities to assess contractor performance and make adjustments.
-
-**Budget Risks**: Time-and-materials contracts with labor hour caps provide flexibility while controlling costs.
-
-**Schedule Risks**: Delivering working software every sprint ensures you always have something valuable, even if the scope changes.
+* **Technical Risks**: Regular demos reveal technical problems early when they're easier to fix.
+* **Scope Risks**: Product owners continuously prioritize features, ensuring the most valuable work gets completed first.
+* **Performance Risks**: Short sprints provide frequent opportunities to assess contractor performance and make adjustments.
+* **Budget Risks**: Time-and-materials contracts with labor hour caps provide flexibility while controlling costs.
+* **Schedule Risks**: Delivering working software every sprint ensures you always have something valuable, even if the scope changes.
 
 Your job isn't to eliminate these risks but to create contracts that help teams manage them effectively.
 
@@ -161,13 +154,10 @@ Your job isn't to eliminate these risks but to create contracts that help teams 
 
 Modern digital service teams often work remotely or in hybrid arrangements. This arrangement requires different collaboration approaches than traditional on-site work.
 
-**Digital Workspaces:** Teams use shared platforms like Slack, Microsoft Teams, or similar tools for daily communication. CORs should have access to relevant channels for transparency.
-
-**Documentation:** Teams maintain shared documentation on platforms such as Confluence, Notion, or GitHub. Ensure CORs can access sprint reports, retrospective notes, and decision records.
-
-**Virtual Ceremonies**: Sprint reviews and retrospectives happen via video conference. These provide excellent opportunities for oversight without disrupting team flow.
-
-**Asynchronous Communication:** Teams document decisions and progress continuously rather than waiting for formal meetings. This process creates more effective audit trails and greater transparency.
+* **Digital Workspaces:** Teams use shared platforms like Slack, Microsoft Teams, or similar tools for daily communication. CORs should have access to relevant channels for transparency.
+* **Documentation:** Teams maintain shared documentation on platforms such as Confluence, Notion, or GitHub. Ensure CORs can access sprint reports, retrospective notes, and decision records.
+* **Virtual Ceremonies**: Sprint reviews and retrospectives happen via video conference. These provide excellent opportunities for oversight without disrupting team flow.
+* **Asynchronous Communication:** Teams document decisions and progress continuously rather than waiting for formal meetings. This process creates more effective audit trails and greater transparency.
 
 Ensure your contracts account for these modern work patterns while maintaining appropriate oversight.
 
@@ -260,7 +250,7 @@ This activity will reinforce key concepts from the *Managing Digital Service Del
 
 ### Introduction
 
-From culture to automated security testing measures, this activity provides ongoing Agile IT insights through various mediums. Best practices and lessons learned from these articles will make valuable additions to your Agile IT toolbox. In true Agile nature, you’ll go forth equipped to adapt and apply this wisdom into your digital acquisition sphere. 
+From culture to automated security testing measures, these readings provide ongoing Agile IT insights. Best practices and lessons learned from these articles will make valuable additions to your Agile IT toolbox. In true Agile nature, you’ll go forth equipped to adapt and apply this wisdom into your digital acquisition sphere. 
 
 This collection of readings has been specifically curated to enhance your knowledge and understanding of how the industry manages and delivers Agile projects.
 
@@ -277,17 +267,14 @@ This collection of readings has been specifically curated to enhance your knowle
 * [5 IT Security Considerations for Building a CI/CD Pipeline](https://citizant.com/blog/devsecops/5-security-considerations-cicd-pipeline/) (optional) \- Government-specific guidance by Citizant on implementing security in CI/CD pipelines with NIST compliance considerations.
 
 ### Instructions (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 For this activity, read at least 2 of the articles listed above and use the discussion board to answer the following questions:
 
 1. How can government agencies balance agile flexibility with compliance requirements?
-
 2. What are the most meaningful leading indicators for government IT project success?
-
 3. How can contracting officers create incentive structures that promote healthy agile behaviors in government contractors?
-
 4. When is it appropriate to pivot or terminate an agile initiative in government?
-
 5. How do we measure public value in government digital services beyond traditional ROI?
 
 **Share Your Resources:** Use the course **discussion board** to share resources related to industry best practices. Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link to the discussion board. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. Reviewing each other’s contributions can help build a stronger, shared knowledge base across the class.
