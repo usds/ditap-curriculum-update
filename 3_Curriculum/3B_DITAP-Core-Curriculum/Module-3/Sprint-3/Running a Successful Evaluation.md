@@ -184,7 +184,7 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
 
 ---
-Note to Vendors/Facilitators: The following two appendices may also be shared as optional in-class handouts to support continued learning and student reference beyond the session. 
+>Note to Vendors: The following two appendices may also be shared as optional in-class handouts to support continued learning and student reference beyond the session.
 
 ## APPENDIX A: Comparative Evaluation Model for RFPs
 
