@@ -276,7 +276,6 @@ V. Evaluation Flow
 
 * Evaluate white papers using adjectival ratings  
 * Conduct oral presentations or technical challenges  
-*   
 * Review Draft PWS and pricing for realism and value  
 * Select vendor offering the best combination of ratings, strengths, and overall value
 
@@ -307,21 +306,15 @@ Digital service acquisitions differ — they rely on effective **communication, 
 In digital procurements:
 
 * **Negotiations** at the right time prevent misunderstandings and save time in the long run.
-
 * **Strategic discussions** build trust, which is crucial for high-risk, agile projects.
-
 * **Early negotiations** can clear up incomplete information in proposals.
-
 * You don’t have to negotiate with everyone,  focus on top-ranked vendors to sharpen competition and speed up award.
 
 **Key benefits of early negotiations:**
 
 * Reduce protest risk by clarifying proposal gaps
-
 * Correct misunderstandings before the award
-
 * Test vendor flexibility and responsiveness
-
 * Improve technical outcomes by getting the best, not just “good enough”, proposals
 
 In digital services procurements, negotiations are not an optional afterthought, they are a vital part of selecting the right partner.
@@ -348,13 +341,9 @@ The primary purpose of the source selection process is to allow the Government t
 ### Best Practices for Digital Service Procurements 
 
 * **Negotiate Early, Especially at Down-Selects:** Use advisory notices as a structured opportunity to open meaningful, time-boxed negotiations.
-
 * **Focus Negotiations on Top Candidates:** Don't waste time trying to negotiate with every vendor — invest effort where there's a real potential for improvement.
-
 * **Treat Discussions as Mutual Vetting:** You're not just evaluating vendors, you’re letting vendors evaluate the government’s approach and constraints.
-
 * **Resolve Misaligned Assumptions:** Address gaps and misunderstandings now. It's exponentially harder to fix after a contract award.
-
 * **Prepare Vendors for Iterative/Agile Contracts:** Many vendors are still transitioning to truly iterative delivery. Discuss expectations for backlog ownership, minimum viable products (MVPs), and iterative releases.
 
 ### Negotiation Opportunities During Challenges
@@ -368,9 +357,7 @@ In today's digital services procurements, solicitations increasingly involve **m
 At advisory or other down-select points, negotiations can be included at multiple phases. They might make sense at the point of making selection determinations, especially if there are companies that are close to making it but missing a few points that eliminate them:
 
 * Open discussions with vendors before eliminating them. 
-
 * Provide vendors with feedback that helps them understand why they are not advancing.
-
 * Offer borderline vendors a chance to strengthen their proposals if they are invited to continue.
 
 This mirrors how agile development itself works, an iterative process of improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
@@ -424,15 +411,10 @@ When acquiring digital services, the Government needs to think and buy different
 When entering negotiations in a digital services context, teams should actively focus on:
 
 * **Technical Assumptions:** Identify assumptions embedded in vendor proposals, especially around hosting, security, scaling, and stakeholder availability.
-
 * **Demonstration Gaps:** Use insights from code challenges or demos to clarify performance expectations or technical design choices.
-
 * **Risk Mitigation Strategies:** Discuss approaches to areas identified as high-risk during earlier phases.
-
 * **Scalability and Future Flexibility:** Ensure vendors understand future growth expectations even if immediate scope is small.
-
 * **Data Rights and IP Terms:** Negotiate critical terms about custom code ownership, licensing, and portability up front.
-
 * **Transparency and Team Dynamics:** Observe how vendors handle feedback — a strong predictor of how collaborative they will be during delivery.
 
 ### Key Strategies for Successful Negotiations with Vendors
@@ -720,9 +702,7 @@ Debriefings Are Required when using **FAR Part 15** (Negotiated Procurement):
 Other acquisition methods handle debriefs differently:
 
 * **Simplified Acquisitions (FAR Part 13):** Only require a brief explanation if requested. Avoid formal FAR 15 terminology.
-
 * **Federal Supply Schedules (FAR Part 8.4):** Similar to simplified acquisition — brief explanation allowed if requested.
-
 * **Task/Delivery Orders under ID/IQs:** Formal debrief required only if order exceeds $5.5M and debrief is requested.
 
 With respect to communications with unsuccessful offerors, FAR Subpart 13.106-3(d) states: “If a supplier requests information on an award that was based on factors other than price alone, a brief explanation of the basis for the contract award decision shall be provided.” The CO has considerable latitude in the “brief explanation” provided to unsuccessful offerors.
@@ -787,9 +767,7 @@ Best practices include:
 Digital solutions are often modular, iterative, and designed for change, meaning evaluation panels must be even more careful to:
 
 * Accurately recognize technical maturity
-
 * Understand modern practices (agile, human-centered design, devops, cloud-native architectures)
-
 * Avoid traditional biases against non-traditional approaches
 
 **A Model for Setting up Feedback using Slides:** 
@@ -848,7 +826,7 @@ Debriefings can really help shape the way vendors bid on future procurements, as
 * [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
 * [Sample Debriefing](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Sample_Debriefing.pdf)
 
----
+
 
 
 
