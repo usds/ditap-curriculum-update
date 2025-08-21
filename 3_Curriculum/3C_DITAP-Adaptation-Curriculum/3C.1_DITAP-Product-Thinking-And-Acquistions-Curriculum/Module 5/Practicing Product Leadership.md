@@ -1,6 +1,6 @@
 # Practicing Product Leadership 
 
-Product leadership is not just about making big decisions—it’s about the daily behaviors, questions, and expectations that shape how teams think and work. This section invites you to reflect on how your actions, language, and mindset influence the culture around you. In agile environments, leadership shows up in the way you model curiosity, support learning, and help others stay focused on outcomes over outputs.
+Product leadership is not just about making big decisions, it’s about the daily behaviors, questions, and expectations that shape how teams think and work. This section invites you to reflect on how your actions, language, and mindset influence the culture around you. In agile environments, leadership shows up in the way you model curiosity, support learning, and help others stay focused on outcomes over outputs.
 
 ## Self-Awareness and Culture Shaping
 
@@ -46,7 +46,7 @@ Language shapes culture. Saying “we’re behind” implies failure. Saying “
 
 *Reflect on:*
 
-* Are you talking about timelines and features—or about goals, users, and impact?  
+* Are you talking about timelines and features, or about goals, users, and impact?  
 * Are you reinforcing momentum and adaptability, or fear of falling short?
 
 ## Practice Area: Learning and Adaptation
@@ -55,7 +55,7 @@ These prompts form the foundation of a product-centered culture. Leaders who are
 
 **Do you share what you learn?**  
 
-Leaders who talk about what they’re learning—about users, constraints, delivery challenges—build trust and signal that discovery is part of the process.
+Leaders who talk about what they’re learning, about users, constraints, delivery challenges, build trust and signal that discovery is part of the process.
 
 *Reflect on:*
 
@@ -77,7 +77,7 @@ Strong teams ask why, offer alternatives, and push for clarity. Leaders set the 
 
 *Reflect on:*
 
-* When was the last time someone challenged a decision—and you welcomed it?  
+* When was the last time someone challenged a decision and you welcomed it?  
 * Do your actions create space for thoughtful disagreement and shared problem solving?
 
 ## Optional Reflection Activity: [Product Leader Journal](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%205/Class%20Activity%3A%20Product%20Leader%20Journal.md) 
@@ -94,12 +94,12 @@ After reflecting individually, be prepared to share your commitment aloud. We’
 
 ## Module 5 Summary: Why Leading with a Product Mindset Matters
 
-In this module, we explored how product leaders play a crucial role in shaping the success of digital services \- not just through formal authority, but by how they lead, speak, and behave.
+In this module, we explored how product leaders play a crucial role in shaping the success of digital services, not just through formal authority, but by how they lead, speak, and behave.
 
 ### What we learned
 
 * **Product mindset is more than a concept—it’s a practice.**  
-  It means focusing on outcomes, learning from users, and iterating based on evidence—not just delivering what was scoped.  
+  It means focusing on outcomes, learning from users, and iterating based on evidence, not just delivering what was scoped.  
 * **Leadership happens in everyday moments.**  
   Program leaders influence culture in how they give feedback, ask questions, escalate risks, or talk about progress.  
 * **Modeling matters.**  
@@ -111,7 +111,7 @@ In this module, we explored how product leaders play a crucial role in shaping t
 
 ### Why it matters
 
-Federal teams face complex challenges, evolving technologies, and increasing expectations from the public. Delivering better services requires more than better tools—it requires **better leadership at every level**.
+Federal teams face complex challenges, evolving technologies, and increasing expectations from the public. Delivering better services requires more than better tools, it requires **better leadership at every level**.
 
 When PMs lead with a product mindset, they:
 
@@ -120,5 +120,4 @@ When PMs lead with a product mindset, they:
 * Create cultures where iteration, learning, and user needs come first.  
 * Become multipliers—helping others grow, shift, and deliver smarter.
 
-**You don’t need to change the whole system overnight. You just need to model what good looks like—and others will follow**.
-
+**You don’t need to change the whole system overnight. You just need to model what good looks like and others will follow**.
