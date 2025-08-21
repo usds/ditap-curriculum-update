@@ -11,7 +11,7 @@
 
 ## I. Overview & Objectives
 
-In this session, learners will analyze two data security options presented in **Milestone 3** of the Cynuria case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
+In this session, learners will analyze two data security options presented in **Milestone 3** of the Nagivating Stakeholder and Decision-Making Challenges case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
 
 **Learning Objectives:**
 * Use SWOT analysis to compare data security options  
@@ -21,12 +21,12 @@ In this session, learners will analyze two data security options presented in **
 ## II. Materials & Preparation
 
 **Materials:**
-* Cynuria Case Study Milestone 3  
+* Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3  
 * SWOT Analysis Template  
 * GAO 12-Step Life Cycle Cost Estimate (LCCE) Visual (linked in case)
 
 **Pre-Read for Participants:**
-* Read Cynuria Case Study Milestone 3
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3
 
 ## III. Session Agenda & Activities
 
