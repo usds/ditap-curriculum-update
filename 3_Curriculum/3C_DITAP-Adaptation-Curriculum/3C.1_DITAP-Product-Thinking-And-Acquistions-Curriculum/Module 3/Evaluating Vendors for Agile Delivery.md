@@ -2,9 +2,9 @@
 
 ## Evaluating Vendors for Mission Fit 
 
-When it comes to acquiring digital services, the evaluation phase isn’t just about compliance—it’s your opportunity to find the right team. In agile procurements, success depends on selecting vendors who can think creatively, collaborate with government staff, and deliver working solutions that meet real user needs.
+When it comes to acquiring digital services, the evaluation phase isn’t just about compliance, it’s your opportunity to find the right team. In agile procurements, success depends on selecting vendors who can think creatively, collaborate with government staff, and deliver working solutions that meet real user needs.
 
-In this section, you’ll learn how to design evaluation strategies that move beyond paperwork. You’ll explore techniques such as live demos, collaborative interviews, and phased-down selects that reveal how vendors work—not just what they claim.
+In this section, you’ll learn how to design evaluation strategies that move beyond paperwork. You’ll explore techniques such as live demos, collaborative interviews, and phased-down selects that reveal how vendors work, not just what they claim.
 
 You’ll also see how agencies like the VA have used these approaches to modernize services, and you’ll walk away with practical tools for shaping evaluation criteria that align with agile principles and mission outcomes.
 
@@ -33,7 +33,7 @@ What Makes a Good Evaluation Criterion?
 
 **📄 Read: [VA.gov Modernization Case Study](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Artifact%3A%20VA.gov%20Modernization%20Case%20Study.md)**
 
-Now that you’ve explored different evaluation approaches, revisit the VA.gov Modernization Case Study. Pay close attention to how the VA team used a multi-phase evaluation strategy—shaped by discovery insights—to select a vendor team that could collaborate, prototype, and deliver in real-time. As you read, consider: What evaluation methods did they use to go beyond written proposals? How did their evaluation criteria reflect agile and user-centered delivery needs? What lessons might apply to your own agency’s procurement process?
+Now that you’ve explored different evaluation approaches, revisit the VA.gov Modernization Case Study. Pay close attention to how the VA team used a multi-phase evaluation strategy, shaped by discovery insights, to select a vendor team that could collaborate, prototype, and deliver in real-time. As you read, consider: What evaluation methods did they use to go beyond written proposals? How did their evaluation criteria reflect agile and user-centered delivery needs? What lessons might apply to your own agency’s procurement process?
 
 **1\. Start with the problem, not the template:** Instead of starting with boilerplate evaluation criteria, teach PMs to clarify:
 - What do we need to learn about vendors?
@@ -44,9 +44,9 @@ Now that you’ve explored different evaluation approaches, revisit the VA.gov M
 **2\. Use a down-select to focus on the best teams:** A down-select (multi-phase evaluation) filters early to avoid wasting vendor or government time.
 
 **Phase Examples:**
-- **Phase 1:** Written *case studies* showing real work
-- **Phase 2:** Short written plan \+ team interviews (non-evaluated Q\&A)
-- **Phase 3:** **Live working session** or demo (the "show, don’t tell" part)
+- **Phase 1:** Written *case studies* showing real work.
+- **Phase 2:** Short written plan \+ team interviews (non-evaluated Q\&A).
+- **Phase 3:** **Live working session** or demo (the "show, don’t tell" part).
 
 **Insight:** Early phases focus on screening for relevant experience and mindset; later phases assess delivery behaviors.
 
@@ -64,9 +64,9 @@ Now that you’ve explored different evaluation approaches, revisit the VA.gov M
 **Insight:** Think about user testing: not “Did they meet 5 criteria,” but “Which team best solves our problem in practice?”
 
 **5\. Write Clear Instructions to Offerors:** Vague questions lead to vague answers. Provide:
-- **Clear deliverables** (e.g., "Submit 3 case studies with A–F info")
-- **Tangible formats** (e.g., "Prototype hosted on GitHub")
-- **Focus areas** (e.g,. "Show how you would manage content ops and user research")
+- **Clear deliverables** (e.g., "Submit 3 case studies with A–F info").
+- **Tangible formats** (e.g., "Prototype hosted on GitHub").
+- **Focus areas** (e.g,. "Show how you would manage content ops and user research").
 
 **Tip:** Give page limits, scenario-based prompts, and expected artifacts.
 
@@ -79,7 +79,7 @@ Now that you’ve explored different evaluation approaches, revisit the VA.gov M
 
 **Participation is key**
 
-Product Managers, technologists, and CORs play an essential role in designing effective evaluation strategies. Their insight ensures that acquisition activities support real product delivery—not just compliance. To make the most of the evaluation process:
+Product Managers, technologists, and CORs play an essential role in designing effective evaluation strategies. Their insight ensures that acquisition activities support real product delivery, not just compliance. To make the most of the evaluation process:
 - Be involved in shaping evaluation criteria that reflect what success looks like in real-world delivery.
 - Ensure each phase (e.g., case studies, technical demos) is tied to specific product needs.
 - Help define meaningful artifacts that reflect working software, not just polished writing.
@@ -91,4 +91,3 @@ Activity 3</br>
 ## Claass Activity: [Designing an Agile Evaluation Strategy](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Designing%20an%20Agile%20Evaluation%20Strategy.md) 
 
 In this final activity, participants will design a high-level evaluation strategy for the ESA Registry procurement. Building on their earlier work (contracting approach and cost estimate), they’ll outline a phased approach to vendor evaluation, aligned with agile principles and agency readiness. This exercise emphasizes collaboration, iteration, and selecting vendors based on their ability to deliver real user value.
-
