@@ -145,7 +145,7 @@ As a contracting officer, you are both a data user and a data steward. You shoul
 
 Software refers to the instructions, data, or programs that enable computers and digital systems to perform specific tasks. Informally, software tells computer hardware how to do something useful with data. It includes human-readable instructions, known as source code, and machine-readable instructions compiled for the computer to execute.
 
->CO note: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.
+>Note for contracting officers: It may be necessary to clarify whether the government can access the source code or compiled software. Access to source code may be required under FAR clauses like 52.227-14 (Rights in Data), or via specific IP clauses negotiated in contracts—especially for custom software. Agencies can specify unlimited, government purpose, or restricted rights in deliverables, depending on mission needs.
 
 ### How is software developed?
 
