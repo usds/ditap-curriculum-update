@@ -20,5 +20,5 @@ This module introduces participants to the Discovery Sprint, a structured, time-
 
 
 **Optional Activity**
-- Conduct a module retrospective.
--   Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
+- Conduct a module retrospective:
+  - Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations. 
