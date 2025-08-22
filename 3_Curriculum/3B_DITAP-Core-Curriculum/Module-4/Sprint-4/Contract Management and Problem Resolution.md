@@ -196,7 +196,8 @@ Case Study Materials
  
 
 ---
-## Discussion Instructions
+## Discussion Instructions (required)
+>Note for vendors: this is a required self-paced learning activity in the LMS.
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from GAO's 2025 High Risk List. Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
@@ -275,7 +276,7 @@ Specific Analysis Required:
 
 ### Enhanced Discussion Requirements
 
-**Initial Post Requirements (Due: End of Module 4\)**
+**Initial Post Requirements (Due: End of Module 4)**
 
 Your initial post must include:
 
@@ -390,6 +391,7 @@ Her decision would not only affect the immediate FedConnect project but would al
 ---
 
 ## Instruction Notes
+>Note for vendors: The content below is to assist with *Choose Your Own Path: The FedConnect Exit Strategy* activity and is designed for self-paced learning in the LMS. 
 
 ### DITAP Case Study Answer Key: Exit Strategies in Modular Contracting
 

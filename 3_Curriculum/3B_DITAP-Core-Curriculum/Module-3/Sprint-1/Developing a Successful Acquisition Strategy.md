@@ -141,6 +141,8 @@ Before you sit down to develop the solicitation package, you should consider som
 
 
 ### Discussion question (optional):
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
 ---

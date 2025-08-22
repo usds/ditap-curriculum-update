@@ -71,6 +71,7 @@ Here’s a quick look at the six main stakeholder groups you might encounter in 
 * **Advocates and Influencers:** Senior champions who can open doors, build buy-in, and smooth the path forward.
 
 ### Reflection Prompt (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a recent or upcoming digital services acquisition you’re working on.
 

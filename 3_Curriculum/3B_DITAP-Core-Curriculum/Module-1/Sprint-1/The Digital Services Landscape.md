@@ -202,13 +202,19 @@ Private sector and commercial organizations can also provide digital services to
 
 _View and pay your bills online._
 
+---
+
 ![Cat asking receptionist how to pay vet bill](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/comic.3.jpg)
 
 _Check the status of a healthcare claim online._
 
+---
+
 ![Young boy sitting in front of TV, procrastinating on doing his book report](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/comic.2.jpg)
 
 _Order new TV services online._
+
+---
 
 These examples are from the perspective of the end user. The Digital Services Ecosystem involves additional roles that support the delivery of services to the end user.  You can learn about the Digital Service Ecosystem through the [Digital Services Playbook](https://playbook.usds.gov/). 
 
@@ -276,6 +282,7 @@ As government agencies embrace modern technology and user-centered practices, it
 
 
 ## Activity Break (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Start your own Who's Who list by finding an organization or other thought leader in the digital service community to follow on social media (X, LinkedIn, Facebook, and so forth) or on a blog or newsletter that you sign up to receive.
 

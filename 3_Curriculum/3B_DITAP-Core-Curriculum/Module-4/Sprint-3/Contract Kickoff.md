@@ -310,7 +310,8 @@ The official marketplace provides current information on FedRAMP-authorized clou
 
 ---
 
-### Discussion Forum Preparation (optional)
+### Discussion prompt (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Based on the cloud and XaaS procurement readings, prepare to engage with the following questions in our discussion forum:
 

@@ -73,6 +73,7 @@ Have you experienced any of these?
 Take a moment to share a challenge of your own, or feel free to adapt one of the examples above. Post your challenge in the discussion section below, and how you overcame these challenges. 
 
 ### Discussion (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 As you think about this topic, consider the following:
 
@@ -106,6 +107,7 @@ The following table lists some example challenges you may encounter, along with 
 Now think about the titles of the influencers in your chosen problem. Who could help, or hinder, your efforts? 
 
 ### Discussion (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 As you think about this topic, consider the following:
 
@@ -139,6 +141,7 @@ To help you determine who has the greatest leverage in your situation, answer th
 5. How significant is their influence over your issue or challenge? Is it direct or indirect? 
 
 ### Discussion (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Based on your answer to these questions, select the influencer who can most impact your issue or challenge, either negatively or positively. Share below and provide your reasons for why you chose this person. Again, use a title instead of a name. 
 
@@ -168,6 +171,7 @@ To use the Ladder of Inference, think about how the influencer may arrive at the
 To set the meeting with your influencer, reach out directly if you already know each other or are close enough in the organization that you know each other by your roles. If you are not familiar with each other, ask your mentor, adviser, or another contact for an introduction. Finally, you also have the option to reach out directly under the authority of your digital services acquisition role because your agency has committed to your digital services education. 
 
 ### Discussion (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Analyze your problem using the Ladder of Inference. Share what each rung would cover and how you can use it to direct the conversation in the discussion below. 
 

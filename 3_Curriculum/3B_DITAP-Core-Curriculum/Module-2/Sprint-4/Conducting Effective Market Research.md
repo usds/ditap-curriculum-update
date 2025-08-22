@@ -11,15 +11,10 @@ This sprint equips acquisition professionals with the tools, methods, and mindse
 By the end of this sprint, participants will be able to:
 
 * Explain the role of market research in shaping effective digital acquisitions
-
 * Distinguish between market research and market intelligence, and describe how each informs procurement
-
 * Identify and apply a variety of digital tools and sources for gathering market data
-
 * Use frameworks like the **Gartner Magic Quadrant** to segment vendor capabilities based on customer needs
-
 * Build a personalized **Acquisition Toolkit** to document useful research methods, resources, and lessons learned
-
 * Assess how data-driven insights from market research can improve requirements definition and vendor engagement
 
 ---

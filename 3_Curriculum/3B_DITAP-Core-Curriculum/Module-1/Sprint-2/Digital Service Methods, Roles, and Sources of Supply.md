@@ -16,9 +16,12 @@ After this module, you will be able to:
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Service Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
 ### Discussion: The Good, The Bad, and The Ugly (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
+
+Post in the discussion topic which companies or agencies you chose and why. 
 
 ### Strategies for Keeping Focused on the End User
 
@@ -385,9 +388,11 @@ Transparency builds trust between contractors and federal stakeholders and impro
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
 
 ---
-## Discussion (Optional)
 
-Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
+## Discussion (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS. 
+
+Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
 
 ---
@@ -596,7 +601,8 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 **Playbook integration:** HCD ensures that digital services are **accessible, equitable**, and **responsive to user needs**, which is essential in a public sector committed to serving everyone.
 
 ---
-### Activity: Scenario review
+### Activity: Scenario review (optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 **Scenario:** A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible.
 
@@ -677,12 +683,13 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 
 ---
 ### Discussion (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 How can DevSecOps improve the security of government digital services?
 
 Think about recent challenges in federal cybersecurity. Consider the impact of automation, early testing, and collaboration.
 
-**Share one example or idea in the discussion forum section.**
+Share one example or idea in the discussion forum section.
 
 ---
 
@@ -738,9 +745,10 @@ These teams play a critical role in:
 * **improving procurement practices** by advising on modular contracting and vendor selection  
 * **supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
-### Activity – Group discussion (Optional)
+### Activity – Discussion (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
- How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
+How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
 ---
 
@@ -765,6 +773,8 @@ These suppliers include:
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
 ### Activity \- Digital Service Supplier Discovery:
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
 
 * How does each company describe its services?   
@@ -773,13 +783,14 @@ Select two companies from the list of Digital Service Coalition members listed [
 * How much experience has each company had performing under federal contracts so far?   
 * What else would you be interested to learn about each company? 
 
-### Activity – Group exercise: 
- In groups, participants map a collaboration model for delivering a large-scale digital project between a government agency and a private vendor.
+### Discussion prompt (Optional) 
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
 
-### Self-paced reflection prompt (Optional)  
- Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
+Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
 ### Discussion prompt (Optional)
+>Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
 ---
@@ -798,9 +809,6 @@ Once the right supplier type is identified, the next step is choosing the approp
 **Note:**  
  Agency-specific vehicles are increasingly designed to support agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
 
-**Activity – Vehicle match game:**  
- In small groups, review different digital service needs. Match each need with a suitable supplier type and acquisition pathway, and explain your reasoning.
-
 ---
 
 ### Models of collaboration
@@ -815,8 +823,6 @@ Common models include:
 
 * **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
 
-### Activity – Role play: 
- Participants role-play various collaboration models, taking on roles such as Project Manager, Vendor Lead, and Federal Product Owner. Teams discuss the benefits and challenges of each model.
 
 ---
 
@@ -830,8 +836,6 @@ Common models include:
 * A large integrator leads DevSecOps operations while a digital consultancy handles UX/UI and front-end development.  
 * A digital services company partners with an internal federal team to co-develop a modular CMS platform, sharing sprint planning and product ownership duties.
 
-### Activity – Group analysis:
- Review a real-world case study (anonymized) and identify the agency's responsibilities vs. the vendor’s responsibilities. Discuss how each role contributed to project success.
 
 ---
 ## Recommended Readings
