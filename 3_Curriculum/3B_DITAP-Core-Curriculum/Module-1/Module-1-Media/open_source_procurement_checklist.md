@@ -22,7 +22,7 @@ This checklist is intended to guide procurement officers in evaluating open sour
    * Require an SBOM listing all open source components and dependencies, their versions, and license types.  
 7. **Are licensing obligations understood and documented?**  
    * Identify whether:  
-     - [ ] Copyleft obligations (e.g., GPL) have been reviewed  
+     - [ ] Copyleft obligations (e.g., GPLv3 and AGPL) have been reviewed  
      - [ ] License compatibility has been assessed  
      - [ ] Attribution or disclosure requirements are met  
 8. **Has the agency retained rights to reuse and modify the software?**  
