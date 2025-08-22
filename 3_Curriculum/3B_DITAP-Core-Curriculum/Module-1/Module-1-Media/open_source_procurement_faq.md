@@ -28,7 +28,7 @@ Example: Drupal, Red Hat, WordPress, GitLab, and many other vendors offer enterp
 
 ## **Can I mandate an OSS license?**
 
-Yes, under specific conditions. Government agencies may require that custom-developed software produced under contract be released under an [Open Source Initiative (OSI)-approved license](https://opensource.org/licenses) (e.g., GPLv3, MIT, and Apache 2.0). This is consistent with the US [SHARE IT Act](https://dsacms.github.io/share-it-act-lp/) and [OMB M-16-21](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf).
+Yes, under specific conditions. Government agencies may require that custom-developed software produced under contract be released under an [Open Source Initiative (OSI)-approved license](https://opensource.org/licenses) (e.g., GPLv3, AGPL, MIT, and Apache 2.0). This is consistent with the US [SHARE IT Act](https://dsacms.github.io/share-it-act-lp/) and [OMB M-16-21](https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m_16_21.pdf).
 
 However, you may not mandate that off-the-shelf software be open source, unless there's a clear and justified policy reason.
 
