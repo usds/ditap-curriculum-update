@@ -467,6 +467,10 @@ While this presents a challenge for the contractor in making its developed solut
 
 The GPL is not a standard, one-size-fits-all document; instead, there are more than a few variants established by organizations that control open-source software to fit their commercial, cultural, and mission needs.
 
+### Affero General Public License (AGPL)
+
+The AGPL is a variant of the GPL, but with an important additional requirement. While the GPL ensures that derivative works must remain open source when distributed, it does not account for modern cloud and SaaS models where software is “used” over a network but never technically distributed. The AGPL closes this loophole. This ensures that improvements and modifications made in hosted environments are shared back with the community, not hidden behind a “software as a service” delivery model. 
+
 ### Berkley Software Distribution (BSD) License
 
 Open-source software subject to the BSD License is more easily converted into a commercially viable product for developers, as they can integrate their own source code and then market and distribute the resulting software under more traditional IP and commercial software licensing arrangements.
