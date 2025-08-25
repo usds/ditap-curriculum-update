@@ -12,50 +12,45 @@ Facilitator(s): \[List Facilitator Names\]
 ## Table of Contents
 
 1. ### [Overview and Objectives](#overview-and-objectives)
-
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
 2. ### [Materials and Preparation](#materials-and-preparation)
-
    - Required Materials  
    - Preparation Checklist
 
-3. ### [Module Agenda](#module-agenda) 
+3. ### [Module Agenda](#module-agenda)
 
 4. ### [Module Activities](#module-activities)
-
-   - [Discussion: What digital services have you used?](#discussion:-what-digital-services-have-you-used?)  
-   - [Activity: Who’s Who of Digital Services Teams](#activity:-who’s-who-of-digital-services-teams)  
-   - [Discussion: Consideration of user needs](#discussion:-consideration-of-user-needs)  
-   - [Discussion: User persona](#discussion:-user-persona)  
-   - [Discussion: Reflections on a past project](#discussion:-reflections-on-a-past-project)  
-   - [Activity: Create a sprint backlog](#activity:-create-a-sprint-backlog)  
-   - [Discussion: Everyday data](#discussion:-everyday-data)  
-   - [Discussion: What could you ask about data?](#discussion:-what-could-you-ask-about-data-the-next-time-you're-reviewing-a-tech-proposal?)  
-   - [Discussion: Benefits and challenges of agile development methods](#discussion:-benefits-and-challenges-of-agile-development-methods)  
-   - [Discussion: Why continuous integration and continuous delivery (CI/CD)?](#discussion:-why-is-continuous-integration-and-continuous-delivery-\(ci/cd\)-beneficial-for-government-software-deployments?)  
-   - [Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?](#discussion:-what-role-does-a-software-bill-of-materials-\(sbom\)-play-in-managing-risk?)  
-   - [Discussion: Proprietary vs. Open-Source Software](#discussion:-procurement-tradeoffs:-proprietary-vs.-open-source-software)  
-   - [Activity: Build- a-Digital-Service Workshop](#activity:-build-a-digital-service-workshop)  
-   - [Discussion: Deciding the best way to use (or not use) cloud](#discussion:-deciding-the-best-way-to-use-\(or-not-use\)-cloud-to-support-your-mission)  
-   - [Activity: Preventing misunderstandings in a shared responsibility model](#discussion:-preventing-misunderstandings-in-a-shared-responsibility-model)  
-   - [Discussion: How can we encourage modular or hybrid cloud strategies?](#discussion:-how-can-we-encourage-modular-or-hybrid-cloud-strategies-without-overcomplicating-procurement?-what-role-should-vendors-play-in-helping-agencies-architect-for-resilience?)  
-   - [Discussion: Procurement decisions and AI](#discussion:-procurement-decisions-and-ai)   
-   - [Discussion: Use of machine learning](#discussion:-use-of-machine-learning)  
-   - [Activity: “Procure or Pass?” game](#activity:-“procure-or-pass?”-game)  
-   - [Discussion: Defining security expectations](#discussion:-importance-of-defining-security-expectations)  
-   - [Discussion: Surfacing security risks early](#discussion:-surfacing-security-risks-early)  
-   - [Activity: What would you ask the technical or security team?](#activity:-what-would-you-ask?)   
-   - [Discussion: Cybersecurity expectations](#discussion:-cybersecurity-expectations)  
-
-
+   - [Discussion: What digital services have you used?](#discussion-what-digital-services-have-you-used)  
+   - [Activity: Who’s Who of Digital Services Teams](#activity-whos-who-of-digital-services-teams)  
+   - [Discussion: Consideration of user needs](#discussion-consideration-of-user-needs)  
+   - [Discussion: User persona](#discussion-user-persona)  
+   - [Discussion: Reflections on a past project](#discussion-reflections-on-a-past-project)  
+   - [Activity: Create a sprint backlog](#activity-create-a-sprint-backlog)  
+   - [Discussion: Everyday data](#discussion-everyday-data)  
+   - [Discussion: What could you ask about data](#discussion-what-could-you-ask-about-data)  
+   - [Discussion: Benefits and challenges of agile development methods](#discussion-benefits-and-challenges-of-agile-development-methods)  
+   - [Discussion: Why continuous integration and continuous delivery (CI/CD)?](#discussion-why-continuous-integration-and-continuous-delivery-cicd)  
+   - [Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?](#discussion-what-role-does-a-software-bill-of-materials-sbom-play-in-managing-risk)  
+   - [Discussion: Proprietary vs. Open-Source Software](#discussion-proprietary-vs-open-source-software)  
+   - [Activity: Build-a-Digital-Service Workshop](#activity-build-a-digital-service-workshop)  
+   - [Discussion: Deciding the best way to use (or not use) cloud](#discussion-deciding-the-best-way-to-use-or-not-use-cloud)  
+   - [Activity: Preventing misunderstandings in a shared responsibility model](#activity-preventing-misunderstandings-in-a-shared-responsibility-model)  
+   - [Discussion: How can we encourage modular or hybrid cloud strategies?](#discussion-how-can-we-encourage-modular-or-hybrid-cloud-strategies)  
+   - [Discussion: Procurement decisions and AI](#discussion-procurement-decisions-and-ai)  
+   - [Discussion: Use of machine learning](#discussion-use-of-machine-learning)  
+   - [Activity: “Procure or Pass?” game](#activity-procure-or-pass-game)  
+   - [Discussion: Defining security expectations](#discussion-defining-security-expectations)  
+   - [Discussion: Surfacing security risks early](#discussion-surfacing-security-risks-early)  
+   - [Activity: What would you ask the technical or security team?](#activity-what-would-you-ask)  
+   - [Discussion: Cybersecurity expectations](#discussion-cybersecurity-expectations)
 
 5. ### [Additional Resources](#additional-resources)
-
    - Links to Relevant Documents  
    - Contact Information
+
 
 ## Overview and Objectives {#overview-and-objectives}
 
