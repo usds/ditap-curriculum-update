@@ -11,18 +11,18 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-1. ### [Overview and Objectives](#overview-and-objectives)
+1. ### [Overview and Objectives]
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-2. ### [Materials and Preparation](#materials-and-preparation)
+2. ### [Materials and Preparation]
    - Required Materials  
    - Preparation Checklist
 
-3. ### [Module Agenda](#module-agenda)
+3. ### [Module Agenda]
 
-4. ### [Module Activities](#module-activities)
+4. ### [Module Activities]
    - [Discussion: What digital services have you used?](#discussion-what-digital-services-have-you-used)  
    - [Activity: Who’s Who of Digital Services Teams](#activity-whos-who-of-digital-services-teams)  
    - [Discussion: Consideration of user needs](#discussion-consideration-of-user-needs)  
@@ -47,12 +47,12 @@ Facilitator(s): \[List Facilitator Names\]
    - [Activity: What would you ask the technical or security team?](#activity-what-would-you-ask)  
    - [Discussion: Cybersecurity expectations](#discussion-cybersecurity-expectations)
 
-5. ### [Additional Resources](#additional-resources)
+5. ### [Additional Resources]
    - Links to Relevant Documents  
    - Contact Information
 
 
-## [Overview and Objectives]{#overview-and-objectives}
+## Overview and Objectives
 
    ### Module Summary
 
