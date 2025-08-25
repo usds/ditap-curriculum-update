@@ -135,7 +135,7 @@ By the end of this module, participants will be able to:
 
 ---
 
-### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)** 
+### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)
 
    Total time allocation: 60 minutes
 
