@@ -23,29 +23,30 @@ Facilitator(s): \[List Facilitator Names\]
 3. ### [Module Agenda]
 
 4. ### [Module Activities]
-   - [Discussion: What digital services have you used?](#discussion-what-digital-services-have-you-used)  
-   - [Activity: Who’s Who of Digital Services Teams](#activity-whos-who-of-digital-services-teams)  
-   - [Discussion: Consideration of user needs](#discussion-consideration-of-user-needs)  
-   - [Discussion: User persona](#discussion-user-persona)  
-   - [Discussion: Reflections on a past project](#discussion-reflections-on-a-past-project)  
-   - [Activity: Create a sprint backlog](#activity-create-a-sprint-backlog)  
-   - [Discussion: Everyday data](#discussion-everyday-data)  
-   - [Discussion: What could you ask about data](#discussion-what-could-you-ask-about-data)  
-   - [Discussion: Benefits and challenges of agile development methods](#discussion-benefits-and-challenges-of-agile-development-methods)  
-   - [Discussion: Why continuous integration and continuous delivery (CI/CD)?](#discussion-why-continuous-integration-and-continuous-delivery-cicd)  
-   - [Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?](#discussion-what-role-does-a-software-bill-of-materials-sbom-play-in-managing-risk)  
-   - [Discussion: Proprietary vs. Open-Source Software](#discussion-proprietary-vs-open-source-software)  
-   - [Activity: Build-a-Digital-Service Workshop](#activity-build-a-digital-service-workshop)  
-   - [Discussion: Deciding the best way to use (or not use) cloud](#discussion-deciding-the-best-way-to-use-or-not-use-cloud)  
-   - [Activity: Preventing misunderstandings in a shared responsibility model](#activity-preventing-misunderstandings-in-a-shared-responsibility-model)  
-   - [Discussion: How can we encourage modular or hybrid cloud strategies?](#discussion-how-can-we-encourage-modular-or-hybrid-cloud-strategies)  
-   - [Discussion: Procurement decisions and AI](#discussion-procurement-decisions-and-ai)  
-   - [Discussion: Use of machine learning](#discussion-use-of-machine-learning)  
-   - [Activity: “Procure or Pass?” game](#activity-procure-or-pass-game)  
-   - [Discussion: Defining security expectations](#discussion-defining-security-expectations)  
-   - [Discussion: Surfacing security risks early](#discussion-surfacing-security-risks-early)  
-   - [Activity: What would you ask the technical or security team?](#activity-what-would-you-ask)  
-   - [Discussion: Cybersecurity expectations](#discussion-cybersecurity-expectations)
+   - Discussion: What digital services have you used?
+   - Activity: Who’s Who of Digital Services Teams
+   - Discussion: Consideration of user needs
+   - Discussion: User persona
+   - Discussion: Reflections on a past project
+   - Activity: Create a sprint backlog
+   - Discussion: Everyday data
+   - Discussion: What could you ask about data
+   - Discussion: Benefits and challenges of agile development methods
+   - Discussion: Why continuous integration and continuous delivery (CI/CD)?
+   - Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?
+   - Discussion: Proprietary vs. Open-Source Software
+   - Activity: Build-a-Digital-Service Workshop
+   - Discussion: Deciding the best way to use (or not use) cloud
+   - Activity: Preventing misunderstandings in a shared responsibility model
+   - Discussion: How can we encourage modular or hybrid cloud strategies?
+   - Discussion: Procurement decisions and AI
+   - Discussion: Use of machine learning
+   - Activity: “Procure or Pass?” game
+   - Discussion: Defining security expectations
+   - Discussion: Surfacing security risks early
+   - Activity: What would you ask the technical or security team?
+   - Discussion: Cybersecurity expectations
+
 
 5. ### [Additional Resources]
    - Links to Relevant Documents  
@@ -88,7 +89,7 @@ By the end of this module, participants will be able to:
 
 - [ ] Set up breakout rooms or groups for in-person classrooms. 
 
-## Module Agenda {#module-agenda}
+## Module Agenda
 
 | # | Activity | Sprint # | Duration in minutes |
 | :-: | :---- | :---: | :---: |
@@ -118,9 +119,9 @@ By the end of this module, participants will be able to:
 
 
 
-## Module Activities {#module-activities}
+## Module Activities
 
-### 1. Discussion: What Digital Services Have You Used?  {#discussion:-what-digital-services-have-you-used?}
+### 1. Discussion: What Digital Services Have You Used?  
 
    Total time allocation: 5 min
 
@@ -132,7 +133,7 @@ By the end of this module, participants will be able to:
 * **Instructions:**   
   Pose the question to participants and listen to the discussion
 
-### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)** {#activity:-who’s-who-of-digital-services-teams}
+### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)** 
 
    Total time allocation: 60 minutes
 
@@ -199,7 +200,7 @@ By the end of this module, participants will be able to:
 
 
 
-### 3. Discussion: Consideration of User Needs {#discussion:-consideration-of-user-needs}
+### 3. Discussion: Consideration of User Needs
 
    Total time allocation: 10 minutes
 
@@ -219,7 +220,7 @@ By the end of this module, participants will be able to:
   * Give examples of commercial companies or government agencies that keep user needs at the forefront. How does it show? What steps do you think they took to get to where they are?   
   * What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
 
-### 4. Discussion: User Persona {#discussion:-user-persona}
+### 4. Discussion: User Persona
 
    Total time allocation: 10 min
 
@@ -238,7 +239,7 @@ By the end of this module, participants will be able to:
 
     
 
-### 5. Discussion: Reflections on a Past Project {#discussion:-reflections-on-a-past-project}
+### 5. Discussion: Reflections on a Past Project 
 
    Total time allocation: 25 min
 
@@ -261,7 +262,7 @@ By the end of this module, participants will be able to:
 
     
 
-### 6. Activity: Create a Sprint Backlog {#activity:-create-a-sprint-backlog}
+### 6. Activity: Create a Sprint Backlog
 
    Total time allocation: 45-60 min
 
@@ -283,8 +284,7 @@ By the end of this module, participants will be able to:
     * How might early stakeholder feedback have changed the project outcome?  
     * What role could you have played in making the process more iterative or user-centered?
 
-### 7. Discussion: Everyday Data {#discussion:-everyday-data}
-
+### 7. Discussion: Everyday Data
    Total time allocation: 5-10 min
 
    ### Activity Instructions:  
@@ -310,7 +310,7 @@ By the end of this module, participants will be able to:
 | Data visibility and accessibility challenges |
 
 
-### 8. Discussion: What could you ask about data the next time you're reviewing a tech proposal? {#discussion:-what-could-you-ask-about-data-the-next-time-you're-reviewing-a-tech-proposal?}
+### 8. Discussion: What could you ask about data the next time you're reviewing a tech proposal? 
 
    Total time allocation: 10 min
 
@@ -336,7 +336,7 @@ By the end of this module, participants will be able to:
 | Security or classification of data |
 
 
-### 9. Discussion: Benefits And Challenges Of Agile Development Methods  {#discussion:-benefits-and-challenges-of-agile-development-methods}
+### 9. Discussion: Benefits And Challenges Of Agile Development Methods 
 
    Total time allocation: 5-10 min
 
@@ -362,7 +362,7 @@ By the end of this module, participants will be able to:
 
 
 
-### 10. Discussion: Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments? {#discussion:-why-is-continuous-integration-and-continuous-delivery-(ci/cd)-beneficial-for-government-software-deployments?}
+### 10. Discussion: Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments?
 
    Total time allocation: 5-10 min
 
@@ -388,8 +388,7 @@ By the end of this module, participants will be able to:
 
 
 
-### 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?  {#discussion:-what-role-does-a-software-bill-of-materials-(sbom)-play-in-managing-risk?}
-
+### 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk? 
 Total time allocation: 5-10 min
 
 ### Activity Instructions: 
@@ -413,7 +412,7 @@ Total time allocation: 5-10 min
 | Contract requirements for secure development |
 
 
-### 12. Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software {#discussion:-procurement-tradeoffs:-proprietary-vs.-open-source-software}
+### 12. Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software
 
 Total time allocation: 5-10 min
 
@@ -443,7 +442,7 @@ Total time allocation: 5-10 min
 
 
 
-### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) {#activity:-build-a-digital-service-workshop}
+### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
 
 Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  <br>
 Total time allocation: 60-90 min
@@ -522,7 +521,7 @@ Total time allocation: 60-90 min
    * Invite SMEs or guest reviewers to provide light feedback or discussion points
 
 
-### 14. Discussion:  Deciding The Best Way To Use (Or Not Use) Cloud To Support Your Mission {#discussion:-deciding-the-best-way-to-use-(or-not-use)-cloud-to-support-your-mission}
+### 14. Discussion:  Deciding The Best Way To Use (Or Not Use) Cloud To Support Your Mission 
 
 Total time allocation: 5–10 min
 
@@ -548,7 +547,7 @@ Total time allocation: 5–10 min
 
 
 
-### 15. Discussion: Preventing Misunderstandings in a Shared Responsibility Model {#discussion:-preventing-misunderstandings-in-a-shared-responsibility-model}
+### 15. Discussion: Preventing Misunderstandings in a Shared Responsibility Model 
 
 Total time allocation: 5-10 min
 
@@ -575,7 +574,7 @@ Total time allocation: 5-10 min
 
   **Provide talking points or examples to support these points.**
 
-### 16. Discussion: How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience? {#discussion:-how-can-we-encourage-modular-or-hybrid-cloud-strategies-without-overcomplicating-procurement?-what-role-should-vendors-play-in-helping-agencies-architect-for-resilience?}
+### 16. Discussion: How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience? 
 
 Total time allocation: 5–10 min
 
@@ -603,7 +602,7 @@ Total time allocation: 5–10 min
 
 
 
-### 17. Discussion: Procurement Decisions and AI  {#discussion:-procurement-decisions-and-ai}
+### 17. Discussion: Procurement Decisions and AI  
 
 Total time allocation: 5–10 min
 
@@ -633,7 +632,7 @@ Transparency and auditability |
   **Provide talking points or examples to support these points.**
 
 
-### 18. Discussion: Use of Machine Learning {#discussion:-use-of-machine-learning}
+### 18. Discussion: Use of Machine Learning 
 
 Total time allocation: 5–10 min  
 
@@ -660,7 +659,7 @@ Total time allocation: 5–10 min
   **Provide talking points or examples to support these points.**
 
 
-### 19. Activity: “Procure or Pass?” Game {#activity:-“procure-or-pass?”-game}
+### 19. Activity: “Procure or Pass?” Game 
 
 Total time allocation: 25–30 min  
 
@@ -760,7 +759,7 @@ Total time allocation: 25–30 min
 * What guardrails or contract language would you want in place?
 
 
-### 20. Discussion: Importance of Defining Security Expectations  {#discussion:-importance-of-defining-security-expectations}
+### 20. Discussion: Importance of Defining Security Expectations  
 
 Total time allocation: 5-10 min
 
@@ -787,7 +786,7 @@ Total time allocation: 5-10 min
 
   
 
-### 21. Discussion: Surfacing Security Risks Early {#discussion:-surfacing-security-risks-early}
+### 21. Discussion: Surfacing Security Risks Early 
 
 Total time allocation: 5–10 min
 
@@ -817,7 +816,7 @@ Total time allocation: 5–10 min
   
 
 
-### 22. Activity: What Would You Ask? {#activity:-what-would-you-ask?}
+### 22. Activity: What Would You Ask? 
 
 Total time allocation: 15-20 min
 
@@ -884,7 +883,7 @@ Total time allocation: 15-20 min
   
  
 
-### 23. Discussion: Cybersecurity Expectations {#discussion:-cybersecurity-expectations}
+### 23. Discussion: Cybersecurity Expectations 
 
 Total time allocation: 5-10 min
 
@@ -912,7 +911,7 @@ Total time allocation: 5-10 min
 
   
 
-## Additional Resources {#additional-resources}
+## Additional Resources 
 
 ### Links to Relevant Documents:
 
