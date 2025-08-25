@@ -33,7 +33,7 @@ Market research strategies should actively encourage small business participatio
 ## Market Research Integration with Acquisition Strategy
 Effective market research informs acquisition strategy decisions about contract structure, evaluation criteria, and performance management approaches. The insights gained through market research should shape solicitation requirements and evaluation methods to identify vendors capable of delivering successful digital services.
 
-Market research may reveal that traditional government contracting approaches—such as detailed specifications, lowest price evaluation, and extensive compliance requirements—discourage the most capable vendors from participating. Leaders must be prepared to adjust their acquisition strategies in response to the findings of market research.
+Market research may reveal that traditional government contracting approaches, such as detailed specifications, lowest price evaluation, and extensive compliance requirements, discourage the most capable vendors from participating. Leaders must be prepared to adjust their acquisition strategies in response to the findings of market research.
 
 ### Additional resources:
 - [FAI Periodic Table of Acquisition Innovation](https://acquisitiongateway.gov/periodic-table/resources/4933?_a%5Eg_nid=22752)

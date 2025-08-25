@@ -1,5 +1,5 @@
 # Module 3 Outline: From Needs to Acquisition 
-The From Needs to Acquisition Strategy module guides participants in developing acquisition strategies that are agile, mission-driven, and legally sound—while also supporting a broader cultural shift in how procurement is approached. Participants will learn how to translate user and mission needs into clear, actionable acquisition language that resonates with stakeholders across disciplines. The module explores the difference between ensuring legal sufficiency and falling into patterns of excessive risk aversion, enabling teams to make more confident and informed decisions. Participants will also gain hands-on experience with acquisition strategy tools designed to support flexible, iterative approaches that better align with the pace of digital delivery.
+The From Needs to Acquisition Strategy module guides participants in developing acquisition strategies that are agile, mission-driven, and legally sound, while also supporting a broader cultural shift in how procurement is approached. Participants will learn how to translate user and mission needs into clear, actionable acquisition language that resonates with stakeholders across disciplines. The module explores the difference between ensuring legal sufficiency and falling into patterns of excessive risk aversion, enabling teams to make more confident and informed decisions. Participants will also gain hands-on experience with acquisition strategy tools designed to support flexible, iterative approaches that better align with the pace of digital delivery.
 
 ## Module Objectives:
 - Develop and support acquisition strategies that are agile, mission-aligned, and legally sufficient while promoting a culture shift in procurement.
@@ -17,6 +17,6 @@ The From Needs to Acquisition Strategy module guides participants in developing 
 - [Leading Through Risk](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.2_DITAP-Strategy-For-Executive-Leaders-Curriculum/Module%203/Case%20Study%20Exercise%3A%20Leading%20Through%20Risk.md)
 <br>
 
-_Optional_ </br>
-Conduct a module retrospective
-- Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations.
+**Optional Activity**
+- Conduct a module retrospective
+  - Participants share what they liked about the module, what went well, what they didn’t like, and what didn’t go well, as well as ways the module delivery or learning could be enhanced for future iterations.
