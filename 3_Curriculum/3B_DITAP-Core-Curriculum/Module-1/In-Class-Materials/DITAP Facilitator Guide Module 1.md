@@ -133,6 +133,8 @@ By the end of this module, participants will be able to:
 * **Instructions:**   
   Pose the question to participants and listen to the discussion
 
+---
+
 ### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)** 
 
    Total time allocation: 60 minutes
@@ -198,7 +200,7 @@ By the end of this module, participants will be able to:
     - Were there any innovative practices or strategies that could inform future digital services acquisitions?  
     - How might this new awareness influence the way your team approaches procurement or collaboration with DSTs?
 
-
+---
 
 ### 3. Discussion: Consideration of User Needs
 
@@ -220,6 +222,8 @@ By the end of this module, participants will be able to:
   * Give examples of commercial companies or government agencies that keep user needs at the forefront. How does it show? What steps do you think they took to get to where they are?   
   * What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
 
+---
+
 ### 4. Discussion: User Persona
 
    Total time allocation: 10 min
@@ -237,7 +241,7 @@ By the end of this module, participants will be able to:
   * Think about a service your agency provides. If you had to create a persona for one of your users, what are three things you would include about their needs or behaviors?  
     * Optional follow-up: How might those needs shape your development decisions?
 
-    
+---    
 
 ### 5. Discussion: Reflections on a Past Project 
 
@@ -260,7 +264,7 @@ By the end of this module, participants will be able to:
       * How might early stakeholder feedback have changed the project outcome?  
       * What role could you have played in making the process more iterative or user-centered?
 
-    
+ ---   
 
 ### 6. Activity: Create a Sprint Backlog
 
@@ -283,6 +287,8 @@ By the end of this module, participants will be able to:
     * What barriers would have made agile adoption difficult?  
     * How might early stakeholder feedback have changed the project outcome?  
     * What role could you have played in making the process more iterative or user-centered?
+
+---
 
 ### 7. Discussion: Everyday Data
    Total time allocation: 5-10 min
@@ -309,6 +315,7 @@ By the end of this module, participants will be able to:
 | Use of structured vs. unstructured data |
 | Data visibility and accessibility challenges |
 
+---
 
 ### 8. Discussion: What could you ask about data the next time you're reviewing a tech proposal? 
 
@@ -335,6 +342,7 @@ By the end of this module, participants will be able to:
 | Use of analytics or dashboards for monitoring |
 | Security or classification of data |
 
+---
 
 ### 9. Discussion: Benefits And Challenges Of Agile Development Methods 
 
@@ -360,7 +368,7 @@ By the end of this module, participants will be able to:
 | Difficulty aligning agile with traditional FAR-based contracting |
 | Clarity in roles/responsibilities during sprints |
 
-
+---
 
 ### 10. Discussion: Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments?
 
@@ -386,7 +394,7 @@ By the end of this module, participants will be able to:
 | Automated testing and deployment pipelines |
 | Procurement alignment challenges with frequent delivery |
 
-
+---
 
 ### 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk? 
 Total time allocation: 5-10 min
@@ -411,6 +419,7 @@ Total time allocation: 5-10 min
 | Cybersecurity compliance and incident response |
 | Contract requirements for secure development |
 
+---
 
 ### 12. Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software
 
@@ -438,9 +447,7 @@ Total time allocation: 5-10 min
 | Avoiding vendor lock-in |
 
 
-
-
-
+---
 
 ### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
 
@@ -501,10 +508,6 @@ Total time allocation: 60-90 min
 | Cross-role thinking (tech, design, acquisition, compliance) |
 
 
-
-
-
-
 * **Debrief and Discussion (5-10 min)**  
   **Prompts:**   
   * What stood out in how teams approached user needs?  
@@ -520,6 +523,7 @@ Total time allocation: 60-90 min
    * Ask teams to submit final slides or sketches to a shared folder or LMS  
    * Invite SMEs or guest reviewers to provide light feedback or discussion points
 
+---
 
 ### 14. Discussion:  Deciding The Best Way To Use (Or Not Use) Cloud To Support Your Mission 
 
@@ -545,7 +549,7 @@ Total time allocation: 5–10 min
 | Security requirements and data classification |  
 | Internal capacity for managing cloud services |
 
-
+---
 
 ### 15. Discussion: Preventing Misunderstandings in a Shared Responsibility Model 
 
@@ -574,6 +578,8 @@ Total time allocation: 5-10 min
 
   **Provide talking points or examples to support these points.**
 
+---
+
 ### 16. Discussion: How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience? 
 
 Total time allocation: 5–10 min
@@ -599,8 +605,7 @@ Total time allocation: 5–10 min
 | Balance between “future-proofing” and current needs  
 | Structuring contracts for interoperability and scalability |
 
-
-
+---
 
 ### 17. Discussion: Procurement Decisions and AI  
 
@@ -631,6 +636,7 @@ Transparency and auditability |
 
   **Provide talking points or examples to support these points.**
 
+---
 
 ### 18. Discussion: Use of Machine Learning 
 
@@ -657,6 +663,8 @@ Total time allocation: 5–10 min
 | Does the tool require human oversight? |
 
   **Provide talking points or examples to support these points.**
+
+---
 
 
 ### 19. Activity: “Procure or Pass?” Game 
@@ -758,6 +766,7 @@ Total time allocation: 25–30 min
 * What are your red flags?  
 * What guardrails or contract language would you want in place?
 
+---
 
 ### 20. Discussion: Importance of Defining Security Expectations  
 
@@ -783,7 +792,7 @@ Total time allocation: 5-10 min
 | Audit or compliance failures |  
 | Breach of sensitive data |
 
-
+---
   
 
 ### 21. Discussion: Surfacing Security Risks Early 
@@ -812,7 +821,7 @@ Total time allocation: 5–10 min
 | Do you support integration with our IAM or SIEM platforms? |
 
 
-
+---
   
 
 
@@ -880,7 +889,7 @@ Total time allocation: 15-20 min
 
 
 
-  
+  ---
  
 
 ### 23. Discussion: Cybersecurity Expectations 
@@ -907,7 +916,7 @@ Total time allocation: 5-10 min
 | Include performance metrics tied to security practices |
 | Build in security testing and validation checkpoints |
 
-
+---
 
   
 
