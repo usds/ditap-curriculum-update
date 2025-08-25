@@ -52,7 +52,7 @@ Facilitator(s): \[List Facilitator Names\]
    - Contact Information
 
 
-## Overview and Objectives {#overview-and-objectives}
+## [Overview and Objectives]{#overview-and-objectives}
 
    ### Module Summary
 
