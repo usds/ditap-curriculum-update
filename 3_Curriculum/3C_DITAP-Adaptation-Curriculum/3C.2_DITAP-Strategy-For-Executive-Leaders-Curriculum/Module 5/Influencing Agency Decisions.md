@@ -2,7 +2,7 @@
 
 As a leader in your agency, your influence goes beyond individual procurements. You shape the culture, priorities, and strategic direction of your agency. Through leadership techniques, you can influence change, foster innovation, and promote collaboration and agile teaming. 
 
-Your position as a senior government leader gives you the unique power to transform how your agency approaches digital procurement. You're not just managing individual contracts—you're shaping the entire ecosystem that determines whether technology serves your mission or holds it back.
+Your position as a senior government leader gives you the unique power to transform how your agency approaches digital procurement. You're not just managing individual contracts, you're shaping the entire ecosystem that determines whether technology serves your mission or holds it back.
 
 ## Use Your Authority to Change the Game
 
@@ -17,7 +17,7 @@ You control more than you realize. Here's how to use that power:
 
 Figure out who these people are. Invest in those relationships. When they become advocates for change, they'll convince people you could never reach.
 
-**Use your position to influence external partners**—set the tone with industry and oversight partners.
+**Use your position to influence external partners \-** set the tone with industry and oversight partners.
 
 * Host industry days that explicitly signal interest in agile and modular approaches.  
 * Encourage vendors to demonstrate working software and focus on outcomes rather than just resumes.  
@@ -134,26 +134,26 @@ Every organization operates two incentive systems simultaneously:
 **Innovation vs. risk aversion**
 
 * **Formal message**: "We value innovation and creative problem-solving."  
-* **Informal reality**: People who try new approaches and fail face career consequences  
-* **Behavioral result**: Teams choose safe, traditional approaches even when they know better options exist
+* **Informal reality**: People who try new approaches and fail face career consequences.  
+* **Behavioral result**: Teams choose safe, traditional approaches even when they know better options exist.
 
 **Speed vs. process compliance**
 
 * **Formal message**: "Deliver value quickly to serve users better."  
-* **Informal reality**: Promotions go to people who follow every process perfectly, regardless of outcomes  
-* **Behavioral result**: Teams optimize for process compliance rather than user outcomes
+* **Informal reality**: Promotions go to people who follow every process perfectly, regardless of outcomes.  
+* **Behavioral result**: Teams optimize for process compliance rather than user outcomes.
 
 **Collaboration vs. individual achievement**
 
 * **Formal message**: "Work across organizational boundaries to solve complex problems."  
-* **Informal reality**: Recognition and advancement reward individual accomplishments within organizational silos  
-* **Behavioral result**: People avoid collaboration that might dilute their credit
+* **Informal reality**: Recognition and advancement reward individual accomplishments within organizational silos.  
+* **Behavioral result**: People avoid collaboration that might dilute their credit.
 
 **User focus vs. stakeholder management**
 
 * **Formal message**: "Put users first in all decisions."  
-* **Informal reality**: Career advancement depends on managing internal stakeholders, not user satisfaction  
-* **Behavioral result**: Decisions prioritize internal politics over user needs
+* **Informal reality**: Career advancement depends on managing internal stakeholders, not user satisfaction. 
+* **Behavioral result**: Decisions prioritize internal politics over user needs.
 
 ## Executive Strategies for Incentive Alignment
 
@@ -170,47 +170,47 @@ Conduct a systematic review of what your organization rewards:
 
 **Performance evaluation changes**:
 
-* Include user outcome metrics in all performance reviews  
-* Reward intelligent risk-taking and learning from failures  
-* Measure collaboration effectiveness, not just individual achievement  
-* Track innovation attempts and adaptation speed
+* Include user outcome metrics in all performance reviews.  
+* Reward intelligent risk-taking and learning from failures. 
+* Measure collaboration effectiveness, not just individual achievement.  
+* Track innovation attempts and adaptation speed.
 
 **Budget and resource allocation**:
 
-* Fund pilot projects and experimentation explicitly  
-* Allocate resources to teams that demonstrate user-centered approaches  
-* Invest in capability building, not just project delivery  
-* Create innovation funds that reward creative problem-solving
+* Fund pilot projects and experimentation explicitly.  
+* Allocate resources to teams that demonstrate user-centered approaches.  
+* Invest in capability building, not just project delivery.  
+* Create innovation funds that reward creative problem-solving.
 
 **Recognition and advancement**:
 
-* Promote people who successfully lead through uncertainty and change  
-* Recognize teams that improve user outcomes, even if they use non-traditional approaches  
-* Celebrate learning from intelligent failures alongside traditional successes  
-* Create leadership advancement paths for people who drive organizational change
+* Promote people who successfully lead through uncertainty and change.  
+* Recognize teams that improve user outcomes, even if they use non-traditional approaches.  
+* Celebrate learning from intelligent failures alongside traditional successes.  
+* Create leadership advancement paths for people who drive organizational change.
 
 ## Address Informal Incentive Systems
 
 **Model risk-taking behavior**:
 
-* Publicly try new approaches and acknowledge when they don't work perfectly  
-* Share your learning from failures and course corrections  
-* Protect teams who take intelligent risks, even when they fail  
-* Ask about lessons learned rather than assigning blame when projects face challenges
+* Publicly try new approaches and acknowledge when they don't work perfectly.  
+* Share your learning from failures and course corrections.  
+* Protect teams who take intelligent risks, even when they fail.  
+* Ask about lessons learned rather than assigning blame when projects face challenges.
 
 **Change the conversation**:
 
-* Ask about user impact and learning in every meeting  
-* Celebrate adaptation and course correction as evidence of good management  
-* Focus on outcome achievement rather than process compliance  
-* Recognize collaboration and cross-functional problem-solving
+* Ask about user impact and learning in every meeting.  
+* Celebrate adaptation and course correction as evidence of good management.  
+* Focus on outcome achievement rather than process compliance.  
+* Recognize collaboration and cross-functional problem-solving.
 
 **Create psychological safety**:
 
-* Establish clear boundaries between failure due to poor judgment vs. intelligent experimentation  
-* Provide resources and support for teams trying new approaches  
-* Share stories of successful innovation that came from initial failures  
-* Create forums for sharing lessons learned without attribution or blame
+* Establish clear boundaries between failure due to poor judgment vs. intelligent experimentation.  
+* Provide resources and support for teams trying new approaches.  
+* Share stories of successful innovation that came from initial failures.  
+* Create forums for sharing lessons learned without attribution or blame.
 
 ## Measuring Incentive System Effectiveness
 
