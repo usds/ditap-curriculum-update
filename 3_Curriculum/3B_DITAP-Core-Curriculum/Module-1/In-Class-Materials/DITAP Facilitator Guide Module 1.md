@@ -143,8 +143,8 @@ By the end of this module, participants will be able to:
 
 #### Activity Instructions:
 
-* **Purpose**: To build awareness of digital service teams’ missions, work, and roles in government to help participants anticipate collaboration needs.  
-* **Expected Outcomes**: Participants gain familiarity with DSTs and identify connections to their own contracting work.  
+* **Purpose**: To build awareness of digital service teams’ missions, work, and roles in government to help participants anticipate collaboration needs.
+* **Expected Outcomes**: Participants gain familiarity with DSTs and identify connections to their own contracting work.
 * **Materials needed:**  
   * Access to the [DSN Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)  
   * Breakout rooms (groups of 3–5)  
@@ -169,9 +169,7 @@ By the end of this module, participants will be able to:
      - Select one DST to explore together.
      - Point out key info fields: mission, projects, stakeholders, and publicly shared artifacts.
    - Highlight how to use this info to fill in the breakout template.
-
-
-    
+  
    3\. **Prompt & Instructions** (5 min)
 
     Tell participants:  In your breakout groups, you’ll select one Digital Service Team from the tracker. Explore their mission, recent projects, and how they deliver their work. Then consider what stood out to you, what surprised you, and how this might connect to your procurement experience.
@@ -185,12 +183,12 @@ By the end of this module, participants will be able to:
      - Impact or Outcomes (metrics, stories, testimonials)  
      - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
 
-- **Breakouts (20 min)**
+   4\. **Breakouts (20 min)**
   - Form groups of 3–5 participants.  
   - Assign each group to choose one DST and complete the template.  
   - Facilitators drop into rooms to answer questions, ensure progress, and help with technical issues.
 
-- **Group Presentations (20 min total)**
+   5\. **Group Presentations (20 min total)**
   - Each group gets ~5 minutes to present. Suggested structure:
     - Which DST did you choose, and why?  
     - What caught your attention about this team?  
@@ -198,7 +196,7 @@ By the end of this module, participants will be able to:
     - What surprised you?  
     - What aligns (or doesn’t) with your procurement experience?
 
-- **Debrief & Discussion (10 min)**
+   6\. **Debrief & Discussion (10 min)**
   - Use prompts to guide reflection:
     - What similarities or differences did you notice between the DSTs reviewed?  
     - Were there any innovative practices or strategies that could inform future digital services acquisitions?  
@@ -307,8 +305,15 @@ By the end of this module, participants will be able to:
   Can anyone give an example of a type of data you use every day in your job?
 
 
-| Facilitator themes to look for:  Operational or performance data (e.g., contract timelines, spending data) Market research data (e.g., past awards, vendor capabilities) End user feedback or service delivery metrics Procurement data (e.g., FPDS-NG, SAM.gov) Use of structured vs. unstructured data Data visibility and accessibility challenges |
-| :---- |
+| Facilitator themes to look for: |
+| :----------------------------- |
+| Operational or performance data (e.g., contract timelines, spending data) |
+| Market research data (e.g., past awards, vendor capabilities) |
+| End user feedback or service delivery metrics |
+| Procurement data (e.g., FPDS-NG, SAM.gov) |
+| Use of structured vs. unstructured data |
+| Data visibility and accessibility challenges |
+
 
 ### 8. Discussion: What could you ask about data the next time you're reviewing a tech proposal? {#discussion:-what-could-you-ask-about-data-the-next-time-you're-reviewing-a-tech-proposal?}
 
@@ -326,8 +331,15 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   What’s one question about data you could ask the next time you're reviewing a tech proposal?
 
-| Facilitator themes to look for:  How will data be stored, accessed, and shared? Who owns the data (vendor vs. agency)? Data interoperability and portability Compliance with data standards (e.g., metadata tagging, privacy rules) Use of analytics or dashboards for monitoring Security or classification of data |
-| :---- |
+| Facilitator themes to look for: |
+| :----------------------------- |
+| How will data be stored, accessed, and shared? |
+| Who owns the data (vendor vs. agency)? |
+| Data interoperability and portability |
+| Compliance with data standards (e.g., metadata tagging, privacy rules) |
+| Use of analytics or dashboards for monitoring |
+| Security or classification of data |
+
 
 ### 9. Discussion: Benefits And Challenges Of Agile Development Methods  {#discussion:-benefits-and-challenges-of-agile-development-methods}
 
@@ -345,8 +357,14 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   What benefits and challenges might agile development methods present to contracting officers?
 
-| Facilitator themes to look for:  Flexibility vs. scope definition tension Measuring performance or value in agile terms Incremental delivery and payment structuring Difficulty aligning agile with traditional FAR-based contracting Clarity in roles/responsibilities during sprints |
-| :---- |
+| Facilitator themes to look for: |
+| :----------------------------- |
+| Flexibility vs. scope definition tension |
+| Measuring performance or value in agile terms |
+| Incremental delivery and payment structuring |
+| Difficulty aligning agile with traditional FAR-based contracting |
+| Clarity in roles/responsibilities during sprints |
+
 
 
 ### 10. Discussion: Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments? {#discussion:-why-is-continuous-integration-and-continuous-delivery-(ci/cd)-beneficial-for-government-software-deployments?}
@@ -365,18 +383,22 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments?
 
-| Facilitator themes to look for:  Flexibility vs. scope definition tension Measuring performance or value in agile terms Incremental delivery and payment structuring Difficulty aligning agile with traditional FAR-based contracting Clarity in roles/responsibilities during sprints |
+| Facilitator themes to look for: |
 | :---- |
-
+| Faster bug fixes and security patches |
+| Enables user feedback integration |
+| Increased transparency of progress |
+| Automated testing and deployment pipelines |
+| Procurement alignment challenges with frequent delivery |
 
 
 
 ### 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?  {#discussion:-what-role-does-a-software-bill-of-materials-(sbom)-play-in-managing-risk?}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5-10 min
 
-    ### Activity Instructions:  
-
+### Activity Instructions: 
+   
 * **Purpose:** Learners will deepen their understanding of how transparency in software components contributes to risk management in government acquisitions.  
 * **Expected Outcomes**: Learners will be able to explain how an SBOM supports supply chain security, identifies vulnerabilities, and improves oversight of third-party software components.  
 * **Materials needed**:   
@@ -388,21 +410,19 @@ By the end of this module, participants will be able to:
   What role does a Software Bill of Materials (SBOM) play in managing risk?
 
 
-| Facilitator themes to look for:  Supply chain transparency Identifying vulnerabilities in third-party libraries Cybersecurity compliance and incident response Contract requirements for secure development |
+| Facilitator themes to look for: |
 | :---- |
-
-
-  
-
-
-
+| Supply chain transparency |
+| Identifying vulnerabilities in third-party libraries |
+| Cybersecurity compliance and incident response |
+| Contract requirements for secure development |
 
 
 ### 12. Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software {#discussion:-procurement-tradeoffs:-proprietary-vs.-open-source-software}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5-10 min
 
-    ### Activity Instructions:  
+   ### Activity Instructions:  
 
 * **Purpose**: To explore and understand the major tradeoffs between proprietary and open-source software.  
 * **Expected Outcomes**: Learners will be able to identify and articulate key differences, advantages and disadvantages between proprietary and open-source software for procurement, and recognize critical factors for decision-making in real-world scenarios.  
@@ -415,8 +435,14 @@ By the end of this module, participants will be able to:
   What are the major tradeoffs between proprietary and open-source software from a procurement perspective?
 
 
-| Facilitator themes to look for:  Cost savings vs. vendor support availability Licensing and intellectual property terms Security and patching Long-term maintenance and portability Avoiding vendor lock-in |
+| Facilitator themes to look for: |
 | :---- |
+| Cost savings vs. vendor support availability |
+| Licensing and intellectual property terms |
+| Security and patching |
+| Long-term maintenance and portability |
+| Avoiding vendor lock-in |
+
 
 
 
@@ -424,17 +450,17 @@ By the end of this module, participants will be able to:
 
 ### 13. Activity: [Build-a-Digital-Service Workshop](https://docs.google.com/document/d/1-NfNWrA7zVXu6RqDqXKt_GWZaAxZ0jPvwY1NU3I0cW0/edit?tab=t.vika98593n4p) {#activity:-build-a-digital-service-workshop}
 
-    Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  
-    Total time allocation: 60-90 min
+Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  <br>
+Total time allocation: 60-90 min
 
-    ### **Activity Instructions:**  
+### Activity Instructions:
 
-* **Purpose:**    
-  Participants will:  
-* Apply user-centered design principles to a real-world digital service challenge  
-* Integrate accessibility, feedback loops, and iterative delivery  
-* Make informed procurement decisions aligned with modern acquisition practices  
-* Practice collaborative planning in a simulated multi-role environment (e.g., tech, user, CO)  
+
+* **Purpose:** Participants will:  
+   * Apply user-centered design principles to a real-world digital service challenge  
+   * Integrate accessibility, feedback loops, and iterative delivery  
+   * Make informed procurement decisions aligned with modern acquisition practices  
+   * Practice collaborative planning in a simulated multi-role environment (e.g., tech, user, CO)  
 * **Expected Outcomes:** Learners will be able to apply human-centered design and agile principles to collaboratively design a government digital service that addresses the specific needs of a target user group.  
 * **Materials needed:**   
   * Breakout rooms for small groups (3-5 people)  
@@ -474,8 +500,12 @@ By the end of this module, participants will be able to:
     * Key design choices and how they support user needs  
     * Procurement or delivery decisions (tools, contracts, phasing, feedback channels)
 
-| Facilitator should spotlight:  Teams that integrated accessibility or modular procurement Creative ways teams enabled feedback loops Cross-role thinking (tech, design, acquisition, compliance) |
+| Facilitator should spotlight: | 
 | :---- |
+| Teams that integrated accessibility or modular procurement |
+| Creative ways teams enabled feedback loops |
+| Cross-role thinking (tech, design, acquisition, compliance) |
+
 
 
 
@@ -490,18 +520,18 @@ By the end of this module, participants will be able to:
 
     **Encourage open reflection in chat or voice.** 
 
-* **Bonus:** ask COs/CORs what they'd need in a real contract to support what the teams proposed.  
-  **Optional Extensions**  
-* Use a scoring rubric for peer voting or reflection (e.g., “most user-friendly,” “best accessibility plan,” “best integration of CO decisions”)  
-* Ask teams to submit final slides or sketches to a shared folder or LMS  
-* Invite SMEs or guest reviewers to provide light feedback or discussion points
+* **Bonus:** ask COs/CORs what they'd need in a real contract to support what the teams proposed.  <br>
+* **Optional Extensions**  
+   * Use a scoring rubric for peer voting or reflection (e.g., “most user-friendly,” “best accessibility plan,” “best integration of CO decisions”)  
+   * Ask teams to submit final slides or sketches to a shared folder or LMS  
+   * Invite SMEs or guest reviewers to provide light feedback or discussion points
 
 
 ### 14. Discussion:  Deciding The Best Way To Use (Or Not Use) Cloud To Support Your Mission {#discussion:-deciding-the-best-way-to-use-(or-not-use)-cloud-to-support-your-mission}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5–10 min
 
-    ### Activity Instructions:  
+### Activity Instructions:
 
 * **Purpose:** Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient.    
 * **Expected Outcomes**: Learners will be able to discern appropriate situations for using cloud services.    
@@ -513,18 +543,21 @@ By the end of this module, participants will be able to:
   **Prompt**:   
   How can your agency decide the best way to use (or not use) cloud to support your mission?
 
-| Facilitator themes to look for:  Mission-critical needs vs. scalability Cost models (pay-as-you-go vs. fixed infrastructure) Flexibility and speed of deployment Security requirements and data classification Internal capacity for managing cloud services |
-| :---- |
-
-
+| Facilitator themes to look for: |  
+| :---- |  
+| Mission-critical needs vs. scalability |  
+| Cost models (pay-as-you-go vs. fixed infrastructure) |  
+| Flexibility and speed of deployment |  
+| Security requirements and data classification |  
+| Internal capacity for managing cloud services |
 
 
 
 ### 15. Discussion: Preventing Misunderstandings in a Shared Responsibility Model {#discussion:-preventing-misunderstandings-in-a-shared-responsibility-model}
 
-    **Total time allocation:** 5-10 min
+Total time allocation: 5-10 min
 
-    ### Activity Instructions:  
+### Activity Instructions:  
 
 * **Purpose:** Learners will be able to recognize where there could be misunderstandings between vendors and agencies and how to apply the shared responsibility model to prevent those misunderstandings.   
 * **Expected Outcomes**: Learners will identify common misunderstandings in shared responsibility models and propose contract strategies to clarify roles and mitigate risk.  
@@ -536,16 +569,22 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   In a shared responsibility model, where do you think misunderstandings between vendors and agencies are most likely to occur? What could be done contractually to prevent that?
 
-| Facilitator themes to look for:  Assumptions about who handles patching or access controls Gaps in monitoring responsibilities (e.g., SIEM integration) Lack of clarity in SLAs Need for clearer delineation in contract language Role of onboarding and joint governance reviews |
-| :---- |
+| Facilitator themes to look for: |  
+| :---- |  
+| Assumptions about who handles patching or access controls |  
+| Gaps in monitoring responsibilities (e.g., SIEM integration) |  
+| Lack of clarity in SLAs |  
+| Need for clearer delineation in contract language |  
+| Role of onboarding and joint governance reviews |
+
 
   **Provide talking points or examples to support these points.**
 
 ### 16. Discussion: How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience? {#discussion:-how-can-we-encourage-modular-or-hybrid-cloud-strategies-without-overcomplicating-procurement?-what-role-should-vendors-play-in-helping-agencies-architect-for-resilience?}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5–10 min
 
-    ### Activity Instructions:  
+### Activity Instructions
 
 * **Purpose:** Learners know what the priorities and potential pitfalls are when procuring cloud solutions, and how to align agency needs with vendor capabilities.  
 * **Expected Outcomes:** Learners will be able to analyze the benefits and tradeoffs of modular and hybrid cloud strategies and identify procurement approaches that promote flexibility and vendor collaboration without increasing complexity.  
@@ -558,17 +597,23 @@ By the end of this module, participants will be able to:
   How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience?
 
 
-| Facilitator themes to look for:  Building in flexibility and portability in architecture Use of interface standards and microservices Encouraging vendor collaboration across silos Balance between “future-proofing” and current needs Structuring contracts for interoperability and scalability |
-| :---- |
+| Facilitator themes to look for: |  
+| :---- |  
+| Building in flexibility and portability in architecture  
+| Use of interface standards and microservices  
+| Encouraging vendor collaboration across silos  
+| Balance between “future-proofing” and current needs  
+| Structuring contracts for interoperability and scalability |
+
 
 
 
 ### 17. Discussion: Procurement Decisions and AI  {#discussion:-procurement-decisions-and-ai}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5–10 min
 
-    ### Activity Instructions:  
-
+### Activity Instructions:
+ 
 * **Purpose:** To understand when use of AI is appropriate or inappropriate.  
 * **Expected Outcomes:** Learners will be able to recognize tasks for which AI is not an appropriate solution.   
 * **Materials needed:**   
@@ -580,8 +625,14 @@ By the end of this module, participants will be able to:
   What kind of procurement decisions do you think shouldn’t be made by AI? Why?
 
 
-| Facilitator themes to look for:  Source selection or technical evaluations (bias risk) Sensitive or high-risk decisions requiring human judgment Equity and fairness concerns Legal and policy compliance Transparency and auditability |
-| :---- |
+| Facilitator themes to look for: |  
+| :---- |  
+| Source selection or technical evaluations (bias risk)  
+Sensitive or high-risk decisions requiring human judgment  
+Equity and fairness concerns  
+Legal and policy compliance  
+Transparency and auditability |
+
 
 
   **Provide talking points or examples to support these points.**
@@ -589,9 +640,9 @@ By the end of this module, participants will be able to:
 
 ### 18. Discussion: Use of Machine Learning {#discussion:-use-of-machine-learning}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5–10 min  
 
-    ### Activity Instructions:  
+### Activity Instructions:  
 
 * **Purpose:** Learners will be able to ask key questions that will help ensure proper application of machine learning  
 * **Expected Outcomes:** Learners will be able to recognize and probe for the reasons a vendor would use machine learning for their project.  
@@ -603,23 +654,27 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   If a vendor says their tool uses “machine learning,” what’s one question you’d ask before moving forward?
 
-| Facilitator themes to look for:  What data is used to train the model? Is the algorithm explainable and auditable? What bias mitigation strategies are in place? Can the agency fine-tune or update the model? Does the tool require human oversight? |
+| Facilitator themes to look for: |
 | :---- |
-
+| What data is used to train the model? |
+| Is the algorithm explainable and auditable? |
+| What bias mitigation strategies are in place? |
+| Can the agency fine-tune or update the model? |
+| Does the tool require human oversight? |
 
   **Provide talking points or examples to support these points.**
 
 
 ### 19. Activity:  [“Procure or Pass?” Game](https://docs.google.com/document/d/1-NfNWrA7zVXu6RqDqXKt_GWZaAxZ0jPvwY1NU3I0cW0/edit?tab=t.vnlluvecoovu) {#activity:-“procure-or-pass?”-game}
 
-    Total time allocation: 25-30 min
+Total time allocation: 25–30 min  
 
-    ### Activity Instructions:  
-
+### Activity Instructions:
+ 
 * **Purpose:** Learners will:  
   * Build awareness of common AI use cases in government  
-    * Explore ethical and operational considerations in AI procurement  
-    * Practice applying judgment to ambiguous or emerging tech situations
+  * Explore ethical and operational considerations in AI procurement  
+  * Practice applying judgment to ambiguous or emerging tech situations
 
 * **Expected Outcomes:**  Learners will be able to make informed choices on whether or not to use AI. 
 
@@ -657,12 +712,16 @@ By the end of this module, participants will be able to:
     * Highlight 2–3 trends or dilemmas that surfaced.  
     * Reinforce: As contracting professionals, we don’t just buy tech—we shape how it’s used.
 
-| Optional Enhancements: Live Polling: Use Mentimeter or Zoom poll to tally responses in real time. Padlet/Sticky Notes: Have participants write what conditions they'd set before procuring. Team Debate: For each case, assign half the group to argue "procure" and the other "pass." |
-| :---- |
+| Optional Enhancements: | 
+| :---- | 
+| Live Polling: Use Mentimeter or Zoom poll to tally responses in real time. | 
+| Padlet/Sticky Notes: Have participants write what conditions they'd set before procuring. | 
+| Team Debate: For each case, assign half the group to argue "procure" and the other "pass." | 
+
 
   #### Sample Use Cases
 
-  **Use Case 1:**   
+**Use Case 1:**   
  A vendor proposes an AI auto-scoring tool to evaluate and rank RFP responses based on pre-trained relevance criteria.
 
  **Prompt:** Would you procure or pass? What ethical questions arise around data inputs and use?
@@ -673,7 +732,7 @@ By the end of this module, participants will be able to:
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-  **Use Case 2:**  
+**Use Case 2:**  
   A chatbot answers incoming FOIA requests by pulling from previous, public disclosures.  
   **Prompt:** Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -681,7 +740,7 @@ By the end of this module, participants will be able to:
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-  **Use Case 3:**  
+**Use Case 3:**  
   An agency wants to use an AI résumé screener to filter job applicants before human review.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -689,7 +748,7 @@ By the end of this module, participants will be able to:
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-  **Use Case 4:**  
+**Use Case 4:**  
   A cloud-based system uses AI to detect fraud in real-time across benefit applications, flagging anomalies for manual review.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?   
   Follow up with open questions to spark dialogue:  
@@ -697,7 +756,7 @@ By the end of this module, participants will be able to:
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-  **Use Case 5 (Optional Stretch):**  
+**Use Case 5 (Optional Stretch):**  
   An AI model helps predict program success rates using historical outcomes and demographic data.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -708,9 +767,9 @@ By the end of this module, participants will be able to:
 
 ### 20. Discussion: Importance of Defining Security Expectations  {#discussion:-importance-of-defining-security-expectations}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5-10 min
 
-    ### Activity Instructions:  
+### Activity Instructions: 
 
 * **Purpose:** Missteps where security is very risky and can be costly in terms of credibility and monetarily. Learners will know what can be done to mitigate these risks.   
 * **Expected Outcomes:** Learners will be better able to avoid unnecessary security risks when procuring vendors' services.  
@@ -722,17 +781,23 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   Have you seen a procurement where security expectations weren’t clearly defined? What happened?
 
-| Facilitator themes to look for:  Vendor confusion or delays Security retrofits or costly rework Lack of accountability during an incident Audit or compliance failures Breach of sensitive data |
-| :---- |
+| Facilitator themes to look for: |  
+| :---- |  
+| Vendor confusion or delays |  
+| Security retrofits or costly rework |  
+| Lack of accountability during an incident |  
+| Audit or compliance failures |  
+| Breach of sensitive data |
+
 
   
 
 ### 21. Discussion: Surfacing Security Risks Early {#discussion:-surfacing-security-risks-early}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5–10 min
 
-    ### Activity Instructions:  
-
+### Activity Instructions:
+ 
 * **Purpose:** Apply what they've learned about security risks and procurement.   
 * **Expected Outcomes:** Learners will be able to generate relevant, security-focused questions to ask during market research that help identify and mitigate risks early in the acquisition process.  
 * **Materials needed:**   
@@ -744,8 +809,14 @@ By the end of this module, participants will be able to:
   What’s one question a CO could ask during market research to surface security risks early?
 
 
-| Facilitator themes to look for:  What frameworks or controls does the solution comply with (e.g., FedRAMP, NIST)? How is data protected in transit and at rest? How do you manage software supply chain risk? What’s your incident response timeline? Do you support integration with our IAM or SIEM platforms? |
+| Facilitator themes to look for: |
 | :---- |
+| What frameworks or controls does the solution comply with (e.g., FedRAMP, NIST)? |
+| How is data protected in transit and at rest? |
+| How do you manage software supply chain risk? |
+| What’s your incident response timeline? |
+| Do you support integration with our IAM or SIEM platforms? |
+
 
 
   
@@ -753,9 +824,9 @@ By the end of this module, participants will be able to:
 
 ### 22. Activity: What Would You Ask? {#activity:-what-would-you-ask?}
 
-    Total time allocation: 15-20 min
+Total time allocation: 15-20 min
 
-    ### Activity Instructions:  
+### Activity Instructions:
 
 * **Purpose:** Build confidence in procurement professionals to ask informed cybersecurity questions during pre-award planning.  
 * **Expected Outcomes:** Learners will be prepared to ask informed questions about their cybersecurity needs.  
@@ -776,8 +847,29 @@ By the end of this module, participants will be able to:
     **Prompt:**  
     You’re preparing for an early acquisition planning meeting. Based on your assigned topic, come up with 2–3 questions you would ask the technical or security team to ensure this requirement is built into the contract.
 
-| Facilitator themes to look for:  Security compliance Awareness of compliance as non-negotiable in federal systems Understanding that compliance differs by system type (e.g., public-facing app vs. internal system) Integration of security controls into evaluation criteria or SOW Recognition of the CISO or security team's role in validating feasibility Identity and Access Management (IAM) Awareness that IAM is critical to prevent unauthorized access Emphasis on integration requirements as early contract conditions CO understanding that improper IAM alignment can lead to security gaps or deployment delays Recognition of IAM as a shared responsibility Vulnerability management Differentiating patching from broader vulnerability management practices Importance of timely remediation and continuous monitoring Use of language like SLAs, CVSS scores, or risk thresholds Linking this area to contractor performance requirements or QASP SIEM integration Understanding of SIEM as central to threat detection Risk awareness of orphaned tools (i.e., systems not connected to centralized monitoring) COs considering integration requirements during solicitation planning Clear communication expectations in incident response scenarios |
+| Facilitator themes to look for: |
 | :---- |
+| Security compliance |
+| Awareness of compliance as non-negotiable in federal systems |
+| Understanding that compliance differs by system type (e.g., public-facing app vs. internal system) |
+| Integration of security controls into evaluation criteria or SOW |
+| Recognition of the CISO or security team's role in validating feasibility |
+| Identity and Access Management (IAM) |
+| Awareness that IAM is critical to prevent unauthorized access |
+| Emphasis on integration requirements as early contract conditions |
+| CO understanding that improper IAM alignment can lead to security gaps or deployment delays |
+| Recognition of IAM as a shared responsibility |
+| Vulnerability management |
+| Differentiating patching from broader vulnerability management practices |
+| Importance of timely remediation and continuous monitoring |
+| Use of language like SLAs, CVSS scores, or risk thresholds |
+| Linking this area to contractor performance requirements or QASP |
+| SIEM integration |
+| Understanding of SIEM as central to threat detection |
+| Risk awareness of orphaned tools (i.e., systems not connected to centralized monitoring) |
+| COs considering integration requirements during solicitation planning |
+| Clear communication expectations in incident response scenarios |
+
 
    
  
@@ -786,8 +878,12 @@ By the end of this module, participants will be able to:
 * **Debrief:** Each group shares their questions. Facilitator comments on alignment with best practices.
 
 
-| Optional Enhancements: Live Polling: Use Mentimeter or Zoom poll to tally responses in real time. Padlet/Sticky Notes: Have participants write what conditions they'd set before procuring. Team Debate: For each case, assign half the group to argue "procure" and the other "pass." |
+| Optional Enhancements |
 | :---- |
+| Live Polling: Use Mentimeter or Zoom poll to tally responses in real time. |
+| Padlet/Sticky Notes: Have participants write what conditions they'd set before procuring. |
+| Team Debate: For each case, assign half the group to argue "procure" and the other "pass." |
+
 
 
   
@@ -795,9 +891,9 @@ By the end of this module, participants will be able to:
 
 ### 23. Discussion: Cybersecurity Expectations {#discussion:-cybersecurity-expectations}
 
-    Total time allocation: 5-10 min
+Total time allocation: 5-10 min
 
-    #### Activity Instructions:  
+#### Activity Instructions:  
 
 * **Purpose:** Learners will be able to include security expectations in  requirements, evaluation criteria, and post-award monitoring.   
 * **Expected Outcomes:** Learners will be able to prevent weak systems being procured.  
@@ -809,8 +905,14 @@ By the end of this module, participants will be able to:
   **Prompt:**   
   What’s one thing you can do in your next contract to strengthen cybersecurity expectations?
 
-| Facilitator themes to look for:  Require integration with agency IAM/SIEM Define patching and vulnerability management processes Reference federal standards explicitly (e.g., NIST 800-53) Include performance metrics tied to security practices Build in security testing and validation checkpoints |
+| Facilitator themes to look for |
 | :---- |
+| Require integration with agency IAM/SIEM |
+| Define patching and vulnerability management processes |
+| Reference federal standards explicitly (e.g., NIST 800-53) |
+| Include performance metrics tied to security practices |
+| Build in security testing and validation checkpoints |
+
 
 
   
