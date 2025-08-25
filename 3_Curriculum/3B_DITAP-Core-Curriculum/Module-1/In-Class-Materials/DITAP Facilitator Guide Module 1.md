@@ -11,18 +11,18 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-1. ### [Overview and Objectives]
+1. ### Overview and Objectives
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-2. ### [Materials and Preparation]
+2. ### Materials and Preparation
    - Required Materials  
    - Preparation Checklist
 
-3. ### [Module Agenda]
+3. ### Module Agenda
 
-4. ### [Module Activities]
+4. ### Module Activities
    - Discussion: What digital services have you used?
    - Activity: Who’s Who of Digital Services Teams
    - Discussion: Consideration of user needs
@@ -48,7 +48,7 @@ Facilitator(s): \[List Facilitator Names\]
    - Discussion: Cybersecurity expectations
 
 
-5. ### [Additional Resources]
+5. ### Additional Resources
    - Links to Relevant Documents  
    - Contact Information
 
@@ -72,7 +72,7 @@ By the end of this module, participants will be able to:
   This topic introduces the foundational concepts of digital services within the federal landscape. Learners will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery.
 
 
-## Materials and Preparation {#materials-and-preparation}
+## Materials and Preparation
 
 ### Required Materials:
 
