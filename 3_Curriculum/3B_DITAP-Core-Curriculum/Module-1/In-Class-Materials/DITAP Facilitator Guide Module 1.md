@@ -2,7 +2,7 @@
 
 *Updated July 2025*
 
-## Module 1: Introduction to Digital Services: The Who, What, and How of Digital Service Delivery  
+## Module 1 - Introduction to Digital Services: The Who, What, and How of Digital Service Delivery  
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
 Location: \[Insert Physical or Virtual Location\]  
@@ -11,44 +11,44 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-1. ### Overview and Objectives
+### Overview and Objectives
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-2. ### Materials and Preparation
+### Materials and Preparation
    - Required Materials  
    - Preparation Checklist
 
-3. ### Module Agenda
+### Module Agenda
 
-4. ### Module Activities
-   - Discussion: What digital services have you used?
-   - Activity: Who’s Who of Digital Services Teams
-   - Discussion: Consideration of user needs
-   - Discussion: User persona
-   - Discussion: Reflections on a past project
-   - Activity: Create a sprint backlog
-   - Discussion: Everyday data
-   - Discussion: What could you ask about data
-   - Discussion: Benefits and challenges of agile development methods
-   - Discussion: Why continuous integration and continuous delivery (CI/CD)?
-   - Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?
-   - Discussion: Proprietary vs. Open-Source Software
-   - Activity: Build-a-Digital-Service Workshop
-   - Discussion: Deciding the best way to use (or not use) cloud
-   - Activity: Preventing misunderstandings in a shared responsibility model
-   - Discussion: How can we encourage modular or hybrid cloud strategies?
-   - Discussion: Procurement decisions and AI
-   - Discussion: Use of machine learning
-   - Activity: “Procure or Pass?” game
-   - Discussion: Defining security expectations
-   - Discussion: Surfacing security risks early
-   - Activity: What would you ask the technical or security team?
-   - Discussion: Cybersecurity expectations
+### Module Activities 
 
+1. Discussion: What digital services have you used?
+2. Activity: Who’s Who of Digital Services Teams
+3. Discussion: Consideration of user needs
+4. Discussion: User persona
+5. Discussion: Reflections on a past project
+6. Activity: Create a sprint backlog
+7. Discussion: Everyday data
+8. Discussion: What could you ask about data
+9. Discussion: Benefits and challenges of agile development methods
+10. Discussion: Why continuous integration and continuous delivery (CI/CD)?
+11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?
+12. Discussion: Proprietary vs. Open-Source Software
+13. Activity: Build-a-Digital-Service Workshop
+14. Discussion: Deciding the best way to use (or not use) cloud
+15. Activity: Preventing misunderstandings in a shared responsibility model
+16. Discussion: How can we encourage modular or hybrid cloud strategies?
+17. Discussion: Procurement decisions and AI
+18. Discussion: Use of machine learning
+19. Activity: “Procure or Pass?” game
+20. Discussion: Defining security expectations
+21. Discussion: Surfacing security risks early
+22. Activity: What would you ask the technical or security team?
+23. Discussion: Cybersecurity expectations
 
-5. ### Additional Resources
+### Additional Resources
    - Links to Relevant Documents  
    - Contact Information
 
