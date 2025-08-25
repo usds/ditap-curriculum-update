@@ -14,14 +14,14 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Overview and Objectives
 
-   Module Summary  
-   Learning Objectives  
-   Connection to Overall DITAP Program
+   - Module Summary  
+   - Learning Objectives  
+   - Connection to Overall DITAP Program
 
 ### Materials and Preparation
 
-   Required Materials  
-   Preparation Checklist
+   - Required Materials  
+   - Preparation Checklist
 
 ### Module Agenda 
 
@@ -45,8 +45,8 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Additional Resources
 
-   Links to Relevant Documents  
-   Contact Information
+   - Links to Relevant Documents  
+   - Contact Information
 
 ## Overview & Objectives
     
@@ -86,7 +86,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 ### Required Materials:
 
 - [ ] Module 3 slide deck  
-- [ ] Tech Evaluation Panel Checklist: [Technical Skills Assessment Survey fillable form](https://drive.google.com/file/d/1ZZXua9F6wNNYfyh_1tvZ8__8sCqdCPhW/view)   
+- [ ] Tech Evaluation Panel Checklist: [Technical Skills Assessment Survey fillable form](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md)   
 - [ ] Single slide of the three questions for Activity 8  
 - [ ] Whiteboard and markers or shared digital display  
       
@@ -152,7 +152,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
     * Breakouts of 3-5 people each  
     * Each group gets:  
       * A link to a shared editable Lean Canvas template (Google Doc, Mural, or Miro)  
-      * A **simple, pre-written acquisition scenario** (see [example](#example-scenario:) below)  
+      * A **simple, pre-written acquisition scenario** (see example scenario below)  
       * Instructions to focus on just **5 key boxes** of the canvas:  
         * Problem  
         * Customer Segments  
@@ -225,7 +225,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
    
    #### Activity Instructions:
    
-**Purpose**:  To identify key questions about limited data rights and proprietary encryption they should ask when acquiring a new cloud-based platform.  
+**Purpose**:  To identify key questions about limited data rights and proprietary encryption that they should ask when acquiring a new cloud-based platform.  
 **Expected Outcomes**: Learners will be able to identify:  
 * Legal risks  
 * Data access concerns  
@@ -282,7 +282,9 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Purpose**: To share with the group ideas about improving multi-vendor procurement  
 * **Expected Outcomes**: Learners will have identified actions they can take to improve multi-vendor efforts.  
 * **Materials Needed** (specific to activity): None  
-* **Instructions**: Whole-group discussion
+* **Instructions**:
+* Facilitator: *What one thing could you do to improve collaboration on your next multi-vendor effort?*
+* Whole-group discussion
 
 
 8. ### Discussion: Scenario Discussion
@@ -297,55 +299,18 @@ This session builds on prior learning from Module 2, and prepares learners for u
   * Breakout spaces  
 * **Instructions**: Small groups discussion (10-15 min), the report out (10-15 min)  
   * Facilitator: *This scenario helps learners apply the fairness and equity concepts. What structural changes could lead to more competition?*  
-    Expected Participant Responses:   
-1. **Overly Complex Task Order Requirements**  
-   Listen for:   
-* "The RFP was too long/technical/dense."  
-* "The instructions were unclear or burdensome."
-
-  **Facilitator insight:** Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues.
-
-2. **Misalignment with Vendor Capabilities**  
-   Listen for:  
-* "The scope didn't match vendor strengths."  
-* “We required past performance in a narrow niche."
-
-  **Facilitator insight**: Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.
-
-3. **Unrealistic Timelines**  
-   Listen for:   
-* "The response window was too short."  
-* "We dropped the task order around a holiday or at fiscal year-end."
-
-  **Facilitator insight**: Compressed timelines can exclude smaller vendors without dedicated proposal teams.
-
-4. **Lack of Market Awareness or Engagement**  
-   Listen for:   
-* "We didn’t host a Q\&A session or industry day."  
-* "There was no prior market research or vendor engagement."
-
-  **Facilitator insight**: Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.
+  
+| # | Expected Participant Responses                       | Listen For                                                                                                                              | Facilitator Insight                                                                                                                                              |
+| - | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Overly Complex Task Order Requirements**           | \* "The RFP was too long/technical/dense." <br> \* "The instructions were unclear or burdensome."                                       | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
+| 2 | **Misalignment with Vendor Capabilities**            | \* "The scope didn't match vendor strengths." <br> \* "We required past performance in a narrow niche."                                 | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
+| 3 | **Unrealistic Timelines**                            | \* "The response window was too short." <br> \* "We dropped the task order around a holiday or at fiscal year-end."                     | Compressed timelines can exclude smaller vendors without dedicated proposal teams.                                                                               |
+| 4 | **Lack of Market Awareness or Engagement**           | \* "We didn’t host a Q\&A session or industry day." <br> \* "There was no prior market research or vendor engagement."                  | Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.                                         |
+| 5 | **Overly Restrictive or Biased Evaluation Criteria** | \* "The criteria required very specific past government experience." <br> \* "There were hidden preferences for an incumbent solution." | Encourage participants to reframe evaluation criteria around capability and potential, not just history.                                                         |
+| 6 | **Lack of Transparency or Trust in the Process**     | \* "Some vendors felt the same vendors always win." <br> \* "We never share debriefs or redacted winning proposals."                    | Transparency builds trust. Silence or opacity discourages future participation.                                                                                  |
 
 
-5. **Overly Restrictive or Biased Evaluation Criteria**  
-   Listen for:   
-* "The criteria required very specific past government experience."  
-* "There were hidden preferences for an incumbent solution."
-
-
-  **Facilitator insight**: Encourage participants to reframe evaluation criteria around capability and potential, not just history.
-
-
-6. **Lack of Transparency or Trust in the Process**  
-   Listen for:   
-* "Some vendors felt the same vendors always win."  
-* "We never share debriefs or redacted winning proposals."
-
-
-  **Facilitator insight:** Transparency builds trust. Silence or opacity discourages future participation.
-
-
-  **Facilitator Tips for Probing Further**
+**Facilitator Tips for Probing Further**
 
 * Ask: “How might a small or non-traditional vendor interpret this solicitation?”  
 * Ask: “If only 2 out of 8 vendors bid, what might that signal about equity?”  
@@ -362,7 +327,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Purpose:** To gain hands-on experience drafting a concise and focused SOO  
 * **Expected Outcomes:** Learners will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. They will involve contracting early in the process to ensure alignment.  
 * **Materials Needed** (specific to activity):  
-  * [Template: Developing an SOO](https://docs.google.com/document/d/1XUQe96cyaFgEKRBXTRe4tjGN7x-94o2l-s1A7x5IHdw/edit?tab=t.bnpm7z5xdpht)  
+  * [Template: Developing an SOO](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md)  
   * Scenario prompt (in slides or chat)  
   * SOO section guide (shared screen or handout)  
   * Breakout room roles: Note-taker, presenter  
@@ -381,7 +346,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
    Your agency needs a new platform for tracking and managing stakeholder engagement across multiple programs. The current solution is outdated, with poor user experience and no mobile support. You want a cloud-based solution built iteratively using Agile methods, with a strong focus on usability, accessibility, and performance.
 
-   * Each group drafts a quick SOO for agile services (using the [template](https://docs.google.com/document/d/1XUQe96cyaFgEKRBXTRe4tjGN7x-94o2l-s1A7x5IHdw/edit?tab=t.bnpm7z5xdpht)) that includes:   
+   * Each group drafts a quick SOO for agile services (using the [template](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) that includes:   
      * **Background:** Why the project is needed  
      * **Scope:** High-level overview of the desired work  
      * **Objectives:** Desired outcomes (not tasks)  
@@ -436,7 +401,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
   ---
 
-12. ### Activity: [Tech Evaluation Panel Checklist](https://drive.google.com/file/d/1ZZXua9F6wNNYfyh_1tvZ8__8sCqdCPhW/view?usp=drive_link)
+12. ### Activity: [Tech Evaluation Panel Checklist](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md)
 
     Total Time Allocation:  20 min 
 
@@ -445,7 +410,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Purpose**: To create a list that will help them to determine the tech evaluation panel’s skillset  
 * **Expected Outcomes**: Learners will be able to use a checklist of standards that will assess a technical evaluation panel’s skillset relative to the digital service they will be asked to evaluate. They may also offer their ideas on other techniques they could use.  
 * **Materials Needed** (specific to activity):   
-  * Handout: [*Technical Skills Assessment Survey*](https://drive.google.com/file/d/1ZZXua9F6wNNYfyh_1tvZ8__8sCqdCPhW/view?usp=drive_link) fillable form  
+  * Handout: [*Technical Skills Assessment Survey*](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md) fillable form  
 * **Instructions**:   
   * Distribute the checklist handout to learners (physical or digital)  
   * **Prompt**:    
@@ -471,13 +436,13 @@ This session builds on prior learning from Module 2, and prepares learners for u
     * A member of each group will report out the reasons for choosing the matrix  
     * Groups will apply the matrix to make tradeoffs for their capstone project  
     * Learners should think about what worked: what’s on each of the axes?  
-  * **Come back and discuss**: “How was the dialogue? This is important…”  
-    * “Let’s go from one Capstone group to another …”  
-    * “When we wrap, hope you got a sense, if you haven’t yet, people take positions … positions get personalized … natural emotion, but not always the right emotion. Some folks will feel more strongly about other features, etc.”
+  * **Come back and discuss**: “How was the dialogue? This is important.”  
+    * “Let’s go from one Capstone group to another.”  
+    * “When we wrap, hope you got a sense, if you haven’t yet, people take positions, positions get personalized. Natural emotion, but not always the right emotion. Some folks will feel more strongly about other features, etc.”
 
 ---
 
-14. ### Activity: Poll*
+14. ### Activity: Poll
 
     Total Time Allocation: 5 min
 
@@ -490,7 +455,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Instructions:**   
   Facilitator asks the team: “What’s your biggest concern about debriefs?”   
   Learners pick their answer from   
-1.  Saying too much  
+1. Saying too much  
 2. Saying too little  
 3. Not knowing what’s allowed  
 4. Time constraints  
@@ -513,7 +478,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
   * **Introduction**: Present the scenario verbally or on a slide. Emphasize the *relational* role of debriefs — not just compliance.   
     Ask:
 
-    "Has anyone experienced a debrief like this?"
+"Has anyone experienced a debrief like this?"
 
 * **Small Group (15 min)**:   
   *Use 1 slide with the three questions*  
@@ -524,8 +489,12 @@ This session builds on prior learning from Module 2, and prepares learners for u
   * Call on 2-3 groups to share highlights. Summarize effective phrases or techniques that emerge.
 
 
-| ILT Facilitator Notes: Emphasize the *tone* of debriefings: it’s not just compliance — it’s an opportunity to strengthen the acquisition ecosystem. Tie the discussion back to templates included in Module 3 Sprint 3 self paced learning (e.g., include a “Vendor Feedback” moment in their own draft debriefing agendas). If time allows, have learners write a short “Closing Statement” they would use in a real debriefing and get peer feedback. |
-| :---- |
+| ILT Facilitator Notes                                                                                                                                                    |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Emphasize the *tone* of debriefings: it’s not just compliance — it’s an opportunity to strengthen the acquisition ecosystem.                                             |
+| Tie the discussion back to templates included in Module 3 Sprint 3 self-paced learning (e.g., include a “Vendor Feedback” moment in their own draft debriefing agendas). |
+| If time allows, have learners write a short “Closing Statement” they would use in a real debriefing and get peer feedback.                                               |
+
 
 
 
