@@ -137,7 +137,7 @@ By the end of this module, participants will be able to:
 * **Instructions:**   
   Pose the question to participants and listen to the discussion
 
-### 2. Activity: [Who’s Who of Digital Services Teams](https://docs.google.com/document/d/1KC8fLMknhFE5n5Qzmv3VXpErDa8wUys2x-lANuDBFYI/edit?usp=drive_link)** {#activity:-who’s-who-of-digital-services-teams}
+### 2. Activity: [Who’s Who of Digital Services Teams](https://github.com/usds/ditap-curriculum-update/blob/1ffe39da89ddf0c6ebb679b47e6f8e16340e7eca/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Who's%20Who%20of%20Digital%20Service%20Teams.md)** {#activity:-who’s-who-of-digital-services-teams}
 
    Total time allocation: 60 minutes
 
@@ -448,7 +448,7 @@ Total time allocation: 5-10 min
 
 
 
-### 13. Activity: [Build-a-Digital-Service Workshop](https://docs.google.com/document/d/1-NfNWrA7zVXu6RqDqXKt_GWZaAxZ0jPvwY1NU3I0cW0/edit?tab=t.vika98593n4p) {#activity:-build-a-digital-service-workshop}
+### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) {#activity:-build-a-digital-service-workshop}
 
 Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  <br>
 Total time allocation: 60-90 min
@@ -665,7 +665,7 @@ Total time allocation: 5–10 min
   **Provide talking points or examples to support these points.**
 
 
-### 19. Activity:  [“Procure or Pass?” Game](https://docs.google.com/document/d/1-NfNWrA7zVXu6RqDqXKt_GWZaAxZ0jPvwY1NU3I0cW0/edit?tab=t.vnlluvecoovu) {#activity:-“procure-or-pass?”-game}
+### 19. Activity: “Procure or Pass?” Game {#activity:-“procure-or-pass?”-game}
 
 Total time allocation: 25–30 min  
 
