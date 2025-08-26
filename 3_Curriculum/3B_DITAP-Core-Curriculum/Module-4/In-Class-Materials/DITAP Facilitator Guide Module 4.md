@@ -1,6 +1,6 @@
 # DITAP In-Class Facilitator Guide
 
-*Revised July 2025*
+*Updated July 2025*
 
 ## Module 4 \- Managing Agile Digital Service  Contracts: Oversight, Performance, and Delivery 
 
