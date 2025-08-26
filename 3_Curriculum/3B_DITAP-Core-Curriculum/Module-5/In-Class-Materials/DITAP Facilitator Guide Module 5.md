@@ -29,7 +29,7 @@ Facilitator(s): \[List Facilitator Names\]
 
 1. Discussion: Talk about your experience with challenges
 2. Discussion: Strategy for introducing new ideas  
-3. Discussion: Sharing stories](#discussion:-sharing-stories)  
+3. Discussion: Sharing stories
 4. Discussion: Normalizing continuous learning 
 5. Discussion: Your Tech Awareness Habits 
 6. Optional Activity: Tiny Habits, Big Impact  
@@ -75,11 +75,11 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 ### Required Materials:
 
 - [ ] Module 5 slide deck  
-- [ ] TEDx Video Reflection: [Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)  
+- [ ] TEDx Video: [Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)  
 - [ ] Whiteboard and markers or digital collaboration tool   
 - [ ] Notetaking materials (digital or physical) 
 
-### **Preparation Checklist:**
+### Preparation Checklist:
 
 - [ ] Set up breakout spaces  
 - [ ] Test video 
@@ -153,7 +153,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
       * Could you have involved a different stakeholder earlier in the process?  
       * Could you have reframed your ask to align better with their priorities?
 
-  **Prompt**: Let’s aim to share both the challenge and one idea for a more ‘winnable’ path forward—small steps you could take that respect the status quo while still nudging it forward.
+     **Prompt**: Let’s aim to share both the challenge and one idea for a more ‘winnable’ path forward—small steps you could take that respect the status quo while still nudging it forward.
 
 ---
 
@@ -214,6 +214,8 @@ This session builds on prior learning from Module 4, as learners prepare for dig
        3. What’s one small habit I could adopt to improve?  
        4. Who in my network is good at this—can I learn from them?
 
+---
+
 6. ### Optional Activity: Tiny Habits, Big Impact
 
    TEDx Video Reflection: **[Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)**  
@@ -226,35 +228,35 @@ This session builds on prior learning from Module 4, as learners prepare for dig
    * **Materials Needed** (specific to activity):   
      * Notetaking materials (digital or physical)  
    * **Instructions**:   
-     * **Step 1: Watch the TEDx Talk (17 min)**  
-       **Prompt (before watching)**: We invite you to watch a short TEDx talk that explores how major change can happen through small, repeatable habits. As you watch, **think about how this concept applies to digital acquisition in your agency.** What’s one tiny change you could lead that might snowball into something bigger?
+   * **Step 1: Watch the TEDx Talk (17 min)**  
+     **Prompt (before watching):**  
+     We invite you to watch a short TEDx talk that explores how major change can happen through small, repeatable habits.  
+     As you watch, **think about how this concept applies to digital acquisition in your agency.**  
+     What’s one tiny change you could lead that might snowball into something bigger?
 
-     * **Step 2 : Guided Reflection (5 min)**  
-       **Reflect on:**  
-       1. How do small changes lead to big results?  
-       2. What “tiny” changes could you start with?  
-       3. How can you build trust through early wins?
+   * **Step 2: Guided Reflection (5 min)**  
+     **Reflect on:**  
+     1. How do small changes lead to big results?  
+     2. What “tiny” changes could you start with?  
+     3. How can you build trust through early wins?  
 
-       Pause for participants to jot down one small change to try out. 
+     Pause for participants to jot down one small change to try out.  
+     - Participants can put their thoughts in a shared Google doc (or similar), or each in their own notes if tech is limited.
 
-       Participants put their thoughts in a shared Google doc or similar, or each in their own notes if you’re lacking tech.
+   * **Step 3: Optional Breakout Discussion (10–15 min)**  
+     Groups of 3–4 people discuss:  
+     1. One small change they’re considering  
+     2. What barriers they might face  
+     3. How they might build support or momentum  
 
-       
+     Encourage participants to listen for overlaps or patterns.
 
-    * **Step 3: Optional Breakout Discussion (10-15 min)**  
-        3-4 people per group  
-        1. One small change they’re considering  
-        2. What barriers they might face  
-        3. How they might build support or momentum
+   * **Step 4: Share-Back & Close (5–10 min)**  
+     - One person from each group shares a key takeaway  
+     - Highlight any “tiny changes” that sparked ideas
 
-     Encourage them to listen for overlaps or patterns.
 
-    * **Step 4: Share-Back & Close (5-10 min)**  
-      One person from each group shares a key takeaway, especially any “tiny changes” that sparked ideas.
-
-    **Wrap up** with this message:
-
-  “Sustainable transformation in government doesn’t always start with a big, top-down initiative. Sometimes, it begins with a small, intentional action—something you can repeat, model, and build momentum around.”
+    **Wrap up** with this message: Sustainable transformation in government doesn’t always start with a big, top-down initiative. Sometimes, it begins with a small, intentional action, something you can repeat, model, and build momentum around.
 
 ---
 
