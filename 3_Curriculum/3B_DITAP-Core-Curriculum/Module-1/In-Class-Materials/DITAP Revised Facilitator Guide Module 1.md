@@ -177,7 +177,7 @@ Total time allocation: 5-10 min
 
 **Activity instructions**:  
 - Purpose: Participants can identify different types of data they use to perform their jobs. 
-- Expected Outcomes: Learners will be able to use data to gain insight, measure impact, and enhance performance.
+- Expected outcomes: Learners will be able to use data to gain insight, measure impact, and enhance performance.
 - Materials needed: 
     - None
 - Instructions for facilitator: 
@@ -238,7 +238,7 @@ Total time allocation: 5-10 min
 
 **Activity instructions**:  
 - Purpose: CI/CD is a key method for modern software deployments.
-- Expected Outcomes: Learners will be able to recognize when CI/CD is an appropriate solution based on its benefits and shortcomings applied to the scope required. 
+- Expected outcomes: Learners will be able to recognize when CI/CD is an appropriate solution based on its benefits and shortcomings applied to the scope required. 
 - Materials needed: 
     - None
 - Instructions for facilitator: 
