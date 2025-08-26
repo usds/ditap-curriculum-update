@@ -31,10 +31,10 @@ Facilitator(s): \[List Facilitator Names\]
 2. Discussion: Which Risk Has Tripped Up Your Procurements Most Often?
 3. Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session?  
 4. Activity: Poll 
-5. Discussion: Scenario Discussion
+5. Activity: Scenario Discussion
 6. Activity: Poll
 7. Discussion: Improving collaboration on a multi-vendor effort
-8. Discussion: Scenario Discussion
+8. Activity: Scenario Discussion
 9. Activity: Drafting a Statement of Objectives (SOO) for Agile Services  
 10. Discussion: Outcome-based vs personnel \- focused criteria 
 11. Discussion: Applying AI Data Analysis to Acquisition Planning
@@ -105,10 +105,10 @@ This session builds on prior learning from Module 2, and prepares learners for u
 | 2  | Discussion: Which risk has tripped up your past procurements most often?                               | 1        | 10                  |
 | 3  | Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session? | 1        | 10                  |
 | 4  | Activity: Poll                                                                                         | 1        | 5                   |
-| 5  | Scenario Discussion                                                                                    | 1        | 20                  |
+| 5  | Activity: Scenario Discussion                                                                          | 1        | 20                  |
 | 6  | Activity: Poll                                                                                         | 1        | 10                  |
 | 7  | Discussion: Improving collaboration on a multi-vendor effort                                           | 1        | 10                  |
-| 8  | Scenario Discussion                                                                                    | 1        | 20-30               |
+| 8  | Activity: Scenario Discussion                                                                          | 1        | 20-30               |
 | 9  | Activity: Drafting a Statement of Objectives (SOO) for Agile Services                                  | 2        | 30-45               |
 | 10 | Activity: Outcome-based vs personnel-focused criteria                                                  | 2        | 15                  |
 | 11 | Discussion: Applying AI Data Analysis to Acquisition Planning                                          | 2        | 10                  |
@@ -295,7 +295,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 ---
 
-8. ### Discussion: Scenario Discussion
+8. ### Activity: Scenario Discussion
 
    Total Time Allocation: 20-30 min
 
