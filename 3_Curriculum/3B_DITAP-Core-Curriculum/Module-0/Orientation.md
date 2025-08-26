@@ -1,10 +1,10 @@
-# Module 0 Sprint 0 - this is a test
+# Module 0 Sprint 0
 
-## DITAP Course: What to Expect, How to Navigate
+# DITAP Course: What to Expect, How to Navigate
 
-### Introduction to DITAP
+## Introduction to DITAP
 
-### Program overview  
+## Program overview  
   * Certification  
     * The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
   * Requirement  
@@ -44,7 +44,7 @@
 
 ### Orientation to LMS
 
-**Orientation to the LMS (for Course Providers)**
+**Orientation to the LMS (for course providers)**
 
 Please include a brief orientation to your LMS as part of the course introduction. This section should be tailored to your specific Learning Management System (LMS) and help learners feel comfortable navigating the system.
 
