@@ -386,7 +386,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
     #### Activity Instructions:
 
-* **Purpose**: to apply what they have learned with respect to key personnel standards  
+* **Purpose**: To apply what they have learned with respect to key personnel standards  
 * **Expected Outcomes:** Learners will be able to refine their approach to KP in real-world situations establishing outcome-based criteria  
 * **Materials Needed (specific to activity):** None  
 * **Instructions:**   
@@ -436,7 +436,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
     #### Activity Instructions:
 
-* **Purpose:** to practice using the trade-off matrices to help clarify priorities  
+* **Purpose:** To practice using the trade-off matrices to help clarify priorities  
 * **Expected Outcomes**: Learners will be able to develop rationales for using either of the matrices and use that knowledge to apply a matrix to their capstone project.   
 * **Materials Needed:**   
   * Breakout rooms or digital equivalent  
@@ -457,7 +457,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
     #### Activity Instructions:
 
-* **Purpose:** to share their concerns about debriefs with the group  
+* **Purpose:** To share their concerns about debriefs with the group  
 * **Expected Outcomes**: Learners will find out what their and their peers’ concerns are about debriefs at this point in the training.   
 * **Materials Needed:**   
   * Zoom Polling  
@@ -477,7 +477,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
     #### Activity Instructions:
 
-* **Purpose:** do a sensitive and thorough debrief with stakeholders.  
+* **Purpose:** Conduct a sensitive and thorough debrief with stakeholders.  
 * **Expected Outcomes:** Learners will know how to skillfully conduct a debriefing session, including setting the right tone, getting vendor feedback, and sum up with a closing statement.  
 * **Materials Needed:**   
   * Slide with the three questions  
