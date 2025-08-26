@@ -28,7 +28,7 @@
     - [Why continuous integration and continuous delivery (CI/CD)?](#nine)
     - [What role does a Software Bill of Materials (SBOM) play in managing risk?](#ten)
     - [Proprietary vs. Open-Source Software](#eleven)
-    - [Build- a-Digital-Service Workshop](#twelve)
+    - [Build-a-Digital-Service Workshop](#twelve)
     - [Deciding the best way to use (or not use) cloud](#thirteen)
     - [Preventing misunderstandings in a shared responsibility model](#fourteen)
     - [How can we encourage modular or hybrid cloud strategies?](#fifteen)
@@ -105,7 +105,7 @@ Total time allocation: 5 min
 - Materials needed: 
     - Whiteboard & markers or digital sharing interface (optional)
 - Instructions for facilitator: 
-    - Pose the question to participants and listen to the discussion
+    - Pose the question to participants and listen to the discussion.
 
 **Group discussion: Consideration of user needs<a name="two"></a>**
 
@@ -115,7 +115,7 @@ Total time allocation: 10 minutes
 - Purpose: This discussion sets the stage for understanding why this work matters.
 - Expected outcomes: Learners will gain a clear understanding of how and why user needs must be at the forefront of a project.
 - Materials needed: 
-    - Whiteboard & markers  or digital sharing interface (optional)
+    - Whiteboard & markers or digital sharing interface (optional)
 - Instructions for facilitator: 
     - Introduce the activity
         - Let’s reflect. Think about examples where agencies or companies focused on users—and where they didn’t. What were the outcomes? This sets the stage for understanding why this work matters.
@@ -127,7 +127,7 @@ Total time allocation: 10 minutes
 Total time allocation: 10 min
 
 **Activity instructions**:  
-- Purpose: Participants are required to think specifically about how to  communicate the key elements that support their users’ needs. 
+- Purpose: Participants are required to think specifically about how to communicate the key elements that support their users’ needs. 
 - Expected outcomes: Learners will be able to prioritize users’ needs when delivering a product or service.
 - Materials needed: 
     - Whiteboard and markers or digital sharing interface (optional) 
@@ -142,11 +142,11 @@ Total time allocation: 25 min
 
 **Activity instructions**:  
 - Purpose: To understand the benefits of agile
-- Expected outcomes: Learners will be able to articulate the benefits of agile and where it could benefit their work
+- Expected outcomes: Learners will be able to articulate the benefits of agile and where it could benefit their work.
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) 
+    - Introduce the activity (what is it and why)
          - Prompt: Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
         - Follow-up prompts (for facilitation):
             - What barriers would have made agile adoption difficult?
@@ -158,13 +158,13 @@ Total time allocation: 25 min
 Total time allocation: 45-60 min
 
 **Activity instructions**:  
-- Purpose: Participants think in sprints and what tasks to accomplish
+- Purpose: Participants think in sprints and what tasks to accomplish.
 - Expected outcomes: Participants will develop a structured backlog for each sprint. 
 - Materials needed: 
     - Breakout rooms 
     - Whiteboard and markers, or digital sharing interface
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+    - Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
         - Prompt: Use a fictional case study (e.g., a federal agency project) to create a sample sprint backlog, breaking it into user stories. You will work in groups to prioritize tasks and plan the sprint.
         - Follow-up prompts:
             - What barriers would have made agile adoption difficult?
@@ -181,7 +181,7 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+    - Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
         - Prompt: Can anyone give an example of a type of data you use every day in your job?
 
 _Facilitator themes to look for_:
@@ -198,16 +198,16 @@ Total time allocation: 10 min
 
 **Activity instructions**:  
 - Purpose: Learners will apply critical thinking and develop evaluative habits when reviewing technical proposals, specifically through the lens of data.
-- Expected outcomes: Learners will be able to ask informed questions based on the correct criteria 
+- Expected outcomes: Learners will be able to ask informed questions based on the correct criteria. 
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
-        - Prompt:  What’s one question about data you could ask the next time you're reviewing a tech proposal?
+    - Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
+        - Prompt: What’s one question about data you could ask the next time you're reviewing a tech proposal?
 
 _Facilitator themes to look for_:
-- How will data be stored, accessed, and shared?
-- Who owns the data (vendor vs. agency)?
+- How data will be stored, accessed, and shared\
+- Participants identified the data owner (vendor vs. agency)
 - Data interoperability and portability
 - Compliance with data standards (e.g., metadata tagging, privacy rules)
 - Use of analytics or dashboards for monitoring
@@ -218,12 +218,12 @@ _Facilitator themes to look for_:
 Total time allocation: 5-10 min
 
 **Activity instructions**:  
-- Purpose: Participants can explain the advantages and challenges of an agile approach to contracting officers
+- Purpose: Participants can explain the advantages and challenges of an agile approach to contracting officers.
 - Expected outcomes: Participants and contracting officers share an understanding of the pros and cons of agile development methods.
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Prompt:  What benefits and challenges might agile development methods present to contracting officers?
+    - Prompt: What benefits and challenges might agile development methods present to contracting officers?
 
 _Facilitator themes to look for_:
 - Flexibility vs. scope definition tension
@@ -242,8 +242,8 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
-        - Prompt:  Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments? 
+    - Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
+        - Prompt: Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments? 
 
 **Group discussion: What role does a Software Bill of Materials (SBOM) play in managing risk<a name="ten"></a>**? 
 
@@ -255,8 +255,8 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
-        - Prompt:  What role does a Software Bill of Materials (SBOM) play in managing risk?
+    - Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
+        - Prompt: What role does a Software Bill of Materials (SBOM) play in managing risk?
 
 _Facilitor themes to look for_:
 - Supply chain transparency
@@ -290,7 +290,7 @@ Groups will create a new government digital service to help a specific user grou
 Total time allocation: 60-90 min
 
 **Activity instructions**:  
-- Purpose: Participants will
+- Purpose: Participants will:
     - Apply user-centered design principles to a real-world digital service challenge
     - Integrate accessibility, feedback loops, and iterative delivery
     - Make informed procurement decisions aligned with modern acquisition practices
@@ -301,7 +301,7 @@ Total time allocation: 60-90 min
     - Whiteboard & markers or digital sharing interface
 - Instructions for facilitator: 
     - Explain the challenge. (group work time 30 min) Their goal is to sketch out a high-level concept for the service, addressing the points listed below. Note they will have specific deliverables and will do group presentations at the end of the activity.
-        - Tip: Teams don’t need to create real visuals—stick figures and bullet points are just fine if it gets the concept across
+        - Tip: Teams don’t need to create real visuals—stick figures and bullet points are just fine if it gets the concept across.
     - Send groups to their breakouts.
         - Roles within each group (optional):
             - Facilitator: keeps team on track
@@ -331,29 +331,29 @@ _Facilitator should spotlight_:
 - Creative ways teams enabled feedback loops
 - Cross-role thinking (tech, design, acquisition, compliance)
 
-Debrief and Discussion (5-10 min) 
+Debrief and discussion (5-10 min) 
 - Prompts: 
     - What stood out in how teams approached user needs?
     - What strategies did you see for managing feedback and iteration?
     - What procurement decisions helped support flexibility or continuous delivery?
     - What felt challenging or unclear in applying these concepts? 
         - Bonus: ask COs/CORs what they'd need in a real contract to support what the teams proposed.
-- Optional Extensions
-    - Use a scoring rubric for peer voting or reflection (e.g., “most user-friendly,” “best accessibility plan,” “best integration of CO decisions”)
-    - Ask teams to submit final slides or sketches to a shared folder or LMS
-    - Invite SMEs or guest reviewers to provide light feedback or discussion points
+- Optional extensions
+    - Use a scoring rubric for peer voting or reflection (e.g., “most user-friendly,” “best accessibility plan,” “best integration of CO decisions”).
+    - Ask teams to submit final slides or sketches to a shared folder or LMS.
+    - Invite SMEs or guest reviewers to provide light feedback or discussion points.
 
 **Group discussion: Deciding the best way to use (or not use) cloud to support your mission<a name="thirteen"></a>**?
 
 Total time allocation: 5-10 min
 
 **Activity instructions**:  
-- Purpose: Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient.  
-- Expected outcomes: Learners will be able to discern appropriate situations for using cloud services.  
+- Purpose: Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient. 
+- Expected outcomes: Learners will be able to discern appropriate situations for using cloud services. 
 - Materials needed: 
     - Whiteboard & markers or digital sharing interface
 - Instructions for facilitator: 
-    - Prompt:  How can your agency decide the best way to use (or not use) cloud to support your mission?
+    - Prompt: How can your agency decide the best way to use (or not use) cloud to support your mission?
 
 _Facilitator themes to look for_:
 - Mission-critical needs vs. scalability
@@ -395,7 +395,7 @@ Total time allocation: 5-10 min
 
 _Facilitator themes to look for_:
 - Building in flexibility and portability in architecture
-- Use of interface standards and microservices
+- Using interface standards and microservices
 - Encouraging vendor collaboration across silos
 - Balance between "future-proofing" and current needs
 - Structuring contracts for interoperability and scalability
@@ -410,7 +410,7 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Prompt:  What kind of procurement decisions do you think shouldn’t be made by AI? Why?
+    - Prompt: What kind of procurement decisions do you think shouldn’t be made by AI? Why?
 
 _Facilitator themes to look for_:
 - Source selection or technical evaulations (bias risk)
@@ -424,12 +424,12 @@ _Facilitator themes to look for_:
 Total time allocation: 5-10 min
 
 **Activity instructions**:  
-- Purpose: Learners will be able to ask key questions that will help ensure proper application of machine learning
+- Purpose: Learners will be able to ask key questions that will help ensure proper application of machine learning.
 - Expected outcomes: Learners will be able to recognize and probe for the reasons a vendor would use machine learning for their project.
 - Materials needed: 
     - None
-- Instructions for facilitator:  
-    - Prompt:  If a vendor says their tool uses “machine learning,” what’s one question you’d ask before moving forward?
+- Instructions for facilitator: 
+    - Prompt: If a vendor says their tool uses “machine learning,” what’s one question you’d ask before moving forward?
 
 _Facilitator themes to look for_:
 - What data is used to train the model?
@@ -447,17 +447,17 @@ Total time allocation: 25-30 min
     - Build awareness of common AI use cases in government
     - Explore ethical and operational considerations in AI procurement
     - Practice applying judgment to ambiguous or emerging tech situations
-    - Expected outcomes:  Learners will be able to make informed choices on whether or not to use AI.  
+- Expected outcomes: Learners will be able to make informed choices on whether or not to use AI.  
 - Materials needed: 
     - Slide deck with 3–5 brief AI use case prompts
     - Optional virtual polling tool (Zoom reactions, Mentimeter, etc.)
     - Flipchart or shared digital notes for capturing key insights
     - Optional Padlet/Sticky Notes for participants to write what conditions they’d set before procuring
-- Instructions for facilitator:  Set the stage. (3 min)
+- Instructions for facilitator: Set the stage. (3 min)
     - Introduce the activity as a rapid decision-making game.
         - Explain: “You’ll see a series of short AI use cases. For each, we’ll ask: Would you procure it? What conditions or questions would you raise?”
         - Emphasize that there’s no single correct answer, but the goal is to surface different perspectives.
-    - Prompts:  Present a Use Case (3-4 min each)
+    - Prompts: Present a Use Case (3-4 min each)
         - Show 1 use case per slide (see examples below).
         - Ask participants to vote (show of hands, emoji reactions, or polling): Procure or Pass?
     - Follow up with open questions to spark dialogue:
@@ -475,7 +475,8 @@ Total time allocation: 25-30 min
     - Reinforce: “As contracting professionals, we don’t just buy tech—we shape how it’s used.”
 
 ### Sample use cases
-**Use case 1**:  A vendor proposes an AI auto-scoring tool to evaluate and rank RFP responses based on pre-trained relevance criteria.  - Prompt: Would you procure or pass? What ethical questions arise around data inputs and use?
+**Use case 1**: A vendor proposes an AI auto-scoring tool to evaluate and rank RFP responses based on pre-trained relevance criteria.  
+- Prompt: Would you procure or pass? What ethical questions arise around data inputs and use?
 - Follow up with open questions to spark dialogue:
     - What’s promising about this use case?
     - What are your red flags?
@@ -484,7 +485,7 @@ Total time allocation: 25-30 min
 **Use case 2**: A chatbot answers incoming FOIA requests by pulling from previous, public disclosures.
 - Prompt: Would you procure or pass? What ethical questions arise around data inputs and use?
 - Follow up with open questions to spark dialogue:
-    -  What’s promising about this use case?
+    - What’s promising about this use case?
     - What are your red flags?
     - What guardrails or contract language would you want in place?
 
@@ -519,7 +520,7 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Prompt:  Have you seen a procurement where security expectations weren’t clearly defined? What happened?
+    - Prompt: Have you seen a procurement where security expectations weren’t clearly defined? What happened?
 
 _Facilitator themes to look for_:
 - Vendor confusion or delays
@@ -533,12 +534,12 @@ _Facilitator themes to look for_:
 Total time allocation: 5-10 min
 
 **Activity instructions**:  
-- Purpose:Apply what they've learned about security risks and procurement. 
+- Purpose: Apply what they've learned about security risks and procurement. 
 - Expected outcomes: Learners will be able to generate relevant, security-focused questions to ask during market research that help identify and mitigate risks early in the acquisition process.
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Prompt:  What’s one question a CO could ask during market research to surface security risks early?
+    - Prompt: What’s one question a CO could ask during market research to surface security risks early?
 
 _Facilitator themes to look for_:
 - What frameworks or controls does the solution comply with (e.g., FedRAMP, NIST)?
@@ -573,11 +574,11 @@ _Facilitator themes to look for_:
     - Understanding that compliance differs by system type (e.g., public-facing app vs. internal system)
     - Integration of security controls into evaluation criteria or SOW
     - Recognition of the CISP or security team's role in validating feasibility  
-- Indetify and Access Managements (IAM)
+- Identify and Access Managements (IAM)
     - Awareness that IAM is critical to prevent unauthorized access
     - Emphasis on integration requirements as early contract conditions
     -   CO understanding that improper IAM alignment can lead to security gaps or deployment delays
-    -   Recongition of IAM as a shared responsibility
+    -   Recognition of IAM as a shared responsibility
 - Vulnerability management
     - Differentiating patching from broader vulnerability management practices
     - Importance of timely remediation and continuous monitoring
@@ -585,7 +586,7 @@ _Facilitator themes to look for_:
     - Linking this area to contractor performance requirements or QASP 
 - SIEM integration
     - Understanding of SIEM as central to threat detection
-    - Risk awareness of orphaed tools (e.g., systems not connected to centralized monitoring)
+    - Risk awareness of orphaned tools (e.g., systems not connected to centralized monitoring)
     - COs considering integration requirements during solicitation planning
     - Clear communication expectations in incident response scenarios
 
@@ -599,11 +600,11 @@ Total time allocation: 5-10 min
 - Materials needed: 
     - None
 - Instructions for facilitator: 
-    - Prompt:  What’s one thing you can do in your next contract to strengthen cybersecurity expectations?
+    - Prompt: What’s one thing you can do in your next contract to strengthen cybersecurity expectations?
 
 _Facilitator themes to look for_:
 - Require integration with agency IAM/SIEM
-- Deffine patching and vulnerability management processes
+- Define patching and vulnerability management processes
 - Reference federal standards explicitly (e.g., NIST 800-53)
 - Include performance metrics tied to security practices
 - Build in security testing and validation checkpoints
@@ -611,19 +612,19 @@ _Facilitator themes to look for_:
 
 ## Facilitation notes and best practices<a name="Facilitation-Notes-and-Best-Practices"></a>
 - Facilitator tips:
-    - Suggestions for engaging participants.
-    - Strategies for handling challenging questions or discussions.
+    - Suggestions for engaging participants
+    - Strategies for handling challenging questions or discussions
     - Example: Encourage active participation; redirect discussions to stay on topic.
 - Time management notes:
-    - Reminders to keep track of time.
-    - Contingency plans for running short or long on time.
+    - Reminders to keep track of time
+    - Contingency plans for running short or long on time
 - Technology instructions:
-    - Specific instructions for using any technology during the module (e.g., LMS, virtual meeting tools).
-    - Troubleshooting tips.
+    - Specific instructions for using any technology during the module (e.g., LMS, virtual meeting tools)
+    - Troubleshooting tips
     
 ## Assessment and wrap-up<a name="Assessment-and-wrap-up"></a>
 - Knowledge checks/assessments:
-    -  Instructions on how to administer any quizzes, polls, or activities designed to assess learning.
+    - ƒInstructions on how to administer any quizzes, polls, or activities designed to assess learning.
 - Review of learning objectives:
     - Revisit the learning objectives and ensure they were met.
 - Q&A:
