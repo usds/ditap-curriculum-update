@@ -1,6 +1,6 @@
 # DITAP In-Class Facilitator Guide
 
-*Revised July 2025*
+*Updated July 2025*
 
 ## Module 5 - Leading Change
 
