@@ -203,7 +203,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
 ---
 
-### Activity: Poll
+4. ### Activity: Poll
 
    Total Time Allocation: 5 min
 
@@ -219,41 +219,48 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
 ---
 
-5. ### Discussion: Scenario Discussion
+5. ### Activity: Scenario Discussion
 
    Total Time Allocation: 20 min
    
    #### Activity Instructions:
    
-**Purpose**:  To identify key questions about limited data rights and proprietary encryption that they should ask when acquiring a new cloud-based platform.  
-**Expected Outcomes**: Learners will be able to identify:  
-* Legal risks  
-* Data access concerns  
-* Licensing red flags  
-* Questions for legal or COR  
-  **Materials Needed** (specific to activity):   
-* Zoom breakouts (if needed)  
-  **Instructions**:  Breakouts or whole-group discussion 20 min total (10 \+ 10\)  
-  Facilitator: Themes to look for:   
-* **Government Access & Ownership of Data**  
-  1. **Theme**: Who owns the data, and how can the government access and use it?  
-* **Licensing & Intellectual Property (IP) Risks**  
-  1. **Theme**: Are the licensing terms overly restrictive or ambiguous?  
-* **Proprietary Encryption or Technology Lock-In**  
-  1. **Theme**: Is the vendor using technology that prevents interoperability or creates dependency?  
-* **Data Security & Compliance Obligations**  
-  1. **Theme**: Does the vendor’s approach meet federal data security standards?  
-* **Legal & Contractual Clarity**  
-  1. **Theme**: Is legal involved early enough? Are terms clearly defined?  
-* **Roles & Stakeholders**  
-  1. **Theme**: Who else should be involved in risk mitigation?
+* **Purpose:** To identify key questions about limited data rights and proprietary encryption that learners should ask when acquiring a new cloud-based platform.
 
-  **Bonus: Stretch Thinking**  
-     Facilitator can also encourage learners to go beyond compliance and think strategically:
+* **Expected Outcomes:** Learners will be able to identify:  
+   - Legal risks  
+   - Data access concerns  
+   - Licensing red flags  
+   - Questions for legal or COR  
 
-* How can we future-proof this acquisition?  
-* Should we include data portability or exit strategy clauses?  
-* Can we negotiate rights to use the platform IP in other government contexts?
+* **Materials Needed (specific to activity):**  
+   - Zoom breakouts (if needed)  
+
+* **Instructions:**  
+Breakouts or whole-group discussion – 20 minutes total (10 + 10) 
+* **Prompt:**
+Your agency is procuring a new cloud-based platform. The vendor offers limited data rights and proprietary encryption. What questions would you raise before award?
+
+### Facilitator Themes / Notes
+
+| Theme to Look For | Facilitator Notes / Key Points |
+| :---- | :---------------------------- |
+| Government Access & Ownership of Data | Who owns the data, and how can the government access and use it? |
+| Licensing & Intellectual Property (IP) Risks | Are the licensing terms overly restrictive or ambiguous? |
+| Proprietary Encryption or Technology Lock-In | Is the vendor using technology that prevents interoperability or creates dependency? |
+| Data Security & Compliance Obligations | Does the vendor’s approach meet federal data security standards? |
+| Legal & Contractual Clarity | Is legal involved early enough? Are terms clearly defined? |
+| Roles & Stakeholders | Who else should be involved in risk mitigation? |
+
+---
+
+### Bonus: Stretch Thinking
+
+Facilitator can encourage learners to go beyond compliance and think strategically:  
+- How can we future-proof this acquisition?  
+- Should we include data portability or exit strategy clauses?  
+- Can we negotiate rights to use the platform IP in other government contexts?
+
 
 ---
 
@@ -268,8 +275,8 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Materials Needed** (specific to activity):   
   * Zoom polling   
 * **Instructions**:  
-  Facilitator:  *How many of you have worked on a contract with multiple vendors before?*  
-  * Whole group discussion
+* Facilitator:  *How many of you have worked on a contract with multiple vendors before?*  
+* Whole group discussion
 
 ---
 
@@ -286,6 +293,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * Facilitator: *What one thing could you do to improve collaboration on your next multi-vendor effort?*
 * Whole-group discussion
 
+---
 
 8. ### Discussion: Scenario Discussion
 
@@ -297,17 +305,18 @@ This session builds on prior learning from Module 2, and prepares learners for u
 * **Expected Outcomes**: Learners will be able to apply these concepts more broadly in real world situations, ensuring fairness, equity, and support for matching vendors to your project.  
 * **Materials Needed** (specific to activity):   
   * Breakout spaces  
-* **Instructions**: Small groups discussion (10-15 min), the report out (10-15 min)  
-  * Facilitator: *This scenario helps learners apply the fairness and equity concepts. What structural changes could lead to more competition?*  
+* **Instructions**: Small groups discussion (10-15 min), then report out (10-15 min)  
+* Facilitator: *This scenario helps learners apply the fairness and equity concepts. What structural changes could lead to more competition?*  
   
 | # | Expected Participant Responses                       | Listen For                                                                                                                              | Facilitator Insight                                                                                                                                              |
 | - | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Overly Complex Task Order Requirements**           | \* "The RFP was too long/technical/dense." <br> \* "The instructions were unclear or burdensome."                                       | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
-| 2 | **Misalignment with Vendor Capabilities**            | \* "The scope didn't match vendor strengths." <br> \* "We required past performance in a narrow niche."                                 | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
-| 3 | **Unrealistic Timelines**                            | \* "The response window was too short." <br> \* "We dropped the task order around a holiday or at fiscal year-end."                     | Compressed timelines can exclude smaller vendors without dedicated proposal teams.                                                                               |
-| 4 | **Lack of Market Awareness or Engagement**           | \* "We didn’t host a Q\&A session or industry day." <br> \* "There was no prior market research or vendor engagement."                  | Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.                                         |
-| 5 | **Overly Restrictive or Biased Evaluation Criteria** | \* "The criteria required very specific past government experience." <br> \* "There were hidden preferences for an incumbent solution." | Encourage participants to reframe evaluation criteria around capability and potential, not just history.                                                         |
-| 6 | **Lack of Transparency or Trust in the Process**     | \* "Some vendors felt the same vendors always win." <br> \* "We never share debriefs or redacted winning proposals."                    | Transparency builds trust. Silence or opacity discourages future participation.                                                                                  |
+| 1 | **Overly Complex Task Order Requirements**           | - "The RFP was too long/technical/dense."<br>- "The instructions were unclear or burdensome."                                         | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
+| 2 | **Misalignment with Vendor Capabilities**            | - "The scope didn't match vendor strengths."<br>- "We required past performance in a narrow niche."                                     | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
+| 3 | **Unrealistic Timelines**                            | - "The response window was too short."<br>- "We dropped the task order around a holiday or at fiscal year-end."                         | Compressed timelines can exclude smaller vendors without dedicated proposal teams.                                                                               |
+| 4 | **Lack of Market Awareness or Engagement**           | - "We didn’t host a Q&A session or industry day."<br>- "There was no prior market research or vendor engagement."                        | Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.                                         |
+| 5 | **Overly Restrictive or Biased Evaluation Criteria** | - "The criteria required very specific past government experience."<br>- "There were hidden preferences for an incumbent solution."     | Encourage participants to reframe evaluation criteria around capability and potential, not just history.                                                         |
+| 6 | **Lack of Transparency or Trust in the Process**     | - "Some vendors felt the same vendors always win."<br>- "We never share debriefs or redacted winning proposals."                        | Transparency builds trust. Silence or opacity discourages future participation.                                                                                   |
+                                                                      
 
 
 **Facilitator Tips for Probing Further**
@@ -346,7 +355,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
    Your agency needs a new platform for tracking and managing stakeholder engagement across multiple programs. The current solution is outdated, with poor user experience and no mobile support. You want a cloud-based solution built iteratively using Agile methods, with a strong focus on usability, accessibility, and performance.
 
-   * Each group drafts a quick SOO for agile services (using the [template](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) that includes:   
+   * Each group drafts a quick SOO for agile services using the [template](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) that includes:   
      * **Background:** Why the project is needed  
      * **Scope:** High-level overview of the desired work  
      * **Objectives:** Desired outcomes (not tasks)  
@@ -454,11 +463,11 @@ This session builds on prior learning from Module 2, and prepares learners for u
   * Zoom Polling  
 * **Instructions:**   
   Facilitator asks the team: “What’s your biggest concern about debriefs?”   
-  Learners pick their answer from   
-1. Saying too much  
-2. Saying too little  
-3. Not knowing what’s allowed  
-4. Time constraints  
+  Learners pick their answer from:    
+      1. Saying too much  
+      2. Saying too little  
+      3. Not knowing what’s allowed  
+      4. Time constraints  
    
 ---
 
@@ -475,10 +484,8 @@ This session builds on prior learning from Module 2, and prepares learners for u
   * Whiteboard or digital equivalent  
 * **Instructions:**  
   Break into groups of 3-5 people  
-  * **Introduction**: Present the scenario verbally or on a slide. Emphasize the *relational* role of debriefs — not just compliance.   
-    Ask:
-
-"Has anyone experienced a debrief like this?"
+  * **Introduction**: Present the scenario verbally or on a slide. Emphasize the *relational* role of debriefs, not just compliance.   
+    Ask: "Has anyone experienced a debrief like this?"
 
 * **Small Group (15 min)**:   
   *Use 1 slide with the three questions*  
