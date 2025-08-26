@@ -1,10 +1,10 @@
 # LDA Phase 1: Discovery Sprint Simulation (Weeks 2–6, Module 2 Sprints 1 & 4\)
 
-## Phase 1: Discovery Sprint Simulation (Weeks 2–6, Module 2 Sprints 1 & 4\)
+## Phase 1: Discovery sprint simulation (Weeks 2–6, Module 2 Sprints 1 & 4\)
 
 The objective of Phase 1 is to introduce participants to human-centered problem scoping utilizing the Discovery Sprint model. This phase simulates how agencies and vendors define problems before writing solicitations, with a strong emphasis on stakeholder engagement, constraint analysis, and opportunity identification. Key learning outcomes include human-centered discovery and framing. This phase commences with the identification and approval of an appropriate product in Module 2, Sprint 1, culminating in a Sprint Report deliverable in Module 2, Sprint 4\.
 
-### Facilitator Guide:
+### Facilitator guide:
 
 Facilitators begin by forming teams of 4 to 5 participants. A crucial aspect of this phase involves guiding teams on the specific characteristics of a recent (within 2–3 years) digital service project suitable for analysis. This guidance must explicitly connect to the types of projects that can generate the Vendor Case Study-aligned artifacts required for Phase 2\. Facilitators should emphasize the importance of identifying projects where user research was demonstrably conducted and where a clear, iterative change was implemented based on that research.
 
@@ -14,7 +14,7 @@ Teams are encouraged to conduct outreach to real digital service companies or ag
 
 Team Deliverables: Each team is required to submit a 3-page Discovery Summary. This document must include a background and problem framing, identification of stakeholders, research and insights, and a discussion of pain points and opportunities. This deliverable is also referred to as a Sprint Report.
 
-### Phase 1 Facilitator Checklist & Key Prompts
+### Phase 1 facilitator checklist & key prompts
 
 | Task | Key Prompts/Considerations |
 | :---- | :---- |

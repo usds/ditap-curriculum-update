@@ -3,10 +3,10 @@ _Module 1, Sprint 2_
 
 - **Time**: 45–60 minutes 
 - **Audience**: Federal procurement professionals (1102s) learning Agile & HCD 
-- **Activity Type**: Small-group breakout + share-out 
+- **Activity type**: Small-group breakout + share-out 
 - **Goal**: Practice writing user stories and building a prioritized Sprint Backlog based on a realistic digital services project.
 
-## Scenario: Improving Disaster Assistance Request Portal
+## Scenario: Improving disaster assistance request portal
 The fictional **Federal Emergency Solutions Agency (FESA)** is launching a new digital portal to help citizens request disaster assistance after major storms, floods, or fires.
 
 FESA’s current form-based system is slow, hard to use on mobile, and often results in incomplete applications. The new system must support:
@@ -25,14 +25,14 @@ FESA wants to release a **Minimum Viable Product (MVP)** in 2 months. Your cross
 - Markers, sticky notes, or shared digital whiteboard (e.g., Miro, Jamboard, Google Slides)
 - Scenario brief (above)
 
-## Instructions (Facilitator-led)
-⏱️ **0–10 min: Intro & Setup**
+## Instructions (facilitator-led)
+⏱️ **0–10 min: Intro & setup**
 - Briefly review what a Sprint Backlog is:
     - A prioritized list of tasks or user stories the team commits to completing in a sprint.
 - Introduce the scenario and templates.
 - Form groups of 3–5 participants. 
 
-⏱️ **10–35 min: Group Work**
+⏱️ **10–35 min: Group work**
 
 Each team will:
 - Identify 3–5 user roles (e.g., “disaster survivor,” “FESA caseworker,” “accessibility reviewer”).
@@ -46,7 +46,7 @@ Encourage teams to consider Agile and HCD principles:
 - What can they validate early through feedback?
 - Are stories accessible and user-centered? 
 
-⏱️ **35–50 min: Share-Out**
+⏱️ **35–50 min: Share-out**
 
 Each group presents:
 - 2–3 key user stories
@@ -59,7 +59,7 @@ Each group presents:
 - How did thinking in user stories shift your perspective from traditional requirements?
 - How could procurement shape a contract to allow this kind of work? 
 
-## Learning Objectives
+## Learning objectives
 By the end of this activity, learners will be able to:
 - Translate project goals into user-centered backlog items
 - Understand how to prioritize work for a sprint
@@ -69,7 +69,7 @@ By the end of this activity, learners will be able to:
 ___________________________________________
 
 
-### User Story Template
+### User story template
 Structure: As a **[role]**, I want **[functionality]** so that **[goal]**.
 - Role: Who is the functionality for?
 - Functionality: What do you want it to do?
@@ -78,7 +78,7 @@ Structure: As a **[role]**, I want **[functionality]** so that **[goal]**.
 Example: 
 _As a **screen reader user**, I want to **navigate the form using a keyboard and screen reader** so that **I can apply independently**._
 
-### Sprint Backlog Worksheet 
+### Sprint backlog worksheet 
 - Priority: High / Medium / Low — based on user impact, dependencies, or MVP goals.
 - Estimated Effort: Use T-shirt sizing (S = small, M = medium, L = large) if the team is new to Agile.
 - Notes: Any considerations, dependencies, or technical constraints.
