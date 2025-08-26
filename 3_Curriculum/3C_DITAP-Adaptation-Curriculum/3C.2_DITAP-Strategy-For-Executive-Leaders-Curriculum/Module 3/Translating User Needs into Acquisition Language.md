@@ -11,25 +11,25 @@ This shift requires you to think like a venture capitalist rather than a purchas
 <img width="613" height="287" alt="the four strategic acquisition resposibilities" src="https://github.com/user-attachments/assets/1373f7f1-5646-4663-87a9-c931aa474974" />
 
 1. Define investment strategy
-    - Determine what capabilities you need to build vs. buy vs. partner for
-    - Set risk tolerance levels for different types of investments
-    - Establish a portfolio balance between proven approaches and innovation
-    - Create funding strategies that support iterative development
+    - Determine what capabilities you need to build vs. buy vs. partner for.
+    - Set risk tolerance levels for different types of investments.
+    - Establish a portfolio balance between proven approaches and innovation.
+    - Create funding strategies that support iterative development.
 2. Shape market engagement
-    - Influence industry toward government-compatible innovation
-    - Build a vendor ecosystem capable of delivering modern digital services
-    - Balance competition with collaboration for complex challenges
-    - Create market conditions that attract top talent and innovative companies
+    - Influence industry toward government-compatible innovation.
+    - Build a vendor ecosystem capable of delivering modern digital services.
+    - Balance competition with collaboration for complex challenges.
+    - Create market conditions that attract top talent and innovative companies.
 3. Enable organizational change
-    - Modify policies and processes that hinder effective acquisition
-    - Build internal capabilities for managing modern procurement approaches
-    - Create governance structures that support rather than obstruct innovation
-    - Align stakeholder incentives with mission outcomes rather than process compliance
+    - Modify policies and processes that hinder effective acquisition.
+    - Build internal capabilities for managing modern procurement approaches.
+    - Create governance structures that support rather than obstruct innovation.
+    - Align stakeholder incentives with mission outcomes rather than process compliance.
 4. Manage strategic risk
-    - Balance innovation risk with delivery risk and mission failure risk
-    - Create intelligent risk management that enables rather than prevents progress
-    - Establish decision-making frameworks for uncertain situations
-    - Build organizational learning capabilities that improve risk management over time
+    - Balance innovation risk with delivery risk and mission failure risk.
+    - Create intelligent risk management that enables rather than prevents progress.
+    - Establish decision-making frameworks for uncertain situations.
+    - Build organizational learning capabilities that improve risk management over time.
 
 ## The Executive Decision Framework for Acquisition
 When your teams bring you acquisition decisions, apply this strategic filter:
@@ -46,26 +46,26 @@ _Modern approach_: "Enable veterans to check claim status in under 60 seconds on
 The most effective digital services acquisitions focus on **outcomes over outputs**. This shift requires translating user stories into procurement language that preserves flexibility while ensuring accountability and transparency.
 
 **Four-step translation process**
-1. Discovery first: Conduct user research before writing requirements
-2. Problem definition: Focus on what needs to be solved, not how to solve it
-3. Outcome specification: Define success metrics that matter to users
-4. Flexible delivery: Choose contract vehicles that support iteration
+1. Discovery first: Conduct user research before writing requirements.
+2. Problem definition: Focus on what needs to be solved, not how to solve it.
+3. Outcome specification: Define success metrics that matter to users.
+4. Flexible delivery: Choose contract vehicles that support iteration.
 
 ## Enhanced Best Practices for Senior Leaders
 **Start with strategic alignment**
-- Connect user needs to agency mission outcomes
-- Establish clear success metrics before procurement begins
-- Involve program leadership in requirement definition
+- Connect user needs to agency mission outcomes.
+- Establish clear success metrics before procurement begins.
+- Involve program leadership in requirement definition.
 
 **Structure for agility**
-- Use modular contracting to reduce risk and enable learning
-- Build in user testing and feedback loops
-- Reserve 10-15% of the budget for iteration and refinement
+- Use modular contracting to reduce risk and enable learning.
+- Build in user testing and feedback loops.
+- Reserve 10-15% of the budget for iteration and refinement.
 
 **Enable cross-functional collaboration**
-- Include technical, legal, and mission stakeholders from day one
-- Establish decision-making authority and escalation paths
-- Create shared understanding through regular demos and reviews
+- Include technical, legal, and mission stakeholders from day one.
+- Establish decision-making authority and escalation paths.
+- Create shared understanding through regular demos and reviews.
 
 ## Real-World Application: User Story to Contract Language
 **User story**: "As a small business owner, I need to find relevant government contracts quickly so I can focus on my business instead of searching through complex databases."</br>
@@ -112,57 +112,57 @@ Use this canvas to structure your acquisition approach systematically:
 
 ## The Three-Horizon Acquisition Strategy
 **Horizon 1: Core operations (70% of resources)**
-- Maintain and improve existing systems that users depend on
-- Focus on reliability, security, and incremental improvement
-- Use proven vendors and established approaches
-- Measure success through operational metrics and user satisfaction
+- Maintain and improve existing systems that users depend on.
+- Focus on reliability, security, and incremental improvement.
+- Use proven vendors and established approaches.
+- Measure success through operational metrics and user satisfaction.
 
 **Horizon 2: Emerging capabilities (20% of resources)**
-- Develop new capabilities based on proven concepts from other contexts
-- Pilot innovative approaches with managed risk
-- Build internal capabilities for new procurement methods
-- Measure success through capability development and learning
+- Develop new capabilities based on proven concepts from other contexts.
+- Pilot innovative approaches with managed risk.
+- Build internal capabilities for new procurement methods.
+- Measure success through capability development and learning.
 
 **Horizon 3: Innovation investments (10% of resources)**
-- Experiment with cutting-edge approaches and technologies
-- Accept higher failure rates in exchange for breakthrough potential
-- Partner with innovative vendors and research institutions
-- Measure success through learning and future option value
+- Experiment with cutting-edge approaches and technologies.
+- Accept higher failure rates in exchange for breakthrough potential.
+- Partner with innovative vendors and research institutions.
+- Measure success through learning and future option value.
 
 ## Modular Acquisition Planning Framework 
 **Core platform strategy**
-- Define essential infrastructure and integration requirements
-- Establish API standards and data sharing protocols
-- Create a vendor-neutral foundation that supports multiple applications
-- Plan for long-term platform evolution and technology refresh
+- Define essential infrastructure and integration requirements.
+- Establish API standards and data sharing protocols.
+- Create a vendor-neutral foundation that supports multiple applications.
+- Plan for long-term platform evolution and technology refresh.
 
 **Application module strategy**
-- Break complex systems into independent, deliverable modules
-- Define clear interfaces and integration requirements between modules
-- Enable parallel development by multiple vendors
-- Create competitive pressure through module-based competition
+- Break complex systems into independent, deliverable modules.
+- Define clear interfaces and integration requirements between modules.
+- Enable parallel development by multiple vendors.
+- Create competitive pressure through module-based competition.
 
 **Integration and orchestration strategy**
-- Establish system integration requirements and standards
-- Define data governance and security protocols across modules
-- Plan for user experience consistency across different vendors
-- Create organizational capabilities for managing modular systems
+- Establish system integration requirements and standards.
+- Define data governance and security protocols across modules.
+- Plan for user experience consistency across different vendors.
+- Create organizational capabilities for managing modular systems.
  
 ## Agile Acquisition Governance Framework
 **Strategic oversight** (Executive level)
-- Quarterly reviews focused on mission outcomes and user value
-- Annual strategy adjustments based on learning and changing needs
-- Resource allocation decisions based on demonstrated value
-- Policy and process modifications to remove barriers
+- Quarterly reviews focused on mission outcomes and user value.
+- Annual strategy adjustments based on learning and changing needs.
+- Resource allocation decisions based on demonstrated value.
+- Policy and process modifications to remove barriers.
 
 **Product management** (Program level)
-- Weekly progress reviews focused on user feedback and iteration
-- Sprint planning and backlog prioritization based on user research
-- Vendor performance management focused on outcomes
-- Continuous stakeholder communication and expectation management
+- Weekly progress reviews focused on user feedback and iteration.
+- Sprint planning and backlog prioritization based on user research.
+- Vendor performance management focused on outcomes.
+- Continuous stakeholder communication and expectation management.
 
 **Operational management** (Team level)
-- Daily coordination between the government and vendor teams
-- Real-time quality assurance and user acceptance testing
-- Continuous integration and deployment of working software
-- Immediate issue resolution and course correction
+- Daily coordination between the government and vendor teams.
+- Real-time quality assurance and user acceptance testing.
+- Continuous integration and deployment of working software.
+- Immediate issue resolution and course correction.
