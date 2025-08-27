@@ -39,7 +39,7 @@ Selecting the right participants is essential to creating a dynamic learning env
 
 ### Minimum requirement
 
-All applicants must meet the official Digital Services Credential criteria for enrollment.
+For questions regarding minimum requirements and eligibility criteria, please refer to the "Who can enroll in the DITAP program?" section in the TechFarHub.
 
 ### Recommended screening process
 
