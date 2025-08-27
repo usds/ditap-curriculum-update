@@ -6,7 +6,8 @@
 
 This guidance provides a high-level overview of the Shadowing Assignment for vendors responsible for delivering the DITAP program. It outlines expectations for facilitators, assignment structure, key deliverables, and guidance for ensuring a consistent learner experience.
 
-The Shadowing Assignment requires participants to observe a digital services delivery team for at least four hours. The goal is to expose learners to modern practices such as agile workflows, user-centered design, and cross-functional collaboration in real-world settings. 
+The Shadowing Assignment requires participants to observe a digital services delivery team for at least four hours. The goal is to expose learners to modern practices such as agile workflows, user-centered design, and cross-functional collaboration in real-world settings. Vendors seeking shadowing opportunities shall first contact their respective agencies to identify appropriate points of contact; if additional support is required, contact the U.S. DOGE Service (USDS) for further assistance.
+
 
 Example shadowing opportunities include:
 
