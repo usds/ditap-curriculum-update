@@ -27,7 +27,7 @@ Facilitator(s): \[List Facilitator Names\]
 ### Module Activities
 
 1. Match each axiom to a challenge your team has experienced
-2. Self-Assessment
+2. Self-Assessment - Strategy Table in Practice
 3. Change & Innovation Readiness Survey
 4. Power Matrix: Stakeholder Mapping & Power Dynamics
 5. Optional Role Play Activity: Stakeholder Influence Challenge
@@ -65,7 +65,7 @@ This session builds on prior learning from Module 1, and prepares learners for u
 ### Required Materials
 
 - [ ] Module 2 slide deck  
-- [ ] [Maturity model handout](https://github.com/usds/ditap-curriculum-update/blob/0b12ff4e9cd1c95413ed4066aeb8693db6f49420/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Strategy%20Table%20in%20Practice.md)  
+- [ ] [Strategy Table in Practice](https://github.com/usds/ditap-curriculum-update/blob/0b12ff4e9cd1c95413ed4066aeb8693db6f49420/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Strategy%20Table%20in%20Practice.md)  
 - [ ] [Change & Innovation Readiness Survey](https://github.com/usds/ditap-curriculum-update/blob/0b12ff4e9cd1c95413ed4066aeb8693db6f49420/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Change%20and%20Innovation%20Readiness%20Survey%20-%20Module%202%20-%20in%20class.md)  
 - [ ] Image of Power Matrix from slide deck  
 - [ ] Example “Digital ID Pilot” case scenario  
@@ -91,7 +91,7 @@ This session builds on prior learning from Module 1, and prepares learners for u
 | # | Activity                                                         | Sprint # | Duration in minutes |
 |---|------------------------------------------------------------------|----------|---------------------|
 | 1 | Activity: Match each axiom to a challenge your team has experienced         | 1        | 23-30               |
-| 2 | Activity: Self-Assessment                                                 | 1        | 15                  |
+| 2 | Activity: Self-Assessment - Strategy Table in Practice                           | 1        | 15                  |
 | 3 | Activity: Change & Innovation Readiness Survey                       | 1        | 10                  |
 | 4 | Activity: Power Matrix: Stakeholder Mapping & Power Dynamics               | 2        | 15                  |
 | 5 | Optional Role Play Activity: Stakeholder Influence Challenge     | 2        | 60                  |
@@ -120,7 +120,7 @@ Total time allocation: 20-30 min
 
 ---
 
-### 2. Activity: Self-Assessment
+### 2. Activity: Self-Assessment - Strategy Table in Practice
 
 Total time allocation: 15 min
 
