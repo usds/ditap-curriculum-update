@@ -1,6 +1,6 @@
 # Module 1 Sprint 3
 
-## Introduction to the Digital Service Tech Bootcamp
+# Introduction to the Digital Service Tech Bootcamp
 
 Modern government acquisition professionals operate in a rapidly evolving digital environment. Whether you're evaluating a cloud-based platform, reviewing a data-sharing agreement, or procuring custom software development, your work increasingly intersects with key technology concepts that shape how agencies deliver public services.
 
@@ -12,7 +12,7 @@ This module introduces seven essential digital service topics—data, software, 
 * **Artificial Intelligence (AI)** uses algorithms to analyze data, automate tasks, and generate insights that support faster, smarter decisions. Procurement may support AI initiatives by acquiring ethical, compliant AI tools and ensuring proper data use.  
 * **Cybersecurity** protects government systems and data from threats like hacking or data breaches. Procurement ensures that systems and services meet security standards and include appropriate safeguards.
 * **Accessibility** ensures that digital services and products are usable by people with disabilities. Procurement must ensure that technology acquisitions comply with legal requirements and support inclusive design practices to serve all citizens.
-* **Open Source Software** is publicly available software with source code that can be inspected, modified, and enhanced by anyone. Procurement must understand open source licensing and intellectual property to leverage its benefits while managing risks.
+* **Open source software** is publicly available software with source code that can be inspected, modified, and enhanced by anyone. Procurement must understand open source licensing and intellectual property to leverage its benefits while managing risks.
 
 You don't need to be a technical expert, but understanding the fundamentals will help you write better requirements, evaluate vendor capabilities, and ensure contracts support secure, effective, and user-centered digital services.
 
@@ -46,9 +46,9 @@ By the end of this module, you will be able to:
 
 ---
 
-## Digital Service Tech Topic: Data
+## Digital service tech topic: Data
 
-### What Is Data?
+### What is data?
 
 Data is just information that’s been collected and stored (“recorded”). It can come in many forms—numbers in a spreadsheet, written text in emails, pictures, or even audio and video. In government contracting, examples of data include:
 
@@ -59,23 +59,23 @@ Data is just information that’s been collected and stored (“recorded”). It
 
 There are three main types:
 
-1. **Structured Data**: Organized in a way that computers can easily process, regardless of whether a human can easily read it, like Excel sheets or databases.  
-2. **Unstructured Data**: Organized in a way that humans can easily process, but not organized for computers to process the information, like PDF documents or social media comments.  
-3. **Semi-Structured Data**: Somewhere in between, like webpages, which are human readable and are tagged so that computers can easily process them, with varying levels of granularity or structure.
+1. **Structured data**: Organized in a way that computers can easily process, regardless of whether a human can easily read it, like Excel sheets or databases.  
+2. **Unstructured data**: Organized in a way that humans can easily process, but not organized for computers to process the information, like PDF documents or social media comments.  
+3. **Semi-Structured data**: Somewhere in between, like webpages, which are human readable and are tagged so that computers can easily process them, with varying levels of granularity or structure.
 
 Think of a contracting file that includes emails, PDFs, performance reviews, and a payment history—that’s a mix of structured and unstructured data.
 
-### Key Considerations for Government Systems
+### Key considerations for government systems
 
 As data grows in size and complexity, there are more challenges related to data storage, data transfer, and data processing:
 
-* Old systems may slow down or fail under the weight  
-* Data must often be moved between different clouds, networks, or storage areas—which can cause delays or added costs  
-* Network upgrades and smarter designs are sometimes needed to keep up with demands  
-* New data processing techniques or tradeoffs may be needed as data volumes increase  
-* Ensuring data accuracy and forward/backward compatibility for different use cases can become complex
+* Old systems may slow down or fail under the weight.  
+* Data must often be moved between different clouds, networks, or storage areas—which can cause delays or added costs.  
+* Network upgrades and smarter designs are sometimes needed to keep up with demands.
+* New data processing techniques or tradeoffs may be needed as data volumes increase.  
+* Ensuring data accuracy and forward/backward compatibility for different use cases can become complex.
 
-Learn more about data analysis by visiting [this page](https://www.coursera.org/articles/data-analysis-tools). 
+Learn more about data analysis by visiting the article, [15 Data Analysis Tools and When to Use Them](https://www.coursera.org/articles/data-analysis-tools). 
 
 These are some of the key challenges that are driving agency modernization efforts today, and are likely to come across your desk as an acquisition professional. 
 
@@ -139,7 +139,7 @@ As a contracting officer, you are both a data user and a data steward. You shoul
 * The **laws and best practices** that guide both.
 
 ---
-## Digital Service Tech Topic: Software
+## Digital service tech topic: Software
 
 ### What is software?
 
@@ -236,7 +236,7 @@ By prioritizing user needs, accessibility, and flexibility, agencies can deliver
 
 ---
 
-## Digital Service Tech Topic: Cloud
+## Digital service tech topic: Cloud
 
 ### Basics
 
@@ -283,7 +283,7 @@ Security concerns often deter cloud adoption, but cloud platforms are generally 
 
 Not all cloud vendors are the same, each has strengths and weaknesses. Agencies can use one as a primary provider and others as backups, as long as systems are built for flexibility and resilience. Vendor lock-in is less of a risk in the cloud than in traditional IT, and thoughtful architecture can simplify migration between platforms.
 
-Using Federal Risk and Authorization Management Program (FedRAMP), authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
+Using the Federal Risk and Authorization Management Program (FedRAMP), authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
 
 ### Why Understanding Cloud Computing Is Critical for Government Contracting Officers
 
@@ -376,7 +376,7 @@ If you don't adapt your acquisition strategies for cloud, your agency risks fina
 By understanding the cloud's unique characteristics and adjusting procurement approaches accordingly, contracting officers become key enablers of efficient, secure, and future-proof government operations.
 
 ---
-## Digital Service Tech Topic: Artificial Intelligence
+## Digital service tech topic: Artificial Intelligence
 
 ### What is Artificial Intelligence?
 
@@ -455,7 +455,7 @@ Bringing AI into government systems requires careful consideration of several ch
 
 
 ---
-## Digital Service Tech Topic: Cybersecurity
+## Digital service tech topic: Cybersecurity
 
 ### Why is cybersecurity important?
 
@@ -521,7 +521,7 @@ Through innovative, security-conscious procurement, COs help ensure that governm
 
 ---
 
-## Digital Service Tech Topic: Accessibility
+## Digital service tech topic: Accessibility
 
 ### Why Digital Accessibility Matters
 
@@ -585,7 +585,7 @@ Although Section 508 states that ICT must be accessible, sometimes an accessible
 
 [E202.7 Best Meets](https://www.access-board.gov/ict/#E202.7) section states “Where ICT conforming to one or more requirements in the Revised 508 Standards is not commercially available, the agency shall procure the ICT that best meets the Revised 508 Standards consistent with the agency’s business needs.” This needs to be clearly documented, to avoid having the procurement challenged by another vendor. 
 
-### Common Misunderstandings 
+### Common misunderstandings 
 
 | Myth | Clarification |
 | ----- | ----- |
@@ -594,11 +594,11 @@ Although Section 508 states that ICT must be accessible, sometimes an accessible
 | “Section 508 doesn’t apply to this procurement.” | Rarely true. There are some exceptions, but they should be very rare and need to be well documented.  |
 | “Accessibility only helps people with permanent disabilities.” | It benefits everyone. Think: aging users, situational limitations, temporary injuries. |
 
-### Your Role
+### Your role
 
 Accessibility isn’t just a compliance requirement; it’s a core part of delivering high-quality, inclusive digital services. As a procurement professional, you play a critical role in ensuring that the products and services acquired by your agency are usable by all people, including those with disabilities. By embedding accessibility into every phase of the acquisition lifecycle, from market research to post-award oversight, your actions help agencies meet legal obligations, reduce long-term risk, and serve the public equitably. Use the tools, templates, and SME support available to make accessibility a built-in expectation.
 
-### Resources and Tools
+### Resources and tools
 
 | Resource | Purpose |
 | ----- | ----- |
@@ -612,18 +612,18 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria. |
 
 ---
-## Digital Service Tech Topic: Open Source Software
+## Digital service tech topic: Open source software
 
 
-### Understanding Open Source Software
+### Understanding open source software
 
 Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to their copy of it. To ensure the software remains open, its use and distribution are governed by various open source licenses. These licenses (MIT, BSD, GPL, AGPL, etc.) often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
 
 Procurement officers need to understand how OSS fits within federal procurement regulations, how to evaluate its viability, and how to structure solicitations to make the best use of OSS. Government security increasingly requires a Software Bill of Materials (SBOM), which is a comprehensive list of all the software components, dependencies, and metadata associated with an application. For both open source and proprietary tools it is a key building block in software security and supply chain risk management, 
 
-### Open Source Software is Used Everywhere
+### Open source software is Used Everywhere
 
-If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases [contain open source](https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf), and four out of five Fortune 500 companies use OSS for mission-critical functions. A more practical example is that an open source project called [Curl that runs in the world’s top 47 car brands](https://ostechnix.com/curl-runs-in-top-car-brands/). This widespread adoption is projected to continue its high growth rate for the foreseeable future.
+If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases [contain open source](https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf), and four out of five Fortune 500 companies use OSS for mission-critical functions. A more practical example is an open source project called ["Curl", that runs in the world’s top 47 car brands](https://ostechnix.com/curl-runs-in-top-car-brands/). This widespread adoption is projected to continue its high growth rate for the foreseeable future.
 
 #### Examples of open source in action
 
@@ -637,7 +637,7 @@ Many of the technologies you interact with daily are built on OSS.
 
 GitHub is a key player in the open source ecosystem, serving as the world's largest repository for software development. It's more than just a place to store code; it's a collaborative platform for version control, bug tracking, managing feature requests, and creating documentation. The reach of GitHub is immense, with users spanning from individual developers to major organizations. Its user base includes 67 national governments, [164 US federal agencies](https://government.github.com/community/), 52 US state and territory governments, almost [20,000 USA businesses](https://theirstack.com/en/technology/github/us) and over [25 million software developers in the USA alone](https://innovationgraph.github.com/global-metrics/developers), highlighting just how integral open source has become to both public and private sectors. In 2018, GitHub was purchased by Microsoft for $7.5 billion, and has continued to define what is expected in modern software development. 
 
-### Why Open Source Software Matters in Federal Procurement
+### Why open source software matters in federal procurement
 
 OSS is used in nearly every modern government digital service and is a significant factor in federal procurement because it offers a wide range of benefits that are distinct from traditional proprietary software. If acquisition professionals understand how to evaluate and procure it responsibly, OSS can reduce costs, increase innovation, and support long-term vendor independence.
 
@@ -647,7 +647,7 @@ Federal agencies operate under specific guidelines that support the use of OSS. 
 
 Building on these policies, the [SHARE IT Act (Public Law 118-187)](https://dsacms.github.io/share-it-act-lp/) mandates that agencies share their custom-developed source code with each other. This legislation is a key part of a broader effort to reduce redundant development and procurement costs across the government. Together, these laws and policies create a clear and supportive environment for federal agencies to leverage the benefits of OSS.
 
-### Security of Open Source Software 
+### Security of open source software 
 
 All software, including OSS, faces increasing security risks due to advances in hacking tools and techniques. However, open source often has a distinct advantage: a robust community of developers dedicated to its security. Unlike proprietary software, where security audits are limited to a single company's internal team, OSS code can be inspected and tested by anyone. This collaborative approach allows for vulnerabilities to be identified and fixed much more rapidly than legacy approaches, often within days of discovery.
 
@@ -666,7 +666,7 @@ Properly maintained OSS is just as secure as, and often more secure than, its pr
 The U.S. government is actively involved in strengthening the security of OSS. Several federal agencies contribute to the [Open Source Security Foundation](https://openssf.org/), a collaborative effort to improve security for both open source and private developers. As an example, the Department of Defense’s [Platform One](https://p1.dso.mil/) is heavily leveraging open source to improve security and overcome common barriers. Their [Iron Bank](https://p1.dso.mil/ironbank) project distributes pre-configured, containerized versions of OSS which speeds up the process of getting the required [Authority to Operate (ATO)](https://csrc.nist.gov/glossary/term/authorization_to_operate). This process ensures that no new vulnerabilities are introduced when the software is reused. These are just a few of the many government-led initiatives which enhance overall security and reduce costs through the use of open source software.
 
 
-### The Cost of "Free" Open Source Software
+### The Cost of "Free" open source software
 
 While the initial cost of OSS is often free, its implementation and maintenance are not. When OSS is acquired, the software itself is without charge, but the associated services carry a cost. This model shifts the financial burden from licensing fees to expenses for support and development. These costs are market-driven and can include customization, ongoing monitoring, hosting, support, training, and updates.
 
@@ -674,7 +674,7 @@ While the initial cost of OSS is often free, its implementation and maintenance 
 
 Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straightforward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
 
-### How to Procure Open Source Software
+### How to Procure open source software
 
 Navigating federal procurement with OSS requires a clear understanding of its unique characteristics and how they fit within the acquisition lifecycle. Using OSS should be considered early, before a decision is made about what software criteria to solicit for.
 
