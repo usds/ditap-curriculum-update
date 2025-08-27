@@ -33,7 +33,7 @@ Stakeholders that DITAP participants identify to interview should meet the follo
 - Module 3: Check in on progress, troubleshoot challenges.
 - By penultimate class: Participants conduct and submit two completed interviews (including summaries and reflections) via Learning Portal.
 
-###
+---
 
 ### Facilitator guidance
 
@@ -109,6 +109,8 @@ This assignment is often one of the most powerful experiences in the program. En
 ---
 
 ### Sample interviews
+
+---
 
 #### Sample template 1
 
