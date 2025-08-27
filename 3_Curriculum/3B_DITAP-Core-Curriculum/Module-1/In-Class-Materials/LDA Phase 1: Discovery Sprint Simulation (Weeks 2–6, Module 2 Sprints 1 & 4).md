@@ -18,10 +18,10 @@ Team Deliverables: Each team is required to submit a 3-page Discovery Summary. T
 
 | Task | Key Prompts/Considerations |
 | :---- | :---- |
-| Form Teams | Ensure equitable distribution of skills. |
-| Introduce Independent Discovery | Explain the rationale for self-selection and its connection to real-world scenarios. |
-| Guide Project Selection (Criteria for Case Study Evaluation compatibility) | "Does the chosen project allow for demonstration of a design file used in usability research?" "Can an implemented change based on research insights be clearly identified or simulated?" "Are teams aware that this discovery will directly feed into a fixed, pass/fail Case Study requirement?" |
-| Encourage Outreach | "Have teams identified key stakeholders for interviews, and are their insights relevant to a digital service problem?" Provide templates and best practices for professional engagement. |
-| Facilitate Interviews | Guide teams on conducting effective interviews and provide simulated scenarios as needed. |
-| Review Discovery Summary | "Is the Discovery Summary clearly articulating a problem that a digital service solution could address?" Assess clarity, completeness, and alignment with HCD principles. |
+| Form teams | Ensure equitable distribution of skills. |
+| Introduce independent discovery | Explain the rationale for self-selection and its connection to real-world scenarios. |
+| Guide project selection (criteria for case study evaluation compatibility) | "Does the chosen project allow for demonstration of a design file used in usability research?" "Can an implemented change based on research insights be clearly identified or simulated?" "Are teams aware that this discovery will directly feed into a fixed, pass/fail Case Study requirement?" |
+| Encourage outreach | "Have teams identified key stakeholders for interviews, and are their insights relevant to a digital service problem?" Provide templates and best practices for professional engagement. |
+| Facilitate interviews | Guide teams on conducting effective interviews and provide simulated scenarios as needed. |
+| Review discovery summary | "Is the Discovery Summary clearly articulating a problem that a digital service solution could address?" Assess clarity, completeness, and alignment with HCD principles. |
 
