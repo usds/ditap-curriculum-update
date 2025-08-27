@@ -1,7 +1,5 @@
 
 
-**Stakeholder Assignment Playbook**
-
 # Stakeholder Assignment Guidance
 
 ## Overview
@@ -30,7 +28,7 @@ Stakeholders that DITAP participants identify to interview should meet the follo
 
 **Suggested project timeline:**
 
-- Module 2, Sprint 2: Introduce [the assignment](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo).
+- Module 2, Sprint 2: Introduce the assignment.
 - By the end of Module 2: Participants submit 2–4 proposed stakeholders for facilitator review via Learning Portal.
 - Module 3: Check in on progress, troubleshoot challenges.
 - By penultimate class: Participants conduct and submit two completed interviews (including summaries and reflections) via Learning Portal.
@@ -53,9 +51,9 @@ Facilitators are responsible for:
 Introduce this assignment live during Module 2, Sprint 2.
 
 - Set context: why stakeholder engagement matters in digital service delivery.
-- [Review the assignment instructions](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo) and [FAQs](https://docs.google.com/document/d/1f4UqERYM7KTXvPC8hkfc6fpnlNMxiFDL7KLCOA5QpTk/edit?tab=t.cd4p9ofyhxhg).
-- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in [Navigating the Stakeholder Landscape Cont’d](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.a9i0ajj5c4hv#heading=h.dsa8ddc9x5dq), Module 2, Sprint 2).
-- Preview the [interview guide](https://docs.google.com/document/d/1EeM-nUBObeCAHfccZFf7mHQygP1tiMbe/edit).
+- Review the assignment instructions and FAQs.
+- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in Navigating the Stakeholder Landscape Cont’d, Module 2, Sprint 2).
+- Preview the interview guide.
 - Normalize the discomfort: acknowledge that reaching out to senior or unfamiliar stakeholders may feel daunting.
 - To help participants build confidence before reaching out to actual stakeholders, consider adding time for peer-to-peer practice interviews in class.  
 
@@ -108,6 +106,8 @@ Submissions are reviewed for completeness and alignment with the approved stakeh
 
 This assignment is often one of the most powerful experiences in the program. Encourage participants to reflect not just on _what_ their stakeholders said—but how those conversations shifted their own thinking about influence, communication, and systems change.
 
+---
+
 ### Sample interviews
 
 #### Sample template 1
@@ -137,6 +137,8 @@ This assignment is often one of the most powerful experiences in the program. En
 13. What is your timeline and/or release schedule?
 14. How can I best help you get the job done?
 
+---
+
 #### Sample template 2
 
 Stakeholder group: Acquisition Stakeholders
@@ -159,7 +161,9 @@ _\[Briefly describe what you are trying to accomplish, the benefits to the agenc
 6. My procurement is a little different from common agency practice _\[describe how\]_ but fits well within the FAR and our policies. Is there anything in my description that raises issues or challenges for you?
 7. Is there anything I am not thinking of that I should be concerned with as I move forward with my strategy and plan for this procurement?
 
-Sample template 3
+---
+
+#### Sample template 3
 
 **Stakeholder group:** Advocates, Influencers
 
@@ -184,39 +188,38 @@ Sample template 3
 
 ## Frequently asked questions (FAQs)
 
-**Q1: How do I select the right stakeholders for this assignment?  
-**Choose individuals within your agency who have significant influence over digital services, procurement, or operations—especially those you don’t normally interact with. Ideal stakeholders might include CIOs, CAOs, HCAs, SPEs, CFOs, or policy leads. Aim for those whose decisions impact digital transformation efforts.
+**Q1: How do I select the right stakeholders for this assignment?**  
+Choose individuals within your agency who have significant influence over digital services, procurement, or operations—especially those you don’t normally interact with. Ideal stakeholders might include CIOs, CAOs, HCAs, SPEs, CFOs, or policy leads. Aim for those whose decisions impact digital transformation efforts.
 
-**Q2: What if I already know who I want to interview?  
-**That’s fine—as long as they meet the assignment criteria: influential, within your agency, not a peer or frequent collaborator, and not currently enrolled in the DITAP program. Be sure to explain why they’re a relevant and strategic choice.
+**Q2: What if I already know who I want to interview?**  
+That’s fine—as long as they meet the assignment criteria: influential, within your agency, not a peer or frequent collaborator, and not currently enrolled in the DITAP program. Be sure to explain why they’re a relevant and strategic choice.
 
-**Q3: Can I interview more than two stakeholders?  
-**Yes. While the requirement is to complete at least two interviews, participants are encouraged to interview up to four stakeholders. More conversations often lead to a richer understanding of your agency’s landscape.
+**Q3: Can I interview more than two stakeholders?**  
+Yes. While the requirement is to complete at least two interviews, participants are encouraged to interview up to four stakeholders. More conversations often lead to a richer understanding of your agency’s landscape.
 
-**Q4: What should I include in my interview summary?  
-**Your summary should capture the stakeholder’s insights about innovation, digital services, and procurement in your agency. Include what you learned about their priorities, perspectives, and any challenges or opportunities they raised. Reflections and next steps are also valuable.
+**Q4: What should I include in my interview summary?**  
+Your summary should capture the stakeholder’s insights about innovation, digital services, and procurement in your agency. Include what you learned about their priorities, perspectives, and any challenges or opportunities they raised. Reflections and next steps are also valuable.
 
 **Q5: Do I need to follow up after the interview?**
-
 Yes. Following up is considered best practice—it shows professionalism and helps build relationships. Use the follow-up to thank them, share any takeaways, and keep the door open for future collaboration.
 
-**Q6: What if a stakeholder is unavailable or declines to participate?  
-**If a stakeholder is unavailable, select someone else within your agency who meets the same general criteria. Be flexible, but intentional in finding someone who can offer insight into your agency’s systems and decision-making.
+**Q6: What if a stakeholder is unavailable or declines to participate?**  
+If a stakeholder is unavailable, select someone else within your agency who meets the same general criteria. Be flexible, but intentional in finding someone who can offer insight into your agency’s systems and decision-making.
 
-**Q7: Are there any questions I should avoid during the interview?  
-**Avoid overly personal, irrelevant, or closed-ended questions. Focus on open-ended prompts about their work, priorities, pain points, and views on innovation and change. Stay curious, professional, and respectful of their time.
+**Q7: Are there any questions I should avoid during the interview?**  
+Avoid overly personal, irrelevant, or closed-ended questions. Focus on open-ended prompts about their work, priorities, pain points, and views on innovation and change. Stay curious, professional, and respectful of their time.
 
-**Q8: How should I prepare for the interviews?  
-**Research your stakeholder’s role and any related digital or procurement initiatives in your agency. Use the interview guide to draft thoughtful questions. Practice your introduction and clarify your goals for the conversation in advance.
+**Q8: How should I prepare for the interviews?**  
+Research your stakeholder’s role and any related digital or procurement initiatives in your agency. Use the interview guide to draft thoughtful questions. Practice your introduction and clarify your goals for the conversation in advance.
 
-**Q9: Can I ask the stakeholder for feedback on how I conducted the interview?  
-**You can—especially if you’re aiming to build rapport or improve your communication skills. But keep the focus on their insights, not on evaluating your performance. If you ask for feedback, do so briefly at the end of the conversation.
+**Q9: Can I ask the stakeholder for feedback on how I conducted the interview?**  
+You can—especially if you’re aiming to build rapport or improve your communication skills. But keep the focus on their insights, not on evaluating your performance. If you ask for feedback, do so briefly at the end of the conversation.
 
-**Q10: How will I know if my assignment is approved?  
-**You’ll receive confirmation through the learning portal or directly from your facilitator. If anything is missing or needs revision, your facilitator will follow up with clear guidance.
+**Q10: How will I know if my assignment is approved?**  
+You’ll receive confirmation through the learning portal or directly from your facilitator. If anything is missing or needs revision, your facilitator will follow up with clear guidance.
 
-**Q11: Can I conduct interviews virtually or asynchronously (e.g., by email)?  
-**Interviews should ideally be conducted live—via phone, video call, or in-person—to allow for dynamic conversation and follow-up questions. Email can be used if scheduling is a barrier, but it may limit the depth and spontaneity of the dialogue.
+**Q11: Can I conduct interviews virtually or asynchronously (e.g., by email)?**  
+Interviews should ideally be conducted live—via phone, video call, or in-person—to allow for dynamic conversation and follow-up questions. Email can be used if scheduling is a barrier, but it may limit the depth and spontaneity of the dialogue.
 
-**Q12: What if I learn something sensitive or surprising during the interview?  
-**Respect confidentiality. Use your summary to reflect on themes and insights, but avoid including identifying details unless they were shared in a public or professional context. When in doubt, check with your facilitator.
+**Q12: What if I learn something sensitive or surprising during the interview?**  
+Respect confidentiality. Use your summary to reflect on themes and insights, but avoid including identifying details unless they were shared in a public or professional context. When in doubt, check with your facilitator.
