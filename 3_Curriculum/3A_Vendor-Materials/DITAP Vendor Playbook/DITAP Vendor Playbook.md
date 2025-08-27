@@ -123,9 +123,9 @@ While this guidance provides a framework for consistent implementation, vendors 
 
 To successfully complete DITAP and earn a certificate, participants must demonstrate growth and competency in:
 
-1. [**Participation**] – Meaningful engagement in course sessions (40% weighting recommended)
-2. [**Conceptual Fluency**] – Understanding and application of key DITAP tools and frameworks (30% weighting recommended)
-3. [**Live Digital Assignment**] – Completing all phases of the Live Digital Assignment (30% weighting recommended)
+1. **Participation** – Meaningful engagement in course sessions (40% weighting recommended)
+2. **Conceptual Fluency** – Understanding and application of key DITAP tools and frameworks (30% weighting recommended)
+3. **Live Digital Assignment** – Completing all phases of the Live Digital Assignment (30% weighting recommended)
 
 _Participation should carry the most weight. Vendors may adjust the distribution while maintaining this priority._
 
