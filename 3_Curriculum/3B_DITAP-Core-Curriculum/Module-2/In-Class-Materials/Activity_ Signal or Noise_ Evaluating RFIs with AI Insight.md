@@ -1,4 +1,4 @@
-#Activity: RFI Reality Check — Using AI to Strengthen Industry Engagement
+# Activity: RFI Reality Check — Using AI to Strengthen Industry Engagement
 
 **Purpose**
 
@@ -27,7 +27,7 @@ This activity helps you practice evaluating a real-world Request for Information
   * How well does it reflect an iterative, outcomes-based approach?
 * Take notes on what you learn from Lumen and where you agree or disagree.
 
-**Step 4**: Compare and Improve
+**Step 4**: Compare and improve
 
 With your group:
 
@@ -43,7 +43,7 @@ With your group:
 2.    
 3.  
 
-**Step 5**: Report Back
+**Step 5**: Report back
 
 Be ready to share a brief (2-minute) summary with the class:
 * The RFI you selected  
