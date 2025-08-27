@@ -15,8 +15,6 @@ Example shadowing opportunities include:
 - Attending backlog grooming and sprint planning sessions with a team at an agency
 - Attending a private sector company’s sprint planning session The goal is to expose learners to modern practices such as agile workflows, user-centered design, and cross-functional collaboration in real-world settings.
 
-### [See the full list of past](#kix.axv6ycyl5pc1) placements
-
 ### Recommended timeline & key milestones
 
 - **Orientation:** Assignment introduced during live session
