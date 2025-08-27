@@ -1,23 +1,23 @@
 # Activity: Stakeholder Selection and Interview Assignment 
 
-**Assignment Overview:**
+**Assignment overview:** 
 
 You’ll be introduced to this stakeholder engagement assignment during class, but we’re sharing this description in advance to give you a preview of what’s to come.  
 In this two-part activity, you’ll identify the key individuals within your agency who influence or control decisions around digital service acquisitions. Then, you’ll begin developing a strategy for how to effectively engage with them—using insights and experiences from this program as a starting point for those conversations.
 
-**Activity Goal:** By completing this activity, you will: 
+**Activity goal: By completing this activity, you will:** 
 
-1. Gain a better understanding of your agency's readiness for change and innovation,  
-2. Practice influence conversations, and  
-3. Build your digital services network.
+1\. Gain a better understanding of your agency's readiness for change and innovation  
+2\. Practice influence conversations 
+3\. Build your digital services network
 
 ## Instructions – Part 1: Prepare
 
-For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage.  This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
+For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage. This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
 
 1\. Narrow down your list to 2-4 key stakeholders based on the following assumptions:  
 
-* The most significant perceived level of influence or control over the progress of digital services procurements (stakeholders differ in their level of influence and control)  
+* The most significant perceived level of influence or control over the progress of digital services procurements (stakeholders differ in their level of influence and control)
 * Their perceived level of influence or control over the progress of acquisition, generally in the agency  
 * Their potential involvement in your role as a future agency ambassador for digital services acquisition 
 
@@ -30,8 +30,8 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 * Work history  
 * Personality  
 * Strengths/Weaknesses  
-*  Formal/Informal roles in the acquisition lifecycle  
-*  Formal/Informal connections and relationships with other primary stakeholders
+* Formal/Informal roles in the acquisition lifecycle  
+* Formal/Informal connections and relationships with other primary stakeholders
 
 3\. Hypothesize potential benefits and challenges to their engagement in digital services acquisition. Below are some example hypotheses you can develop about your stakeholders:
 
@@ -46,7 +46,7 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 * Take time to review the online learning module on influence to learn about different approaches to the conversation.  
 * Identify whether the influencer or gatekeeper may become a future advocate or champion for agile and digital services acquisition.
 
-5\. After brainstorming, use the second page of the Stakeholder Holder Interests template to develop your conversation structure. Completing this information will help you feel more prepared for the conversation. You can use the following resources to help you prepare for the interviews: 
+5\. After brainstorming, use the second page of the [Stakeholder Interests Template]((https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder_Interest_Template.md)to develop your conversation structure. Completing this information will help you feel more prepared for the conversation. You can use the following resources to help you prepare for the interviews: 
 
 * Use the [Stakeholder Interests Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder_Interest_Template.md) to identify opportunities and challenges in working with stakeholders and to establish a framework for your interview with a stakeholder.  
 * Use the [Stakeholder Interview Guide Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder_Interview_Guide_Template.md) to identify questions to ask your stakeholders.  
@@ -60,12 +60,12 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 
 6\. Practice your conversation with a cohort member and enlist their feedback. Use their feedback to polish your engagement strategy. This is optional.
 
-**Definition of Done & Deadline for Completion:** Part 1 must be completed in Module 2\. By the end of Module 2, you will need to provide a document for approval that includes: 
+**Definition of done & deadline for completion:** Part 1 must be completed in Module 2. By the end of Module 2, you will need to provide a document for approval that includes: 
 
 * The four stakeholders you intend to interview  
-* Your list of questions you plan to ask for feedback (Optional).
+* Your list of questions you plan to ask for feedback (optional)
 
-## Instructions \- Part 2: Engage
+## Instructions - Part 2: Engage
 
 These interviews will test your hypotheses about the sphere of influence for your stakeholder selections and give you experience conducting influencing conversations.
 
@@ -80,7 +80,7 @@ Document your interviews and reflect on the conversation and your strategy for f
 
 Please include the date of your interview and an overview of what you discussed. You should also share your insights from the interview with your classmates.   
 
-**Definition of Done & Deadline for Completion:** 
+**Definition of done & deadline for completion:** 
 
 To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted to the Team.
 
