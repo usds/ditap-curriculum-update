@@ -1,8 +1,8 @@
 # Module 2 Sprint 3
 
-## Defining Success for Your Digital Services Acquisition
+# Defining Success for Your Digital Services Acquisition
 
-### Overview
+## Overview
 
 Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From** **Discovery to Strategy”** equips acquisition professionals to make that critical shift.
 
@@ -12,7 +12,7 @@ Success in digital services doesn’t start with a delivery milestone, it starts
 
 This module emphasizes the strategic role of the acquisition professional in shaping not just the contract, but the success of the entire digital service. By applying these concepts, learners will gain the tools and language to build acquisitions that are not only compliant but truly impactful.
 
-#### Learning objectives
+### Learning objectives
 
 By the end of this sprint, you will be able to: 
 
@@ -51,9 +51,7 @@ In digital services acquisition, it’s essential to approach the strategy phase
 Modern digital acquisition emphasizes the connection between product vision and product delivery. Whether you’re crafting a performance-based or outcome-based procurement, the principle is the same:
 
 * Start with the problem.
-
 * Set a clear vision or objective.
-
 * Let industry propose how to achieve it.
 
 Your discovery work, what stakeholders need, and what users expect should inform the specifics, such as scope, timeline, and level of detail. This creates a shared understanding of the outcomes without prescribing how every detail will be delivered.
@@ -133,9 +131,9 @@ Now that we’ve agreed on the problem, our next step is to describe the future 
 | **1\. If this works well, what’s different for the user?** | What does success look like from the user’s perspective? What changes in their experience? | Concrete improvements in time, access, simplicity, and frustration levels | Write as: “Users can now \[do X\] without \[pain point\].” |
 | **2\. What do we want this tool or service to enable?** | What behavior, action, or outcome should this product make possible that isn’t possible now? | Outcomes, not just features (e.g., “apply easily” not “have a login form”) | Use active verbs: “Enables users to \[action\].” |
 | **3\. How does this help the agency deliver its mission?** | What’s the mission-level impact this product supports? How will this make the agency better at what it’s meant to do? | Connection to public service goals—speed, equity, access, cost savings | Frame as: “Supports mission by \[how it contributes to the goal\].” |
-| **4\. What’s a sign this product is working as intended?** | What observable signs, metrics, or behaviors would indicate success? | Measurable indicators like reduced drop-off, increased uptake, fewer calls for help | Capture as performance indicators or success criteria |
-| **5\. Who benefits the most from this product being successful?** | Which users or communities are most impacted if this product works well? | Equitable service outcomes (e.g., rural families, limited-English speakers) | Use this to inform accessibility, language support, or design considerations |
-| **6\. What’s broken today that this is meant to fix?** | Where is the current process's friction, duplication, confusion, or burden? | Problems tied to inefficiency, manual work, miscommunication, and error rates | Use these insights to reinforce the “why” behind the vision |
+| **4\. What’s a sign this product is working as intended?** | What observable signs, metrics, or behaviors would indicate success? | Measurable indicators like reduced drop-off, increased uptake, fewer calls for help | Capture as performance indicators or success criteria. |
+| **5\. Who benefits the most from this product being successful?** | Which users or communities are most impacted if this product works well? | Equitable service outcomes (e.g., rural families, limited-English speakers) | Use this to inform accessibility, language support, or design considerations. |
+| **6\. What’s broken today that this is meant to fix?** | Where is the current process's friction, duplication, confusion, or burden? | Problems tied to inefficiency, manual work, miscommunication, and error rates | Use these insights to reinforce the “why” behind the vision. |
 
 ## Reframing metrics: From Return on Investment (ROI) to Return on Mission (RoM)
 
@@ -146,8 +144,7 @@ In the private sector, success is often measured in Return on Investment (ROI), 
 However, in government, mission outcomes are the return. Whether delivering benefits faster, increasing public trust, or improving equitable access to services, the actual value of a digital service is measured by how well it advances the agency's mission.
 
 **Instead of asking:**
-
-“Did we stay within budget?”
+  “Did we stay within budget?”
 
 **We must also ask:**  
  	“Did this procurement help us serve the public better?”
@@ -172,7 +169,7 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Greater program uptake** | Easier access leads to more eligible families enrolling, which supports the program’s mission. |
 | **Cost savings to the government and applicants** | Less staff burden, fewer application errors, and reduced in-office foot traffic. |
 
-## Linking Product Vision → Procurement Objective → Metrics → Return on Mission
+## Linking product vision → procurement objective → metrics → Return on Mission
 
 | Phase | Purpose | Key output |
 | :---- | :---- | :---- |
@@ -182,32 +179,25 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Return on Mission** | Evaluate how delivery supported the agency's mission | Public impact, service improvement, equity outcomes |
 
 **Instead of asking:**
-
-“How do we ensure vendors meet contract requirements?”
+  “How do we ensure vendors meet contract requirements?”
 
 **Ask:**
-
-“How do we measure whether this work helps us fulfill our mission more effectively?”
+  “How do we measure whether this work helps us fulfill our mission more effectively?”
 
 **This allows teams to:**
 
 * Design performance work statements around impact, not just features.
-
 * Create feedback loops that prioritize iteration and improvement.
-
 * Select vendors who understand mission delivery, not just software development.
 
  **Common Pitfalls to Avoid**
 
 * Writing problem statements that sound like pre-selected solutions.
-
 * Skipping objectives because “we’ll know it when we see it.”
-
 * Setting vague goals like “improve user experience” without measurable criteria.
-
 * Confusing features with outcomes (e.g., “have a dashboard” vs. “help staff track performance in real time”).
 
-## Checklist for Step 1 Completion
+## Checklist for step 1 completion
 
 Before moving to acquisition strategy development, ensure you can answer:
 
@@ -217,7 +207,7 @@ Before moving to acquisition strategy development, ensure you can answer:
 - [ ]  What measurable objectives will we use to guide and evaluate this acquisition?
 
 ---
-## Defining Constraints Before Acquisition Strategy Begins
+## Defining constraints before acquisition strategy begins
 
 Before you begin building the acquisition strategy, it's essential to identify constraints that could shape or limit what’s possible in the procurement. 
 
@@ -228,7 +218,7 @@ These are often:
 * Operational  
 * Policy-based conditions that will affect timelines, solution types, vendor eligibility, or even contract structure. 
 
-You want to treat constraints like design inputs, not limitations.  By identifying and understanding them early, you build a stronger acquisition strategy.
+You want to treat constraints like design inputs, not limitations. By identifying and understanding them early, you build a stronger acquisition strategy.
 
 ### Why this matters
 
@@ -243,7 +233,7 @@ By identifying constraints during the discovery phase, you can prepare to make f
 ## Suggested questions for constraint discovery sessions
 
 
-| Topic                      | Questions to Ask |
+| Topic                      | Questions to ask |
 |---------------------------|------------------|
 | Budget & funding          | What is our total available budget? What fiscal year does it apply to? What is the color of money (e.g., O&M, R&D, capital)? Are there timing or obligation restrictions we need to account for? |
 | Security & risk           | What are the cybersecurity requirements for this effort? Does it require an Authority to Operate (ATO)? How long do ATOs typically take? What are the known feasibility or system risks? Is there an analysis of alternatives available? |
@@ -318,7 +308,7 @@ Understanding the landscape of constraints during the discovery phase isn’t ju
 
 A well-informed team that communicates openly and documents early decisions will be better prepared when challenges inevitably arise, whether during the solicitation phase or contract administration.
 
-### Benefits of Early Constraint Discovery
+### Benefits of early constraint discovery
 
 * Creates a shared understanding of why trade-offs were made  
 * Strengthens cross-team relationships  
@@ -326,12 +316,12 @@ A well-informed team that communicates openly and documents early decisions will
 * Equips the team to adapt if the work shifts or performance issues arise  
 * Supports realistic exit strategies before you're in crisis
 
-## Bottom Line
+## Bottom line
 
 Constraint discovery is not just a planning step; it’s a practice of risk management and collaborative alignment that supports more confident, mission-focused decision-making from start to finish.
 
 ---
-## Knowledge Check 
+## Knowledge check 
 
 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
 
@@ -385,10 +375,10 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 **What should you do? (Choose the BEST option)**
 
-- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation  
-- [ ] B. Choose a firm-fixed-price contract now and adjust if needed  
-- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility  
-- [ ] D. Push back the solicitation until these constraints are no longer relevant
+- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation.  
+- [ ] B. Choose a firm-fixed-price contract now and adjust if needed.
+- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
+- [ ] D. Push back the solicitation until these constraints are no longer relevant.
 
 > A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
 
@@ -406,7 +396,7 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 ---
 
-## Recommended Reading
+## Recommended reading
 
 Every Project Needs an Inspiring Product Vision
 
