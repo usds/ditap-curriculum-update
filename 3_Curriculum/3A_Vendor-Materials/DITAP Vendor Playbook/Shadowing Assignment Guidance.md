@@ -15,8 +15,6 @@ Example shadowing opportunities include:
 - Attending backlog grooming and sprint planning sessions with a team at an agency
 - Attending a private sector company’s sprint planning session The goal is to expose learners to modern practices such as agile workflows, user-centered design, and cross-functional collaboration in real-world settings.
 
-### [See the full list of past](#kix.axv6ycyl5pc1) placements
-
 ### Recommended timeline & key milestones
 
 - **Orientation:** Assignment introduced during live session
@@ -58,17 +56,17 @@ Final submission approval:
 
 ### Sample language for facilitators
 
-**Approval (shadowing proposal):  
-**"Your shadowing opportunity has been approved. Looking forward to your reflections after the experience."
+**Approval (shadowing proposal):**  
+"Your shadowing opportunity has been approved. Looking forward to your reflections after the experience."
 
-**Needs clarification (proposal):  
-**"Can you clarify how this team relates to digital service delivery and confirm your proposed shadowing dates?"
+**Needs clarification (proposal):**  
+"Can you clarify how this team relates to digital service delivery and confirm your proposed shadowing dates?"
 
-**Approval (final submission):  
-**"Your shadowing reflection has been received and approved. Well done."
+**Approval (final submission):**  
+"Your shadowing reflection has been received and approved. Well done."
 
-**Revision needed (final submission):  
-**"Thanks for submitting your reflection. Please expand on what you observed about team roles, challenges, or tools used during the experience."
+**Revision needed (final submission):**  
+"Thanks for submitting your reflection. Please expand on what you observed about team roles, challenges, or tools used during the experience."
 
 ### Escalation guidance
 

@@ -29,14 +29,12 @@ The LDA is structured into four phases:
 
 | **Phase** | **Weeks** | **Focus** | **Deliverables** | **Key Learning Outcome** |
 | --- | --- | --- | --- | --- |
-| Phase 1 | Weeks 2–6 | Discovery Sprint | Discovery Summary | Human- centered discovery, framing |
-| --- | --- | --- | --- | --- |
+| Phase 1 | Weeks 2–6  | Discovery Sprint | Discovery Summary | Human-centered discovery, framing |
 | Phase 2 | Weeks 7–12 | Case Study Development | Case Study Package | Agile procurement, proposal writing |
-| --- | --- | --- | --- | --- |
 | Phase 3 | Weeks 13–16 | Review of other teams’ case studies | Rubric + Feedback + Blind Ranking | Evaluation skills, empathy for vendors, constructive critique |
-| --- | --- | --- | --- | --- |
 | Phase 4 | Weeks 17–20 | Present what you learned, not what you built | Team Presentation & Reflections | Team reflection, learning insights, and future application |
-| --- | --- | --- | --- | --- |
+
+---
 
 #### Phase 1: Discovery sprint simulation
 
@@ -106,6 +104,8 @@ Your team’s job right now is to submit a case study that passes the bar.
 - Phase 2 is your formal response.
 - Phase 3 is where you’ll find out what it’s like to sit on the other side of the table.
 
+---
+
 #### Phase 2: Case study development
 
 **Objective:** Give participants experience responding to an agile-focused RFQ using real-world digital service evaluation criteria. Teams simulate vendors by creating a case study package that highlights design thinking, usability testing, and implementation.
@@ -123,6 +123,8 @@ Your team’s job right now is to submit a case study that passes the bar.
 
 - Submit all four artifacts as a complete Case Study Package
 
+---
+
 #### Phase 3: Peer evaluation & feedback
 
 **Objective:** Participants simulate the technical evaluation process, assessing vendor submissions using a structured rubric. This reinforces understanding of evaluation criteria, fairness in scoring, and the value of artifact-based reviews. Emphasize that this is a simulation of a government evaluation team using real-world procurement techniques such as artifact-first down selection and blind review.
@@ -139,7 +141,7 @@ Your team’s job right now is to submit a case study that passes the bar.
 - 1 completed rubric + feedback memo per case reviewed
 - Participate in feedback exchange
 
-###
+---
 
 #### Phase 4: Final team reflections
 
@@ -200,22 +202,19 @@ Each team presentation should include:
 - Artifact Writing Guide
 - Blind Evaluation Rubric Template
 
+---
+
 #### Capstone Impact Summary
 
 | **Area of Growth** | **How Capstone Delivers It** |
 | --- | --- |
 | Empathy | Simulates vendor constraints & storytelling |
-| --- | --- |
 | Stakeholder Engagement | Research & interviews with real companies |
-| --- | --- |
 | Communication | Proposal writing, presentations, peer review |
-| --- | --- |
 | Agile & HCD Literacy | Aligns with agile & user-centered methods |
-| --- | --- |
 | Technical Evaluation | Rubric-based peer evaluations |
-| --- | --- |
 | Readiness | Mirrors real government procurement cycles |
-| --- | --- |
+
 
 #### VA Spruce case study #1: Actual text
 
@@ -254,19 +253,14 @@ Each team is required to submit a 3-page Discovery Summary. This document must i
 | **Task** | **Key Prompts/Considerations** |
 | --- | --- |
 | Form Teams | Ensure equitable distribution of skills. |
-| --- | --- |
 | Introduce Independent Discovery | Explain the rationale for self-selection and its connection to real-world scenarios. |
-| --- | --- |
 | Guide Project Selection (Criteria for Case Study Evaluation compatibility) | "Does the chosen project allow for demonstration of a design file used in usability research?"<br><br>"Can an implemented change based on research insights be clearly identified or simulated?"<br><br>"Are teams aware that this discovery will directly feed into a fixed, pass/fail Case Study requirement?" |
-| --- | --- |
 | Encourage Outreach | "Have teams identified key stakeholders for interviews, and are their insights relevant to a digital service problem?"<br><br>Provide templates and best practices for professional engagement. |
-| --- | --- |
 | Facilitate Interviews | Guide teams on conducting effective interviews and provide simulated scenarios as needed. |
-| --- | --- |
 | Review Discovery Summary | "Is the Discovery Summary clearly articulating a problem that a digital service solution could address?"<br><br>Assess clarity, completeness, and alignment with HCD principles. |
-| --- | --- |
 
-###
+---
+
 
 ### Phase 2: Case study development (Weeks 7–12, Module 3 Sprints 1 & 4)
 
@@ -310,7 +304,7 @@ Teams must submit a complete Case Study Package comprising all four artifacts. T
   - **Fail**: If any responses are not confirmed to conform with each of the conditions above.  
         Documentation supports evaluation decisions.
 
-###
+---
 
 ### Phase 3: Peer evaluation & feedback (Weeks 13–16, Module 4 Sprints 1 & 4)
 
@@ -333,36 +327,25 @@ Each team is responsible for submitting one completed rubric and feedback memo p
 | **Criteria Category** | **Description** |
 | --- | --- |
 | Description of Acquisition | Short introduction of the procurement, why it was chosen, and what the product being developed is. |
-| --- | --- |
 | Artifact 1: Design File | Assessment of production-readiness and clear evidence of its use in usability research. |
-| --- | --- |
 | Artifact 2: Usability Research Report | Verification of evidence of one-on-one, task-based sessions (min. 4 participants) and clarity of insights/findings. |
-| --- | --- |
 | Artifact 3: Screenshot | Confirmation of a live product/feature screenshot showing a change directly based on research insights. |
-| --- | --- |
 | Artifact 4: Case Study Narrative (2-page) | Evaluation of the narrative's ability to provide project context, clearly explain the design process, and logically connect all artifacts. |
-| --- | --- |
 | Compliance/Clarity | Adherence to page limits, professional presentation, logical flow, and ease of understanding for the reviewer. |
-| --- | --- |
 | Pass/Fail Determination | Clear indication of whether the submission meets all minimum requirements as per Case Study Evaluation. |
-| --- | --- |
 | Feedback Quality | Assessment of feedback for constructiveness, actionability, and specificity to the evaluation criteria. |
-| --- | --- |
+
 
 #### Scoring rubric (can be updated per program)
-
 | **Component** | **Requirement Description** | **Pass Criteria** | **Fail Criteria** |
 | --- | --- | --- | --- |
 | Artifact 1: Design File | A production-ready design file or prototype created for usability research with users. Format-agnostic (e.g., code, Figma, Sketch). | Design file/prototype is production-ready AND clearly demonstrates its use for usability research with users. | Design file/prototype is not production-ready, OR its use for usability research is not evident, OR it is missing. |
-| --- | --- | --- | --- |
 | Artifact 2: Usability Research Report | A usability research report including evidence of one-on-one facilitated, task-based usability research sessions (remote or in-person) with a minimum of 4 participants. Must include research insights or findings from these sessions related to the product or feature shown in the Design File. | Report includes evidence of one-on-one, task-based usability research sessions with at least 4 participants AND clearly presents research insights/findings directly related to the product/feature in the Design File. | Report lacks evidence of required usability research (min. 4 participants), OR research is not one-on-one/task-based, OR insights/findings are missing/unclear, OR insights/findings do not relate to the Design File. |
-| --- | --- | --- | --- |
 | Artifact 3: Screenshot | A screenshot of the live product or feature in a production environment, available for user use. Must show the implementation of a change based on the Usability Research Report insights or findings. | Screenshot is of a live product/feature in a production environment AND clearly demonstrates an implemented change directly based on insights/findings from the Usability Research Report. | Screenshot is not of a live product/feature, OR it is not in a production environment, OR it does not show an implemented change, OR the change is not clearly linked to the Usability Research Report insights/findings, OR it is missing. |
-| --- | --- | --- | --- |
 | Artifact 4: Case Study Narrative (2-page) | A 2-page narrative describing the project context for Artifacts 1, 2, and 3. Must include a clear explanation of the design process demonstrating the Design File was used for Usability Research, and that resulting insights were the basis for modification or addition of a design element released to production. | Narrative is 2 pages AND clearly describes the project context for all three artifacts AND explicitly explains the design process, demonstrating the Design File's use in usability research, and how insights led to the implemented change in production. | Narrative exceeds 2 pages, OR fails to describe project context for all artifacts, OR does not clearly explain the design process, OR fails to demonstrate the link between Design File, Usability Research, insights, and implemented change, OR it is missing. |
-| --- | --- | --- | --- |
 | Overall Submission | The complete Case Study Package must conform to all specified conditions for each artifact. No assumptions of conformance will be made. | All four artifacts (Design File, Usability Research Report, Screenshot, and 2-page Narrative Case Study) are submitted and each individually meets all "Pass Criteria" as outlined above. | Any single artifact fails to meet its "Pass Criteria," OR any required component is missing, OR the submission requires assumptions to confirm conformance. |
-| --- | --- | --- | --- |
+
+---
 
 ### Phase 4: Final team reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
 
@@ -386,6 +369,8 @@ Facilitators must ensure all team members speak during the presentation to promo
 
 The primary deliverable for this phase is the Final Team Presentation and an LDA Retrospective.
 
+---
+
 ## Assessment and evaluation framework
 
 The overall assessment of the Live Digital Assignment is broken down into four weighted components:
@@ -402,17 +387,12 @@ Facilitators are responsible for applying this assessment breakdown consistently
 | **Area of Growth** | **How Capstone Delivers It** |
 | --- | --- |
 | Empathy | Simulates vendor constraints & storytelling |
-| --- | --- |
 | Stakeholder Engagement | Research & interviews with real companies |
-| --- | --- |
 | Communication | Proposal writing, presentations, peer review |
-| --- | --- |
 | Agile & HCD Literacy | Aligns with agile & user-centered methods |
-| --- | --- |
 | Technical Evaluation | Rubric-based peer evaluations |
-| --- | --- |
 | Readiness | Mirrors real government procurement cycles |
-| --- | --- |
+
 
 ## Conclusion
 
