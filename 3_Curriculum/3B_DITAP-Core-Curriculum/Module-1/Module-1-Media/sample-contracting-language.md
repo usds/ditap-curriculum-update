@@ -1,6 +1,6 @@
 # Sample Contracting Language on Accessible Procurement and ICT
 
-## Accessibility Standards (Required for All ICT Deliverables)
+## Accessibility standards (required for all ICT deliverables)
 
 All Information and Communication Technology (ICT) developed, acquired, or maintained under this contract shall conform to accessibility standards to ensure equitable access for individuals with disabilities.
 
@@ -10,7 +10,7 @@ For existing legacy systems undergoing minor modifications, maintenance or with 
 
 ---
 
-## Procurement of Accessible ICT
+## Procurement of accessible ICT
 
 The Contractor shall, in all procurement activities related to this contract, prioritize and ensure the acquisition of accessible ICT solutions. This includes, but is not limited to, hardware, software, electronic content, support documentation, and services that directly impact accessibility.
 
@@ -24,7 +24,7 @@ Procurement processes must:
 
 ---
 
-## Evaluation Criteria – Accessibility and Inclusive Design
+## Evaluation criteria – Accessibility and inclusive design
 
 Proposals submitted under this contract will be evaluated on how well they:
 
@@ -37,7 +37,7 @@ Proposals submitted under this contract will be evaluated on how well they:
 
 ---
 
-## Accessibility Deliverables
+## Accessibility deliverables
 
 Required deliverables for ICT projects under this contract include:
 
@@ -50,7 +50,7 @@ Required deliverables for ICT projects under this contract include:
 
 ---
 
-## Ongoing Accessibility Compliance and Maintenance
+## Ongoing accessibility compliance and maintenance
 
 The Contractor must:
 
