@@ -8,7 +8,7 @@
 | **Module 3: Designing a Fit-for-Purpose Acquisition Strategy** | Sprint 1 | Phase 2: Case study development starts | Builds on the discovery sprint- teams develop a case study in response to their RFQ |
 | **Module 3: Designing a Fit-for-Purpose Acquisition Strategy** | Sprint 4 | Phase 2: Case study concludes | Deliverable: Case study with artifacts |
 | **Module 4: Managing Agile Digital Service Contracts** | Sprint 1 | Phase 3: Peer evaluation and feedback | Teams commence review on 3 other “blind” packages |
-| **Module 4: Managing Agile Digital Service Contracts** | Sprint 4 | Phase 3: Peer evaluation and feedback | Deliverable: 1 completed Rubric and evaluation memo Final ranked score Feedback provided |
+| **Module 4: Managing Agile Digital Service Contracts** | Sprint 4 | Phase 3: Peer evaluation and feedback | Deliverable: 1 completed Rubric and evaluation memo, Final ranked score, Feedback provided |
 | **Module 5: Leading Change** | Sprint 1 | Phase 4: Final team presentation | Team presentation work started, reviewing feedback, process, and providing LDA reflections |
 | **Module 5: Leading Change** | Sprint 2 | Phase 4: Final team presentation | Deliverable: Final team presentation & LDA Retrospective |
 
