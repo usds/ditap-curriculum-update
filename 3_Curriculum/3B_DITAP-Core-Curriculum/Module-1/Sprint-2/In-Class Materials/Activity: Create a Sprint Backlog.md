@@ -1,9 +1,9 @@
 # Activity: Create a Sprint Backlog
 _Module 1, Sprint 2_
 
-- **Time**: 45–60 minutes 
-- **Audience**: Federal procurement professionals (1102s) learning Agile & HCD 
-- **Activity type**: Small-group breakout + share-out 
+- **Time**: 45–60 minutes
+- **Audience**: Federal procurement professionals (1102s) learning Agile & HCD
+- **Activity type**: Small-group breakout + share-out
 - **Goal**: Practice writing user stories and building a prioritized Sprint Backlog based on a realistic digital services project.
 
 ## Scenario: Improving disaster assistance request portal
@@ -15,7 +15,7 @@ FESA’s current form-based system is slow, hard to use on mobile, and often res
 - Real-time eligibility feedback
 - Document upload
 - Accessibility for screen readers
-- Multilingual support 
+- Multilingual support
 
 FESA wants to release a **Minimum Viable Product (MVP)** in 2 months. Your cross-functional team has one sprint to get started.
 
@@ -30,7 +30,7 @@ FESA wants to release a **Minimum Viable Product (MVP)** in 2 months. Your cross
 - Briefly review what a Sprint Backlog is:
     - A prioritized list of tasks or user stories the team commits to completing in a sprint.
 - Introduce the scenario and templates.
-- Form groups of 3–5 participants. 
+- Form groups of 3–5 participants.
 
 ⏱️ **10–35 min: Group work**
 
@@ -39,12 +39,12 @@ Each team will:
 - Write user stories based on the needs outlined in the scenario.
 - Estimate effort (use T-shirt sizing: S, M, L if no experience with story points).
 - Prioritize which user stories would make it into the first sprint.
-- Fill in the sprint backlog worksheet. 
+- Fill in the sprint backlog worksheet.
 
 Encourage teams to consider Agile and HCD principles:
 - What is the MVP?
 - What can they validate early through feedback?
-- Are stories accessible and user-centered? 
+- Are stories accessible and user-centered?
 
 ⏱️ **35–50 min: Share-out**
 
@@ -52,12 +52,12 @@ Each group presents:
 - 2–3 key user stories
 - Their priorities and rationale
 - Any trade-offs they discussed
-- Facilitator captures themes on a shared board. 
+- Facilitator captures themes on a shared board.
 
 ⏱️ **50–60 min: Debrief**
 - What was challenging about breaking down the work?
 - How did thinking in user stories shift your perspective from traditional requirements?
-- How could procurement shape a contract to allow this kind of work? 
+- How could procurement shape a contract to allow this kind of work?
 
 ## Learning objectives
 By the end of this activity, learners will be able to:
@@ -78,7 +78,7 @@ Structure: As a **[role]**, I want **[functionality]** so that **[goal]**.
 Example: 
 _As a **screen reader user**, I want to **navigate the form using a keyboard and screen reader** so that **I can apply independently**._
 
-### Sprint backlog worksheet 
+### Sprint backlog worksheet
 - Priority: High / Medium / Low — based on user impact, dependencies, or MVP goals.
 - Estimated Effort: Use T-shirt sizing (S = small, M = medium, L = large) if the team is new to Agile.
 - Notes: Any considerations, dependencies, or technical constraints.
