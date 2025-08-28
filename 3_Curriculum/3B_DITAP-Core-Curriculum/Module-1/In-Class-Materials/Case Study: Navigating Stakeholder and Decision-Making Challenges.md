@@ -224,7 +224,7 @@ After teams have had time to discuss, bring them back together to share their in
 **Additional Resources:** Consider these additional resources as you complete each milestone: 
 - Integration feasibility report and cost analysis 
 - Data security assessment and encryption impact study 
-- [Federal Acquisition Website](https://digital.gov/topics/acquisition/) 
+- [Federal Acquisition Website](https://digital.gov/topics/acquisition/) (archived [August 26, 2025](https://web.archive.org/web/20250826213615/https://digital.gov/topics/acquisition/))
 - [USDS TechFAR Hub](https://techfarhub.usds.gov/get-started/)  
 - [GAO Cost Estimating and Assessment Guide](https://guides.gaoinnovations.gov/cost-guide/index.html) 
 
