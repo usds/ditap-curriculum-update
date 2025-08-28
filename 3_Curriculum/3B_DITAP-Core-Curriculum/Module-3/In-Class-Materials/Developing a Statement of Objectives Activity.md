@@ -4,15 +4,15 @@
 
 **Format:** Live breakout activity \+ group debrief
 
-**Learning Goal:**
+**Learning goal:**
 
 Participants will practice developing a draft SOO using provided scenario prompts and apply key elements: Background, Scope, Objectives, Deliverables, Performance Standards, and Constraints/Assumptions.
 
-## Activity Structure
+## Activity structure
 
-**1\. Introduction & Setup (5 minutes)**
+**1\. Introduction & setup (5 minutes)**
 
-**Facilitator Says:**
+**Facilitator says:**
 
 "Outcome-based acquisitions often use a Statement of Objectives (SOO) instead of a Statement of Work (SOW). Today, you'll work in small groups to quickly create a SOO based on a shared scenario. The goal isn’t perfection—it’s to practice shifting your mindset from prescribing *how* to do the work to describing *what* needs to be accomplished."
 
@@ -24,9 +24,9 @@ Participants will practice developing a draft SOO using provided scenario prompt
 
 </br>
 
-**2\. Group Activity in Breakouts (20–25 minutes)**
+**2\. Group activity in breakouts (20–25 minutes)**
 
-**Scenario Prompt:**
+**Scenario prompt:**
 
 Your agency needs a new platform for tracking and managing stakeholder engagement across multiple programs. The current solution is outdated, with poor user experience and no mobile support. You want a cloud-based solution built iteratively using Agile methods, with a strong focus on usability, accessibility, and performance.
 
@@ -36,8 +36,8 @@ Your agency needs a new platform for tracking and managing stakeholder engagemen
 * **Scope:** High-level overview of the desired work  
 * **Objectives:** Desired outcomes (not tasks)  
 * **Deliverables:** What the contractor is expected to produce (in outcome terms)  
-* **Performance Standards or Metrics:** How success will be measured  
-* **Constraints or Assumptions (optional):** Known limitations or contextual information
+* **Performance standards or metrics:** How success will be measured  
+* **Constraints or assumptions (optional):** Known limitations or contextual information
 
 Participants can use this [Developing a Statement of Objectives (SOO)](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) template.
 
@@ -47,7 +47,7 @@ You can share a simple SOO template via Google Docs, PDF, or screen-share if hel
 
 </br>
 
-**3\. Report Out & Debrief (10–15 minutes)**
+**3\. Report out & debrief (10–15 minutes)**
 
 **Each group shares 1–2 highlights:**
 
@@ -65,7 +65,7 @@ You can share a simple SOO template via Google Docs, PDF, or screen-share if hel
 
 “What's one tip you’ll use when writing your next SOO?”
 
-### Materials & Support
+### Materials & support
 
 * **Scenario prompt** (in slides or chat)  
 * **SOO section guide** (shared screen or handout)  
