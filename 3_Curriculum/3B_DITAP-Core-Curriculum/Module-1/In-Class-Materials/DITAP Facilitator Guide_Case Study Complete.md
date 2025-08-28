@@ -28,7 +28,7 @@
 ### I. Overview & objectives  
 In this module, learners will explore what digital services are, how they are delivered, and why they matter. This session sets the foundation for the program by introducing the key concepts, players, and methods in modern federal digital acquisition. 
 
-The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), created by Cynuria, is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
+The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
 
 **Learning Objectives:**
 
@@ -277,7 +277,7 @@ In this session, learners apply market research planning techniques to Casey’s
 - **Format:** 
     - Individual analysis with peer discussion component
 
-**Part A: Casey's Strategic Research Plan Evolution** (35 minutes)
+#### Part A: Casey's Strategic Research Plan Evolution (35 minutes)
 
 Context Setting for New FAR Application
 - Based on today's session on the new FAR Part 10 framework, refine Casey's market research approach to leverage the strategic flexibility now available while addressing stakeholder integration challenges.
@@ -330,7 +330,7 @@ Context Setting for New FAR Application
 
 **Key Documentation Question**: Complete this statement: "If this acquisition were protested, Casey's research documentation would demonstrate..."
 
-**Part B: Personal Application of New FAR Framework** (25 minutes)
+#### Part B: Personal Application of New FAR Framework (25 minutes)
 
 Context Bridge to Your Work
 - Apply the new FAR Part 10 strategic framework to your own federal acquisition experience or current work context.
@@ -373,7 +373,7 @@ Context Bridge to Your Work
 * **Application Opportunity**: When will you next have a chance to apply this strategic framework?  
 * **Mentor/Resource Need**: What additional support would help you master the new approach?
 
-**Part C: Session Bridge Preparation** (10-15 minutes)
+#### Part C: Session Bridge Preparation (10-15 minutes)
 
 Milestone 2 Connection: Technical Integration Analysis
 - **Pre-Reading Assignment**: Read Navigating Stakeholder and Decision-Making Challenges Case Study Milestone 2 \- Integration Solutions.
