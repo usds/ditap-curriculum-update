@@ -1,8 +1,6 @@
 # DITAP In-Class Participant Guide
-
-*Updated August 2025*
-
-## Module 3 \- Acquisition Strategy
+# Module 3 \- Acquisition Strategy
+_Updated August 2025_
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -52,13 +50,13 @@ How-to techniques for developing a solicitation come in Sprint 2, with hands-on 
 
 Sprint 3 provides hands-on experience with a case study exercise in designing a solicitation strategy. You will learn the important elements of running a successful evaluation process with Agile and modern evaluation methods. 
 
-## Overview & Objectives
+## Overview and objectives
 
-### Module Summary
+### Module summary
 
 In this module you will get a clear description of digital services in the 21st century, including what they are, who provides them, how they are delivered, and why they are important. 
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this module, you will be able to:
 
@@ -69,21 +67,21 @@ By the end of this module, you will be able to:
 * Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions.
 
 
-### Connection to Overall DITAP Program
+### Connection to overall DITAP program
 
 This module supports the DITAP competency of applying effective techniques for acquiring digital service solutions in a solicitation and acquisition strategy, focusing on understanding the market and developing a clear statement of objectives that shifts focus to outcomes-based acquisition. It aligns with the broader goals of the DITAP program by reinforcing the shift from traditional, process-heavy procurement toward a more adaptive, outcome-driven approach that supports digital service delivery.
 
 This module focuses on understanding the market and developing a clear statement of objectives that emphasizes outcomes-based acquisition. It supports the DITAP competency of applying effective techniques for acquiring digital service solutions within solicitation and acquisition strategies. This approach reinforces the DITAP program's broader goal of shifting from traditional, process-heavy procurement to a more adaptive, outcome-driven method that facilitates digital service delivery.
 
-This session builds on prior learning from Module 2, and prepares you for upcoming topics such digital service delivery management and assessment.  It helps bridge the gap between theory and application by introducing the Lean Canvas as a strategic planning tool and evaluating the ethical and legal impacts of artificial intelligence at their agency. 
+This session builds on prior learning from Module 2, and prepares you for upcoming topics such digital service delivery management and assessment.  It helps bridge the gap between theory and application by introducing the Lean Canvas as a strategic planning tool and evaluating the ethical and legal impacts of artificial intelligence at your agency. 
 
-## Module Activities
+## Module activities
    
 
-1. ### Activity: Build Your Lean Acquisition Canvas (45 minutes)
+1. ### Activity: Build your lean acquisition canvas (45 minutes)
 
-* **Purpose**: Help acquisition professionals apply the Lean Canvas framework to a real or hypothetical digital acquisition problem, reinforcing its value for early strategic planning.  
-* **Expected Outcomes**: By the end of the activity, participants will:  
+* **Purpose**: Learn to apply the Lean Canvas framework to a real or hypothetical digital acquisition problem, reinforcing its value for early strategic planning.  
+* **Expected Outcomes**: By the end of the activity, you will:  
   * Understand the purpose and structure of the Lean Canvas  
   * Apply it to a simplified acquisition problem  
   * Recognize how it supports early-stage acquisition strategy thinking
@@ -106,7 +104,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 3. ### Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session? (10 minutes)
 
 * **Purpose**: To apply the lessons learned in this session to real-life situations  
-* **Expected Outcomes**: Learners will be able to anticipate risk and adapt their process to avoid those problems.
+* **Expected Outcomes**: You will be able to anticipate risk and adapt your process to avoid those problems.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
@@ -117,7 +115,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 * This is a quick knowledge check about ownership of source code
 
-* **Purpose**: To quickly check participants’ knowledge or opinions and use the results to guide the discussion.
+* **Purpose**: To quickly check your knowledge or opinions and use the results to guide the discussion.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
@@ -140,7 +138,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 6. ### Activity: Poll (10 minutes)
 
-* **Purpose**: To share experiences and talk about contracts with multiple vendors.  
+* **Purpose**: To share experiences and talk about contracts with multiple vendors  
 * **Expected outcomes**: To gain more insight into key issues that may arise with multi-vendor contracts. 
 
   **Notes:**   
@@ -148,9 +146,9 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 ---
 
-7. ### Discussion: Improving Collaboration On A Multi-Vendor Effort (10 minutes)
+7. ### Discussion: Improving collaboration on a multi-vendor effort (10 minutes)
 
-* **Purpose**: To share ideas about improving multi-vendor procurement with the group.  
+* **Purpose**: To share ideas about improving multi-vendor procurement with the group  
 * **Expected Outcomes**: You will have identified actions they can take to improve multi-vendor efforts.
 
   **Notes:**   
@@ -158,40 +156,40 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 ---
 
-8. ### Activity: Scenario Discussion (20-30 minutes)
+8. ### Activity: Scenario discussion (20-30 minutes)
 
-* **Purpose**:  This scenario helps you to think about how you would apply the fairness and equity concepts in a hypothetical situation.  
-* **Expected Outcomes**:  You will be able to apply these concepts more broadly in real world situations, ensuring fairness, equity, and support for matching vendors to your project.
+* **Purpose**: This scenario helps you to think about how you would apply the fairness and equity concepts in a hypothetical situation.  
+* **Expected Outcomes**: You will be able to apply these concepts more broadly in real world situations, ensuring fairness, equity, and support for matching vendors to your project.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
 
 ---
 
-9. ### Activity: Drafting a Statement of Objectives (SOO) for Agile Services (30-45 minutes)
+9. ### Activity: Drafting a Statement of Objectives (SOO) for Agile services (30-45 minutes)
 
 * **Purpose:** To gain hands-on experience drafting a concise and focused SOO  
-* **Expected Outcomes:** Learners will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. They will involve contracting early in the process to ensure alignment.
+* **Expected Outcomes:** You will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. They will involve contracting early in the process to ensure alignment.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
 
 ---
 
-10. ### Discussion: Outcome-Based vs Personnel \- Focused Criteria (15 minutes)
+10. ### Discussion: Outcome-Based vs personnel \- focused criteria (15 minutes)
 
 * **Purpose**: To apply what you have learned with respect to key personnel standards  
-* **Expected Outcomes:** Learners will be able to refine their approach to KP in real-world situations, establishing outcome-based criteria
+* **Expected Outcomes:** You will be able to refine your approach to KP in real-world situations, establishing outcome-based criteria.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
 
 ---
 
-11. ### Discussion: Applying AI Data Analysis to Acquisition Planning (10 minutes)
+11. ### Discussion: Applying AI data analysis to acquisition planning (10 minutes)
 
 * **Purpose**: Apply what you have learned about using AI for data analysis  
-* **Expected Outcomes**: Learners will be able to use AI to perform better analyses or predictions in acquisition planning.
+* **Expected Outcomes**: You will be able to use AI to perform better analyses or predictions in acquisition planning.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
@@ -200,16 +198,15 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 12. ### Activity: [Tech Evaluation Panel Checklist](https://github.com/usds/ditap-curriculum-update/blob/163d5b2713554bc107b0494307fe88ec17062889/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md) (20 minutes)
 
-* **Purpose**: To create a list that will help you to determine the tech evaluation panel’s skillset.  
+* **Purpose**: To create a list that will help you to determine the tech evaluation panel’s skillset  
 * **Expected Outcomes**: You will be able to use a checklist of standards that will assess a technical evaluation panel’s skillset relative to the digital service you will be asked to evaluate. You may also offer ideas on other techniques you could use.  
-
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
 
 ---
 
-13. ### Activity: Use A Trade-Off Matrix to Help Determine What Matters Most (15 minutes)
+13. ### Activity: Use a trade-off matrix to help determine what matters most (15 minutes)
 
 * **Purpose:** To practice using the trade-off matrices to help clarify priorities  
 * **Expected Outcomes**: You will be able to develop rationales for using either of the matrices and use that knowledge to apply a matrix to your capstone project. 
@@ -222,14 +219,14 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 14. ### Activity: Poll (5 minutes)
 
 * **Purpose:** To share your concerns about debriefs with the group  
-* **Expected Outcomes**: You will find out what your and their peers’ concerns are about debriefs at this point in the training. 
+* **Expected Outcomes**: You will find out what your and your peers’ concerns are about debriefs at this point in the training. 
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
 
 ---
 
-15. ### Activity: The Power of Debriefing (35-40 minutes)
+15. ### Activity: The power of debriefing (35-40 minutes)
 
 * **Purpose:** Conduct a sensitive and thorough debrief with stakeholders.  
 * **Expected Outcomes:** You will know how to skillfully conduct a debriefing session, including setting the right tone, getting vendor feedback, and sum up with a closing statement.
