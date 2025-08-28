@@ -1,6 +1,6 @@
 # Key Personnel vs Outcome-Based Acquisition: A Shift in Mindset for Agile Delivery
 
-## Training Module: Rethinking Key Personnel in Outcome-Based Agile Contracts
+## Training module: Rethinking key personnel in outcome-based Agile contracts
 
 **Slide 1: Title**
 
@@ -21,7 +21,7 @@
 
 **Slide 4: Common Practice vs Agile Need**
 
-| Aspect | Traditional KP Model | Agile/Outcome-Based Approach |
+| Aspect | Traditional KP model | Agile/Outcome-Based approach |
 | :---- | :---- | :---- |
 | Focus | Individuals | Teams |
 | Structure | Prescriptive | Flexible |
