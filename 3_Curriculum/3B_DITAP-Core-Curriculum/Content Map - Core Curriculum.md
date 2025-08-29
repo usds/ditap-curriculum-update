@@ -33,7 +33,7 @@
 | Self-paced             | Assessing Agency Readiness                         |
 | In-class               | Determine Your Organizational Maturity             |
 | In-class               | Strategy Table in Practice                         |
-| In-class               | Change and Innovative Readiness Survey (in class / fillable) |
+| In-class               | Change and Innovative Readiness Survey             |
 |                        | Sprint 2                                           |
 | Self-paced             | Stakeholder and Customer Mapping                   |
 | In-class               | Case Study Tie In: Module 2 Activity: Mapping Casey’s Stakeholders (Milestone 1) |
