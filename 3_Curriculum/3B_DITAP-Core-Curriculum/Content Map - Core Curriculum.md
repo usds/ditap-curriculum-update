@@ -88,7 +88,7 @@
 |                        | Slide Deck Presentation                            |
 |                        | Sprint 1                                           |
 | Self-paced             | Leading Change as an Individual                    |
-|                        | Sprint 1                                           |
+|                        | Sprint 2                                           |
 | Self-paced             | Leading Organizational Change - Continuous Improvement and Scalable Practices|
 | Self-paced             | Post-Program Assessment                            |
 | Self-paced             | Post-Program Survey                                |
