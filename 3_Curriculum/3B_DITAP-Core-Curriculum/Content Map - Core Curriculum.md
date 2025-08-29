@@ -13,7 +13,7 @@
 |                        | Facilitator Guide: Module 1                        |
 |                        | Participant Guide: Module 1                        |
 |                        | LDA Phase 1: Discovery Sprint Simulation           |
-|                        | Introduction to Digital Services Presentation      |
+|                        | Module 1 Presentation                              |
 |                        | Sprint 1                                           |
 | Self-paced             | The Digital Services Landscape                     |
 | In-class               | Case Study: Introducing Casey and the CRM Project  |
@@ -30,7 +30,7 @@
 |                        | Facilitator Guide: Module 2                        |
 |                        | Participant Guide: Module 2                        |
 |                        | LDA Phase 2: Case Study Development                |
-|                        | Determine Your Organizational Readiness Presentation |
+|                        | Module 2 Presentation                              |
 |                        | Sprint 1                                           |
 | Self-paced             | Assessing Agency Readiness                         |
 | In-class               | Determine Your Organizational Maturity             |
