@@ -1,6 +1,6 @@
 # Content Map - Core Curriculum
 
-| Self-paced or In-class | Content                                            |
+| Content Type | File Name                                           |
 |------------------------|----------------------------------------------------|
 | -                      | **Module 0: Orientation**                          |
 | Self-paced             | Pre-Program Survey                                 |
@@ -12,7 +12,7 @@
 | -                      | **Module 1 : Describe**                            |
 |                        | Facilitator Guide: Module 1                        |
 |                        | Participant Guide: Module 1                        |
-|                        | LDA Phase 1: Discovery Sprint Simulation (Weeks 2–6, Module 2 Sprints 1 & 4) |
+|                        | LDA Phase 1: Discovery Sprint Simulation           |
 |                        | Introduction to Digital Services Presentation      |
 |                        | Sprint 1                                           |
 | Self-paced             | The Digital Services Landscape                     |
@@ -24,10 +24,12 @@
 |                        | Sprint 3                                           |
 | Self-paced             | Digital Service Tech Bootcamp                      |
 | In-class               | Activity: Build a Digital Service Workshop         |
+| In-class               | TBD                                                |
+| In-class               | TBD                                                |
 | -                      | **Module 2 : Discover**                            |
 |                        | Facilitator Guide: Module 2                        |
 |                        | Participant Guide: Module 2                        |
-|                        | LDA Phase 2: Case Study Development (Weeks 7–12, Module 3 Sprints 1 & 4) |
+|                        | LDA Phase 2: Case Study Development                |
 |                        | Determine Your Organizational Readiness Presentation |
 |                        | Sprint 1                                           |
 | Self-paced             | Assessing Agency Readiness                         |
@@ -49,7 +51,7 @@
 | -                      | **Module 3 : Design**                              |
 |                        | Facilitator Guide: Module 3                        |
 |                        | Participant Guide: Module 3                        |
-|                        | LDA Phase 3: Peer Evaluation & Feedback (Weeks 13–16, Module 4 Sprints 1 & 4) |
+|                        | LDA Phase 3: Peer Evaluation & Feedback            |
 |                        | Acquisition Strategy Presentation                  |
 |                        | Sprint 1                                           |
 | Self-paced             | Developing a Successful Acquisition Strategy       |
@@ -67,7 +69,7 @@
 | -                      | **Module 4 : Build**                               |
 |                        | Facilitator Guide: Module 4                        |
 |                        | Participant Guide: Module 4                        |
-|                        | LDA Phase 3: Peer Evaluation & Feedback (Weeks 13–16, Module 4 Sprints 1 & 4) |
+|                        | LDA Phase 3: Peer Evaluation & Feedback            |
 |                        | Managing Agile Digital Service Contracts Presentation |
 |                        | Sprint 1                                           |
 | Self-paced             | Management of Digital Service Delivery             |
@@ -84,7 +86,7 @@
 | -                      | **Module 5 : Grow**                                |
 |                        | Facilitator Guide: Module 5                        |
 |                        | Participant Guide: Module 5                        |
-|                        | LDA Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2) |
+|                        | LDA Phase 4: Final Team Reflections                |
 |                        | Leading Change Presentation                        |
 |                        | Sprint 1                                           |
 | Self-paced             | Leading Change as an Individual                    |
