@@ -37,7 +37,7 @@
 |                        | Sprint 2                                           |
 | Self-paced             | Stakeholder and Customer Mapping                   |
 | In-class               | Case Study Tie In: Module 2 Activity: Mapping Casey’s Stakeholders (Milestone 1) |
-| In-class               | Role Play Activity_Stakeholder Influence Challenge.md |
+| In-class               | Role Play Activity Stakeholder Influence Challenge.md |
 | In-class               | Activity: Stakeholder Selection and Interview Assignment |
 |                        | Sprint 3                                           |
 | Self-paced             | Defining Success for your Digital Services Acquisition |
