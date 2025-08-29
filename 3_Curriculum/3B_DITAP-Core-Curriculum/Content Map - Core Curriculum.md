@@ -5,7 +5,7 @@
 | -                      | **Module 0: Orientation**                          |
 | Self-paced             | Pre-Program Survey                                 |
 | Self-paced             | Pre-Program Assessment                             |
-| Self-paced             | DITAP Orientation: What to Expect, How to Navigate |
+| Self-paced             | DITAP Orientation                                  |
 | In-class               | Discussion Post - Introduction                     |
 | In-class               | Learning How to Learn Presentation                 |
 | In-class               | Intro to Shadowing Assignment                      |
