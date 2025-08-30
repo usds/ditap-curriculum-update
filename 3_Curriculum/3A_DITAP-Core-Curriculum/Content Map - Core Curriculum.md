@@ -11,9 +11,9 @@
 ## Module 1: Describe
 | Content Type | File Name |
 |------------------------|----------------------------------------------------|
-|                        | Facilitator Guide: Module 1                        |
-|                        | Participant Guide: Module 1                        |
-|                        | Module 1 Presentation                              |
+| In-class               | Facilitator Guide: Module 1                        |
+| In-class               | Participant Guide: Module 1                        |
+| In-class               | Module 1 Presentation                              |
 |                        | **Sprint 1**                                       |
 | Self-paced             | The Digital Services Landscape                     |
 | In-class               | Case Study: Introducing Casey and the CRM Project  |
@@ -30,9 +30,9 @@
 ## Module 2: Discover
 | Content Type | File Name |
 |------------------------|----------------------------------------------------|
-|                        | Facilitator Guide: Module 2                        |
-|                        | Participant Guide: Module 2                        |
-|                        | Module 2 Presentation                              |
+| In-class               | Facilitator Guide: Module 2                        |
+| In-class               | Participant Guide: Module 2                        |
+| In-class               | Module 2 Presentation                              |
 |                        | **Sprint 1**                                       |
 | Self-paced             | Assessing Agency Readiness                         |
 | In-class               | Determine Your Organizational Maturity             |
@@ -54,9 +54,9 @@
 ## Module 3: Design
 | Content Type | File Name |
 |------------------------|----------------------------------------------------|
-|                        | Facilitator Guide: Module 3                        |
-|                        | Participant Guide: Module 3                        |
-|                        | Module 3 Presentation                              |
+| In-class               | Facilitator Guide: Module 3                        |
+| In-class               | Participant Guide: Module 3                        |
+| In-class               | Module 3 Presentation                              |
 |                        | **Sprint 1**                                       |
 | Self-paced             | Developing a Successful Acquisition Strategy       |
 | In-class               | Case Study: Solution Evaluation with SWOT Analysis |
@@ -74,9 +74,9 @@
 ## Module 4: Build
 | Content Type | File Name |
 |------------------------|----------------------------------------------------|
-|                        | Facilitator Guide: Module 4                        |
-|                        | Participant Guide: Module 4                        |
-|                        | Module 4 Presentation                              |
+| In-class               | Facilitator Guide: Module 4                        |
+| In-class               | Participant Guide: Module 4                        |
+| In-class               | Module 4 Presentation                              |
 |                        | **Sprint 1**                                       |
 | Self-paced             | Management of Digital Service Delivery             |
 | In-class               | Activity: Who Does What? Agile Role Round Robin    | 
@@ -93,9 +93,9 @@
 ## Module 5: Grow
 | Content Type | File Name |
 |------------------------|----------------------------------------------------|
-|                        | Facilitator Guide: Module 5                        |
-|                        | Participant Guide: Module 5                        |
-|                        | Module 5 Presentation                              |
+| In-class               | Facilitator Guide: Module 5                        |
+| In-class               | Participant Guide: Module 5                        |
+| In-class               | Module 5 Presentation                              |
 |                        | **Sprint 1**                                       |
 | Self-paced             | Leading Change as an Individual                    |
 |                        | **Sprint 2**                                       |
