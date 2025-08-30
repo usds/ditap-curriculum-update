@@ -8,7 +8,6 @@
 | Self-paced             | DITAP Orientation                                  |
 | In-class               | Discussion Post - Introduction                     |
 | In-class               | Learning How to Learn Presentation                 |
-| In-class               | Intro to Shadowing Assignment                      |
 | -                      | **Module 1 : Describe**                            |
 |                        | Facilitator Guide: Module 1                        |
 |                        | Participant Guide: Module 1                        |
