@@ -18,7 +18,7 @@ The USDS initiated a comprehensive curriculum update to transform DITAP into a m
 
 ## DITAP Consortium 
 
-The Digital IT Acquisition Program (DITAP) Consortium is established to guide continuous improvement for the DITAP program, and foster a collaborative environment for DITAP program stakeholders, training providers, agencies, and alumni. The consortium will serve as a venue for participants to share regular feedback on opportunities to improve the program and course curriculum, to determine pathways to implement program changes or updates over time, and in doing so, to ultimately improve digital service procurement outcomes for the organizations DITAP graduates serve.
+The Digital IT Acquisition Program (DITAP) Consortium was established to guide continuous improvement for the DITAP program, and foster a collaborative environment for DITAP program stakeholders, training providers, agencies, and alumni. The consortium will serve as a venue for participants to share regular feedback on opportunities to improve the program and course curriculum, to determine pathways to implement program changes or updates over time, and in doing so, to ultimately improve digital service procurement outcomes for the organizations DITAP graduates serve.
 
 ## Repository Purpose
 
