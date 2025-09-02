@@ -31,8 +31,7 @@ Participants are interviewed in 30-minute virtual sessions via Zoom. The meeting
 ### Materials
 
 - [Research synthesis](https://app.mural.co/t/civicactions3117/m/civicactions3117/1748881761796/fa7579abbe744b662cd921f8fd81e6c12450fc06?sender=u4f51c3ab811a3cc570d34701)
-- [Research Readout Presentation](https://docs.google.com/presentation/d/1m6e18kmuOe_FsOk84ajUkGhz1FlKRlT9Ts03XKremWo/edit?usp=sharing)
-- [Readout Recording](https://drive.google.com/file/d/1bn2BMVJiMgy0TLnOU8ajX2bOZygF41_m/view?usp=sharing)
+- [Research Readout Presentation](https://github.com/usds/ditap-curriculum-update/blob/main/1_About/IC_Research-Artifacts/1C.1_Reports/Product%20Thinking%20in%20Acquisitions%20Research%20-%20May_June%202025.pdf)
   
 ### Recruitment and timeline
 
