@@ -24,9 +24,9 @@ The Digital IT Acquisition Program (DITAP) Consortium was established to guide c
 
 This repository hosts the DITAP curriculum. It provides all the resources needed for vendors and partners to deliver the program with fidelity while allowing flexibility in specific components. The open-source approach ensures transparency, enables continuous improvement, and allows the broader acquisition community to benefit from these modern practices.
 
-The repository is designed to keep content **continuously updated**. Updates ensure the curriculum reflects evolving digital acquisition practices, emerging technologies, and feedback from the field. This makes the program a living resource that adapts with the needs of the federal procurement community.
+The repository is designed to keep content continuously updated. Updates ensure the curriculum reflects evolving digital acquisition practices, emerging technologies, and feedback from the field. This makes the program a living resource that adapts with the needs of the federal procurement community.
 
-In addition, the repository is a **collaborative space**. Current DITAP providers, agency stakeholders, and members of the broader community are invited to contribute to the curriculum. Contributions, through pull requests and issue reporting, ensure the program evolves with real-world needs.
+In addition, the repository is a collaborative space. Current DITAP providers, agency stakeholders, and members of the broader community are invited to contribute to the curriculum. Contributions, through pull requests and issue reporting, ensure the program evolves with real-world needs.
 
 ## Repository Structure
 
