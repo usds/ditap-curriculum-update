@@ -9,20 +9,20 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & Objectives
+## I. Overview & objectives
 
 In this session, learners explore how to manage digital service delivery after contract award using agile approaches and performance metrics. This session builds on the solicitation strategies developed in Module 3 and extends the application of the Nagivating Stakeholder and Decision-Making Challenges case study by shifting the focus to delivery and oversight. It reinforces the importance of continuous involvement and shared accountability—key themes throughout the DITAP course.
 
 **Learning Objectives:**
-* Define early performance metrics and indicators of agile delivery health  
-* Develop a shared Sprint 0 plan and identify key post-award rhythms  
-* Explore CO/COR/PO alignment and agile contracting governance  
-* Apply course concepts to practical delivery and kickoff scenarios
+* Define early performance metrics and indicators of agile delivery health.  
+* Develop a shared Sprint 0 plan and identify key post-award rhythms.  
+* Explore CO/COR/PO alignment and agile contracting governance.  
+* Apply course concepts to practical delivery and kickoff scenarios.
 
 | Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
-## II. Materials & Preparation
+## II. Materials & preparation
 
 **Required Pre-Read for Participants:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study (Final section focused on Casey’s post-award challenges)  
@@ -34,7 +34,7 @@ In this session, learners explore how to manage digital service delivery after c
 * Security compliance requirements should integrate with agile delivery planning and oversight.  
 * Market research insights should inform vendor relationship management and performance expectations.
 
-## III. Session Agenda & Activities
+## III. Session agenda & activities
 
 **Activity:** Laying the Groundwork for Agile Delivery  
 **Time:** 45–60 minutes  
@@ -72,7 +72,7 @@ In this session, learners explore how to manage digital service delivery after c
   * *“How do communication rhythms and roles support transparency?”*  
   * *“What early decisions could strengthen vendor collaboration?”*
 
-## IV. Next Steps / Follow-Up
+## IV. Next steps / Follow-Up
 
 * Ensure learners understand Milestones 4 & 5 in the case study.  
 * Encourage note-taking that supports the final analysis and presentation in Module 6\.  
