@@ -2,7 +2,7 @@
 
 *Updated July 2025*
 
-## Module 4 \- Managing Agile Digital Service  Contracts: Oversight, Performance, and Delivery 
+## Module 4 \- Managing Agile digital service contracts: oversight, performance, and delivery
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -12,36 +12,36 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-### Overview and Objectives
+### Overview and objectives
 
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-### Materials and Preparation
+### Materials and preparation
 
    - Required Materials  
    - Preparation Checklist
 
-### Module Agenda
+### Module agenda
 
-### Module Activities
+### Module activities
 1. Activity: Who Does What? Agile Role Round Robin 
 2. Activity: Build Your Charter Together
 3. Discussion: What behavior are you trying to incentivize \- and does your current contract structure support it? 
 4. Activity: Cloud Breach Tabletop Exercise
 
-### Additional Resources
+### Additional resources
 
    - Links to Relevant Documents  
    - Contact Information
 
 
-## Overview & Objectives
+## Overview & objectives
 
     
 
-### Module Summary
+### Module summary
 
 Module 4 consists of exercises and insights for managing vendor partnerships and supporting delivery through contract administration practices grounded in agile and lean methodologies. Learners will track project health using real-time, measurable, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. 
 
@@ -51,26 +51,26 @@ Importantly, participants will conduct a hands-on tabletop exercise to develop a
 
 The focus is on transparency, collaboration, and outcomes throughout the contract lifecycle.
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this module, participants will be able to:
 
-* Explain the role of product ownership in agile delivery and how it supports post-award success.  
-* Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals.  
-* Identify agile performance metrics that go beyond compliance to measure true delivery value.  
-* Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics.  
-* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place.  
-  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments.
+* Explain the role of product ownership in agile delivery and how it supports post-award success  
+* Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals  
+* Identify agile performance metrics that go beyond compliance to measure true delivery value  
+* Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics  
+* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place  
+  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments
 
-### Connection to Overall DITAP Program
+### Connection to overall DITAP program
 
 This module supports the DITAP competency areas of Agile digital service delivery management, providing oversight, performance measurement principles, and problem resolution, The focus is on enabling acquisition professionals to apply Agile principles to procurement. It aligns with the broader goals of the DITAP program by reinforcing the shift from traditional, process-heavy procurement toward a more adaptive, outcome-driven approach that supports digital service delivery.
 
 This session builds on prior learning from Module 3 which focuses on acquisition strategy, preparation and evaluation, and prepares learners for upcoming topics in Module 5, such as professional growth and leadership. It helps bridge the gap between theory and application by introducing how each role contributes to building a team charter, and how to conduct a tabletop exercise in case of a cloud security breach.
 
-## Materials and Preparation
+## Materials and preparation
 
-  ### Required Materials:
+  ### Required materials:
 
 - [ ] Slide deck for Module 4  
 - [ ] [Facilitator Guide: Who does what? Agile role round robin](https://github.com/usds/ditap-curriculum-update/blob/1b47b0cc6c028e2259c15046747f7575ad4173c0/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Agile%20Role%20Round%20Robin%20Facilitator%20Guide.md)
@@ -79,13 +79,13 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 - [ ] [Cloud Breach Tabletop Exercise Facilitation Guide (COR/CO Guide: Running a Tabletop Breach Exercise Under Contract Performance)](https://github.com/usds/ditap-curriculum-update/blob/adb0ba4e119e3a6a843f118aff56a4a04e3c5b6e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Cloud%20Breach%20Tabletop%20Exercise%20Facilitation%20Guide.md)  
 - [ ] Whiteboard and markers or digital collaboration tool
 
-### Preparation Checklist:
+### Preparation checklist:
 
   - [ ] Set up breakout rooms   
   - [ ] Divide participants into groups   
-  - [ ] Ensure whiteboard and markers or an alternative way of sharing notes is available. 
+  - [ ] Ensure whiteboard and markers or an alternative way of sharing notes is available
 
-## Module Agenda
+## Module agenda
 
    
 
@@ -99,15 +99,15 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    
 
-## Module Activities
+## Module activities
 
    
 
-1. ### Activity: Who Does What? Agile Role Round Robin
+1. ### Activity: Who does what? Agile role round robin
 
    Total Time Allocation: 45-60 min, in 15-20 min intervals
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Explores real-world decision-making that occurs across agile roles during delivery \- especially between federal and vendor team members. Participants practice thinking critically about who owns what in agile delivery and where the role boundaries blur.   
    * **Expected Outcomes**: Learners will be able to delineate the agile roles and responsibilities across the team.  
@@ -124,7 +124,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
      * Instruct them to take and rotate roles for each exercise, and ask “What should this role do in this situation?”  
      * Don’t think about getting it “right” \- experience the tensions (this is normal) and overlap and think critically about where roles overlap.   
      * Come together for debriefing to explore what the moments of tension mean. Each group can share one scenario and a key insight that resulted from the conversation. Did someone bring a new perspective that shifted your thinking about accountability?  
-       * Share one scenario your group explored  
+       * Share one scenario your group explored.
        * What insight or surprise emerged about role clarity?  
        * What tools, agreements, or structures could reduce future confusion?  
      * The group can then reflect on what they saw across the board:   
@@ -134,20 +134,20 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
        
 
-| Facilitator Themes to Look For and/or Highlight |
+| Facilitator themes to look for and/or highlight |
 | :---- |
 | The big takeaway here is that **shared understanding early on prevents slowdowns later**. Having clarity doesn’t mean eliminating every gray area, but it does mean deciding how you’ll navigate those areas as a team. |
 
 ---   
 
-2. ### Activity: Build your Charter Together
+2. ### Activity: Build your charter together
 
    Total Time Allocation: 35-45 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: To align on what success looks like, who owns what, and how you’ll work together throughout delivery.   
-   * **Expected Outcomes**: The group collaborates to build a simple project charter   
+   * **Expected Outcomes**: The group collaborates to build a simple project charter.   
    * **Materials Needed** (specific to activity):  
      * Breakout spaces  
      * [Facilitation Guide: “Build Your Charter Together”](https://github.com/usds/ditap-curriculum-update/blob/adb0ba4e119e3a6a843f118aff56a4a04e3c5b6e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Activity_Digital_Service_Project_Charter.md) (includes charter template)  
@@ -155,14 +155,14 @@ This session builds on prior learning from Module 3 which focuses on acquisition
      * Do a simulation of building a shared charter at the start of a project  
      * Form groups of 3-4 and take on the CO, COR, and PO roles  
      * Work together to review the scenario and fill out four sections of a simple charter:  
-       * Define the mission and project success  
-       * Clarify roles and shared responsibilities  
-       * Build a communication rhythm  
-       * Set escalation and celebration plans  
+       * Define the mission and project success.  
+       * Clarify roles and shared responsibilities.  
+       * Build a communication rhythm.  
+       * Set escalation and celebration plans. 
      * This is your chance to align on what success looks like, who owns what, and how you’ll work together throughout delivery.  
      * Just like in real life, you might not agree on everything at first—that’s part of the learning. The **conversations** you have will be **just as valuable** as what you write down.  
-     * Use your real-life experience to shape how you collaborate  
-     * Be ready to share a key takeaway or insight from your group  
+     * Use your real-life experience to shape how you collaborate.  
+     * Be ready to share a key takeaway or insight from your group. 
    * **Discussion:**   
      Invite 1–2 groups to share highlights before opening to general discussion.  
      * What felt easiest to align on? What took negotiation?  
@@ -175,7 +175,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    Total Time Allocation: 15 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: to consider what contract structure and incentives encourage the desired behaviors and outcomes?  
    * **Expected Outcomes**: Learners will be able to structure their contracts with clear intention to encourage and incentivize the vendor to deliver on contract priorities.  
@@ -192,11 +192,11 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
 ---
 
-4. ### Activity: Cloud Breach Tabletop Exercise
+4. ### Activity: Cloud breach tabletop exercise
 
    Total Time Allocation: 60-90 min (blocks can be adjusted per available session length)
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Test your team’s response to a security breach scenario, using the roles and responsibilities you hold in federal agile delivery. Focus on identifying process gaps and improving response clarity when responding to a security breach.  
    * **Expected Outcomes**: By the end of this exercise, participants should be able to:  
@@ -247,16 +247,16 @@ This session builds on prior learning from Module 3 which focuses on acquisition
      * Each role’s biggest challenge in the scenario  
      * Where coordination broke down or worked well  
      * What gaps you uncovered in contract language or escalation paths  
-     * What changes you would make to your team’s current breach readiness.
+     * What changes you would make to your team’s current breach readiness
 
      **After-Action Ideas to Share with the Class to Consider:**  
-       * Clarify or revise breach response clauses  
-       * Identify training or documentation needs  
-       * Build a follow-up checklist or SOP for future reviews
+       * Clarify or revise breach response clauses.  
+       * Identify training or documentation needs.
+       * Build a follow-up checklist or SOP for future reviews.
 
        
 
-| Facilitator Themes to Highlight |
+| Facilitator themes to highlight |
 | :---- |
 | Note that this is: |
 | • A role-based simulation, not a blame game |
@@ -265,15 +265,15 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
 
 
-## Additional Resources
+## Additional resources
 
-   ### Links to Relevant Documents:
+   ### Links to relevant documents:
 
    * Link to relevant documents as needed.
 
      
 
-   ### Contact Information:
+   ### Contact information:
 
    * Who to contact for technical issues or content questions.
 
