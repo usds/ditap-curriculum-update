@@ -9,19 +9,19 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & Objectives
+## I. Overview & objectives
 
 In this session, learners apply insights from solution evaluation to define acquisition strategies and draft components of a user-centered solicitation. This session is grounded in Milestone 3 of the Nagivating Stakeholder and Decision-Making Challenges case study, which asks learners to write a Statement of Objectives (SOO), define evaluation criteria, and choose a corresponding evaluation method.
 
 **Learning Objectives:**
-* Draft a clear Statement of Objectives (SOO) based on discovery and solution analysis  
-* Define evaluation factors that reflect key performance needs and constraints  
-* Identify an evaluation method aligned to solution complexity and risks
+* Draft a clear Statement of Objectives (SOO) based on discovery and solution analysis.  
+* Define evaluation factors that reflect key performance needs and constraints.  
+* Identify an evaluation method aligned to solution complexity and risks.
 
 | Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on previous milestones to help learners connect evaluation decisions to solicitation design. |
 | :---- |
 
-## II. Materials & Preparation
+## II. Materials & preparation
 
 **Materials:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study – Milestone 3 (Evaluation and Solicitation Strategy)  
@@ -34,7 +34,7 @@ In this session, learners apply insights from solution evaluation to define acqu
 **Pre-Read for Participants:**
 * Milestone 3: Evaluation and Solicitation Strategy
 
-## III. Session Agenda & Activities
+## III. Session agenda & activities
 
 **Activity:** Designing a Solicitation Strategy  
 **Time:** 45 minutes  
@@ -48,13 +48,13 @@ In this session, learners apply insights from solution evaluation to define acqu
    * A short Statement of Objectives (SOO)  
    * A recommendation for evaluation criteria and method
 - **In teams**:  
-   * Draft the SOO based on your chosen CRM strategy  
-   * Define 2–3 evaluation factors and describe what a strong response would look like  
-   * Choose and justify an evaluation method (e.g., LPTA, trade-off)  
-        - Encourage teams to root decisions in user needs, solution fit, and past case milestones  
+   * Draft the SOO based on your chosen CRM strategy.  
+   * Define 2–3 evaluation factors and describe what a strong response would look like.  
+   * Choose and justify an evaluation method (e.g., LPTA, trade-off).  
+        - Encourage teams to root decisions in user needs, solution fit, and past case milestones.  
 - **Quick share-out**:  
-   * Each team presents their SOO and evaluation logic  
-   * Facilitator offers warm feedback or points of tension
+   * Each team presents their SOO and evaluation logic.  
+   * Facilitator offers warm feedback or points of tension.
 
 **Expected Outcomes:**
 * Draft SOOs with clear alignment to discovery and evaluation  
@@ -62,13 +62,13 @@ In this session, learners apply insights from solution evaluation to define acqu
 * Justification for methods that reflect FAR flexibilities and digital service goals
 
 **Optional Extension Ideas:**
-* **Peer Review Rotation:** Learners rotate to peer review SOOs and evaluation strategies using a feedback checklist  
-* **Debrief the Decision:** Select teams defend their proposed strategy in a mock IPT setting with other learners asking questions and raising potential risks
+* **Peer Review Rotation:** Learners rotate to peer review SOOs and evaluation strategies using a feedback checklist.  
+* **Debrief the Decision:** Select teams defend their proposed strategy in a mock IPT setting with other learners asking questions and raising potential risks.
 
-## IV. Next Steps
+## IV. Next steps
 
-* Refine SOO and evaluation approach and prepare for Milestone 4  
+* Refine SOO and evaluation approach and prepare for Milestone 4.  
 * Acquisition Strategy Development  
-  * Performance-Based Contracting: Focus on delivery outcomes and mission effectiveness rather than compliance  
+  * Performance-Based Contracting: Focus on delivery outcomes and mission effectiveness rather than compliance.  
   * Modular Contracting
 
