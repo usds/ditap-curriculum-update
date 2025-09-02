@@ -17,6 +17,7 @@ Participation in the DITAP Consortium is voluntary.
   - CivicActions 
   - Skylight
   - ASI
+  - Graduate School
 - **Agency Procurement and Digital Service Representatives:** Responsible for sharing agency needs and perspectives, identifying real world case studies and other agency-based opportunities to successfully implement the DITAP program.
   - Department of Homeland Security Procurement Innovation Lab 
   - Department of Commerce Lab 
