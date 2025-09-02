@@ -3,7 +3,7 @@ Weeks 13–16, Module 4 Sprints 1 & 4
 
 The objective of Phase 3 is for participants to simulate the technical evaluation process, assessing vendor submissions using a structured rubric. This reinforces their understanding of evaluation criteria, promotes fairness in scoring, and highlights the value of artifact-based reviews. Key learning outcomes for this phase include developing evaluation skills, fostering empathy for vendors, and practicing constructive critique. Teams commence reviewing anonymized packages in Module 4, Sprint 1, with deliverables including a completed rubric, evaluation memo, final ranked score, and feedback provided in Module 4, Sprint 4\.
 
-## Facilitator Guide:
+## Facilitator guide:
 
 Facilitators manage the blind evaluation process, emphasizing its importance in eliminating bias and focusing solely on the submission's merit. Each team is assigned at least 3 anonymized case study packages for review. Depending on the size of the class, it could be that they receive all other team’s packages to review. 
 
@@ -13,7 +13,7 @@ Facilitators provide and thoroughly review the standardized evaluation rubric, g
 
 **Team Deliverables**: Each team is responsible for submitting one completed rubric and feedback memo per case reviewed, actively participating in feedback exchange, and contributing to a final ranked score.
 
-## Peer Evaluation Rubric Key Elements
+## Peer evaluation rubric key elements
 
 | Criteria Category | Description |
 | :---- | :---- |
@@ -26,7 +26,7 @@ Facilitators provide and thoroughly review the standardized evaluation rubric, g
 | Pass/Fail Determination | Clear indication of whether the submission meets all minimum requirements as per Case Study Evaluation. |
 | Feedback Quality | Assessment of feedback for constructiveness, actionability, and specificity to the evaluation criteria. |
 
-## Scoring Rubric 
+## Scoring rubric 
 (Can be updated per program)
 
 | Component | Requirement Description | Pass Criteria | Fail Criteria |
