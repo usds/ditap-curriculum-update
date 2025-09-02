@@ -22,10 +22,10 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Module activities
 
-1. Activity: Who Does What? Agile Role Round Robin
-2. Activity: Build Your Charter Together
+1. Activity: Who does what? Agile role round robin
+2. Activity: Build your charter together
 3. Discussion: What behavior are you trying to incentivize \- and does your current contract structure support it?
-4. Activity: Cloud Breach Tabletop Exercise
+4. Activity: Cloud breach tabletop exercise
 
 ### Reflections on this module
 
@@ -75,14 +75,14 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 * **Materials Needed**:   
   * [Participant Worksheet](https://github.com/usds/ditap-curriculum-update/blob/7502b1e11acfcac5453b0314ec874ba2134abc01/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Agile%20Role%20Round%20Robin%20Participant%20Guide.md)  
 * **Activity**:   
-  * Join your group and review the prompts you were assigned  
+  * Join your group and review the prompts you were assigned.  
   * Ask, “What should this role do in this situation?”  
   * Don’t think about getting it “right” \- experience the tensions (this is normal) and overlap and think critically about where roles overlap. 
 
   **Debrief:**
 
     * Come together to explore what the moments of tension mean. Your group can share one scenario and a key insight that resulted from the conversation. Did someone bring a new perspective that shifted your thinking about accountability?  
-    * Share one scenario your group explored  
+    * Share one scenario your group explored.  
     * What insight or surprise emerged about role clarity?  
     * What tools, agreements, or structures could reduce future confusion?
 
@@ -111,14 +111,14 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 * **Expected Outcomes**: The group collaborates to build a simple project charter   
 * **Activity:**  
   * In your small group, work together to review the scenario and fill out four sections of a simple charter:  
-    * Define the mission and project success  
-    * Clarify roles and shared responsibilities  
-    * Build a communication rhythm  
-    * Set escalation and celebration plans  
+    * Define the mission and project success.  
+    * Clarify roles and shared responsibilities.  
+    * Build a communication rhythm.  
+    * Set escalation and celebration plans.  
   * This is your chance to align on what success looks like, who owns what, and how you’ll work together throughout delivery.  
   * Just like in real life, you might not agree on everything at first—that’s part of the learning. The **conversations** you have will be **just as valuable** as what you write down.  
-  * Use your real-life experience to shape how you collaborate  
-  * Be ready to share a key takeaway or insight from your group
+  * Use your real-life experience to shape how you collaborate.  
+  * Be ready to share a key takeaway or insight from your group.
 
   **Discussion:** 
 
