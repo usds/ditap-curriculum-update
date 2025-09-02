@@ -2,7 +2,7 @@
 
 *Revised August 2025*
 
-### Module 4 \- Managing Agile Digital Service  Contracts: Oversight, Performance, and Delivery
+### Module 4 \- Managing Agile digital service  contracts: Oversight, performance, and delivery
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -14,20 +14,20 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Welcome to Module 4
 
-### Overview and Objectives
+### Overview and objectives
 
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-### Module Activities
+### Module activities
 
 1. Activity: Who Does What? Agile Role Round Robin
 2. Activity: Build Your Charter Together
 3. Discussion: What behavior are you trying to incentivize \- and does your current contract structure support it?
 4. Activity: Cloud Breach Tabletop Exercise
 
-### Reflections on this Module
+### Reflections on this module
 
 ---
 
@@ -36,11 +36,11 @@ Facilitator(s): \[List Facilitator Names\]
 
 In this module, we will be applying agile contract administration practices to contract management, vendor partnerships, tracking performance, and measuring outcomes. You will get specific guidance on agile metrics. You get to work with your small group to draft a project charter and learn ways to set the tone in the contract kickoff. A tabletop breach exercise caps off the module and prepares you for unforeseen security challenges. 
 
-## Overview & Objectives
+## Overview & objectives
 
-### Module Summary 
+### Module summary 
 
- Module 4 consists of exercises and insights for managing vendor partnerships and supporting delivery through contract administration practices grounded in agile and lean methodologies. You will track project health using real-time, measurable, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. 
+Module 4 consists of exercises and insights for managing vendor partnerships and supporting delivery through contract administration practices grounded in agile and lean methodologies. You will track project health using real-time, measurable, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. 
 
 You will get information about how to launch a digital services contract starting with the contract kickoff, moving on to ongoing contract management and problem resolution. 
 
@@ -48,27 +48,27 @@ Importantly, you will conduct a hands-on tabletop exercise to develop and enhanc
 
 The focus is on transparency, collaboration, and outcomes throughout the contract lifecycle.
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this module, you will be able to:
 
-* Explain the role of product ownership in agile delivery and how it supports post-award success.  
-* Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals.  
-* Identify agile performance metrics that go beyond compliance to measure true delivery value.  
-* Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics.  
-* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place.  
-  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments.
+* Explain the role of product ownership in agile delivery and how it supports post-award success  
+* Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals  
+* Identify agile performance metrics that go beyond compliance to measure true delivery value  
+* Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics  
+* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place  
+  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments
 
-### Connection to Overall DITAP Program
+### Connection to overall DITAP program
 
 In this module, you will focus on applying Agile principles to procurement, supporting the DITAP competency areas of Agile digital service delivery management, oversight, performance measurement principles, and problem resolution. It aligns with the broader goals of the DITAP program by reinforcing the shift from traditional, process-heavy procurement toward a more adaptive, outcome-driven approach that supports digital service delivery.
 
 This session builds on prior learning from Module 3 which focuses on acquisition strategy, preparation and evaluation , and prepares you for upcoming topics in Module 5, such as professional growth and leadership. It helps bridge the gap between theory and application by introducing how each role contributes to building a team charter, and how to conduct a tabletop exercise in case of a cloud security breach.
 
-## Module Activities
+## Module activities
   
 
-1. ### Activity: Who Does What? Agile Role Round Robin (45-50 minutes)
+1. ### Activity: Who does what? Agile role round robin (45-50 minutes)
 
 * **Purpose**: We’ll explore real-world decision-making that occurs across agile roles during delivery \- especially between federal and vendor team members. You will practice thinking critically about who owns what in agile delivery and where the role boundaries blur.   
 * **Expected Outcomes**: You will be able to delineate the agile roles and responsibilities across the team.  
@@ -105,7 +105,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
 
 
-2. ### Activity: Build your Charter Together (35-45 minutes)
+2. ### Activity: Build your charter together (35-45 minutes)
 
 * **Purpose**: To align on what success looks like, who owns what, and how you’ll work together throughout delivery.   
 * **Expected Outcomes**: The group collaborates to build a simple project charter   
@@ -143,7 +143,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
   
 
 
-4. ### Activity: Cloud Breach Tabletop Exercise (60-90 minutes)
+4. ### Activity: Cloud breach tabletop exercise (60-90 minutes)
 
 * **Purpose**: Test your team’s response to a security breach scenario, using the roles and responsibilities you hold in federal agile delivery. Focus on identifying process gaps and improving response clarity when responding to a security breach.  
 * **Expected Outcomes**: By the end of this activity, you will be able to use your playbook to respond to unexpected security breaches, updating the plan as necessary to address new concerns.    
@@ -154,7 +154,6 @@ This session builds on prior learning from Module 3 which focuses on acquisition
   * How will stakeholders be affected?
 
   **Step 2:**
-
   * In your assigned role, answer the question:  
      *“What will I do in the first 6 hours after discovery?”*  
   * Collaborate on a joint action plan.   
@@ -164,7 +163,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
     * Each role’s biggest challenge in the scenario  
     * Where coordination broke down or work well  
     * What gaps you uncovered in contract language or escalation paths  
-    * What changes you would make to your team’s current breach readiness.
+    * What changes you would make to your team’s current breach readiness
 
 | Note that this is:  |
 | :---- |
