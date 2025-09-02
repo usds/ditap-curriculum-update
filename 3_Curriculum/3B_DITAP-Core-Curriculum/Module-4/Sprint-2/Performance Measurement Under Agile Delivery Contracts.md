@@ -1,8 +1,8 @@
 # Module 4 Sprint 2
 
-## Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
+## Using value-based metrics and modern incentives in federal Agile procurement
 
-### Why Modern Metrics Matter More Than Ever
+### Why modern metrics matter more than ever
 
 Federal agencies now deliver digital services at unprecedented scale and speed. Citizens expect government services to work as well as commercial apps they use daily. Traditional procurement metrics, focused on requirements compliance and schedule adherence, don't capture whether we're delivering value to users.
 
@@ -15,7 +15,7 @@ Modern metrics help you answer the questions that matter:
 
 You need metrics that work in today's environment, which includes remote teams, cloud-native development, continuous deployment, and user-centered design. This module demonstrates how to measure what matters and create incentives that drive tangible outcomes.
 
-### DevOps Research and Assessment (DORA) Metrics 
+### DevOps Research and Assessment (DORA) metrics 
 
 The DevOps Research and Assessment framework remains the gold standard, but federal applications require additional context:
 
@@ -42,7 +42,7 @@ The DevOps Research and Assessment framework remains the gold standard, but fede
    * **Federal context:** Include incident response and communication requirements  
    * **Target:** Less than one hour for most issues
 
-### User-Centered Metrics
+### User-Centered metrics
 
 These metrics focus on actual user experience and mission impact:
 
@@ -78,7 +78,7 @@ These help you assess contractor team health and collaboration:
 
 ---
 
-### Tools for Modern Federal Procurement Oversight
+### Tools for modern federal procurement oversight
 
 **Government-Approved DevOps Platforms**
 
@@ -124,7 +124,7 @@ Choose tools that meet federal security requirements:
 
 ---
 
-### Modern Incentive Structures for Agile Contracts
+### Modern incentive structures for Agile contracts
 
 **Designing Effective Incentives for Agile Contracts**
 
@@ -189,7 +189,7 @@ Choose tools that meet federal security requirements:
 
 ---
 
-### Implementation Guidance 
+### Implementation guidance 
 
 Designing incentives is a team effort. The program office, product manager, and COR bring delivery insight to define what matters and how to measure it. The CO helps translate that into contract language. Together, they create realistic incentives that support mission success.
 
@@ -225,38 +225,38 @@ When designing incentives:
 
 ---
 
-### Implementing Modern Metrics and Incentives
+### Implementing modern metrics and incentives
 
 **Setting Up Your Metrics Program**
 
 **Week 1: Establish Baseline**
 
-* Meet with the contractor to review available data  
-* Select 5-7 key metrics that align with mission goals  
-* Set up data collection and reporting processes  
-* Establish realistic initial targets
+* Meet with the contractor to review available data.  
+* Select 5-7 key metrics that align with mission goals.  
+* Set up data collection and reporting processes.  
+* Establish realistic initial targets.
 
 **Month 1: Refine and Adjust**
 
-* Review initial data collection  
-* Adjust metrics based on what's valuable  
-* Train COR on metrics interpretation  
-* Establish a regular review schedule
+* Review initial data collection.  
+* Adjust metrics based on what's valuable.  
+* Train COR on metrics interpretation. 
+* Establish a regular review schedule.
 
 **Quarterly: Strategic Review**
 
-* Assess overall trends and patterns  
-* Adjust targets based on team maturity  
-* Consider adding or removing metrics  
-* Plan incentive payments or adjustments
+* Assess overall trends and patterns.  
+* Adjust targets based on team maturity.  
+* Consider adding or removing metrics.  
+* Plan incentive payments or adjustments.
 
 **Common Implementation Mistakes to Avoid**
 
-1. **Too Many Metrics:** Focus on what matters most, not everything you can measure  
-2. **Conflicting Incentives:** Ensure metrics don't work against each other  
-3. **Unrealistic Targets:** Set achievable goals that motivate improvement  
-4. **Ignoring Context:** Consider team maturity, technical debt, and external factors  
-5. **Set-and-Forget:** Regularly review and adjust metrics as the project evolves
+1. **Too Many Metrics:** Focus on what matters most, not everything you can measure.  
+2. **Conflicting Incentives:** Ensure metrics don't work against each other.  
+3. **Unrealistic Targets:** Set achievable goals that motivate improvement. 
+4. **Ignoring Context:** Consider team maturity, technical debt, and external factors. 
+5. **Set-and-Forget:** Regularly review and adjust metrics as the project evolves.
 
 **Sample Contract Language**
 
@@ -266,7 +266,7 @@ When designing incentives:
 
 ---
 
-### Discussion Prompt (optional)
+### Discussion prompt (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 For this discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
@@ -284,13 +284,13 @@ Choose a digital service your agency currently uses or is developing. This servi
    * What does it do, and who uses it?  
    * What mission outcome does it support?  
 2. **Select Metrics** (3-5 metrics)  
-   * Choose from the metrics covered in this module  
-   * Explain why each metric would be valuable for this specific service  
-   * Consider both technical and user-centered metrics  
+   * Choose from the metrics covered in this module.  
+   * Explain why each metric would be valuable for this specific service.  
+   * Consider both technical and user-centered metrics.  
 3. **Design Incentive Structure**  
-   * Create one monetary and one non-monetary incentive  
-   * Explain how each incentive would motivate better performance  
-   * Consider how to measure success fairly  
+   * Create one monetary and one non-monetary incentive.  
+   * Explain how each incentive would motivate better performance.  
+   * Consider how to measure success fairly.  
 4. **Implementation Plan**  
    * How would you collect and verify the metrics?  
    * What tools would you use?  
@@ -305,7 +305,7 @@ Choose a digital service your agency currently uses or is developing. This servi
 
 ---
 
-### Additional Resources
+### Additional resources
 
 **Official Guidance**
 
@@ -334,16 +334,16 @@ Choose a digital service your agency currently uses or is developing. This servi
 
 
 ---
-## Post-Award Multi-Vendor Management
+## Post-Award multi-vendor management
 
 When your agency uses multiple vendors to deliver interconnected digital services, your role extends beyond traditional contract administration. You become the architect of a delivery ecosystem that must coordinate across organizational boundaries while maintaining accountability, security, and a mission-focused approach.
 
 Modern federal digital services often require this multi-vendor approach because:
 
-* No single vendor has all the required capabilities  
-* Competition among vendors drives innovation and value  
-* Modular delivery reduces risk and increases flexibility  
-* Specialized vendors can focus on what they do best
+* No single vendor has all the required capabilities.  
+* Competition among vendors drives innovation and value.  
+* Modular delivery reduces risk and increases flexibility.  
+* Specialized vendors can focus on what they do best.
 
 Your success depends on creating structures that enable vendors to collaborate effectively while maintaining a healthy balance of competition and clear accountability.
 
@@ -367,7 +367,7 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 ---
 
-### Understanding Multi-Vendor Scenarios in the Federal Government
+### Understanding multi-vendor scenarios in the federal government
 
 **Common Multi-Vendor Arrangements:**
 
@@ -385,9 +385,9 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 **Complementary Prime Contracts**
 
-* Different vendors handle distinct but interdependent components  
-* Example: One vendor for backend APIs, another for the user interface  
-* Requires careful interface management and coordination
+* Different vendors handle distinct but interdependent components.  
+* Example: One vendor for backend APIs, another for the user interface.  
+* Requires careful interface management and coordination.
 
 **Prime/Subcontractor Arrangements**
 
@@ -399,7 +399,7 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 ---
 
-### Building the Post-Award Multi-Vendor Strategy
+### Building the post-award multi-vendor strategy
 
 | Element | Practice | Impact |
 | ----- | ----- | ----- |
@@ -412,7 +412,7 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 
 
-#### 1\. Ecosystem Governance for Scaled Delivery
+#### 1\. Ecosystem governance for scaled delivery
 
 **Federal Success Example: Centers of Excellence**
 
@@ -428,7 +428,7 @@ The General Services Administration's Centers of Excellence (CoE) program demons
 
 This approach has enabled GSA to deliver complex modernization projects more quickly and effectively than traditional single-vendor approaches.
 
-#### 2\. Vendor Self-Organization Around Shared Challenges
+#### 2\. Vendor self-organization around shared challenges
 
 One of the advantages of a mature, well-managed vendor ecosystem is that teams can begin to **self-organize** around shared engineering or delivery problems. Rather than waiting for direction from government staff, vendors can form cross-vendor working groups to collaborate on solving problems together.
 
@@ -440,11 +440,11 @@ Examples:
 
 Agencies should **create space for this collaboration**:
 
-* Facilitate regular inter-vendor engineering syncs  
-* Assign liaisons or shared technical advisors who float between teams  
-* Reward knowledge-sharing in QASP or performance evaluations
+* Facilitate regular inter-vendor engineering syncs.  
+* Assign liaisons or shared technical advisors who float between teams.  
+* Reward knowledge-sharing in QASP or performance evaluations.
 
-#### 3\. Establishing Effective Multi-Vendor Governance 
+#### 3\. Establishing effective multi-vendor governance 
 
 **Create a Coordination Structure**
 
@@ -488,7 +488,7 @@ Agencies should **create space for this collaboration**:
 * **Purpose:** Strategic alignment, performance assessment, planning  
 * **Format:** Comprehensive review, vendor feedback, process improvements
 
-#### 4\. Collaborative Problem Resolution (Not Blame Culture)
+#### 4\. Collaborative problem resolution (not blame culture)
 
 Multi-vendor environments inevitably encounter breakdowns. A healthy system doesn’t eliminate failure, it learns from it faster.
 
@@ -509,7 +509,7 @@ Instead of finger-pointing:
 
 Add these outputs to shared governance documentation and review them regularly in CoE or program office meetings.
 
-#### 5\. Procurement Agility and Performance Incentives
+#### 5\. Procurement agility and performance incentives
 
 A critical measure of multi-vendor maturity is the ability to issue and award task orders quickly and fairly.
 
@@ -527,35 +527,35 @@ A critical measure of multi-vendor maturity is the ability to issue and award ta
 
 ---
 
-### Additional Options to Improve Management
+### Additional options to improve management
 
 Here's a list of additional elements that would strengthen your multi-vendor management architecture:
 
-#### Operational Structures
+#### Operational structures
 
 * **Vendor Onboarding Playbook:** Standardize the process of bringing new vendors  into the ecosystem, including shared tools, security protocols, performance expectations, and definitions of success.
 * **Role Clarification Across Teams:** Clearly define how the COR, CO, PO, vendor team leads, and agency stakeholders interact to avoid duplicated or dropped responsibilities.
 * **Team Topologies:** Map how vendor teams are structured, e.g., platform team vs. feature teams—and clarify interdependencies.
 
-#### Governance and Oversight
+#### Governance and oversight
 
 * **Joint Governance Board or Review Panel:** Include rotating vendor representation to increase transparency and co-ownership of improvement ideas.
 * **Integrated Risk Registers:** Maintain a centralized view of delivery risks that’s updated collaboratively across vendors and agency leadership.
 * **Standardized Task Order Evaluation Criteria:** Reduce variance and the perception of favoritism by using consistent scoring templates and rubrics across awards.
 
-#### Delivery Alignment
+#### Delivery alignment
 
 * **Shared Product Vision:** All vendors should understand the end goals of the platform or service. Consider using a roadmap wall or “North Star” artifact reviewed quarterly.
 * **Backlog Coordination**: Create a shared high-level backlog and organize features into modular chunks that can be distributed and sequenced across vendors.
 * **Dependency Mapping:** Maintain a live dependency matrix across vendors to avoid blockers, duplications, or sequencing issues.
 
-#### Performance Management
+#### Performance management
 
 * **QASP Metrics for Team Collaboration:** Include metrics for cooperation, responsiveness, joint planning, and support of other vendors.
 * **Vendor Self-Assessments:** Let vendors assess their own performance quarterly before retrospectives to promote self-awareness and improvement.
 * **Performance Leaderboard or Radar Chart:** Visualize delivery metrics (velocity, quality, collaboration, responsiveness) across vendors for internal government visibility.
 
-#### Culture & Incentives
+#### Culture & incentives
 
 * **Psychological Safety Practices:** Encourage agencies to model transparency and ownership when issues arise (no scapegoating).
 * **Win-Together, Learn-Together Sessions:** Celebrate successful joint releases or key deliveries, with time built in for failure analysis without blame.
@@ -563,30 +563,30 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 ---
 
-### Contract Administration for Multi-Vendor Success
+### Contract administration for multi-vendor success
 
 **Task Order Management**
 
 **Standardize Your Process**
 
-* Use consistent statement of work templates across vendors  
-* Establish standard evaluation criteria and scoring rubrics  
-* Create template RFQ packages for common work types  
-* Document lessons learned from each task order competition
+* Use consistent statement of work templates across vendors.  
+* Establish standard evaluation criteria and scoring rubrics. 
+* Create template RFQ packages for common work types. 
+* Document lessons learned from each task order competition.
 
 **Manage Dependencies**
 
-* Map technical dependencies before issuing task orders  
-* Include integration requirements in all relevant SOWs  
-* Establish shared deadlines and coordination requirements  
-* Plan buffer time for integration and testing
+* Map technical dependencies before issuing task orders.  
+* Include integration requirements in all relevant SOWs.  
+* Establish shared deadlines and coordination requirements.  
+* Plan buffer time for integration and testing.
 
 **Fair Competition Practices**
 
-* Rotate opportunities among qualified vendors when possible  
-* Provide equal access to information and stakeholder meetings  
-* Use objective evaluation criteria focused on the technical approach  
-* Document decision rationale clearly for all vendors
+* Rotate opportunities among qualified vendors when possible.  
+* Provide equal access to information and stakeholder meetings.  
+* Use objective evaluation criteria focused on the technical approach.  
+* Document decision rationale clearly for all vendors.
 
 **Performance Management Across Vendors**
 
@@ -599,21 +599,21 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 **Coordinated Evaluation**
 
-* Use a shared Definition of Done across all vendors  
-* Coordinate acceptance testing for integrated deliverables  
-* Maintain consistent performance documentation  
-* Share lessons learned and best practices among vendors
+* Use a shared Definition of Done across all vendors.  
+* Coordinate acceptance testing for integrated deliverables.  
+* Maintain consistent performance documentation.  
+* Share lessons learned and best practices among vendors.
 
 **Joint Accountability**
 
-* Include collaboration requirements in QASPs  
-* Measure integration success as well as individual performance  
-* Address vendor conflicts quickly and fairly  
-* Reward vendors who contribute to overall program success
+* Include collaboration requirements in QASPs.  
+* Measure integration success as well as individual performance.  
+* Address vendor conflicts quickly and fairly.  
+* Reward vendors who contribute to overall program success.
 
 ---
 
-### Managing Common Multi-Vendor Challenges
+### Managing common multi-vendor challenges
 
 **Technical Coordination Issues**
 
@@ -621,19 +621,19 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 **Solution:**
 
-* Establish precise interface specifications upfront  
-* Require joint testing and sign-off on integrations  
-* Use neutral third-party testing when needed  
-* Focus on problem-solving, not blame assignment
+* Establish precise interface specifications upfront.  
+* Require joint testing and sign-off on integrations.  
+* Use neutral third-party testing when needed.  
+* Focus on problem-solving, not blame assignment.
 
 **Challenge:** Inconsistent technical approaches across vendors 
 
 **Solution:**
 
-* Create shared technical standards and architecture guidelines  
-* Require an architecture review for major technical decisions  
-* Use a government technical lead to coordinate standards  
-* Include technical consistency in performance evaluations
+* Create shared technical standards and architecture guidelines.  
+* Require an architecture review for major technical decisions.  
+* Use a government technical lead to coordinate standards.  
+* Include technical consistency in performance evaluations.
 
 **Schedule and Resource Conflicts**
 
@@ -642,18 +642,18 @@ Consistent Standards Apply the same quality, security, and performance standards
  **Solution:**
 
 * Maintain an integrated master schedule with dependencies.  
-* Use program-level milestone planning  
-* Build coordination time into all schedules  
-* Address conflicts at the  program management level
+* Use program-level milestone planning.  
+* Build coordination time into all schedules. 
+* Address conflicts at the  program management level.
 
-**Challenge:** Vendor capacity or capability gaps.
+**Challenge:** Vendor capacity or capability gaps
 
 **Solution:**
 
-* Monitor vendor performance and capacity regularly  
-* Have backup plans for critical capabilities  
-* Consider task order modifications or supplements  
-* Use cross-vendor knowledge sharing when appropriate
+* Monitor vendor performance and capacity regularly. 
+* Have backup plans for critical capabilities.
+* Consider task order modifications or supplements.  
+* Use cross-vendor knowledge sharing when appropriate.
 
 **Communication and Coordination Problems**
 
@@ -661,46 +661,46 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 **Solution:**
 
-* Establish shared communication platforms and protocols  
-* Require regular cross-vendor coordination meetings  
-* Create shared documentation repositories  
-* Include communication requirements in contracts
+* Establish shared communication platforms and protocols.  
+* Require regular cross-vendor coordination meetings.
+* Create shared documentation repositories.
+* Include communication requirements in contracts.
 
 **Challenge:** Vendors protect information from competitors 
 
 **Solution:**
 
-* Clearly define what information must be shared  
-* Use government-controlled environments for sensitive coordination  
-* Balance transparency with legitimate competitive concerns  
-* Focus on technical coordination, not business strategy
+* Clearly define what information must be shared.  
+* Use government-controlled environments for sensitive coordination.  
+* Balance transparency with legitimate competitive concerns.
+* Focus on technical coordination, not business strategy.
 
 ---
 
-### Your Implementation Roadmap
+### Your implementation roadmap
 
 **Setting Up Multi-Vendor Coordination**
 
 **First 30 Days:**
 
-* Establish governance structure and meeting cadences  
-* Set up shared communication tools and documentation  
-* Define technical standards and integration requirements  
-* Create performance measurement and reporting processes
+* Establish governance structure and meeting cadences.  
+* Set up shared communication tools and documentation. 
+* Define technical standards and integration requirements.  
+* Create performance measurement and reporting processes.
 
 **First 90 Days:**
 
-* Conduct initial cross-vendor coordination sessions  
-* Identify and address initial integration challenges  
-* Refine coordination processes based on early experience  
-* Establish vendor feedback and improvement mechanisms
+* Conduct initial cross-vendor coordination sessions.
+* Identify and address initial integration challenges.  
+* Refine coordination processes based on early experience.  
+* Establish vendor feedback and improvement mechanisms.
 
 **Ongoing:**
 
-* Monitor coordination effectiveness and vendor satisfaction  
-* Adjust processes based on lessons learned  
-* Celebrate successful collaborations and shared wins  
-* Continuously improve based on vendor and stakeholder feedback
+* Monitor coordination effectiveness and vendor satisfaction.  
+* Adjust processes based on lessons learned.
+* Celebrate successful collaborations and shared wins.  
+* Continuously improve based on vendor and stakeholder feedback.
 
 **Success Metrics for Multi-Vendor Programs**
 
@@ -737,7 +737,7 @@ When you see these signs, step back and assess whether your coordination structu
 
 
 ---
-## Knowledge Check: Managing a Multi-Vendor Environment
+## Knowledge check: Managing a multi-vendor environment
 
 
 1\. Multiple Choice
@@ -795,13 +795,13 @@ When you see these signs, step back and assess whether your coordination structu
 
 
 ---
-## Warranties in Agile Development Readings 
+## Warranties in Agile development readings 
 
 As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
 
 Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
 
-### Federal Acquisition Regulation Framework
+### Federal acquisition regulation framework
 
 **FAR Subpart 46.7: Foundation Principles**
 
@@ -809,10 +809,10 @@ Contracting Officers have discretionary authority to include warranties when the
 
 Modern Applications:
 
-* Nature of digital services: Cloud-native applications require different warranty approaches than traditional software  
-* Cyber resilience: Warranties must address ongoing security threats and compliance requirements  
-* Continuous delivery: Traditional acceptance models don't align with daily deployments  
-* User experience: Warranties should cover accessibility, performance, and user satisfaction metrics
+* Nature of digital services: Cloud-native applications require different warranty approaches than traditional software.  
+* Cyber resilience: Warranties must address ongoing security threats and compliance requirements.  
+* Continuous delivery: Traditional acceptance models don't align with daily deployments.  
+* User experience: Warranties should cover accessibility, performance, and user satisfaction metrics.
 
 **Integration with FAR Part 40**
 
@@ -825,31 +825,31 @@ The 2024 establishment of FAR Part 40 (Information Security and Supply Chain Sec
 
 ---
 
-### Agile-Specific Warranty Strategies
+### Agile-Specific warranty strategies
 
-#### Sprint-Level Warranties
+#### Sprint-Level warranties
 
 Recommended Language: "The contractor warrants that each sprint deliverable will:
 
 * Function as demonstrated during the sprint review  
 * Integrate seamlessly with all previously accepted sprint deliverables  
 * Meet all specified accessibility and security requirements  
-* Maintain system performance within agreed parameters."
+* Maintain system performance within agreed parameters"
 
 **Warranty Period:** 30 days from sprint acceptance, with cumulative coverage extending to final system acceptance.
 
-#### System Integration Warranties
+#### System integration warranties
 
 Challenge: How do you ensure components developed across multiple sprints work together?
 
 **Modern Approach:**
 
-* Implement continuous integration warranties that cover the entire system  
-* Require automated testing suites that demonstrate integration  
-* Include regression testing warranties for each new release  
-* Structure warranties around user journey completion rather than individual features
+* Implement continuous integration warranties that cover the entire system.
+* Require automated testing suites that demonstrate integration. 
+* Include regression testing warranties for each new release.  
+* Structure warranties around user journey completion rather than individual features.
 
-#### DevSecOps Warranty Provisions
+#### DevSecOps warranty provisions
 
 **Security Warranty Framework:**
 
@@ -867,9 +867,9 @@ Challenge: How do you ensure components developed across multiple sprints work t
 
 ---
 
-### Cloud Service Warranty Considerations
+### Cloud service warranty considerations
 
-#### Software-as-a-Service (SaaS) Warranties
+#### Software-as-a-Service (SaaS) warranties
 
 Traditional warranty models don't apply to SaaS offerings. Modern approaches include:
 
@@ -887,7 +887,7 @@ Traditional warranty models don't apply to SaaS offerings. Modern approaches inc
 * Backup and recovery capabilities  
 * Right to deletion and data portability
 
-#### Platform and Infrastructure Warranties
+#### Platform and infrastructure warranties
 
 **Cloud Platform Warranties:**
 
@@ -898,7 +898,7 @@ Traditional warranty models don't apply to SaaS offerings. Modern approaches inc
 
 ---
 
-### Documentation in Agile Environments
+### Documentation in agile environments
 
 "Working Software Over Comprehensive Documentation"
 
@@ -925,9 +925,9 @@ While agile emphasizes working software, warranties require sufficient documenta
 
 Option 1: Rolling Warranties
 
-* Each sprint has a 30-day warranty period  
-* System-wide warranty begins after the minimum viable product (MVP) acceptance  
-* The final warranty period covers the integrated system for 12 months
+* Each sprint has a 30-day warranty period.  
+* System-wide warranty begins after the minimum viable product (MVP) acceptance.  
+* The final warranty period covers the integrated system for 12 months.
 
 Option 2: Milestone-Based Warranties
 
@@ -944,7 +944,7 @@ Option 3: Continuous Warranty Model
 ---
 
 
-### Defining "Good Enough" Software
+### Defining "good enough" software
 
 **Acceptance Criteria in Agile Contexts**
 
@@ -980,7 +980,7 @@ Technical Quality Gates:
 
 ---
 
-### Risk Management Through Warranties
+### Risk management through warranties
 
 **Balancing Protection and Innovation**
 
@@ -1009,7 +1009,7 @@ Collaborative Enforcement Model:
 
 ---
 
-### Warranty Readings
+### Warranty readings
 
 **Article:** [FAR Subpart 46.7 \- Warranties](https://www.acquisition.gov/far/subpart-46.7)
 
@@ -1046,7 +1046,7 @@ In this reading, warranties and liability are compared in traditional contractin
 
 ---
 
-### Discussion (Optional)
+### Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 **Based on the warranty readings, post your response to the following questions:**
