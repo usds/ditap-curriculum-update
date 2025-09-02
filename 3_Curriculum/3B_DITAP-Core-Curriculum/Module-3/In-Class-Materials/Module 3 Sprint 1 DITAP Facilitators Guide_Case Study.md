@@ -9,29 +9,29 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & Objectives
+## I. Overview & objectives
 
 In this session, learners use SWOT analysis to evaluate CRM integration options in the Nagivating Stakeholder and Decision-Making Challenges case study **in Milestone 2**. The goal is to help learners think critically about trade-offs, make an informed recommendation, and sketch out a high-level integration and monitoring plan.
 
-**Learning Objectives:**
-* Use SWOT analysis to evaluate CRM solution paths  
-* Identify key trade-offs and decision points
-* Begin shaping an acquisition strategy based on discovery insights
+**Learning objectives:**
+* Use SWOT analysis to evaluate CRM solution paths.  
+* Identify key trade-offs and decision points.
+* Begin shaping an acquisition strategy based on discovery insights.
 
-## II. Materials & Preparation
+## II. Materials & preparation
 
 **Materials:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2  
 * SWOT Analysis Template
 
 **Pre-Read for Participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 2.
 
-## III. Session Agenda & Activities
+## III. Session agenda & activities
 
 **Activity:** SWOT Analysis of Solution Paths  
 **Time:** 60-75 minutes  
-**Purpose:** Evaluate CRM options using structured analysis and case data
+**Purpose:** Evaluate CRM options using structured analysis and case data.
 
 **Instructions:**
 - **Frame the Task (\<5 min)**  
@@ -85,6 +85,6 @@ In this session, learners use SWOT analysis to evaluate CRM integration options 
 * Well-reasoned solution choices  
 * Initial integration and monitoring strategies
 
-## IV. Next Steps / Follow-Up
+## IV. Next steps / Follow-Up
 
 Ensure students are familiar with Milestones 3–5. Encourage them to capture relevant notes along the way.
