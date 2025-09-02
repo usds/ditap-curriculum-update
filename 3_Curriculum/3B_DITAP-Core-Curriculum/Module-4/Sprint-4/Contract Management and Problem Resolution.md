@@ -1,6 +1,6 @@
 # Module 4 Sprint 4
 
-## Federal IT Acquisition, Management, and Software Engineering Practices 
+## Federal IT acquisition, management, and software engineering practices 
 
 ### Introduction
 
@@ -8,7 +8,7 @@ You have studied modern software engineering best practices, including DevOps, c
 
 ---
 
-### The Federal IT Challenge: Context and Scale
+### The federal IT challenge: Context and scale
 
 **Current State of Federal IT Management**
 
@@ -18,27 +18,27 @@ Since 2010, GAO has made 1,881 recommendations to federal agencies aimed at impr
 
 ---
 
-### Three Critical Challenge Areas
+### Three critical challenge areas
 
 GAO has identified three challenges that underlie persistent IT problems: strengthening oversight and management of IT portfolios, implementing mature IT acquisition and development practices, and building federal IT capacity and capabilities.
 
 These challenges directly connect to procurement decisions and contract management practices that acquisition professionals control and influence.
 
-#### **Challenge 1: Portfolio Oversight and Management:** 
+#### **Challenge 1: Portfolio oversight and management:** 
 
 Traditional procurement approaches often treat IT investments as isolated projects rather than integrated components of a portfolio. This approach leads to duplicative systems, incompatible platforms, and missed opportunities for enterprise solutions.
 
-#### **Challenge 2: Mature Acquisition and Development Practices:** 
+#### **Challenge 2: Mature acquisition and development practices:** 
 
 Federal acquisitions frequently rely on waterfall methodologies, comprehensive upfront requirements, and traditional contractor relationships that conflict with modern software development best practices.
 
-#### **Challenge 3: Federal IT Capacity and Capabilities:** 
+#### **Challenge 3: Federal IT capacity and capabilities:** 
 
 Agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes.
 
 --- 
 
-### Case Study Analysis: The FAFSA System Modernization
+### Case study analysis: The FAFSA system modernization
 
 **Procurement Context and Initial Decisions**
 
@@ -68,9 +68,9 @@ Operational Disruption: During the first five months of the FAFSA application cy
 
 --- 
 
-### Modern Acquisition Approaches: Preventing FAFSA-Type Failures
+### Modern acquisition approaches: Preventing FAFSA-type failures
 
-#### Modular Contracting and Incremental Delivery
+#### Modular contracting and incremental delivery
 
 **Problem with Traditional Approach:** The FAFSA modernization attempted a "big bang" replacement of the entire system, contradicting modern DevOps practices that emphasize incremental delivery and continuous feedback.
 
@@ -78,7 +78,7 @@ Operational Disruption: During the first five months of the FAFSA application cy
 
 **Practical Application:** Structure contracts to deliver working software increments every 2-4 weeks, with user acceptance testing and stakeholder feedback integrated into each delivery cycle. Include contract clauses requiring demonstrated integration between modules before accepting new functionality.
 
-#### User-Centered Design and Continuous Feedback
+#### User-Centered design and continuous feedback
 
 **Problem with Traditional Approach:** FSA did not conduct an independent review of the project's processes, products, and risks throughout its life cycle, which limited FSA's ability to identify and address costs and performance risks.
 
@@ -87,7 +87,7 @@ Modern Solution: Embed user research, usability testing, and stakeholder feedbac
 **Practical Application:** Include performance standards that measure user satisfaction, task completion rates, and accessibility compliance—structure payments to reward improvements in user experience metrics rather than simply delivering technical specifications.
 
 
-#### DevSecOps Integration and Quality Assurance
+#### DevSecOps integration and quality assurance
 
 **Problem with Traditional Approach:** The FAFSA project separated security, testing, and deployment into sequential phases, which prevented the early identification of integration issues and security vulnerabilities.
 
@@ -96,7 +96,7 @@ Modern Solution: Embed user research, usability testing, and stakeholder feedbac
 **Practical Application:** Establish contract requirements for automated test coverage minimums (e.g., 80% code coverage), security scan frequency (e.g., daily), and deployment automation standards. Include penalties for deploying code that fails automated quality gates.
 
 
-#### Technical Oversight and Government Capacity Building
+#### Technical oversight and government capacity building
 
 **Problem with Traditional Approach:** The Chief Information Officers from both ED and FSA were not involved in governance and oversight activities for the FPS, which is "essential" for successful modernization. Since the FAFSA overhaul began in 2021, there have been six different Education Department CIOs.
 
@@ -106,7 +106,7 @@ Modern Solution: Embed user research, usability testing, and stakeholder feedbac
 
 --- 
 
-### Connecting Modern Practices to Procurement Decisions
+### Connecting modern practices to procurement decisions
 
 **Agile Contract Structures**
 
@@ -118,7 +118,7 @@ Continuous Integration/Continuous Delivery (CI/CD) Requirements: Include contrac
 
 --- 
 
-### Performance-Based Contracting for Quality Outcomes
+### Performance-Based contracting for quality outcomes
 
 **User Outcome Metrics**: Replace traditional specification compliance with user-centered performance metrics such as task completion rates, user satisfaction scores, and accessibility compliance measures.
 
@@ -126,13 +126,13 @@ Continuous Integration/Continuous Delivery (CI/CD) Requirements: Include contrac
 
 **Example Performance Standards:**
 
-* User task completion rate: 95% of users complete primary workflows without assistance  
-* System availability: 99.9% uptime during business hours with 4-hour maximum downtime for maintenance  
-* Security posture: Critical vulnerabilities remediated within 24 hours, high-severity vulnerabilities within 72 hours
+* User task completion rate: 95% of users complete primary workflows without assistance.  
+* System availability: 99.9% uptime during business hours with 4-hour maximum downtime for maintenance.  
+* Security posture: Critical vulnerabilities remediated within 24 hours, high-severity vulnerabilities within 72 hours.
 
 --- 
 
-### Risk Management Through Contract Design
+### Risk management through contract design
 
 **Early Warning Systems:** Establish contract requirements for regular delivery demonstrations, automated quality reporting, and stakeholder feedback collection to identify issues before they become critical failures.
 
@@ -142,7 +142,7 @@ Continuous Integration/Continuous Delivery (CI/CD) Requirements: Include contrac
 
 --- 
 
-### AI-Powered Automation and Federal Acquisition
+### AI-Powered automation and federal acquisition
 
 **Current Trends and Opportunities**
 
@@ -160,7 +160,7 @@ Example Applications:
 
 --- 
 
-### Procurement Considerations for AI Integration
+### Procurement considerations for AI integration
 
 **Data Rights and Algorithm Transparency:** Establish contract requirements for algorithm explainability, training data documentation, and government rights to inspect and audit AI system decisions.
 
@@ -170,7 +170,7 @@ Example Applications:
 
 ---
 
-### Key Takeaways 
+### Key takeaways 
 
 1. **Procurement Decisions Drive Technical Outcomes:** Contract structures, performance standards, and oversight approaches directly influence whether IT projects succeed or fail, as seen in the FAFSA modernization.  
 2. **Modern Development Practices Require Modern Contracting:** DevSecOps, CI/CD, and agile methodologies need corresponding changes in contract types, performance metrics, and vendor management approaches.  
@@ -180,7 +180,7 @@ Example Applications:
 
 --- 
 
-### Additional Resources
+### Additional resources
 
 Federal Guidance and Best Practices
 
@@ -196,12 +196,12 @@ Case Study Materials
  
 
 ---
-## Discussion Instructions (required)
+## Discussion instructions (required)
 >Note for vendors: this is a required self-paced learning activity in the LMS.
 
 This discussion activity challenges you to apply modern software engineering practices to real federal IT acquisition challenges, using the FAFSA case study and other current examples from GAO's 2025 High Risk List. Your analysis should demonstrate understanding of how contemporary DevOps, CI/CD, and digital transformation practices can address systemic issues that plague federal IT acquisitions.
 
-### Case Study Selection
+### Case study selection
 
 Choose ONE of the following federal IT challenges for your analysis:
 
@@ -223,9 +223,9 @@ Select a significant IT modernization or acquisition challenge from your own age
 
 ---
 
-### Discussion Questions
+### Discussion questions
 
-#### Question 1: Acquisition Strategy Redesign
+#### Question 1: Acquisition strategy redesign
 
 **Scenario Application**: Apply your selected case study to the threaded case study scenario we've been using throughout this module. How would you restructure the acquisition approach to prevent the failures you've identified?
 
@@ -242,7 +242,7 @@ Specific Analysis Required:
 
  
 
-#### Question 2: Building Government Technical Capacity
+#### Question 2: Building government technical capacity
 
 **Challenge:** Federal agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes (as demonstrated in the FAFSA case, where CIOs were not involved in governance activities).
 
@@ -257,7 +257,7 @@ Specific Analysis Required:
 
 **Learning Note:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
 
-####  Question 3: Performance Measurement and Continuous Improvement
+####  Question 3: Performance measurement and continuous improvement
 
 **Industry Context**: Research shows that technical adoption alone doesn't guarantee success—organizational culture, change management, and performance measurement are equally critical for digital transformation success.
 
@@ -274,41 +274,41 @@ Specific Analysis Required:
 
 --- 
 
-### Enhanced Discussion Requirements
+### Enhanced discussion requirements
 
 **Initial Post Requirements (Due: End of Module 4)**
 
 Your initial post must include:
 
 1. Case Study Selection and Analysis (300-400 words)  
-   * Clearly identify which case study you selected and why  
-   * Summarize the key acquisition failures and their root causes  
-   * Connect these failures to broader patterns in federal IT acquisition  
+   * Clearly identify which case study you selected and why.  
+   * Summarize the key acquisition failures and their root causes.  
+   * Connect these failures to broader patterns in federal IT acquisition.  
 2. Question Responses (200-250 words each)  
-   * Address all three questions with specific, actionable recommendations  
-   * Include at least one concrete example of contract language, evaluation criteria, or oversight procedure  
-   * Reference concepts and practices learned throughout the DITAP course
+   * Address all three questions with specific, actionable recommendations.  
+   * Include at least one concrete example of contract language, evaluation criteria, or oversight procedure.  
+   * Reference concepts and practices learned throughout the DITAP course.
 
 **Peer Engagement Requirements (Due: One week after initial posts)**
 
 Engage meaningfully with at least three classmates' posts by:
 
-1. Comparative Analysis: Compare your approach with classmates who chose different case studies but similar acquisition strategies  
-2. Alternative Perspectives: Challenge or build upon classmates' recommendations with specific examples from your experience  
-3. Implementation Discussion: Discuss practical challenges of implementing proposed solutions in real federal acquisition environments  
-4. Best Practice Synthesis: Identify common themes across different approaches and case studies
+1. Comparative Analysis: Compare your approach with classmates who chose different case studies but similar acquisition strategies.
+2. Alternative Perspectives: Challenge or build upon classmates' recommendations with specific examples from your experience.  
+3. Implementation Discussion: Discuss practical challenges of implementing proposed solutions in real federal acquisition environments.  
+4. Best Practice Synthesis: Identify common themes across different approaches and case studies.
 
 **Success Tips**
 
 1. Be Specific: Use concrete examples of contract language, evaluation criteria, or oversight procedures rather than general statements about "better management."  
-2. Connect to Acquisition: Every recommendation should clearly show how procurement decisions enable or prevent the desired technical outcomes  
-3. Apply Course Concepts: Reference specific DITAP concepts, frameworks, and best practices learned throughout the course  
-4. Think Practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures  
-5. Learn from Peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges
+2. Connect to Acquisition: Every recommendation should clearly show how procurement decisions enable or prevent the desired technical outcomes.  
+3. Apply Course Concepts: Reference specific DITAP concepts, frameworks, and best practices learned throughout the course.  
+4. Think Practically: Consider real-world implementation challenges, including budget constraints, regulatory requirements, and political pressures.  
+5. Learn from Peers: Use peer discussion to refine your understanding and discover alternative approaches to common challenges.
 
 ---
 
-### Additional Resources for Analysis
+### Additional resources for analysis
 
 Federal Acquisition Context
 
@@ -329,9 +329,9 @@ Case Study Background Materials
 * [IRS Modernization Challenges Overview](https://www.gao.gov/products/gao-25-107852)
 
 ---
-## Exit Strategy 
+## Exit strategy 
 
-### DITAP Case Study: The Digital Identity Crisis at FedConnect
+### DITAP case study: The digital identity crisis at FedConnect
 
 Sarah Martinez had been a Contracting Officer at the Federal Bureau of Digital Services (FBDS) for eight years, but she had never faced a situation quite like this. As she reviewed the latest performance reports from CloudTech Innovations, she realized that what had started as the agency's flagship digital transformation project—structured using cutting-edge modular contracting principles—was rapidly becoming a cautionary tale.
 
@@ -382,7 +382,7 @@ Alternatively, accepting CloudTech's remediation proposal would incur additional
 
 ---
 
-### The Decision Point
+### The decision point
 
 As Sarah prepared recommendations for her Director, she faced a unique challenge: the modular contracting approach, intended to simplify vendor management, had created new complexities surrounding interdependence and integration risk. She had to balance the theoretical benefits of modular contracting (reduced vendor lock-in, increased competition, limited risk exposure) against the practical realities of complex system integration.
 
@@ -390,10 +390,10 @@ Her decision would not only affect the immediate FedConnect project but would al
 
 ---
 
-## Instruction Notes
+## Instruction notes
 >Note for vendors: The content below is to assist with *Choose Your Own Path: The FedConnect Exit Strategy* activity and is designed for self-paced learning in the LMS. 
 
-### DITAP Case Study Answer Key: Exit Strategies in Modular Contracting
+### DITAP case study answer key: Exit strategies in modular contracting
 
 In modular contracting, no module exists in isolation. Overall development and acquisition strategies should develop systems thinking about how individual vendor decisions affect the broader contracting ecosystem.
 
@@ -468,10 +468,10 @@ Each option involves different risk profiles, cost implications, and strategic t
 
 Technical feasibility challenges:
 
-* New vendor must implement existing API specifications or coordinate changes across four other vendors  
-* Integration testing timeline could extend 4-6 months beyond development  
-* Risk that the new authentication service architecture may be incompatible with other modules  
-* Potential need for interface modifications affecting system stability
+* New vendor must implement existing API specifications or coordinate changes across four other vendors.  
+* Integration testing timeline could extend 4-6 months beyond development.  
+* Risk that the new authentication service architecture may be incompatible with other modules.  
+* Potential need for interface modifications affecting system stability.
 
 Risk mitigation strategies:
 
@@ -482,9 +482,9 @@ Risk mitigation strategies:
 
 Cost-benefit analysis:
 
-* Integration risks may cost $1.5-2.3M and have a 6-9 month timeline  
-* Compare against continued poor performance costs, and reputational damage  
-* Consider the opportunity costs of delayed system benefits to citizens
+* Integration risks may cost $1.5-2.3M and have a 6-9 month timeline.  
+* Compare against continued poor performance costs, and reputational damage.  
+* Consider the opportunity costs of delayed system benefits to citizens.
 
 Understand that feasibility isn't just about finding a replacement vendor—it's about managing the complex process of system integration while maintaining service continuity.
 
@@ -492,23 +492,23 @@ What role should the performance of other module vendors play in Sarah's decisio
 
 Positive vendor performance implications:
 
-* SecureID, DataFlow, UX Partners, and MetricsTech are meeting their module requirements  
-* The system works when the CloudTech authentication service performs properly  
-* Other vendors represent $17M in functioning capability that shouldn't be disrupted unnecessarily  
-* Demonstrates that the modular approach can work with competent vendors
+* SecureID, DataFlow, UX Partners, and MetricsTech are meeting their module requirements.  
+* The system works when the CloudTech authentication service performs properly.  
+* Other vendors represent $17M in functioning capability that shouldn't be disrupted unnecessarily.  
+* Demonstrates that the modular approach can work with competent vendors.
 
 **Decision-making considerations:**
 
-* Protecting relationships with performing vendors should be a priority  
-* Other vendors' input on integration requirements for CloudTech replacement should be solicited  
-* Performance of other modules validates the modular contracting approach overall  
-* The success of other vendors provides political cover for targeting CloudTech specifically
+* Protecting relationships with performing vendors should be a priority.  
+* Other vendors' input on integration requirements for CloudTech replacement should be solicited.  
+* Performance of other modules validates the modular contracting approach overall.  
+* The success of other vendors provides political cover for targeting CloudTech specifically.
 
 **Strategic implications:**
 
-* Terminating CloudTech while retaining other vendors preserves the modular contracting pilot  
-* Demonstrates that accountability measures work in modular environments  
-* Maintains a competitive environment for future module procurements
+* Terminating CloudTech while retaining other vendors preserves the modular contracting pilot.  
+* Demonstrates that accountability measures work in modular environments.  
+* Maintains a competitive environment for future module procurements.
 
 In modular contracting, individual vendor decisions must consider impacts on the broader vendor ecosystem and strategic approach.
 
@@ -520,31 +520,31 @@ If terminating CloudTech, how should Sarah manage integration risks with other f
 
 Pre-termination planning:
 
-* Conduct a detailed technical assessment of integration requirements with other vendors  
-* Develop comprehensive interface specifications and integration testing protocols  
-* Establish a parallel service capability to avoid service interruption  
-* Create a detailed transition timeline with key milestones and risk checkpoints
+* Conduct a detailed technical assessment of integration requirements with other vendors.  
+* Develop comprehensive interface specifications and integration testing protocols.  
+* Establish a parallel service capability to avoid service interruption.  
+* Create a detailed transition timeline with key milestones and risk checkpoints.
 
 Vendor coordination strategy:
 
-* Include other module vendors in the replacement vendor selection process  
-* Require the replacement vendor to demonstrate integration capability during evaluation  
-* Establish clear communication protocols between the new vendor and existing vendors  
-* Define roles and responsibilities for integration testing and problem resolution
+* Include other module vendors in the replacement vendor selection process.  
+* Require the replacement vendor to demonstrate integration capability during evaluation.  
+* Establish clear communication protocols between the new vendor and existing vendors.  
+* Define roles and responsibilities for integration testing and problem resolution.
 
 Risk mitigation measures:
 
-* Maintain CloudTech services during the transition period (despite additional costs)  
-* Implement a staged integration approach, starting with non-critical functionality  
-* Establish rollback procedures if integration fails  
-* Include comprehensive integration testing requirements in the replacement contract
+* Maintain CloudTech services during the transition period (despite additional costs).  
+* Implement a staged integration approach, starting with non-critical functionality.  
+* Establish rollback procedures if integration fails.  
+* Include comprehensive integration testing requirements in the replacement contract.
 
 Performance monitoring:
 
-* Implement enhanced monitoring during the transition period  
-* Establish clear success criteria for integration completion  
-* Regular stakeholder communication about transition progress  
-* Documentation of lessons learned for future modular procurements
+* Implement enhanced monitoring during the transition period.  
+* Establish clear success criteria for integration completion.  
+* Regular stakeholder communication about transition progress.  
+* Documentation of lessons learned for future modular procurements.
 
 Integrating complex systems requires proactive planning as early as possible, effective stakeholder coordination, and comprehensive risk mitigation strategies.
 
@@ -554,31 +554,31 @@ Some potential modification requirements:
 
 Interface specifications:
 
-* Other vendors may need to update API calls to accommodate the new authentication service architecture  
-* Data format changes might require modifications to other modules  
-* Security protocol updates could affect all vendor implementations  
-* Performance requirements might need adjustment based on new service capabilities
+* Other vendors may need to update API calls to accommodate the new authentication service architecture.  
+* Data format changes might require modifications to other modules.  
+* Security protocol updates could affect all vendor implementations.  
+* Performance requirements might need adjustment based on new service capabilities.
 
 Testing and integration support:
 
-* Existing vendors may need to provide additional integration testing support  
-* Technical personnel may need to be available for extended integration periods  
-* Documentation updates might be required for interface changes  
-* Additional coordination meetings and technical reviews
+* Existing vendors may need to provide additional integration testing support.  
+* Technical personnel may need to be available for extended integration periods.  
+* Documentation updates might be required for interface changes.  
+* Additional coordination meetings and technical reviews.
 
 Timeline and cost implications:
 
-* Contract modifications could cost $500,000-1.2M across four vendors  
-* Timeline extensions might be needed for integration completion  
-* Additional testing phases may require contract scope adjustments  
-* Change management procedures need to be clearly defined
+* Contract modifications could cost $500,000-1.2M across four vendors.  
+* Timeline extensions might be needed for integration completion.  
+* Additional testing phases may require contract scope adjustments.  
+* Change management procedures need to be clearly defined.
 
 Legal and administrative considerations:
 
-* Modification justifications must demonstrate benefit to the government  
-* Competitive implications of no-bid modifications to existing vendors  
-* Documentation requirements for sole-source modification justifications  
-* Ensuring modifications don't exceed original contract scope limitations
+* Modification justifications must demonstrate benefit to the government.  
+* Competitive implications of no-bid modifications to existing vendors.  
+* Documentation requirements for sole-source modification justifications.  
+* Ensuring modifications don't exceed original contract scope limitations.
 
 Oftentimes in modular contracting, vendor management evolves into vendor ecosystem management, necessitating coordination across multiple simultaneous contracts.
 
@@ -643,43 +643,42 @@ Risk management strategies:
 
 Performance measurement:
 
-* Develop system-wide performance metrics in addition to module-specific requirements  
-* Implement continuous integration testing throughout the development lifecycle  
-* Establish user experience requirements that cross module boundaries  
-* Create feedback loops between module performance and overall system success
+* Develop system-wide performance metrics in addition to module-specific requirements.  
+* Implement continuous integration testing throughout the development lifecycle.
+* Establish user experience requirements that cross module boundaries.
+* Create feedback loops between module performance and overall system success.
 
 Strategic recommendations:
 
-* Modular contracting remains viable but requires enhanced management capabilities  
-* The government needs to invest in system integration expertise and capabilities  
-* Complex systems may require hybrid approaches combining modular and prime contractor elements  
-* Pilot programs should be on a smaller scale to validate integration approaches before large implementations
+* Modular contracting remains viable but requires enhanced management capabilities.  
+* The government needs to invest in system integration expertise and capabilities.
+* Complex systems may require hybrid approaches combining modular and prime contractor elements.  
+* Pilot programs should be on a smaller scale to validate integration approaches before large implementations.
 
 Strategic learning requires honest assessment of both successes and failures, leading to improved acquisition approaches rather than abandoning innovation.
 
 --- 
 
-## Key Questions for Analysis
+## Key questions for analysis
 
 Consider Sarah's situation from multiple perspectives: Modular Strategy (benefits vs. integration complexity), Vendor Management (individual vs. system performance), Risk Assessment (impact of module replacement), and Strategic Implications (the future of modular contracting).
 
-*  Analyze the pros and cons of  
-  * Module-specific termination for default  
-  * System-wide contract restructuring  
-  * Accepting remediation with enhanced integration requirements  
-  * Transitioning to a single prime contractor model.  
-      
+*  Analyze the pros and cons of
+   * Module-specific termination for default  
+   * System-wide contract restructuring  
+   * Accepting remediation with enhanced integration requirements  
+   * Transitioning to a single prime contractor model.        
 * How do integration risks with other modules affect the feasibility of replacing CloudTech?  
 * What role should the performance of other module vendors play in Sarah's decision-making?  
-*  If terminating CloudTech, how should Sarah manage the integration risks with the four other functioning modules?  
-* What contract modifications might be needed with other vendors to accommodate a replacement authentication service?  
+* If terminating CloudTech, how should Sarah manage the integration risks with the four other functioning modules?  
+* What contract modifications might be needed with other vendors to accommodate a replacement authentication service? 
 * How can future modular contracts better address integration performance requirements?  
 * How should this experience inform the agency's future use of modular contracting for complex digital services?
 
 ---
-## Choose Your Own Path: The FedConnect Exit Strategy
+## Choose your own path: The FedConnect exit strategy
 
-### Scenario Introduction
+### Scenario introduction
 
 You are **Sarah Martinez**, a seasoned Contracting Officer at the Federal Bureau of Digital Services (FBDS). Eighteen months ago, your agency launched *FedConnect*, a modular digital identity platform meant to revolutionize citizen access to federal services.
 
@@ -689,14 +688,14 @@ You must now decide how to proceed. Your recommendation could shape the future o
 
 ---
 
-### Decision Point
+### Decision point
 
 **What strategy should you recommend to leadership?**  
 Select one of the following:
 
 ---
 
-#### Option A: Terminate CloudTech for Default
+#### Option A: Terminate CloudTech for default
 
 **You prioritize accountability.** You recommend terminating CloudTech’s contract and launching an emergency procurement to find a replacement.
 
@@ -721,7 +720,7 @@ Select one of the following:
 
 ---
 
-#### Option B: Accept CloudTech’s Remediation Proposal
+#### Option B: Accept CloudTech’s remediation proposal
 
 **You decide to preserve continuity.** You recommend giving CloudTech a second chance—under new, stricter performance and integration terms.
 
@@ -745,7 +744,7 @@ Select one of the following:
 
 ---
 
-#### Option C: Restructure to a Single Prime Contractor
+#### Option C: Restructure to a single prime contractor
 
 **You choose to abandon modular contracting.** You recommend collapsing the project into a single-award, unified contract and recompeting the entire system.
 
@@ -770,7 +769,7 @@ Select one of the following:
 
 ---
 
-### Final Reflection
+### Final reflection
 
 You’ve made your recommendation. As you prepare to brief agency leadership and stakeholders:
 
@@ -781,7 +780,7 @@ You’ve made your recommendation. As you prepare to brief agency leadership and
 
 ---
 
-### Optional: Replay & Explore Another Path
+### Optional: Replay & explore another path
 
 Want to explore a different decision path? Go back and choose another option to see how outcomes differ—and how tradeoffs shift depending on your strategy.
 
