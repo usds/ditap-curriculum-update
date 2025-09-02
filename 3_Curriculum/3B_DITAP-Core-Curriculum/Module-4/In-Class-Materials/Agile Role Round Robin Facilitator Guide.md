@@ -4,25 +4,25 @@
 **Format:** Small groups (4–6 people each), Role Rotation Activity (instructor-led virtual or in-person)</br>
 **Learning Outcome**: To help participants distinguish between federal and vendor responsibilities during agile delivery by exploring role-based decision-making and identifying alignment points across roles.  
 
-## Activity Agenda:  
+## Activity agenda:  
 
 **Introduction (5 min)**
 * Explain the learning goal: understanding who owns what in agile execution.  
 * Emphasize that overlapping responsibilities are normal, but role clarity prevents blockers.
 
-**Scenario Rotation Activity (30 min)**
+**Scenario rotation activity (30 min)**
 * Participants are divided into breakout groups.  
 * Each group receives 2–3 realistic agile delivery prompts.  
 * Roles are rotated for each scenario: PO, COR, CO, and Vendor.  
 * Each person answers: "What should this role do in this situation?"  
 * Quickly discuss the answers to identify and correct any unclear answers. 
 
-**Debrief and Discussion (10–20 min)**
+**Debrief and discussion (10–20 min)**
 * Bring the class back together.  
 * Each group shares one scenario and a key insight about role overlap, friction, or coordination.  
 * The facilitator leads reflection on creating shared understanding and process clarity.
 
-### Sample Scenarios:  
+### Sample scenarios:  
 Present these as slides or as a team facilitator in each group \- do as many as practicable for the time allotted for this activity. 
 
 1\. **Missed Sprint Goal:** The team didn’t complete the committed backlog because they were waiting on PO feedback.  
@@ -37,7 +37,7 @@ Present these as slides or as a team facilitator in each group \- do as many as 
 * Shared Slides per group  
 * **Optional in class:** Role hats/labels for fun
 
-## Facilitator Tips:
+## Facilitator tips:
 * Encourage learners to focus on "what their role can control," not what others "should have done."  
 * Watch for confusion between the PO (product decisions) and COR (performance tracking).  
 * Use the debrief to highlight how contract structure, team agreements, and communication protocols help define boundaries.  
@@ -45,7 +45,7 @@ Present these as slides or as a team facilitator in each group \- do as many as 
 
 ________________________________________________
 
-## Participant Worksheet: Who Does What? Agile Role Round Robin
+## Participant worksheet: Who does what? Agile role round robin
 
 **Instructions**:   
 
@@ -79,7 +79,7 @@ _Scenario 4: Demo Failure_
 - CO Response:
 - Vendor Response:
 
-### Debrief Notes
+### Debrief notes
 
 * What was the most challenging role to take on and why?  
 * What insights did you gain about role coordination?  
