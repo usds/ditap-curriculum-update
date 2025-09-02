@@ -15,7 +15,7 @@ Recommended use cases include:
 * Before executing a contract modification involving security clauses  
 * After updates to agency breach notification or incident response policies
 
-## Learning Objectives
+## Learning objectives
 
 By the end of this exercise, participants should be able to:
 
@@ -24,16 +24,16 @@ By the end of this exercise, participants should be able to:
 * Identify weaknesses in documentation, workflows, or communication paths  
 * Strengthen response readiness and documentation protocols
 
-**Materials Needed**
+**Materials needed**
 
 * Current contract, including breach response or incident clauses  
 * Relevant agency policies (e.g., FedRAMP, NIST 800-53, CJIS)  
 * Scenario handouts (printed or digital)  
 * Role-based breach response worksheets
 
-## Role Overview
+## Role overview
 
-| Role | Primary Responsibilities During Exercise |
+| Role | Primary responsibilities during exercise |
 | ----- | ----- |
 | CO | Ensure contract compliance, interpret clause applicability, and assess need for mod action |
 | COR | Monitor performance, track documentation, validate vendor communication timelines |
@@ -45,7 +45,7 @@ By the end of this exercise, participants should be able to:
 
 60 to 90 minutes. Time blocks can be adjusted according to the available session length.
 
-## Exercise Agenda
+## Exercise agenda
 
 1. **Opening Briefing (5 minutes)**  
     Introduce participants, present an overview of the scenario, and outline expectations.  
@@ -67,29 +67,29 @@ By the end of this exercise, participants should be able to:
     Facilitate a discussion on what worked, what didn't work, and what needs to change.  
     Prompt: Where did delays, misunderstandings, or risk exposure occur?
 
-### Scenarios for Tabletop Use
+### Scenarios for tabletop use
 
 The facilitator may select one scenario or run multiple rounds using different examples.
 
-**Scenario 1: Delayed Notification**  
+**Scenario 1: Delayed notification**  
 A contractor-managed cloud platform detects unauthorized access to log files at 3:00 AM. The vendor delays notifying the government until 10:00 AM due to uncertainty about escalation procedures and concern about over-reporting. The exposure window remains unclear.
 
-**Scenario 2: COR on Leave**  
+**Scenario 2: COR on leave**  
 A vendor discovers that a misconfigured storage bucket has been publicly accessible for over a week, potentially exposing sensitive audit records. The COR is on leave for two weeks, and no backup contact was designated. The vendor sends an email but receives no reply and does not escalate.
 
-**Scenario 3: Internal Staff Breach**  
+**Scenario 3: Internal staff breach**  
 An agency staff member with privileged access logs into the vendor’s dashboard after hours and downloads sensitive PII. The vendor detects the activity but delays reporting, unsure whether it was authorized. Two days pass before clarification is reached.
 
-**Scenario 4: Partial Data Exposure with Ambiguous Scope**
+**Scenario 4: Partial data exposure with ambiguous scope**
 
 A vendor supporting a shared-service platform discovers that due to a configuration error, access control policies were not applied correctly across tenant environments. An internal audit reveals that external users may have been able to see portions of system configuration logs. It is unclear whether the logs contain any user data or if access was exploited.
 
-**Scenario 5: Misrouted Incident Response**  
+**Scenario 5: Misrouted incident response**  
  A junior vendor developer detects unusual log traffic and follows internal procedures to report it. Due to a routing error, the alert goes to the agency’s Tier 1 help desk instead of the COR or security team. No escalation occurs for 48 hours, during which the breach continues to expand.
 
 ____________________________________________
 
-### After-Action Items
+### After-Action items
 
 Facilitator should document:
 
@@ -107,8 +107,8 @@ Facilitator should document:
 
 **Facilitation Tips**
 
-* Use plain language and link actions back to the contract  
-* Encourage real-world anecdotes to ground the discussion  
-* Reinforce the CO’s oversight role, not as technical lead, but as authority over contract scope and performance  
-* Create a psychologically safe space where participants feel comfortable identifying real vulnerabilities
+* Use plain language and link actions back to the contract.  
+* Encourage real-world anecdotes to ground the discussion.  
+* Reinforce the CO’s oversight role, not as technical lead, but as authority over contract scope and performance.  
+* Create a psychologically safe space where participants feel comfortable identifying real vulnerabilities.
 
