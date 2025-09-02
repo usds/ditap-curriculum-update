@@ -6,7 +6,7 @@ Debriefings can significantly help shape the way vendors bid on future procureme
 * [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Proposed%20Debriefing%20Agenda%20Template.md)   
 * [Sample Debriefing ](https://drive.google.com/file/d/1aj0kc7BuR4kkgcQfFhgKGoKo3UG2dkYo/view?usp=drive_link) 
 
-## Facilitation Format Options
+## Facilitation format options
 
 * Small group breakout (if live)  
 * Individual journaling or written reflection (if self-paced)  
@@ -20,7 +20,7 @@ Debriefings can significantly help shape the way vendors bid on future procureme
 * Turn the conversation into a trust-building moment?  
   Encourage them to bid again?
 
-### ILT Facilitator Notes
+### ILT facilitator notes
 
 * Emphasize the *tone* of debriefings: it’s not just compliance — it’s an opportunity to strengthen the acquisition ecosystem.  
 * Tie the discussion back to templates Module 3 Sprint 3 self-paced learning (above) (e.g., include a “Vendor Feedback” moment in their own draft debriefing agendas).  
@@ -35,7 +35,7 @@ Present the scenario verbally or on a slide. Emphasize the *relational* role of 
 
 Ask: *"Has anyone experienced a debrief like this?"*  
 
-### Small Group (15 min) 
+### Small group (15 min) 
 Divide into groups of 3–5 people. Use one slide with the three questions:
 
 * What could you say or ask to help the vendor walk away with value?  
