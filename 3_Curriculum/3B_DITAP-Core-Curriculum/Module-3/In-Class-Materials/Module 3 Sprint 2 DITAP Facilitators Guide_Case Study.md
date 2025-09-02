@@ -9,7 +9,7 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & Objectives
+## I. Overview & objectives
 
 In this session, learners will analyze two data security options presented in **Milestone 3** of the Nagivating Stakeholder and Decision-Making Challenges case study. Using SWOT analysis and high-level life cycle cost estimation, they will evaluate trade-offs and recommend a solution aligned with performance, risk, and agency needs. This session builds on earlier strategy decisions and strengthens learners' comfort evaluating technical constraints and affordability.
 
@@ -18,7 +18,7 @@ In this session, learners will analyze two data security options presented in **
 * Apply structured thinking to life cycle cost estimation (LCCE)  
 * Recommend a solution that balances security, cost, and system performance
 
-## II. Materials & Preparation
+## II. Materials & preparation
 
 **Materials:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3  
@@ -26,13 +26,13 @@ In this session, learners will analyze two data security options presented in **
 * GAO 12-Step Life Cycle Cost Estimate (LCCE) Visual (linked in case)
 
 **Pre-Read for Participants:**
-* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3
+* Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 3.
 
-## III. Session Agenda & Activities
+## III. Session agenda & activities
 
 **Activity:** Evaluating Data Security Solutions  
 **Time:** 60 minutes  
-**Purpose:** Evaluate security trade-offs using SWOT and life cycle cost analysis
+**Purpose:** Evaluate security trade-offs using SWOT and life cycle cost analysis.
 
 **Instructions:**
 - **Frame the Task**
@@ -64,7 +64,7 @@ In this session, learners will analyze two data security options presented in **
 * High-level cost factors and rationale (not dollar estimates)  
 * Thoughtful solution recommendations aligned with agency context
 
-## IV. Next Steps / Follow-Up
+## IV. Next steps / Follow-Up
 
-* (Optional) Encourage learners to begin drafting a rough Statement of Objectives (SOO) for Casey’s acquisition  
+* (Optional) Encourage learners to begin drafting a rough Statement of Objectives (SOO) for Casey’s acquisition.  
 * Review the [Periodic Table of Acquisition Innovations](https://acquisitiongateway.gov/periodic-table) for preparations on SOO development, acquisition strategies, evaluation criteria, and starting to think about setting up the contract and its award.
