@@ -1,43 +1,52 @@
-# DITAP Curriculum Update
+# Digital IT Acquisition Professional (DITAP) 
 
-## Context
+## Transforming Federal Digital Acquisition
 
-The US DOGE Service (USDS) has awarded a contract to audit, modernize, and update the [Digital IT Acquisition Professional Training Program (DITAP)](https://techfarhub.usds.gov/get-started/ditap/). [CivicActions](https://civicactions.com/) will lead the project, with support from [TandemGov](https://www.tandemgov.com/) and [Experience Institute (Ei)](https://expinstitute.com/). USDS will serve as the Program Owner. 
+The Digital IT Acquisition Professional (DITAP) program represents a fundamental shift in how the federal government approaches technology procurement. As digital transformation accelerates across agencies, acquisition professionals need modern skills, agile methodologies, and user-centered approaches to effectively purchase and manage technology solutions that serve the American people.
 
 ## Vision
 
-The Digital IT Acquisition Professional Training Program (DITAP) will be “an open-source learning model that makes DITAP scalable, adaptable, and future-proof.”
+The [Digital IT Acquisition Professional Training Program (DITAP)](https://techfarhub.usds.gov/get-started/ditap/) is an open-source learning model that makes DITAP scalable, adaptable, and future-proof. DITAP empowers acquisition professionals to move beyond traditional contracting methods and embrace practices that deliver better outcomes for procurement in a digital-first government.
 
-## Impact statements
+The USDS initiated a comprehensive curriculum update to transform DITAP into a more scalable and adaptable training program. The USDS awarded a contract to audit, modernize, and update the Digital IT Acquisition Professional Training Program (DITAP). [CivicActions](https://civicactions.com/) led the project, with support from [TandemGov](https://www.tandemgov.com) and [Experience Institute (Ei)](https://expinstitute.com/). USDS served as the Program Owner. This refresh modernized the program by auditing and updating its content, resources, and assessment methods. With significant updates to its technological and applied learning approach, along with improved accessibility, the curriculum better reflects current procurement practices. 
 
-- _Empower procurement professionals through experiential learning and community building._ 
-- _Enabling the government to be a better buyer of digital services._  
-- _Deliver improved digital outcomes that keep pace with innovation and emerging technologies._
+### Impact Statements
 
-## Goals
+* Empower procurement professionals through experiential learning and community building.  
+* Enabling the government to be a better buyer of digital services.  
+* Deliver improved digital outcomes that keep pace with innovation and emerging technologies.
 
-- Audit the existing DITAP materials and program
-- Refresh and modernize the curriculum so that it is skills-based (experiential learning)
-- Develop clear and actionable Learning Design Documents (LDD) that align with program objectives and instructional design best practices
-- Develop 2 innovative and functional MVP adaptations tailored to different learning needs as well as a playbook demonstrating how the LDD facilitates DITAP course adaptions
-- Develop DITAP Digital Workbook that supports self-guided learning
-- Create an open & accessible DITAP program
-- Establish a DITAP Consortium with an open-governance model to enable continuous improvement of DITAP
+## DITAP Consortium 
 
-## Approach
+The Digital IT Acquisition Program (DITAP) Consortium is established to guide continuous improvement for the DITAP program, and foster a collaborative environment for DITAP program stakeholders, training providers, agencies, and alumni. The consortium will serve as a venue for participants to share regular feedback on opportunities to improve the program and course curriculum, to determine pathways to implement program changes or updates over time, and in doing so, to ultimately improve digital service procurement outcomes for the organizations DITAP graduates serve.
 
-To develop the next-generation curriculum for DITAP, we will take a research-based approach to cultivating transformative learning. Building on deep learning theories from Harvard’s Project Zero “Patterns of Thinking Project” and Jack Mezirow’s research on perspective transformation, we will develop a curriculum that combines project-based learning and the active use of the knowledge and skills developed during a learning experience. We will update the curriculum to support an experiential learning curriculum that brings four core workplace mindsets—self-awareness, storytelling, innovation, and management—to the acquisition workforce.
+## Repository Purpose
 
-CivicActions will divide its work into two workstreams. The first workstream will focus on instructional design and curriculum development workstream and tackle the three objectives laid out in the SOO. The second workstream will focus on “future-proofing” the DITAP curriculum through a new, open governance model . While working in parallel, these workstreams will be closely coordinated to provide inputs and articulate understandings between them. 
+This repository hosts the DITAP curriculum. It provides all the resources needed for vendors and partners to deliver the program with fidelity while allowing flexibility in specific components. The open-source approach ensures transparency, enables continuous improvement, and allows the broader acquisition community to benefit from these modern practices.
 
-### Workstream 1
+The repository is designed to keep content **continuously updated**. Updates ensure the curriculum reflects evolving digital acquisition practices, emerging technologies, and feedback from the field. This makes the program a living resource that adapts with the needs of the federal procurement community.
 
-Workstream 1 will audit the existing DITAP curriculum, establish a Learning Design Document (LDD), update the DITAP curriculum based on the LDD, and ensure project management throughout the delivery. We will conduct this work across three major phases: (1) a discovery and audit phase; (2) an instructional design phase; and (3) a curriculum development phase. As part of Phase 2, we will develop 2 MVP adaptations and the LDD playbook to enable cross-functional training in the long run. As part of Phase 3, we will author content to be populated into a SCORM-compliant Learning Management System and work with other DITAP providers to ensure community contributions are incorporated into the curriculum.
+In addition, the repository is a **collaborative space**. Current DITAP providers, agency stakeholders, and members of the broader community are invited to contribute to the curriculum. Contributions, through pull requests and issue reporting, ensure the program evolves with real-world needs.
 
-### Workstream 2
+## Repository Structure
 
-To ensure consistency across the DITAP ecosystem and proactive updates to the DITAP curriculum going forward, we will work on an open-governance model to help make DITAP “future-proof.”
+We organized our repository to support efficient knowledge-sharing, curriculum delivery, and maintenance:
 
-## Documentation
+### **/1\_About**
 
-More in-depth documention on DITAP, how it is managed, and how you can contribute to the curriculum development is located, [explore our About page](1_About/1A_What-Is-DITAP). 
+Contains background information on the DITAP program, guidelines for contributing (including how to submit pull requests), and information on governance and support. 
+
+### **/2\_Consortium**
+
+Holds consortium meeting notes, the charter, and related documentation to demonstrate how DITAP Consortium contributes to the program sustainability. 
+
+### **/3\_Curriculum**
+
+Includes the standardized core curriculum, two adaptation curricula, and a suite of supporting materials (e.g., facilitator guides, slides, learner resources) to help vendors deliver the program effectively.
+
+## Updates & Versioning
+
+This curriculum is developed and hosted in GitHub using LiaScript, supporting a flexible, collaborative workflow with rapid updates and version control. To utilize these materials, you can download them directly or clone the repository to your local environment. Detailed instructions and technical setup guidance are available under /3A\_Vendor-Materials.
+
+Curriculum updates are released periodically to incorporate feedback and reflect evolving digital acquisition practices. Curriculum updates are released periodically to integrate input and reflect evolving digital acquisition practices. Vendors should check for the most recent materials before each program delivery and can subscribe to repository notifications to stay informed of updates.
+
