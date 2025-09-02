@@ -40,7 +40,8 @@ We'll interview DITAP alumni via Zoom. In the previous alumni survey, participan
 
 ### Materials
 
-- [Email request draft](https://docs.google.com/document/d/1dqQVzqZdo_GvIWdM7N7MPdS5pwtTcCMu7z2DJFfZ0p4/edit?tab=t.0#heading=h.lgvmw1dhjagl) 
+- Email request
+- Calendly link for scheduling
 - [Research synthesis](https://app.mural.co/t/civicactions3117/m/civicactions3117/1737142960369/000cc497f690e248e84c95d40da415fcbb794ccd?sender=u4f51c3ab811a3cc570d34701)
   
 ### Recruitment 
