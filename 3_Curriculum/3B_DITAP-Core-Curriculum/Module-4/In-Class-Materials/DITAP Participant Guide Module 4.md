@@ -2,7 +2,7 @@
 
 *Revised August 2025*
 
-### Module 4 \- Managing Agile digital service  contracts: Oversight, performance, and delivery
+### Module 4 \- Managing Agile digital service contracts: Oversight, performance, and delivery
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -56,8 +56,8 @@ By the end of this module, you will be able to:
 * Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals  
 * Identify agile performance metrics that go beyond compliance to measure true delivery value  
 * Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics  
-* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place  
-  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments
+* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place
+* Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments
 
 ### Connection to overall DITAP program
 
