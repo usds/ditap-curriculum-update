@@ -2,7 +2,7 @@
 
 *Updated July 2025*
 
-## Module 5 - Leading Change
+## Module 5 - Leading change
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -12,20 +12,20 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents 
 
-### Overview and Objectives
+### Overview and objectives
 
    - Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-### Materials and Preparation
+### Materials and preparation
 
    - Required Materials  
    - Preparation Checklist
 
-### Module Agenda 
+### Module agenda 
 
-### Module Activities
+### Module activities
 
 1. Discussion: Talk about your experience with challenges
 2. Discussion: Strategy for introducing new ideas  
@@ -36,17 +36,17 @@ Facilitator(s): \[List Facilitator Names\]
 7. Reflection Activity: Crafting Your Vision 
 8. Activity: Change Contribution Plan
 
-## Additional Resources
+## Additional resources
 
    - Links to Relevant Documents  
    - Contact Information
 
 
-## Overview & Objectives
+## Overview & objectives
 
     
 
-### Module Summary 
+### Module summary 
 
 Successful change efforts depend upon relationships and collaboration. In this module, you will learn to apply techniques to create the culture of innovation within your sphere that enables you and others to effectively lead customers to the best solutions. 
 
@@ -54,39 +54,39 @@ In Sprint 1, you will gain skills in preparing for and holding “influence” c
 
 Sprint 2 moves into leadership of organization change and developing a culture of continuous improvement and scalable practices. You will find a step-by-step model for leading organizational change and assess your own change style.
 
-### Learning Objectives
+### Learning objectives
 
 At the end of this module, participants will be able to:
 
-* Identify their spheres of influence.  
-* Identify typical challenges they may encounter when working with various stakeholders in those spheres.  
-* Plan for influence conversations based on challenges and opportunities in their agency or current digital assignment.  
-* Assess their strengths and change style.  
-* Develop a personal plan for contributing to and promoting change within their agency and the broader government community.
+* Identify their spheres of influence  
+* Identify typical challenges they may encounter when working with various stakeholders in those spheres  
+* Plan for influence conversations based on challenges and opportunities in their agency or current digital assignment
+* Assess their strengths and change style  
+* Develop a personal plan for contributing to and promoting change within their agency and the broader government community
 
-### Connection to Overall DITAP Program 
+### Connection to overall DITAP program 
 
 This module supports the DITAP competency area(s) of advancing change as an individual and within an organization, encouraging a culture of innovation and learning by applying methods for continuous improvement and scalable practices. It aligns with the broader goals of the DITAP program by reinforcing the shift from traditional, process-heavy procurement toward a more adaptive, outcome-driven approach that supports digital service delivery.
 
 This session builds on prior learning from Module 4, as learners prepare for digital acquisition procurement in the real world. It helps bridge the gap between theory and application by introducing tools such as generative AI, applying an agile-style retrospective post-procurement and the Kotter Model for change that help inspire and provide impetus to stay abreast of developments in the field and sharing insights within the agency.
 
-## Materials and Preparation
+## Materials and preparation
 
-### Required Materials:
+### Required materials:
 
 - [ ] Module 5 slide deck  
 - [ ] TEDx Video: [Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)  
 - [ ] Whiteboard and markers or digital collaboration tool   
 - [ ] Notetaking materials (digital or physical) 
 
-### Preparation Checklist:
+### Preparation checklist:
 
 - [ ] Set up breakout spaces  
 - [ ] Test video 
 
 
 
-## Module Agenda
+## Module agenda
 
 | # | Activity | Sprint \# | Duration in Minutes |
 | :-: | :---- | ----- | :---: |
@@ -100,14 +100,14 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 | 8 | Change Contribution Plan | 2 | 10 |
 
 
-## Module Activities
+## Module activities
  
 
-1. ### Discussion: Talk About Your Experience With Challenges
+1. ### Discussion: Talk about your experience with challenges
 
    Total Time Allocation: 15 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Participants identify and consider how they have experienced challenges in their professional roles in real life.  
    * **Expected Outcomes**: Learners will be able to discern and define the challenges they are facing with specificity. This will allow them to shape their strategy and engage with the right people.   
@@ -130,11 +130,11 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
     ---
 
-2. ### Discussion: Strategy For Introducing New Ideas
+2. ### Discussion: Strategy For introducing new ideas
 
-   Total Time Allocation:  30 min
+   Total Time Allocation: 30 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: To think strategically about adapting and advancing their plan within the context of important relationships and timelines.  
    * **Expected Outcomes**: Learners will be able to think critically and look for specific opportunities to make headway with new ideas.  
@@ -157,11 +157,11 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
 ---
 
-3. ### Discussion: Sharing Stories
+3. ### Discussion: Sharing stories
 
    Total Time Allocation: 15 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Learn how relating experiences through various methods of storytelling helps improve government procurement.  
    * **Expected Outcomes**: At the end of this activity, learners will be able to communicate meaningful experiences about their procurement process, matching their message to the communication method for the intended audience.  
@@ -175,11 +175,11 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
 ---
 
-4. ### Discussion: Normalizing Continuous Learning
+4. ### Discussion: Normalizing continuous learning
 
    Total Time Allocation: 20 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Participants will need to carefully consider how to make continuous learning part of their agency’s procurement process.   
    * **Expected Outcomes**: By the end of this activity, learners will be able to apply their knowledge of resources, modeling a learning mindset, and sharing new information with colleagues.   
@@ -196,11 +196,11 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
 ---
 
-5. ### Discussion: Your Tech Awareness Habits
+5. ### Discussion: Your tech awareness habits
 
-   Total Time Allocation:  15 min
+   Total Time Allocation: 15 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Participants can adopt specific practices that will help them to stay informed on emerging tech and trends.  
    * **Expected Outcomes**: At the conclusion of this activity, learners will know how to actively pursue and propagate current technology and trends that will help inform their procurement efforts.  
@@ -216,12 +216,12 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
 ---
 
-6. ### Optional Activity: Tiny Habits, Big Impact
+6. ### Optional activity: Tiny habits, big impact
 
    TEDx Video Reflection: **[Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)**  
    Total Time Allocation: 40-50 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: To reflect on the concept of incremental changes in relation to digital acquisition at their agency.  
    * **Expected Outcomes**: At the end of this activity, participants will have identified at least one small change they could lead and grow at their agency.  
@@ -252,19 +252,19 @@ This session builds on prior learning from Module 4, as learners prepare for dig
      Encourage participants to listen for overlaps or patterns.
 
    * **Step 4: Share-Back & Close (5–10 min)**  
-     - One person from each group shares a key takeaway  
-     - Highlight any “tiny changes” that sparked ideas
+     - One person from each group shares a key takeaway.  
+     - Highlight any “tiny changes” that sparked ideas.
 
 
     **Wrap up** with this message: Sustainable transformation in government doesn’t always start with a big, top-down initiative. Sometimes, it begins with a small, intentional action, something you can repeat, model, and build momentum around.
 
 ---
 
-7. ### Reflection Activity: Crafting Your Vision
+7. ### Reflection activity: Crafting your vision
 
    Total Time Allocation: 5-10 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
    * **Purpose**: Participants will have a set of mechanisms they can turn to to communicate their vision and enact change in their agency.  
    * **Expected Outcomes**: At the end of this activity, participants will be able to envision team, user, and agency success based on their efforts and influence for change.  
@@ -280,16 +280,16 @@ This session builds on prior learning from Module 4, as learners prepare for dig
          
  ---      
 
-8. ### Change Contribution Plan
+8. ### Change contribution plan
 
      
    Total Time Allocation: 10 min
 
-   #### **Activity Instructions:**
+   #### **Activity instructions:**
 
-   * **Purpose:**  to help learners think about how they will take action with their contributions and make a plan, with their primary change style in mind.  
+   * **Purpose:** to help learners think about how they will take action with their contributions and make a plan, with their primary change style in mind.  
      **Expected Outcomes:** They will have documented a practical plan to start their change contributions at their agency.  
-     **Materials Needed** (specific to activity):  None  
+     **Materials Needed** (specific to activity): None  
    * **Instructions**:   
      **Prompts**:   
     * *How will I stay informed about tech and trends?*   
@@ -306,14 +306,14 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
 
 
-## Additional Resources
+## Additional resources
 
-### Links to Relevant Documents:
+### Links to relevant documents:
 
 * Link to relevant documents as needed.
 
 
-### Contact Information:
+### Contact information:
 
 * Who to contact for technical issues or content questions.
 
