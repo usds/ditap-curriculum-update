@@ -11,14 +11,14 @@
 Traditional government acquisition strategies were built around static requirements and predictable outcomes. But modern digital services are iterative, user-centered, and often dependent on evolving conditions. This mismatch introduces risk when agencies try to conduct overly complex solicitations when their internal teams are not at the level that can execute the outcomes. 
 
 **Organizational maturity in this context refers to:**
-* Familiarity with iterative/agile delivery  
+* Familiarity with iterative/Agile delivery  
 * Capacity to manage modular teams and contracts  
 * Governance alignment for experimentation and change  
 * Comfort with new pricing models, evaluation methods, and performance measures
 
  **Key Point:** Maturity is not about agency size—it's about readiness.
 
-## Four Foundational Risk Axioms for Digital Procurement
+## Four foundational risk axioms for digital procurement
 
 1. Procurement Time is Inversely Proportional to Flexibility  
    * Large, multi-year contracts make it harder to pivot if the vendor underperforms.  
@@ -39,43 +39,43 @@ Traditional government acquisition strategies were built around static requireme
 **Use fixed-price per iteration/milestone to balance flexibility and control.**
 
 4. Agile Adoption is a Long Game  
-   * Industry data shows agile practices take 2–3 years to fully mature—but lead to a 3x higher likelihood of success (Standish Chaos Report).
+   * Industry data shows Agile practices take 2–3 years to fully mature—but lead to a 3x higher likelihood of success (Standish Chaos Report).
 
 **Use procurement as a tool to build maturity over time through structured learning, iteration, and capability building.**
 
-## Applying a Whole-System, Maturity-Aligned Approach
+## Applying a whole-system, maturity-aligned approach
 
 **The Problem with One-Off Strategies:**
 
 Acquisition strategies that treat each procurement as a discrete, siloed effort—focusing only on the immediate requirement or system—often fail to account for the broader, interconnected constraints that shape a program’s success or failure. For example, federal budgeting cycles are rigid and slow-moving, often disconnected from the pace of digital delivery. If an acquisition strategy doesn’t align with how and when funds are allocated or obligated, even the best technical design can stall or underdeliver due to funding gaps or timing mismatches.
 
-**Staffing limitations** further complicate matters. Government programs frequently lack dedicated in-house technical roles—such as designers, product managers, or DevSecOps engineers—which puts strain on the ability to manage iterative contracts or respond to vendor outputs with speed and clarity. Without this internal capacity, agencies may find themselves overly dependent on vendors or unable to provide critical feedback during agile delivery cycles.
+**Staffing limitations** further complicate matters. Government programs frequently lack dedicated in-house technical roles—such as designers, product managers, or DevSecOps engineers—which puts strain on the ability to manage iterative contracts or respond to vendor outputs with speed and clarity. Without this internal capacity, agencies may find themselves overly dependent on vendors or unable to provide critical feedback during Agile delivery cycles.
 
 Additionally, **organizational change fatigue** is a real barrier. Many federal staff have experienced a long string of transformation efforts that started strong but lost momentum due to leadership changes, missed expectations, or cultural resistance. When acquisition strategies are designed without acknowledging this accumulated skepticism and institutional weariness, they risk poor adoption—even if the technical solution is sound.
 
 Finally, **policy and leadership readiness** must be considered. A procurement plan that depends on rapid decision-making, risk tolerance, or modern interpretation of FAR flexibilities will not succeed in environments where leadership is risk-averse or unfamiliar with digital acquisition norms. Without buy-in from legal, oversight, and executive stakeholders, even the most well-intentioned digital acquisition strategy can be blocked or significantly delayed. A successful strategy, therefore, must view acquisition as part of a **whole organizational ecosystem**—one that integrates funding cycles, human capital realities, change management dynamics, and governance maturity into its structure. Only by accounting for these constraints can agencies create a strategy that is not just ideal on paper, but executable in practice.
 
-## The Modern Approach:
+## The modern approach
 
 A digital service acquisition strategy should be a whole-system risk reduction plan. A modern digital service acquisition strategy should not be treated as a transactional exercise to fulfill a single requirement, but rather as a **whole-system risk reduction plan**—a strategic framework that aligns the agency’s long-term goals, technical architecture, and operational realities. This kind of strategy weaves together multiple perspectives across the organization to create not only a pathway for successful delivery, but also a foundation for sustainable, adaptive capacity over time.
 
-### The Team
+### The team
 
 **Procurement team:** whose knowledge of market conditions, pricing models, and contracting flexibilities provides the structural backbone of any acquisition. These professionals are key to designing solicitations that allow for modular, iterative work while still managing risk through appropriate contract types, incentives, and evaluation criteria. When integrated early, procurement experts can help define acquisition pathways that account for vendor dynamics, government ownership needs, and the ability to pivot when outcomes don’t align with expectations.
 
 **Program team’s perspective:** ensures that user needs, pain points, and the tempo of delivery remain central. These teams understand how the system fits into larger mission operations and what constraints—technical, political, or procedural—could affect user success. Without their involvement, it’s easy to fall into a pattern of procuring what appears to be a technically correct solution that fails to deliver meaningful outcomes for the people who depend on it.
 
-**Technical team’s vision:**, which grounds the acquisition in the reality of the agency’s architecture, security posture, and tooling landscape. These professionals determine how easily new vendors can integrate, how reusable code and APIs are managed, and what open-source or COTS platforms might offer real value. Their involvement helps avoid the risk of duplicative systems or monolithic builds that inhibit long-term flexibility.
+**Technical team’s vision,** which grounds the acquisition in the reality of the agency’s architecture, security posture, and tooling landscape. These professionals determine how easily new vendors can integrate, how reusable code and APIs are managed, and what open-source or COTS platforms might offer real value. Their involvement helps avoid the risk of duplicative systems or monolithic builds that inhibit long-term flexibility.
 
-**Leadership/General Counsel’s tolerance** for change and innovation: can either empower or obstruct all of the above. A forward-thinking leadership team can support decisions that prioritize modularity, transparency, and government ownership. But if leadership is unfamiliar with agile or digital delivery principles, there’s a risk that strategic decisions will default to legacy practices out of caution. A strong acquisition strategy must assess leadership readiness and proactively build space for experimentation, evidence gathering, and governance education.
+**Leadership/General Counsel’s tolerance** for change and innovation: can either empower or obstruct all of the above. A forward-thinking leadership team can support decisions that prioritize modularity, transparency, and government ownership. But if leadership is unfamiliar with Agile or digital delivery principles, there’s a risk that strategic decisions will default to legacy practices out of caution. A strong acquisition strategy must assess leadership readiness and proactively build space for experimentation, evidence gathering, and governance education.
 
-### The Strategy
+### The strategy
 
 **Budgeting perspective:** agencies must begin viewing digital services not as one-time capital projects, but as ongoing investments in capacity building. Unlike traditional systems built under waterfall models—where a product is developed and handed off to maintenance—digital products are continuously evolving. Agile and iterative development require sustained investment in teams, platforms, and processes. Agencies should align their acquisition strategies with funding models that support this reality, such as working capital funds, modular contracting with ongoing option years, or technology refresh budgets. This ensures the technology remains current, secure, and responsive to user needs, rather than degrading over time due to static funding structures.
 
 **Built-in feedback loops:** retrospectives, post-award evaluations, and cross-agency learning practices: help the agency understand what worked, what didn’t, and how to refine future procurements. By institutionalizing learning and reapplying successful models, agencies can gradually reduce risk, improve outcomes, and build a culture of continuous improvement across their digital portfolio.
 
-## Incorporating Agency Maturity Assessment into the Acquisition Strategy
+## Incorporating agency maturity assessment into the acquisition strategy
 
 A critical—but often overlooked—component of a successful digital acquisition is an honest and deliberate assessment of the agency’s digital service maturity. This assessment isn’t just a useful internal exercise—it plays a strategic role in shaping how the government communicates with industry, how vendors structure their responses, and how the entire acquisition process unfolds.
 
@@ -100,19 +100,19 @@ Maturity models can help acquisition professionals in the pre-solicitation and a
 * Internal agency maturity & readiness  
 * Potential industry sources maturity & readiness
 
-**Conducting Internal Agency Assessment:** Knowing how mature your team, agency, and government support staff are is critical for implementing digital service solutions. If your agency has not yet implemented digital service plays or utilized agile software development methods, it may not be ready for a scaled agile approach with many contracts, teams, and management overhead. Likewise, if you’re working with a digital service team that knows precisely what they want, helping to find the kind of partner that will work best with them might be more of a challenge, as they are probably not looking for the traditional government IT integrators. 
+**Conducting Internal Agency Assessment:** Knowing how mature your team, agency, and government support staff are is critical for implementing digital service solutions. If your agency has not yet implemented digital service plays or utilized Agile software development methods, it may not be ready for a scaled Agile approach with many contracts, teams, and management overhead. Likewise, if you’re working with a digital service team that knows precisely what they want, helping to find the kind of partner that will work best with them might be more of a challenge, as they are probably not looking for the traditional government IT integrators. 
 
-Utilizing an agile or design maturity model to assess your implementation team might be helpful for market research and requirement goals. It can also help the industry know where your team is, allowing them to right-size a solution based on where your agency is. Market intelligence gives the industry a transparent and functional way to assess potential risks. Scope is imperative to the type of procurement methods for digital services that will be introduced later in this course.  
+Utilizing an Agile or design maturity model to assess your implementation team might be helpful for market research and requirement goals. It can also help the industry know where your team is, allowing them to right-size a solution based on where your agency is. Market intelligence gives the industry a transparent and functional way to assess potential risks. Scope is imperative to the type of procurement methods for digital services that will be introduced later in this course.  
 
 **In-class Activity**: Walk through the  [TechFarHub Maturity Model](https://techfarhub.usds.gov/resources/learning-center/agency-maturity-for-agile/). 
 
-## Digital Services Industry Maturity
+## Digital services industry maturity
 
 A key element of using maturity models is that they’re typically developed through the collective knowledge and experience of industry subject matter experts, then validated through real-world application and feedback within that same industry to ensure relevance and credibility. Consider the [Digital Services Coalition’s Digital Services Maturity Model](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1425401169%23gid=1425401169), which is used to screen potential new applicants to the non-profit trade association. This maturity model was developed to highlight the unique characteristics of companies working on digital transformations in government environments.
 
-The State of Maryland applied principles similar to those in the DSC Maturity Model in its [Agile Digital Experience Product Transformation (ADEPT)](https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/70911) procurement. The ADEPT contract is a multi-award vehicle designed to streamline the procurement of digital services, emphasizing agile methodologies and user-centered design. By integrating maturity assessments into their procurement strategy, Maryland aimed to engage vendors with proven capabilities in delivering modern digital services.[DSC Maturity Matrix](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1104018846%23gid=1104018846) 
+The State of Maryland applied principles similar to those in the DSC Maturity Model in its [Agile Digital Experience Product Transformation (ADEPT)](https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/70911) procurement. The ADEPT contract is a multi-award vehicle designed to streamline the procurement of digital services, emphasizing Agile methodologies and user-centered design. By integrating maturity assessments into their procurement strategy, Maryland aimed to engage vendors with proven capabilities in delivering modern digital services.[DSC Maturity Matrix](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1104018846%23gid=1104018846) 
 
-## Use of Maturity Models in Market Research  
+## Use of maturity models in market research  
 Maturity Models can be used effectively in market research and can improve communication when the scope or requirements might not be fully identified or shared: 
 
 * **Market Research**: Agencies can use the model to survey the landscape of potential vendors, identifying those whose maturity levels align with project requirements. This helps shortlist vendors who are best suited for specific contracts.  
