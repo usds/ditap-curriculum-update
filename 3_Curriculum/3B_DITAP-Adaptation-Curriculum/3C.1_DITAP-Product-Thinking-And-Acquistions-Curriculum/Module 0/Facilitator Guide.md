@@ -62,6 +62,18 @@ By the end of this module, participants will be able to:
 Scenario: ESA Registry – _Pet.gov_
 - **Activity 1**: Analyzing User Types and Their Challenges
     - Participants identify three potential personas, list three pain points per persona, and highlight the three biggest challenges, their impacts, and the consequences of inaction.
+- Potential Answers to the Prompt Questions
+    - Where in the journey does trust break down?
+        - Steps 1 & 2: When Chloe encounters multiple unofficial and potentially predatory websites. The lack of a clear, trustworthy source immediately casts doubt.
+        - Step 3: The absence of a centralized, consistent government source deepens distrust.
+        - Step 4: Even a trusted authority (the therapist) cannot point to a definitive answer, which undermines confidence in the entire system.
+- Facilitator Guidance: Emphasize that trust in public services depends not just on truth, but on clarity and consistency. When conflicting or unofficial sources dominate, it creates space for misinformation.
+    - What’s the most emotionally frustrating moment?
+        - Step 4: Being told by a campus therapist that there is no federal registry contradicts what Chloe has seen online—leading to irritation, disillusionment, and feeling unsupported.
+        - Step 5: Chloe’s decision to use a questionable template shows resignation. She feels forced to rely on something unofficial and hopes it won't backfire.
+- Facilitator Guidance:
+Encourage students to reflect on the emotional toll of bureaucratic confusion, especially when mental health and housing are at stake. This builds empathy and supports user-centered thinking.
+
 - **Activity 2**: Analyze the ESA Registration Journey (Part 1)
     - Participants review a fictional journey map (Chloe and “Professor Nibbles”), identify top three pain points, propose an improvement opportunity, and frame a “how might we” question.
 - **Activity 3**: Define Success Criteria (Part 2)
