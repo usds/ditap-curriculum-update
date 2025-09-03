@@ -46,7 +46,7 @@ Start by identifying both internal and external potential users.
 
 These are people who use or experience the service directly:
 - U.S. residents, citizens, immigrants, or applicants.
-- Caregivers, veterans, small business owners.
+- Caregivers, Veterans, small business owners.
 - People with accessibility needs or language barriers.
 - First-time vs. repeat users.
 
