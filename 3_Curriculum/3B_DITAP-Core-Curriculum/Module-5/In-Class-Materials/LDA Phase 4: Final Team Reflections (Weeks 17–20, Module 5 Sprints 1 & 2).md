@@ -1,10 +1,10 @@
 # LDA Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
 
-## Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
+## Phase 4: Final team reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
 
 The goal of Phase 4 is to provide a dedicated space for teams to reflect on their entire capstone journey. The emphasis is not on defending a product, but on learning from the process, from each other, and from the feedback loop. This phase highlights the synthesis of learning from the discovery sprint to case study submission, analysis of feedback received during peer evaluation, insights derived from blind rankings (including surprises and alignment), reflection on team growth and challenges, and the translation of lessons into participants' real roles and agencies. Team presentation work begins in Module 5, Sprint 1, culminating in the final team presentation and LDA Retrospective deliverable in Module 5, Sprint 2.
 
-### Facilitator Guide:
+### Facilitator guide:
 
 Facilitators host 15–20 minute team presentations, guiding teams to focus on reflection and learning rather than pitching a solution. Teams are encouraged to discuss honestly the challenges, growth, and surprises encountered throughout the LDA. This phase represents the crucial point where the experiential learning from the preceding three phases is consolidated and internalized. It is where the active engagement in "doing" (Phases 1 & 2) and "evaluating" (Phase 3) transforms into actionable understanding and application. By centering on reflection rather than defense, the program ensures participants extract maximum value from their successes and failures, fostering a growth mindset crucial for continuous professional development. This phase also implicitly validates the efficacy of the LDA's design in achieving its learning objectives, particularly vendor empathy and practical procurement skills.
 
@@ -20,7 +20,7 @@ Facilitators must ensure all team members speak during the presentation to promo
 
 Team Deliverables: The primary deliverable for this phase is the Final Team Presentation and an LDA Retrospective.
 
-### Assessment and Evaluation Framework
+### Assessment and evaluation framework
 
 The overall assessment of the Live Digital Assignment is broken down into four weighted components:
 
@@ -31,15 +31,15 @@ The overall assessment of the Live Digital Assignment is broken down into four w
 
 Facilitators are responsible for applying this assessment breakdown consistently across all teams, ensuring fairness and objectivity in grading. It is important to reiterate that the "Pass/Fail" evaluation in Phase 2 for the Case Study Package serves as a critical gate; successful completion of this phase is a prerequisite for further assessment and progression through the capstone.
 
-### DITAP LDA Capstone Impact Summary
+### DITAP LDA capstone impact summary
 
 | Area of Growth | How Capstone Delivers It |
 | --- | --- |
 | Empathy | Simulates vendor constraints & storytelling |
-| Stakeholder Engagement | Research & interviews with real companies |
+| Stakeholder engagement | Research & interviews with real companies |
 | Communication | Proposal writing, presentations, peer review |
-| Agile & HCD Literacy | Aligns with agile & user-centered methods |
-| Technical Evaluation | Rubric-based peer evaluations |
+| Agile & HCD literacy | Aligns with agile & user-centered methods |
+| Technical evaluation | Rubric-based peer evaluations |
 | Readiness | Mirrors real government procurement cycles |
 
 
