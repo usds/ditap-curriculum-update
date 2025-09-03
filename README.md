@@ -48,5 +48,5 @@ Includes the standardized core curriculum, two adaptation curricula, and a suite
 
 This curriculum is developed and hosted in GitHub using LiaScript, supporting a flexible, collaborative workflow with rapid updates and version control. To utilize these materials, you can download them directly or clone the repository to your local environment. Detailed instructions and technical setup guidance are available under /3A\_Vendor-Materials.
 
-Curriculum updates are released periodically to incorporate feedback and reflect evolving digital acquisition practices. Curriculum updates are released periodically to integrate input and reflect evolving digital acquisition practices. Vendors should check for the most recent materials before each program delivery and can subscribe to repository notifications to stay informed of updates.
+Curriculum updates are released periodically to integrate input and reflect evolving digital acquisition practices. Providers should check for the most recent materials before each program delivery and can subscribe to repository notifications to stay informed of updates.
 
