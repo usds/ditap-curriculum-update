@@ -15,7 +15,7 @@ Please select the highest level you feel comfortable with, even if you can do mu
 
 ---
 
-## 1. Agile & Modern Acquisition Methods
+## 1. Agile & modern acquisition methods
 
 **Question:** Based on your knowledge and experience before the program begins, please select the highest level that applies to you for each topic.
 
@@ -31,7 +31,7 @@ Please select the highest level you feel comfortable with, even if you can do mu
 
 ---
 
-## 2. Acquisition for Digital Services
+## 2. Acquisition for digital services
 
 **Question:** Based on your knowledge and experience before the program begins, please select the highest level that applies to you for each topic.
 
@@ -52,7 +52,7 @@ Please select the highest level you feel comfortable with, even if you can do mu
 
 ---
 
-## 3. Digital Services Concepts & Technologies
+## 3. Digital services concepts & technologies
 
 **Question:** Based on your knowledge and experience before the program begins, please select the highest level that applies to you for each topic.
 
@@ -73,7 +73,7 @@ Please select the highest level you feel comfortable with, even if you can do mu
 
 ---
 
-## 4. Role as a Digital Services Professional
+## 4. Role as a digital services professional
 
 **Question:** Based on your knowledge and experience before the program begins, please select the highest level that applies to you for each topic.
 
@@ -89,7 +89,7 @@ Please select the highest level you feel comfortable with, even if you can do mu
 
 ---
 
-## 5. Open-Ended Feedback
+## 5. Open-Ended feedback
 
 **Please respond to the following questions:**
 
