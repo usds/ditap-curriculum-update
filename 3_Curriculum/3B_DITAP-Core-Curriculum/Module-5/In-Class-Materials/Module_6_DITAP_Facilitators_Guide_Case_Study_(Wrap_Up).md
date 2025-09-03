@@ -1,6 +1,6 @@
 # DITAP In-Class Facilitator Guide
 
-## Module 6 (After Module 4 or during Module 5)
+## Module 6 (after Module 4 or during Module 5)
 
 **Session Title:** **Laying Out a Recommendation**  
 **Date:** \[Insert Date\]  
@@ -9,7 +9,7 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-### I. Overview & Objectives
+### I. Overview & objectives
 
 Learners will synthesize their insights from the full case study and the course. They will produce a written recommendation and deliver a team presentation outlining their approach to implementing a successful CRM system.
 
@@ -17,12 +17,12 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 
 **Learning Objectives:**
 
-- Integrate insights from discovery, evaluation, and planning phases to support digital service implementation
-- Synthesize tradeoffs and decisions into a coherent recommendation
-- Communicate a strategic approach that demonstrates stakeholder empathy, technical understanding, and adaptive leadership
-- Reflect on leadership growth through the case study experience
+- Integrate insights from discovery, evaluation, and planning phases to support digital service implementation.
+- Synthesize tradeoffs and decisions into a coherent recommendation.
+- Communicate a strategic approach that demonstrates stakeholder empathy, technical understanding, and adaptive leadership.
+- Reflect on leadership growth through the case study experience.
 
-### II. Materials & Preparation
+### II. Materials & preparation
 
 **Materials:**
 
@@ -32,19 +32,19 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 
 **Preparation Checklist:**
 
-- Ensure each group has access to their Milestone 1–3 notes
-- Prepare rubric for feedback or peer review (recommendation is to use standard class participation rubric but you may also use the rubric in the case study)
-- Create timing guidelines for group presentations (e.g., 6–8 min)
-- Create guidelines for feedback & Q&A round robin (e.g. Team 1 for Team 2, Team 2 for Team 3… Team 8 for Team 1)
+- Ensure each group has access to their Milestone 1–3 notes.
+- Prepare rubric for feedback or peer review (recommendation is to use standard class participation rubric but you may also use the rubric in the case study).
+- Create timing guidelines for group presentations (e.g., 6–8 min).
+- Create guidelines for feedback & Q&A round robin (e.g. Team 1 for Team 2, Team 2 for Team 3… Team 8 for Team 1).
 
 **Pre-Read for Participants:**
 
 - Review team outputs from earlier Milestones
 - Review Milestone 4 and 5 guidance
   
-### III. Session Agenda & Activities
+### III. Session agenda & activities
 
-#### Activity Title: Laying Out a Recommendation <br>
+#### Activity title: Laying out a recommendation <br>
 
 **Time:** 1-2 classes  
 **Purpose:** To synthesize learning and present final case study recommendations.
@@ -60,9 +60,9 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
         5. Stakeholder engagement strategy
         6. Implementation and performance tracking
     2. Remind learners their analysis will be assessed based on their ability to address stakeholder concerns, propose viable solutions, and justify their recommendations. Strong responses incorporate:
-        1. **Stakeholder Management**: Ongoing collaboration with IT and Compliance
-        2. **Integration**: Justifying the choice of custom APIs
-        3. **Data Security**: Advanced encryption and audit plans
+       * **Stakeholder Management**: Ongoing collaboration with IT and Compliance
+       * **Integration**: Justifying the choice of custom APIs
+       * **Data Security**: Advanced encryption and audit plans
     3. They might consider these questions: How did your discovery decisions show up in your solicitation strategy? In your evaluation criteria? In your delivery plan?
 - **Q&A and Peer Feedback Exchange: Round Robin Format**
     1. Assign each team in advance to give feedback to another.
@@ -94,11 +94,11 @@ This culmination invites learners to apply the full arc of the DITAP curriculum�
 
 - Completed final presentation
 - Demonstrated ability to make strategic decisions under ambiguity
-- Peer-to-peer learning and reflection  
+- Peer-to-peer learning and reflection 
 
 ### Facilitator Tips:
 
-- Celebrate completion—this is a culminating moment in the course
-- Prompt teams to explicitly address FAR compliance in their recommendations
-- Guide discussion toward realistic federal implementation timelines and constraints
-- Help learners connect case study decisions to real federal acquisition scenarios they'll face
+- Celebrate completion—this is a culminating moment in the course.
+- Prompt teams to explicitly address FAR compliance in their recommendations.
+- Guide discussion toward realistic federal implementation timelines and constraints.
+- Help learners connect case study decisions to real federal acquisition scenarios they'll face.
