@@ -9,7 +9,7 @@ This post-program survey is designed to collect your feedback on the program’s
 
 ---
 
-## 1. Program Value & Relevance
+## 1. Program value & relevance
 
 **Question:** Please rate your agreement with the following statements about the DITAP program.
 
@@ -23,7 +23,7 @@ This post-program survey is designed to collect your feedback on the program’s
 
 ---
 
-## 2. Skills and Knowledge Gained
+## 2. Skills and knowledge gained
 
 **Question:** Please indicate your level of confidence in each of the following areas after completing the DITAP program.
 
@@ -41,7 +41,7 @@ This post-program survey is designed to collect your feedback on the program’s
 
 ---
 
-## 3. Program Impact
+## 3. Program impact
 **Question Type:** Multiple Choice – Single Answer  
 
 **Question 1:** How likely are you to recommend the DITAP program to a colleague?  
@@ -61,7 +61,7 @@ This post-program survey is designed to collect your feedback on the program’s
 
 ---
 
-## 4. Application of Learning
+## 4. Application of learning
 **Question Type:** Multiple Choice – Multiple Answers  
 
 **Question 1:** Which of the following have you already applied or plan to apply in your work as a result of the DITAP program? (Select all that apply)  
