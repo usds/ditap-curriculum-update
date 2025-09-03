@@ -3,10 +3,10 @@
 **Total Questions:** 8  
  
 
-- **Scenario 1:** Problem Definition & Discovery – 2 questions  
-- **Scenario 2:** Acquisition Strategy & Solicitation – 2 questions + 1 optional  
-- **Scenario 3:** Contract Administration & Performance – 2 questions + 1 optional  
-- **Scenario 4:** Leading Change & Continuous Improvement – 2 questions + 1 optional  
+- **Scenario 1:** Problem definition & discovery – 2 questions  
+- **Scenario 2:** Acquisition strategy & solicitation – 2 questions + 1 optional  
+- **Scenario 3:** Contract administration & performance – 2 questions + 1 optional  
+- **Scenario 4:** Leading change & continuous improvement – 2 questions + 1 optional  
 
 **Estimated time:** 20 to 25 minutes  
 **Recommended # of questions:** 6 to 8 
@@ -17,7 +17,7 @@ This pre-assessment is designed to gauge your current understanding of key conce
 
 ---
 
-## Scenario 1: Problem Definition & Discovery
+## Scenario 1: Problem definition & discovery
 
 Your agency is launching a new initiative to enhance citizen interaction with government services. The program team is eager to implement a cutting-edge system and has already outlined several advanced features they believe are essential.
 
@@ -49,7 +49,7 @@ Your agency is launching a new initiative to enhance citizen interaction with go
 
 ---
 
-## Scenario 2: Acquisition Strategy & Solicitation
+## Scenario 2: Acquisition strategy & solicitation
 
 Your agency needs a new online portal that will serve a dynamic user base. Both user needs and the relevant policy environment are evolving rapidly, requiring continuous adaptation throughout the project's lifecycle.
 
@@ -94,7 +94,7 @@ Your agency needs a new online portal that will serve a dynamic user base. Both 
 
 ---
 
-## Scenario 3: Contract Administration & Performance
+## Scenario 3: Contract administration & performance
 
 Your agency has just awarded a contract for agile digital service development. As a Contracting Officer, your role extends beyond the award to ensuring the continuous success of the project and managing the vendor partnership effectively.  
 
@@ -125,7 +125,7 @@ Your agency has just awarded a contract for agile digital service development. A
 ---
 
 ## Optional - Question 3  
-**Which approach best ensures cybersecurity is continuously addressed in agile digital services contracts?**
+**Which approach best ensures cybersecurity is continuously addressed in Agile digital services contracts?**
 
 | Option | Description | Correct/Incorrect | Feedback |
 |--------|-------------|-------------------|----------|
@@ -136,7 +136,7 @@ Your agency has just awarded a contract for agile digital service development. A
 
 ---
 
-# Scenario 4: Leading Change & Continuous Improvement
+# Scenario 4: Leading change & continuous improvement
 
 You are a DITAP graduate enthusiastic about implementing modern acquisition practices in your agency. You propose introducing agile-based contracts for upcoming IT modernization projects. However, your technical team has recently experienced significant IT failures that led to public scrutiny, making them highly risk-averse. They express strong resistance, stating, "That's not how things work here; we can't afford more risk."
 
