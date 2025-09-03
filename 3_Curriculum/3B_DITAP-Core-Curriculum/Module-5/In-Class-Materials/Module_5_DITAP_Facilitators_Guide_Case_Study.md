@@ -9,18 +9,18 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-### I. Overview & Objectives
+### I. Overview & objectives
 
 In this session, learners will explore how to apply adaptive leadership and influence strategies to navigate resistance, lead cross-functional teams, and sustain change in digital acquisition environments. It reinforces a critical skill set woven throughout the DITAP course: how to make change happen in complex systems. By connecting back to earlier activities—like stakeholder mapping (Module 2) and delivery planning (Module 4)—Module 5 helps learners reflect on the leadership mindset and influence strategies that underpin every successful digital acquisition.
 
 **Learning Objectives:**
 
-- Apply adaptive leadership and influence techniques in response to setbacks and pushback
-- Reflect on personal change leadership approaches and identify opportunities for growth
-- Strengthen resilience and emotional intelligence when advancing innovation
-- Connect mindset, wellness, and strategy as tools for sustaining long-term change efforts
+- Apply adaptive leadership and influence techniques in response to setbacks and pushback.
+- Reflect on personal change leadership approaches and identify opportunities for growth.
+- Strengthen resilience and emotional intelligence when advancing innovation.
+- Connect mindset, wellness, and strategy as tools for sustaining long-term change efforts.
 
-### II. Materials & Preparation Required Materials:
+### II. Materials & preparation required materials:
 
 **Materials**
 
@@ -32,12 +32,12 @@ In this session, learners will explore how to apply adaptive leadership and infl
 - Nagivating Stakeholder and Decision-Making Challenges Case Study
 - "Exploring Your Role in Leading Change" PDF
 
-### III. Session Agenda & Activities
+### III. Session agenda & activities
 
-#### Activity: Leading Change and Navigating Resistance
+**Activity:** Leading change and navigating resistance
 
 **Time:** 45–60 minutes <br>
-**Purpose:** To help learners recognize leadership traits and apply adaptive strategies for navigating resistance and advancing innovation
+**Purpose:** To help learners recognize leadership traits and apply adaptive strategies for navigating resistance and advancing innovation.
 
 **Instructions:**
 
@@ -67,22 +67,22 @@ In this session, learners will explore how to apply adaptive leadership and infl
         - Then call on higher scores: What helps build your confidence?
     - “What parallels do you see between Casey’s development and your own professional and personal growth journey?”
 
-### Expected Outcomes:
+### Expected outcomes:
 
 - Clear articulation of stakeholder resistance strategies
 - Deeper understanding of leading without formal authority
 
-### Facilitation Notes & Best Practices Facilitator Tips:
+### Facilitation notes & best practices facilitator tips:
 
-- Normalize that leadership without authority is the norm in digital transformation
-- Encourage vulnerability and realism—change is messy
-- Link back to roles explored in Agile delivery in Module 4
-- Emphasize that this is a culmination point—learners should draw from the whole course to inform how they lead
+- Normalize that leadership without authority is the norm in digital transformation.
+- Encourage vulnerability and realism—change is messy.
+- Link back to roles explored in Agile delivery in Module 4.
+- Emphasize that this is a culmination point—learners should draw from the whole course to inform how they lead.
 - Emphasize that federal digital transformation often involves navigating partnership dynamics between government, contractors, and teams of contractors and their respective firms.
-- Help learners connect resistance patterns to common federal scenarios (budget cycles, political transitions, compliance concerns)
-- Guide discussion toward practical influence tactics within federal hierarchies
+- Help learners connect resistance patterns to common federal scenarios (budget cycles, political transitions, compliance concerns).
+- Guide discussion toward practical influence tactics within federal hierarchies.
 
-### IV. Next Steps/Follow-Up:
+### IV. Next steps/Follow-Up:
 
-- Prepare for final reflections and recommendations in Module 6 (Milestones 4 and 5)
+- Prepare for final reflections and recommendations in Module 6 (Milestones 4 and 5).
 - [Case studies on Acquisition Innovation challenges](https://acquisitiongateway.gov/additional-resources/resources/4173?\_a%5Eg_nid=252)
