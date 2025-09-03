@@ -65,23 +65,31 @@ Before exporting, ensure the course is fully prepared:
 - Verify media assets are properly linked and functional.  
 - Check scoring and completion logic (pass/fail, quiz requirements).  
 
-### SCORM Export Steps
-1. **Open the LiaScript Course in the Exporter**  
-   Access via LiaScript platform or authoring interface.  
+### Prerequisites
+- **Node.js**: Install the latest LTS version from the official Node.js website.  
+- **LiaScript Exporter**: Make sure the LiaScript Exporter is installed on your computer (instructions on the LiaScript site).
 
-2. **Select the SCORM Export Option**  
-   Choose SCORM from the export menu.  
+### Step-by-Step Export Process
 
-3. **Configure SCORM Settings**  
-   - *Course Title*  
-   - *SCORM Version* (1.2 or 2004 depending on LMS)  
-   - *Completion Criteria*  
+#### 1. Prepare Your Course Files
+- Ensure your course is in a Markdown file.  
+- Place all images, videos, or other media files in a folder named `media` (or another folder name of your choice).  
+- Organize your project so the Markdown file and the `media` folder are together.
 
-4. **Generate the SCORM Package**  
-   Export into a `.zip` file for LMS upload.  
+#### 2. Open Your Terminal or Command Prompt
+- Navigate to the folder where your course files are located. This is the folder containing your Markdown file and `media` folder.
 
-5. **Download the SCORM Package**  
-   Save securely for upload.  
+#### 3. Run the Export Tool
+- Use the LiaScript Exporter to generate a SCORM package. You will specify the Markdown file and the output folder for the SCORM package.  
+- This process will create a `.zip` file ready for LMS upload.
+
+#### 4. Verify the Export
+- Open the `.zip` file to make sure it contains the required SCORM files, such as the manifest and index file.
+
+#### 5. Upload to Your LMS
+- Log in to your Learning Management System.  
+- Navigate to the section for importing SCORM packages.  
+- Upload the `.zip` file and configure course settings like tracking and completion requirements.
 
 ---
 
