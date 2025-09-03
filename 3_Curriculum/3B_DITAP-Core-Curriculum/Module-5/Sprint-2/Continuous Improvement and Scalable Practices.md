@@ -1,8 +1,8 @@
 # Module 5 Sprint 2
 
-## Staying Current and Driving Change: Your Role in Continuous Improvement
+## Staying current and driving change: Your role in continuous improvement
 
-### Why Continuous Learning Matters in Federal Acquisition
+### Why continuous learning matters in federal acquisition
 
 Technology and policy in the federal space are evolving faster than ever. From emerging tools like artificial intelligence to policy shifts that emphasize modernization, acquisition professionals must stay ahead of change, not react to it.
 
@@ -17,30 +17,30 @@ In today’s environment, continuous learning isn’t optional; it’s a core pa
 By the end of this module, you will be able to assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community.
 
 ---
-## Staying Current with Emerging Tech and Trends
+## Staying current with emerging tech and trends
 
 Technology is reshaping the way the federal government delivers services, and acquisition plays a central role in making it happen. From artificial intelligence and cybersecurity to automation and cloud-native solutions, emerging technologies are influencing everything from how agencies define requirements to how vendors respond.
 
-### Why It Matters
+### Why it matters
 
 Emerging tech isn’t just for IT teams. Staying informed about technology trends empowers you to:
 
-* Engage in more meaningful conversations with program and technical staff.  
-* Structure solicitations that reflect modern capabilities.  
-* Anticipate how industry might respond to your requirements.  
-* Support mission delivery with smarter, more adaptive contracts.
+* Engage in more meaningful conversations with program and technical staff  
+* Structure solicitations that reflect modern capabilities 
+* Anticipate how industry might respond to your requirements 
+* Support mission delivery with smarter, more adaptive contracts
 
-### Tech in Action: Generative AI and Federal Acquisition
+### Tech in action: Generative AI and federal acquisition
 
 Take **generative AI** as an example. It has already begun influencing how acquisition professionals:
 
-* Conduct **market research** by analyzing vendor data more efficiently.  
-* Draft or refine **performance work statements** using AI-assisted language tools.  
-* Create **procurement templates** that reflect emerging best practices.
+* Conduct **market research** by analyzing vendor data more efficiently  
+* Draft or refine **performance work statements** using AI-assisted language tools  
+* Create **procurement templates** that reflect emerging best practices
 
 This type of fast-moving innovation requires curiosity and a commitment to staying informed, even when formal guidance is still evolving.
 
-### Where to Watch for Tech Trends
+### Where to watch for tech trends
 
 You don’t need to be a technologist to stay tech-aware. Here are trusted sources where you can spot trends relevant to acquisition:
 
@@ -50,7 +50,7 @@ You don’t need to be a technologist to stay tech-aware. Here are trusted sourc
 * **[FedScoop](https://fedscoop.com/)** – News and updates on federal IT and innovation
 * **[Digital Services Coalition](https://digitalservicescoalition.org/)** – A network of vendors focused on digital government  
 
-### Tracking and Engaging with Tech Influencers
+### Tracking and engaging with tech influencers
 
 Staying current also means learning from the people shaping the conversation. You can:
 
@@ -68,22 +68,22 @@ Staying current also means learning from the people shaping the conversation. Yo
   * Federal News Network newsletters  
   * FAI (Federal Acquisition Institute) Acquisition Today newsletter
 
-### Making It a Habit
+### Making it a habit
 
 It’s easy to fall behind if learning isn’t part of your routine. Here are small but effective ways to stay on top of change:
 
-* **Set a monthly “tech check” reminder** to scan newsletters or skim recent articles  
-* **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team  
-* **Add tech trend reviews** to after-action discussions or procurement retrospectives  
-* **Block time during less busy weeks** for self-guided learning or event replays
+* **Set a monthly “tech check” reminder** to scan newsletters or skim recent articles 
+* **Join quarterly briefings or virtual roundtables** offered by GSA, ACT-IAC, or your agency’s digital team.  
+* **Add tech trend reviews** to after-action discussions or procurement retrospectives.
+* **Block time during less busy weeks** for self-guided learning or event replays.
 
-### Final Thoughts
+### Final thoughts
 
 You don’t need to be an expert in AI, cybersecurity, or cloud architecture. But understanding the direction technology is heading and how it’s shaping your acquisition environment makes you a more strategic, forward-thinking contracting professional.
 
 Staying current isn’t about keeping up with every trend, it’s about staying connected enough to ask smart questions, spot opportunities, and support your agency’s evolving needs.
 
-## Self-Reflection: Your Tech Awareness Habits (Optional)
+## Self-Reflection: Your tech awareness habits (optional)
 
 Take a few minutes to reflect on the following questions. You can jot down your responses or simply pause to think them through:
 
@@ -95,11 +95,11 @@ Take a few minutes to reflect on the following questions. You can jot down your 
 4. **Who in my agency or network is already good at this? Could I learn from or connect with them?**
 
 ---
-## Continuous Improvement in Everyday Procurement
+## Continuous improvement in everyday procurement
 
 Continuous improvement doesn’t always require a big initiative. In fact, some of the most valuable changes come from the small, repeatable steps we take after each procurement. By pausing to reflect, collaborate, and refine, you can strengthen your acquisition process and contribute to a culture of innovation, one project at a time.
 
-### Conducting Mini "Lessons Learned"
+### Conducting mini "lessons learned"
 
 After each procurement, take time to reflect on what went well and what could be improved. This doesn't have to be formal, just 20–30 minutes of focused discussion with your team or program partners can surface valuable insights.
 
@@ -112,7 +112,7 @@ You might ask:
 
 Even a quick review helps you avoid repeating mistakes and reinforces good practices.
 
-### Try an Agile-Style Retrospective
+### Try an Agile-style retrospective
 
 Borrowing from Agile project teams, consider holding a **procurement retrospective** at the end of each buy, especially for larger or more complex efforts. A retrospective is a short, structured meeting where the team discusses:
 
@@ -124,7 +124,7 @@ This lightweight practice builds a habit of learning and positions your team to 
 
 Use the template below to guide your Procurement Retrospective and reflect on what worked well, what didn’t, and what to improve next time.
 
-#### Procurement Retrospective Template
+#### Procurement retrospective template
 
 **Project/Procurement Name:**  
  *E.g., “Cloud Migration Services BPA – Q2 FY25”*
@@ -164,7 +164,7 @@ Use the template below to guide your Procurement Retrospective and reflect on wh
 4\. What should we repeat or reinforce?
 
 *   <br> 
-*    <br>
+*   <br>
 *  <br>
 
 ---
@@ -191,7 +191,7 @@ Tips for Using This Template
 * **Capture action items clearly**, with accountability and timelines.  
 * **Share a summary** with the team or archive it in a shared location for future reference.
 
-### Refine Your Tools Over Time
+### Refine your tools over time
 
 Templates, checklists, and communication workflows should evolve based on experience. For example:
 
@@ -201,32 +201,32 @@ Templates, checklists, and communication workflows should evolve based on experi
 
 Small updates over time can lead to significant time savings and better outcomes.
 
-### Collaborate Early and Often
+### Collaborate early and often
 
 Working closely with program staff, especially on **iterative requirement development**, helps reduce rework and misalignment. Continuous improvement starts with shared ownership. Ask program leads for feedback on acquisition support, and share what you learned from your post-award reflections.
 
-### Document and Share What Works
+### Document and share what works
 
 Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
-### Final Thoughts
+### Final thoughts
 
 You don’t need permission to improve. You just need a process. Continuous improvement in procurement is about reflecting, adapting, and applying small changes that add up over time. The result? Better buys, stronger collaboration, and more effective support for your agency’s mission.
 
 ---
-## The Case for Creating Practical Guides: From Playbooks to Toolkits and Beyond
+## The case for creating practical guides: From playbooks to toolkits and beyond
 
-### Why Practical Guides Matter
+### Why practical guides matter
 
 In a world where priorities shift quickly, and government work often spans legacy systems, new technology, and evolving policy, all at once, practical guides serve as anchors. These aren’t academic white papers or compliance manuals. They’re the working memory of an organization, what to do, how to do it, and why it works.
 
 From playbooks and field guides to toolkits and checklists, these documents help public servants act with clarity and confidence. When done well, they create space for consistency and flexibility, helping teams avoid reinventing the wheel without boxing them in. Practical guides are useful not because they prescribe every step, but because they distill collective experience into something others can learn from, use, and adapt.
 
-### Understanding the Playbook 
+### Understanding the playbook 
 
 The concept of a playbook, with its roots in ancient military strategies and sports tactics, has transcended its original domains, organically spreading into a wide array of fields. This includes politics, where they inform campaign strategies; the military, with standard operating procedures; healthcare, through treatment protocols; education, via curriculum guides; marketing, in the form of communication strategies; and law enforcement, with procedural guidelines. In each of these contexts, a playbook functions as a metaphor for an organized, strategic approach to navigating complex tasks or situations. It represents a curated collection of tried-and-tested methods, often compiled from accumulated experience and best practices, all aimed at achieving specific outcomes.
 
-The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy.  Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
+The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy. Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
 
 Within the fast-paced tech industry, business playbooks have become indispensable tools, addressing critical operational challenges and fostering a culture of efficiency and innovation. For instance, a playbook can meticulously detail the steps for handling customer complaints or executing a marketing campaign, guaranteeing consistent outcomes across all interactions.
 
@@ -237,7 +237,7 @@ High-performance product teams in the tech industry leverage playbooks to:
 * **Conduct Action-Oriented Retrospectives**: Playbooks guide teams to ensure that retrospective meetings translate discussions into specific, actionable items, assign clear ownership, and include follow-up mechanisms, thereby empowering teams to drive tangible positive outcomes.  
 * **Promote Knowledge Sharing**: They advocate for creating psychologically safe spaces where all team members feel comfortable sharing their knowledge, fostering a "teacher-learner culture" that reinforces mastery and collective growth.
 
-### Beyond the Playbook: Types of Practical Guides
+### Beyond the playbook: Types of practical guides
 
 Not all guidance needs to come in the form of a playbook. In fact, the most effective digital service teams often draw from a variety of practical formats depending on their goals, audience, and moment in the project lifecycle. From high-level frameworks that map strategic decisions to tip sheets you can reference mid-meeting, these tools serve different but complementary purposes. Below is a breakdown of common types of practical guides—what they’re best for, how they differ, and real examples you can borrow or build upon.
 
@@ -271,7 +271,7 @@ Not all guidance needs to come in the form of a playbook. In fact, the most effe
 
 All of these can be living documents that evolve over time—and they should.
 
-### The Role of Guides in Tech and Government Work
+### The role of guides in tech and government work
 
 In digital services and procurement, the best guides are shaped by the work itself. They reflect the real challenges and lessons teams face: the security hurdles, the policy gray areas, the user needs that were harder to pin down than expected.
 
@@ -279,13 +279,13 @@ A good practical guide doesn’t start from scratch. It connects the dots across
 
 Practical guides help:
 
-* Standardize quality while allowing for local adaptation.  
-* Onboard new team members faster.  
-* Support decision-making in complex or unfamiliar situations.  
-* Preserve institutional knowledge.  
-* Promotes user-centered thinking.
+* Standardize quality while allowing for local adaptation  
+* Onboard new team members faster  
+* Support decision-making in complex or unfamiliar situations 
+* Preserve institutional knowledge
+* Promotes user-centered thinking
 
-### Creating Your Own: What Makes a Guide Practical
+### Creating your own: What makes a guide practical
 
 Here’s what separates a practical guide from a dense report or policy doc:
 
@@ -297,7 +297,7 @@ Here’s what separates a practical guide from a dense report or policy doc:
 
 The best guides aren’t written in a vacuum. They’re co-created by the people doing the work. They document how the team actually operates, not just how it should.
 
-### When to Create One
+### When to create one
 
 Not every challenge needs a guide. But if any of these sound familiar, it might be time:
 
@@ -307,13 +307,13 @@ Not every challenge needs a guide. But if any of these sound familiar, it might 
 * Institutional memory is at risk.  
 * You want to spread something that worked well to other teams.
 
-### A Tool for Culture Change
+### A tool for culture change
 
 Creating and using practical guides isn’t just about documentation. It’s about culture. When teams invest time in making things clearer and more repeatable, they’re also investing in transparency, equity, and shared ownership.
 
 Encouraging others to adapt and improve the guides over time makes them more than just a resource, they become part of how your organization learns. And when your guides are public or shared across agencies, they build bridges. They become proof that government can work smarter, together.
 
-### Final Thoughts
+### Final thoughts
 
 In the public sector, these practical guides represent a strategic mechanism for navigating the complexities of digital transformation. They provide a structured approach to overcome challenges such as legacy systems, skill gaps, and bureaucratic inertia, effectively bridging the digital divide between the public and private sectors. Beyond mere standardization, playbooks in government play a dual role: they standardize effective practices while simultaneously driving cultural transformation. They instill new mindsets, emphasizing user-centricity and digital-first approaches, and cultivate an environment of agility, transparency, and innovation necessary to modernize public service delivery.
 
@@ -334,13 +334,13 @@ Earlier, you learned how to prepare for and have influencing conversations. Now,
 
 In this online module, you’ll learn about a framework to help you think about the phases of change and some specific strategies you can use to implement change at each phase.
 
-### What Does Change Look Like in the 21st Century?
+### What does change look like in the 21st century?
 
 Change is one of the few constants. According to Dr. John Kotter, a Harvard Professor and authority on change and leadership, society is not only changing, it’s changing faster than ever before, and our capacity to keep up with said change is not maintaining the same pace.
 
 Typically, change can be viewed as something that happens *to* you, rather than something that is created *by* you. This may be a symptom of position, or operating from the middle of the organization without a lot of formal authority. This may also be a matter of comfort or complacency; after all, if you’re not calling the shots, you can’t be blamed for the decision if it goes wrong (or so the thought process goes). Change can be scary, inconvenient, and cumbersome, but change can also lead to better, more efficient processes, innovative thinking, and a reinvigorated workforce.
 
-### Start Small
+### Start small
 
 A key best practice to leading change—whether leading change in how your agency operates or leading change in your own life (e.g., starting a new exercise regime), is to start with small, iterative changes. Choose something that is “easy” to adopt and implement. The success of even the smallest accomplishments can prepare you to succeed in bigger areas, as well as build your influence and reputation within your agency as a person who can accomplish tasks. It’s the same concept that underlies the “buy small/miss small” principle you learned about in earlier releases.
 
@@ -349,7 +349,7 @@ Once you’ve successfully accomplished one change, look for the next one. If th
 Watch the following [TEDx video](https://www.youtube.com/watch?v=AdKUJxjn-R8) about accomplishing big change by building small habits and think about how you could apply this principle of starting small in your own work as a leader of digital acquisition change.
 
 ---
-## Kotter Model Introduction
+## Kotter Model introduction
 
 Over 40 years ago, Dr. Kotter began observing leaders and organizations as they tried to transform or execute strategies for change. Over time, Dr. Kotter was able to identify and extract the factors that lead to success and bring them together into a methodology and an eight-step process of pursuing change.
 
@@ -359,7 +359,7 @@ Let’s look at each of these eight steps by studying examples of companies, org
 
 *Figure 1 Source: [Kotter International](http://www.kotterinternational.com/the-8-step-process-for-leading-change/)*
 
-### Step 1: Create a Sense of Urgency
+### Step 1: Create a sense of urgency
 
 Urgency is the fuel that ignites and drives the change. It replaces complacency.
 
@@ -379,7 +379,7 @@ You can use all these techniques to execute Step 1 and build the “business cas
 
 ---
 
-### Step 2: Build a Guiding Coalition
+### Step 2: Build a guiding coalition
 
 In your first step, you create a sense of urgency among those around you and see who buys-in to your idea. Within that group, “point” people will arise that help you to lead the change from various points across the organization. Think about your current processes and answer the following questions:
 
@@ -404,7 +404,7 @@ Our final example takes us into the worlds of fashion and social media that bega
 
 In your role, you might not be building world-changing coalitions or building fashionista coalitions, but the same principles used in those contexts apply to you. Say you’re looking to shift your digital services solicitations to be more outcome focused (instead of requirements focused). Think through the questions presented at the beginning of this section:
 
-#### Building Your Guiding Coalition: Key Questions
+#### Building your guiding coalition: Key questions
 
 | **Question** | **Considerations** |
 |--------------|--------------------|
@@ -420,7 +420,7 @@ As scientist Margaret Mead stated, “Never doubt that a small group of thoughtf
 
 --- 
 
-### Step 3: Develop a Vision and Strategy
+### Step 3: Develop a vision and strategy
 
 Next, clearly articulate your vision so that initiatives that build toward it make sense and perpetuate the sense of urgency you’ve built in Step 1\. Your vision needs to be clear picture of the future and include why people should strive to create that future.
 
@@ -428,7 +428,7 @@ Observe how a clear vision might work in different parts of your organization. T
 
 We’ve identified three examples of popular tech companies and their visions. Analyze their vision statements and think about how these visions have helped them become leaders in their fields.
 
-#### Vision Statements from Leading Tech Companies
+#### Vision statements from leading tech companies
 
 **Google**
 
@@ -452,7 +452,7 @@ Think about the companies listed above. How are their visions similar? How are t
 
 ---
 
-### Step 4: Communicate the Vision and Enlist Your Volunteer Army
+### Step 4: Communicate the vision and enlist your volunteer army
 
 As the convener, it’s up to you to help others clearly see where you’re leading them and why. In order to act, people have to see that the image you created is not only a better or different way, but also that there is room for that person in this new reality you’re seeking to create. Then, each person understands exactly how their contributions lead to a collective desired future state where the vision becomes a reality.
 
@@ -462,7 +462,7 @@ Think about leaders you’ve encountered that are able to effectively communicat
 
 ---
 
-### Step 5: Enable Action by Removing Barriers
+### Step 5: Enable action by removing barriers
 
 Now that you’ve communicated your vision and tasked your volunteer army with actions, your job is to help them flow like water.
 
@@ -475,7 +475,7 @@ Do your best as the convener of the volunteer army to keep your team building mo
 Have you ever had a manager who was able to get you what you needed when you needed it? If you have, think about what made it work well. If not, think about how you can prepare yourself to anticipate the needs of your team.
 
 ---
-### Step 6: Generate Short-Term Wins
+### Step 6: Generate short-term wins
 
 Small successes should be “collected, categorized, and communicated, early and often, to track progress and energize your army to drive change.” Wins should be widely agreed upon as successes that, when celebrated, act to “pull” or intrigue the “skeptics.” They also help carry the army through the long-term rollercoaster of a new project or process. It also makes people feel better in the face of inevitable setbacks.
 
@@ -489,7 +489,7 @@ As a digital acquisition ambassador and leader, you’ll have to think through e
 
 ---
 
-### Step 7: Sustain Acceleration
+### Step 7: Sustain acceleration
 
 Up to this point, we have rallied our army around a vision, empowered them to implement the vision, removed any barriers, and are celebrating those wins along the way. Change requires constant adaptation and course correction in order to maintain progress and keep moving forward.
 
@@ -499,7 +499,7 @@ As a leader what can you do to help your army to maintain their momentum?
 
 ---
 
-### Step 8: Institute Change
+### Step 8: Institute change
 
 This step is where we make the change stick. The new behaviors required to make your project successful will need to be replicated and reinforced in a way that makes clear connections to how this contributes to the success of the organization.
 
@@ -521,7 +521,7 @@ Take some time to reflect on a few other items that you’ve learned about in th
 
 Feel free to share your answers with your fellow participants and/or your supervisor/manager. They can help you fill in gaps, point you to new resources, or share ideas on how to use your strengths.
 
-## Self-Assessment: What’s Your Change Style?
+## Self-Assessment: What’s your change style?
 
 **Instructions:** Answer the following questions based on how you typically approach work, collaboration, and improvement. Keep track of your answers (A, B, C, or D) and count which letter you selected most often.
 
@@ -532,11 +532,8 @@ Note: This self-assessment is a simplified framework inspired by common change l
 **1\. When your team faces a challenge, your first instinct is to:**
 
  A. Reach out and bring people together to talk it through  
-
  B. Roll up your sleeves and start solving the practical issues
-  
  C. Step back and assess the overall system or strategy
-
  D. Ask tough questions and challenge assumptions
 
 
@@ -545,11 +542,8 @@ Note: This self-assessment is a simplified framework inspired by common change l
 **2\. You feel most energized when:**
 
  A. Facilitating conversations and connecting colleagues  
-
  B. Getting tasks across the finish line  
-
  C. Identifying long-term improvements and patterns  
-
  D. Shaking things up or pushing for change that matters
 
 
@@ -558,11 +552,8 @@ Note: This self-assessment is a simplified framework inspired by common change l
 **3\. In meetings, you’re most likely to:**
 
  A. Help make sure everyone is heard  
-
  B. Volunteer to take ownership of next steps  
-
  C. Ask about how today’s work aligns with broader goals  
-
  D. Question why the group is doing things a certain way
 
 
@@ -571,11 +562,8 @@ Note: This self-assessment is a simplified framework inspired by common change l
 **4\. Your teammates would likely describe you as:**
 
  A. Approachable and well-connected  
-
  B. Reliable and action-oriented  
-
  C. Strategic and thoughtful  
-
  D. Bold and unafraid to challenge the norm
 
 
@@ -584,17 +572,14 @@ Note: This self-assessment is a simplified framework inspired by common change l
 **5\. When it comes to improving your team or agency, you:**
 
  A. Build networks or communities to share knowledge  
-
  B. Make small, consistent process changes  
-
  C. Analyze what’s working and propose big-picture solutions  
-
  D. Call out what's not working—even if it's uncomfortable
 
 
 ---
 
-## Results: What’s Your Primary Change Style?
+## Results: What’s your primary change style?
 
 **Mostly A – Connector**  
  You're a relationship builder. You create momentum by fostering collaboration, trust, and shared purpose.  
@@ -614,7 +599,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ---
 
-## Reflect & Apply
+## Reflect & apply
 
 1\. What style did you get? Do you agree with it? Why or why not?  
 2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
@@ -622,7 +607,7 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 --- 
 
-## Create Your Change Contribution Plan
+## Create your change contribution plan
 
 Knowing your change style is a powerful first step. Now, it’s time to turn that insight into action.
 
@@ -632,7 +617,7 @@ Take a few minutes to reflect and jot down your responses to the prompts below. 
 
 ---
 
-**Your Change Contribution Plan**
+**Your change contribution plan**
 
 **1\. How will I stay informed about emerging tech and trends?**  
  *(Example: I’ll subscribe to the FAI (Federal Acquisition Institute) Acquisition Today newsletter and follow two gov tech leads on LinkedIn.)*  
@@ -651,7 +636,7 @@ This doesn’t need to be a full strategic plan, just a focused way to anchor yo
 >**Tip:** Want to take it further? Share your plan with a teammate, mentor, or supervisor to help stay accountable—and inspire others to do the same.
 
 ---
-## Wrap-Up & Call to Action
+## Wrap-Up & call to action
 
 **Stay curious. Stay current. Stay engaged.**
 
