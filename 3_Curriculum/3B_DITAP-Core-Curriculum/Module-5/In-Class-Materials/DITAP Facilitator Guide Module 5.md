@@ -14,14 +14,14 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Overview and objectives
 
-   - Module Summary  
-   - Learning Objectives  
-   - Connection to Overall DITAP Program
+   - Module summary  
+   - Learning objectives  
+   - Connection to overall DITAP program
 
 ### Materials and preparation
 
-   - Required Materials  
-   - Preparation Checklist
+   - Required materials  
+   - Preparation checklist
 
 ### Module agenda 
 
@@ -31,15 +31,15 @@ Facilitator(s): \[List Facilitator Names\]
 2. Discussion: Strategy for introducing new ideas  
 3. Discussion: Sharing stories
 4. Discussion: Normalizing continuous learning 
-5. Discussion: Your Tech Awareness Habits 
-6. Optional Activity: Tiny Habits, Big Impact  
-7. Reflection Activity: Crafting Your Vision 
-8. Activity: Change Contribution Plan
+5. Discussion: Your tech awareness habits 
+6. Optional Activity: Tiny habits, big impact  
+7. Reflection Activity: Crafting your vision 
+8. Activity: Change contribution plan
 
 ## Additional resources
 
-   - Links to Relevant Documents  
-   - Contact Information
+   - Links to relevant documents  
+   - Contact information
 
 
 ## Overview & objectives
@@ -107,7 +107,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 15 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: Participants identify and consider how they have experienced challenges in their professional roles in real life.  
    * **Expected Outcomes**: Learners will be able to discern and define the challenges they are facing with specificity. This will allow them to shape their strategy and engage with the right people.   
@@ -134,7 +134,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 30 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: To think strategically about adapting and advancing their plan within the context of important relationships and timelines.  
    * **Expected Outcomes**: Learners will be able to think critically and look for specific opportunities to make headway with new ideas.  
@@ -161,7 +161,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 15 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: Learn how relating experiences through various methods of storytelling helps improve government procurement.  
    * **Expected Outcomes**: At the end of this activity, learners will be able to communicate meaningful experiences about their procurement process, matching their message to the communication method for the intended audience.  
@@ -179,7 +179,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 20 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: Participants will need to carefully consider how to make continuous learning part of their agency’s procurement process.   
    * **Expected Outcomes**: By the end of this activity, learners will be able to apply their knowledge of resources, modeling a learning mindset, and sharing new information with colleagues.   
@@ -200,7 +200,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 15 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: Participants can adopt specific practices that will help them to stay informed on emerging tech and trends.  
    * **Expected Outcomes**: At the conclusion of this activity, learners will know how to actively pursue and propagate current technology and trends that will help inform their procurement efforts.  
@@ -221,20 +221,20 @@ This session builds on prior learning from Module 4, as learners prepare for dig
    TEDx Video Reflection: **[Tiny Habits for Big Change](https://youtu.be/AdKUJxjn-R8)**  
    Total Time Allocation: 40-50 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
-   * **Purpose**: To reflect on the concept of incremental changes in relation to digital acquisition at their agency.  
-   * **Expected Outcomes**: At the end of this activity, participants will have identified at least one small change they could lead and grow at their agency.  
+   * **Purpose**: To reflect on the concept of incremental changes in relation to digital acquisition at their agency.
+   * **Expected Outcomes**: At the end of this activity, participants will have identified at least one small change they could lead and grow at their agency.
    * **Materials Needed** (specific to activity):   
      * Notetaking materials (digital or physical)  
    * **Instructions**:   
-   * **Step 1: Watch the TEDx Talk (17 min)**  
+     **Step 1: Watch the TEDx Talk (17 min)**  
      **Prompt (before watching):**  
      We invite you to watch a short TEDx talk that explores how major change can happen through small, repeatable habits.  
      As you watch, **think about how this concept applies to digital acquisition in your agency.**  
      What’s one tiny change you could lead that might snowball into something bigger?
 
-   * **Step 2: Guided Reflection (5 min)**  
+     **Step 2: Guided Reflection (5 min)**  
      **Reflect on:**  
      1. How do small changes lead to big results?  
      2. What “tiny” changes could you start with?  
@@ -243,7 +243,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
      Pause for participants to jot down one small change to try out.  
      - Participants can put their thoughts in a shared Google doc (or similar), or each in their own notes if tech is limited.
 
-   * **Step 3: Optional Breakout Discussion (10–15 min)**  
+     **Step 3: Optional Breakout Discussion (10–15 min)**  
      Groups of 3–4 people discuss:  
      1. One small change they’re considering  
      2. What barriers they might face  
@@ -251,7 +251,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
      Encourage participants to listen for overlaps or patterns.
 
-   * **Step 4: Share-Back & Close (5–10 min)**  
+     **Step 4: Share-Back & Close (5–10 min)**  
      - One person from each group shares a key takeaway.  
      - Highlight any “tiny changes” that sparked ideas.
 
@@ -264,7 +264,7 @@ This session builds on prior learning from Module 4, as learners prepare for dig
 
    Total Time Allocation: 5-10 min
 
-   #### Activity instructions:
+   **Activity instructions:**
 
    * **Purpose**: Participants will have a set of mechanisms they can turn to to communicate their vision and enact change in their agency.  
    * **Expected Outcomes**: At the end of this activity, participants will be able to envision team, user, and agency success based on their efforts and influence for change.  
@@ -281,25 +281,24 @@ This session builds on prior learning from Module 4, as learners prepare for dig
  ---      
 
 8. ### Change contribution plan
-
      
    Total Time Allocation: 10 min
 
-   #### **Activity instructions:**
+   **Activity instructions:**
 
    * **Purpose:** to help learners think about how they will take action with their contributions and make a plan, with their primary change style in mind.  
-     **Expected Outcomes:** They will have documented a practical plan to start their change contributions at their agency.  
-     **Materials Needed** (specific to activity): None  
+   * **Expected Outcomes:** They will have documented a practical plan to start their change contributions at their agency.  
+   * **Materials Needed** (specific to activity): None  
    * **Instructions**:   
      **Prompts**:   
-    * *How will I stay informed about tech and trends?*   
+      *How will I stay informed about tech and trends?*   
        * Let’s start with staying current. You don’t have to know everything about every new technology—but you do need to keep your eyes open to shifts that affect your agency’s work. What’s one manageable habit you can adopt to stay informed? It could be reading one article a month, joining a virtual briefing, or following industry leaders online.  
        **Example:** “I’ll subscribe to the FAI newsletter and follow two gov tech leaders on LinkedIn.”  
-    * *What’s one change I’ll lead or support?*  
+      *What’s one change I’ll lead or support?*  
       * Think about one specific change. This doesn’t have to be large-scale—small, visible efforts matter. Maybe it’s launching a new collaboration space or helping streamline a recurring procurement process. Try to tie this back to your change style for a more natural fit.  
       **Example:**  
       “As a Connector, I’ll start a quarterly knowledge-sharing session.”  
-    * *What’s one learning habit I’ll strengthen?*  
+      *What’s one learning habit I’ll strengthen?*  
       * What’s one habit you can build to reinforce that growth mindset? Carve out a small amount of time each month—or even each quarter—to explore something new. Keep it low-pressure but consistent. These micro-habits add up over time.  
       **Example:**  
       “I’ll set aside 1 hour/month to read a new article or case study.”
