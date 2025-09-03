@@ -86,11 +86,6 @@ Before exporting, ensure the course is fully prepared:
 #### 4. Verify the Export
 - Open the `.zip` file to make sure it contains the required SCORM files, such as the manifest and index file.
 
-#### 5. Upload to Your LMS
-- Log in to your Learning Management System.  
-- Navigate to the section for importing SCORM packages.  
-- Upload the `.zip` file and configure course settings like tracking and completion requirements.
-
 ---
 
 ## Importing SCORM into an LMS
