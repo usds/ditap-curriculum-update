@@ -1,5 +1,5 @@
 # Module 1 Sprint 2
-## Digital Services - The How
+# Digital Services - The How
 
 The rapid pace of change in the digital industry, shifting consumer expectations, and budget pressures of doing more with less drive the U.S. Government to adopt new approaches for designing, developing, and delivering digital services.  
   
@@ -8,14 +8,14 @@ Just as defining the digital services landscape can seem complex, so can trying 
 
 After this module, you will be able to:
 
-- Identify strategies to help you identify user needs.
-- Describe contemporary practices used to develop digital services.
+- Identify strategies to help you identify user needs
+- Describe contemporary practices used to develop digital services
 
-### The Common Denominator
+## The common denominator
 
-All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Service Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
+All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Services Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
-### Discussion: The Good, The Bad, and The Ugly (Optional)
+### Discussion: The good, the bad, and the ugly (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
@@ -23,7 +23,7 @@ All digital projects should start with the end user. This simple principle is fo
 
 Post in the discussion topic which companies or agencies you chose and why. 
 
-### Strategies for Keeping Focused on the End User
+### Strategies for keeping focused on the end user
 
 ![UX Designer Paradox - Comic with three frames: The first frame is "What we dream up at kickoff" with a detailed rocket plan; the second frame is "What we settle for at launch" with a less extravagant plan of the rocket; the third frame is "What the user needs" with a bike and ramp](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/ux-design-paradox-comic_lg_source%202.jpg "Strategies from Play 1 of the U.S. Digital Service Playbook can help avoid this scenario.") 
 
@@ -33,7 +33,7 @@ __Do your research__
 
 - Spend time with current and prospective users of the service.
 - Do more than just interview; use qualitative and quantitative research methods to determine people’s goals, needs, and behaviors; be thoughtful about the time spent.
-- Before the digital service is built, test prototypes on real people
+- Before the digital service is built, test prototypes on real people.
 - As the digital service is being built, regularly test it with potential users to ensure it meets people’s needs.
 
 __Document and share your findings__
@@ -48,7 +48,7 @@ __Prioritize development tasks based on user needs__
 Next, let's examine a few techniques that can help you implement the strategies listed in Play 1. 
 
 
-## Learn About Your Users’ Needs
+## Learn about your users’ needs
 
 Depending on the type of digital service being developed and the organization, you will hear about one or all of the following techniques for learning more about your users’ needs. Here, we present you with an overview of some of these techniques. As you progress in your learning journey, you will learn more about how to implement these techniques and when each is most appropriate.
 
@@ -62,19 +62,17 @@ You might think you know what your end user needs. However, starting development
 | <img src="https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Pivot.jpg" width="200"><br>As a result of your analysis, you adapt your plan to reflect more accurately what you've found. | <img src="https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/Persevere.jpg" width="200"><br>Your testing supports your hypotheses. What you validate turns into your product backlog. |
 
 
-#### For Further Exploration
+#### For further exploration
 
 Read how the Department of Education developed a simple prototype made of cardboard and paper to test their ideas for a mobile-friendly college scorecard. They also took Play 1 to heart in other ways by talking directly to high school students and leveraging a variety of data to inform their development.  
 
 [Behind the scenes: Building a new College Scorecard with students](https://medium.com/the-u-s-digital-service/under-the-hood-building-a-new-college-scorecard-with-students-cbcf21a745fc) 
 
-### A/B Testing
+### A/B testing
 
 ![Two different screens on a tablet, one marked A, one marked B](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/a-b_testing_2.jpg)
 
 A/B testing is a method for developing and refining products. This method allows you to test ideas in real time. You can use this method to test even the smallest of components (e.g., layouts, wording, image, amount of text). With A/B testing, seemingly subjective decisions can now be driven by data.
-
-## Learn About Your Users’ Needs Cont'd
 
 ### Personas
 
@@ -83,7 +81,7 @@ Personas are fictional characters that teams create to help understand their use
 ![Profile of Linda who is 50 years old, Lives in Tallahassee, Florida, Widowed with no children. She needs help finding information online, easy to understand information, and financial support form the government to help pay her bills](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/USA.gov-Personas-March-2015%20Linda.jpg)
 
 
-### Using Personas as an Anchor for Development
+### Using personas as an anchor for development
 
 Imagine you’re remodeling your house. It’s up to you and your spouse to decide what’s most important to include in your remodel. But there can be lots of other opinions about what’s most important. Your builder tells you about some cool new features. Your brother tells you about the latest and greatest techniques for redoing bathrooms. Your neighbor shares what worked well for them. Before you know it, you and your spouse’s preferences can easily be lost. The same thing can (and likely will!) happen during digital service projects. You can use personas as an anchor for your development decisions. Priority should always go toward efforts that will best meet user needs.
 
@@ -97,20 +95,20 @@ Read how USA.gov updated their personas based on themes and insights they collec
 
 - [PDF of all USA.gov personas](https://s3.amazonaws.com/digitalgov/_legacy-img/2015/04/USA.gov-Personas-March-2015.pdf)
 
-### Journey Mapping
+### Journey mapping
 
 You can use journey mapping to explore users' feelings, questions, and needs as they interact with your organization and the service/product offered. Personas can also serve as a foundation for creating journey maps.
 
 ![Journey map diagram that maps how Linda identifies information need, looks for information, finds information, and seeks help. It outlines her activities, feelings and needs, and potential opportunities for improvement](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/1000-x-800-USAgov-Personas-and-Journey-Maps_small%20Linda.jpg)
 
 
-**For Further Exploration**
+**For further exploration**
 
 Want to learn more about journey mapping? Read about the process USA. gov used and how they leveraged personas to create journey maps. 
 
 - [Journey Mapping the Customer Experience: A USA.gov Case Study](https://digital.gov/2015/08/12/journey-mapping-the-customer-experience-a-usa-gov-case-study/)
 
-## Contemporary Practices in Developing Digital Services
+## Contemporary practices in developing digital services
 
 Now that we’ve covered the common denominator of all digital services development, let’s explore contemporary practices outlined in the U.S. Digital Services Playbook. Take this section for what it is—a survey, not an exhaustive list, of current practices. Remember that keeping pace with current technologies takes a concerted effort. Consider this a starting point for building your digital service development know-how. 
 
@@ -118,37 +116,37 @@ As procurement professionals, you are critical in shaping how the government inv
 
 
 
-## Digital Service Delivery Methods: Agile
+## Digital service delivery methods: Agile
 
 ### Agile foundations
 
-**What is agile delivery?**
+**What is Agile delivery?**
 
-Agile delivery emphasizes working code over planning and team cohesiveness over formal process. It relies on the hypothesis that iterative development, collaboration, and transparency lead to better product development. It empowers delivery teams to work in short cycles (sprints), respond to change, and continuously deliver value to users. Agile is a departure from traditional waterfall delivery, where requirements are set initially and progress is linear. Instead, agile adapts as needs and dependencies are identified and evolve.
+Agile delivery emphasizes working code over planning and team cohesiveness over formal process. It relies on the hypothesis that iterative development, collaboration, and transparency lead to better product development. It empowers delivery teams to work in short cycles (sprints), respond to change, and continuously deliver value to users. Agile is a departure from traditional waterfall delivery, where requirements are set initially and progress is linear. Instead, Agile adapts as needs and dependencies are identified and evolve.
 
-Key elements of agile delivery:
+Key elements of Agile delivery:
 
-* iterative development through sprint cycles  
-* working product at the end of each sprint  
-* frequent demonstration of progress via demos and reviews  
-* continuous refinement and planning  
-* transparency in workflows and decision-making  
-* individual commitment to delivering on promised tasks  
-* focus on working software over extensive documentation
+* Iterative development through sprint cycles  
+* Working product at the end of each sprint
+* Frequent demonstration of progress via demos and reviews
+* Continuous refinement and planning
+* Transparency in workflows and decision-making
+* Individual commitment to delivering on promised tasks
+* Focus on working software over extensive documentation
 
 Agile can be scaled across multiple teams using **SAFe** (Scaled Agile Framework), enabling disparate delivery teams to coordinate activities while working on common goals. 
 
 ---
 
-### Why agile in government?
+### Why Agile in government?
 
-Before we dive into the case for agile in government, take a few minutes to hear from Jeff Sutherland, co-creator of the Agile Manifesto. In this short TED Talk, Jeff shares how agile started and has been used in everything from military operations to education. As you watch, consider how core principles like collaboration, adaptability, and continuous improvement might help federal teams deliver smarter, faster, and more user-centered digital services.
+Before we dive into the case for Agile in government, take a few minutes to hear from Jeff Sutherland, co-creator of the Agile Manifesto. In this short TED Talk, Jeff shares how Agile started and has been used in everything from military operations to education. As you watch, consider how core principles like collaboration, adaptability, and continuous improvement might help federal teams deliver smarter, faster, and more user-centered digital services.
 
 [Jeff Sutherland's TED Talk about Agile](https://www.youtube.com/watch?v=s4thQcgLCqk) 
 
-#### The case for agile in federal digital projects
+#### The case for Agile in federal digital projects
 
-Modern digital service delivery in government requires agility. With constantly evolving user needs, policy changes, and high expectations for speed and usability, federal agencies benefit from agile methods that foster adaptability and transparency. 
+Modern digital service delivery in government requires agility. With constantly evolving user needs, policy changes, and high expectations for speed and usability, federal agencies benefit from Agile methods that foster adaptability and transparency. 
 
 Agile reduces procurement risk by promoting incremental delivery, increasing visibility into contractor performance, and enabling continuous stakeholder feedback. This process creates more opportunities to adjust course early, ensure alignment with mission needs, and deliver value faster.
 
@@ -156,39 +154,39 @@ The Agile method is distinguished from artisanal or waterfall projects by emphas
 
 Waterfall project management was developed to address the shortcomings of artisanal development, attempting to bound the scope of a project before work begins, and address changes and additions in a structured way. Waterfall projects rely on a rigid, linear process: define detailed requirements up front, plan and award the contract, and then move into a long development phase and make changes only through formal change orders. This approach often delays feedback until the end, when the finished product is delivered. By then, it's costly and time-consuming to make changes, even if the original requirements no longer reflect user or mission needs. Testing and course corrections are squeezed by schedule pressures, increasing the risk of delivering something that misses the mark.
 
-#### Why agile matters:
+#### Why Agile matters:
 
 Agile delivery enables teams to:
 
-* coordinate across dozens of contractor teams simultaneously  
-* deliver minimum viable products (MVPs) quickly to end users  
-* work within the scope of existing resources by continually prioritizing features to be included in the MVP, thereby preserving budgets  
-* adapt to emerging priorities and new information  
-* maintain transparency with stakeholders  
-* prioritize accessibility, security, and user-centered design  
-* empower decision makers to manage the project to budget, timeline, or feature set, and have the impact of those decisions be visible to all participants
+* Coordinate across dozens of contractor teams simultaneously  
+* Deliver minimum viable products (MVPs) quickly to end users  
+* Work within the scope of existing resources by continually prioritizing features to be included in the MVP, thereby preserving budgets  
+* Adapt to emerging priorities and new information  
+* Maintain transparency with stakeholders  
+* Prioritize accessibility, security, and user-centered design  
+* Empower decision makers to manage the project to budget, timeline, or feature set, and have the impact of those decisions be visible to all participants
 
 #### A shift in mindset
 
-Agile methods represent a cultural shift. While some federal stakeholders may be accustomed to waterfall, agile teams demonstrate the value of iteration and user feedback by:
+Agile methods represent a cultural shift. While some federal stakeholders may be accustomed to waterfall, Agile teams demonstrate the value of iteration and user feedback by:
 
-* including stakeholders in backlog refinement and sprint reviews;  
-* offering agile training to support collaboration; and  
-* fostering trust through transparency, clear roles, and consistent delivery.
+* Including stakeholders in backlog refinement and sprint reviews  
+* Offering Agile training to support collaboration 
+* Fostering trust through transparency, clear roles, and consistent delivery
 
 [Play 4](https://playbook.cio.gov/#play4) of the U.S. Digital Services Playbook to Agile Development points away from a traditional linear software development method and toward an incremental, fast-paced development style. 
 
-**Is there more than one approach to implementing agile development practices?**
+**Is there more than one approach to implementing Agile development practices?**
 
-Search “agile practices” and you’ll discover various approaches to implementing them. 
+Search “Agile practices” and you’ll discover various approaches to implementing them. 
 
 ![Umbrella Labeled Agile with the following words under the umbrella: Extreme Programming, Scrum, Crystal, DSDM, Kanaban, FDD, Lean](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/AgilePractices%20Umbrella.png)
 
-*Sample of agile practices*
+*Sample of Agile practices*
 
 ---
 
-However, all agile practices adhere to the values outlined in the [Agile Manifesto](https://agilemanifesto.org/) and illustrated in the diagram below. While the items on the right have value, agile values the items on the left more.  
+However, all Agile practices adhere to the values outlined in the [Agile Manifesto](https://agilemanifesto.org/) and illustrated in the diagram below. While the items on the right have value, Agile values the items on the left more.  
 
 ![Agile values are "Individuals and Interactions over processes and tools" "Working software over comprehensive documentation" "Customer Collaboration over contract negotiation" and "Responding to Change over following a plan"](https://github.com/usds/ditap-curriculum-update/raw/8f3e293242f3e2cbfa72b51da4263da664fccac8/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/AgileValues.jpg)
 
@@ -196,17 +194,17 @@ However, all agile practices adhere to the values outlined in the [Agile Manifes
 
 ---
 
-**Should agile always be the default solution for digital services or IT projects?**
+**Should Agile always be the default solution for digital services or IT projects?**
 
-You shouldn’t default to agile development because you need digital services or IT. Many IT needs can be met with commercially available off-the-shelf items and commoditized services, such as subscription services for software licenses, with little or no development work. For example, if you must complete a simple data migration task that involves copying information from one database to another, no new development may be needed. Likewise, a commercially off-the-shelf product may be more appropriate for automating standard business processes. Agile should be used for digital service needs that require significant software design and development.
+You shouldn’t default to Agile development because you need digital services or IT. Many IT needs can be met with commercially available off-the-shelf items and commoditized services, such as subscription services for software licenses, with little or no development work. For example, if you must complete a simple data migration task that involves copying information from one database to another, no new development may be needed. Likewise, a commercially off-the-shelf product may be more appropriate for automating standard business processes. Agile should be used for digital service needs that require significant software design and development.
 
 ---
 
-### Who’s on an agile team?
+### Who’s on an Agile team?
 
 #### Agile team roles
 
-Each role on an agile team has a clear function. Common roles include:
+Each role on an Agile team has a clear function. Common roles include:
 
 * **Product Owner (PO) / Product Manager (PdM)** – The expert who sets priorities, gathers requirements, and collaborates daily with the team.  
 * **Scrum Master or Project Manager (PjM)** – Facilitates meetings, resolves impediments, and supports team flow.  
@@ -215,13 +213,13 @@ Each role on an agile team has a clear function. Common roles include:
 * **Security & Compliance Expert** – Oversees vulnerability testing, patching, and compliance reviews.  
 * **HCD Designers & Researchers** – Create designs, workflows, and prototypes based on user needs and research data, collaborate with developers to bring the designs to code, and conduct discovery and usability studies.
 
-A well-formed agile team includes a mix of technical, design, and product experts aligned to deliver value.
+A well-formed Agile team includes a mix of technical, design, and product experts aligned to deliver value.
 
 ---
 
 ### Agile frameworks and methods
 
-This section introduces key frameworks and practices that bring agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
+This section introduces key frameworks and practices that bring Agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
 
 #### Kanban
 
@@ -237,7 +235,7 @@ Modern Kanban implementations also utilize tools like cumulative flow diagrams a
 
 #### Scrum
 
-Scrum is an agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement.
+Scrum is an Agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement.
 
 Core components of Scrum include:
 
@@ -253,7 +251,7 @@ These elements ensure transparency and focus, guiding the team toward delivering
 
 ---
 
-### Agile Practices
+### Agile practices
 
 
 **Assign a Project Manager or Scrum Master**
@@ -284,10 +282,10 @@ This structured rhythm enables teams to iterate and improve continuously.
 
 Also known as “scrum,” this 15-minute daily sync keeps the team aligned. Everyone shares:
 
-* what they did yesterday;  
-* what they’re doing today;  
-* any blockers, and  
-* any after-meetings between scrum participants to work on specific problems.
+* What they did yesterday  
+* What they’re doing today  
+* Any blockers  
+* Any after-meetings between scrum participants to work on specific problems
 
 Stand-ups foster transparency, collaboration, and rapid issue resolution.
 
@@ -303,11 +301,11 @@ Backlog refinement is a collaborative session where:
 
 A healthy backlog is:
 
-* continuously updated  
-* prioritized based on business value and user needs  
-* clear on effort, dependencies, and acceptance criteria
+* Continuously updated  
+* Prioritized based on business value and user needs  
+* Clear on effort, dependencies, and acceptance criteria
 
-Agile teams help product owners maintain high-quality backlogs to enable intelligent decision-making. Refinement ensures agile responsiveness to shifting priorities, which is vital in the dynamic landscape of government digital services.
+Agile teams help product owners maintain high-quality backlogs to enable intelligent decision-making. Refinement ensures Agile responsiveness to shifting priorities, which is vital in the dynamic landscape of government digital services.
 
 ---
 
@@ -315,9 +313,9 @@ Agile teams help product owners maintain high-quality backlogs to enable intelli
 
 A **Minimum Viable Product** approach means:
 
-* delivering the most critical functionality first  
-* focusing on what 80% of users need most  
-* reducing time-to-value while gathering feedback
+* Delivering the most critical functionality first  
+* Focusing on what 80% of users need most  
+* Reducing time-to-value while gathering feedback
 
 This method is ideal for large-scale federal platforms with evolving needs.
 
@@ -325,11 +323,11 @@ This method is ideal for large-scale federal platforms with evolving needs.
 
 **Integrate HCD and Lean UX methodologies**
 
-Human-Centered Design (HCD) and Lean UX are complementary to agile. These practices:
+Human-Centered Design (HCD) and Lean UX are complementary to Agile. These practices:
 
-* involve users early and often;  
-* promote iterative design based on feedback; and  
-* make digital services more inclusive and intuitive
+* Involve users early and often  
+* Promote iterative design based on feedback  
+* Make digital services more inclusive and intuitive
 
 User research and usability testing reveal what users need and where they struggle.
 
@@ -337,12 +335,12 @@ User research and usability testing reveal what users need and where they strugg
 
 **Prioritize accessibility**
 
-Accessibility is embedded throughout agile workflows. Practices include:
+Accessibility is embedded throughout Agile workflows. Practices include:
 
-* early testing against 508 standards  
-* proactive design choices (keyboard navigation, contrast, screen reader compatibility)  
-* inclusive user research  
-* continuous feedback loops
+* Early testing against 508 standards  
+* Proactive design choices (keyboard navigation, contrast, screen reader compatibility)  
+* Inclusive user research  
+* Continuous feedback loops
 
 This ensures government services are usable by all.
 
@@ -362,22 +360,22 @@ Testing leads to actionable improvements baked directly into each sprint cycle.
 
 **Combine Agile with DevOps**
 
-Development Operations (DevOps) focuses on keeping systems available, high performing, and secure. Modern DevOps practices support agile delivery by creating practices, protocols, and mechanisms that enable development and QA testing by creating and maintaining a Continuous Integration/Continuous Delivery (CI/CD) pipeline. These practices:
+Development Operations (DevOps) focuses on keeping systems available, high performing, and secure. Modern DevOps practices support Agile delivery by creating practices, protocols, and mechanisms that enable development and QA testing by creating and maintaining a Continuous Integration/Continuous Delivery (CI/CD) pipeline. These practices:
 
-* create an auditable platform and repeatable deployment processes to ensure system integrity;  
-* automate system builds, code testing, and deployments;  
-* maintain stability across multiple teams and applications; and  
-* support fast code iteration while ensuring consistent code quality and minimizing regressions as new features are added.
+* Create an auditable platform and repeatable deployment processes to ensure system integrity  
+* Automate system builds, code testing, and deployments  
+* Maintain stability across multiple teams and applications  
+* Support fast code iteration while ensuring consistent code quality and minimizing regressions as new features are added
   
 ---
 
 **Create transparency via project scaffolding**
 
-Project scaffolding refers to the foundational practices, documentation, and tools supporting agile teams in effectively doing their work. Elements like team charters, onboarding materials, coding standards, stakeholder maps, task management systems, and documentation platforms help teams collaborate with minimal friction. Tools such as JIRA for task planning and Confluence for documentation enhance transparency and alignment across the team. When used consistently, these tools help ensure: 
+Project scaffolding refers to the foundational practices, documentation, and tools supporting Agile teams in effectively doing their work. Elements like team charters, onboarding materials, coding standards, stakeholder maps, task management systems, and documentation platforms help teams collaborate with minimal friction. Tools such as JIRA for task planning and Confluence for documentation enhance transparency and alignment across the team. When used consistently, these tools help ensure: 
 
-* complete visibility into the work done by the team  
-* easy access to documentation  
-* real-time collaboration
+* Complete visibility into the work done by the team  
+* Easy access to documentation  
+* Real-time collaboration
 
 Transparency builds trust between contractors and federal stakeholders and improves delivery outcomes.
 
@@ -385,27 +383,27 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 ### Final thoughts
 
-Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, agile-friendly procurement decisions.
+Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, Agile-friendly procurement decisions.
 
 ---
 
-## Discussion (Optional)
+## Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
-Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
+Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
 
 ---
-## Knowledge Check
+## Knowledge check
 
 Question 1
 
 **Your agency needs to replace an outdated legacy system, causing usability issues for staff and the public. The scope isn’t fully defined yet, and stakeholder needs are still being explored. What’s the best approach?**
 
 
-- [ ] Use a waterfall process to define every requirement upfront
+- [ ] Use a waterfall process to define every requirement up front
 
-- [x] Use agile to deliver value in stages while gathering feedback
+- [x] Use Agile to deliver value in stages while gathering feedback
 
 - [ ] Purchase a commercial off-the-shelf solution without further research
 
@@ -419,7 +417,7 @@ Question 1
 
 Question 2
 
-**You’re managing a software development contract with multiple vendor teams. Which agile practice will help ensure visibility into progress and performance?**
+**You’re managing a software development contract with multiple vendor teams. Which Agile practice will help ensure visibility into progress and performance?**
 
 
 - [ ] Require weekly email updates
@@ -470,7 +468,7 @@ Question 4
 >Not quite. While Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
 
 
-## Digital Service Delivery Methods: HCD and DevSecOps
+## Digital service delivery methods: HCD and DevSecOps
 
 ### What is HCD?
 
@@ -652,10 +650,10 @@ Ultimately, DevSecOps helps agencies build **faster, safer, and more** **reliabl
 
 In federal projects, DevSecOps supports mission-critical services by ensuring they are stable, scalable, and responsive to change, all while maintaining code quality, security, and accessibility compliance, and reducing the costs associated with traditional code deployment methods. Speed, stability, and security aren’t optional in complex government systems—they're essential. DevSecOps helps federal agencies meet these demands by:
 
-* automating code deployments and testing, reducing manual errors  
-* speeding up the delivery of new features without compromising security  
-* maintaining robust, compliant systems with ongoing monitoring  
-* supporting secure data handling and backups.
+* Automating code deployments and testing, reducing manual errors  
+* Speeding up the delivery of new features without compromising security  
+* Maintaining robust, compliant systems with ongoing monitoring  
+* Supporting secure data handling and backups
 
 #### Real world example:
 
@@ -669,7 +667,7 @@ Before adopting DevSecOps, releasing new features or updates often took months a
 
 The cultural shift was just as significant as the technical changes. Developers, operations personnel, and security experts worked together in cross-functional teams. This collaboration helped break down silos and ensured that everyone shared responsibility for delivering secure, user-friendly services.
 
-Procurement also played a vital role. Contracting officers and 1102s supported the shift by drafting performance-based contracts encouraging iterative delivery, agile teaming, and real-time performance monitoring. This allowed the VA to hold vendors accountable while enabling innovation and rapid response to changing user needs.
+Procurement also played a vital role. Contracting officers and 1102s supported the shift by drafting performance-based contracts encouraging iterative delivery, Agile teaming, and real-time performance monitoring. This allowed the VA to hold vendors accountable while enabling innovation and rapid response to changing user needs.
 
 The outcome? Veterans gained access to faster, more reliable digital tools, such as online benefits tracking, streamlined appointment scheduling, and real-time support services.
 
@@ -682,7 +680,7 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
 ---
-### Discussion (Optional)
+### Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 How can DevSecOps improve the security of government digital services?
@@ -695,11 +693,11 @@ Share one example or idea in the discussion forum section.
 
 ### Design \+ DevSecOps: The power combo
 
-#### Better Together: HCD and DevSecOps in action
+#### Better together: HCD and DevSecOps in action
 
 While HCD and DevSecOps are powerful, they become even more effective when used together. Consider this: **“Design is the compass, and DevSecOps is the engine.”** HCD ensures you're building the right thing people need, while DevSecOps helps you build it quickly, securely, and reliably.
 
-Together, these approaches support agile delivery by enabling fast feedback loops, inclusive design practices, and secure deployment pipelines. HCD drives the vision by collecting insights from real users and translating them into meaningful features. Meanwhile, DevSecOps ensures those features are built and released efficiently, securely, compliantly, and scalably.
+Together, these approaches support Agile delivery by enabling fast feedback loops, inclusive design practices, and secure deployment pipelines. HCD drives the vision by collecting insights from real users and translating them into meaningful features. Meanwhile, DevSecOps ensures those features are built and released efficiently, securely, compliantly, and scalably.
 
 This combination is particularly valuable in the federal context. It allows agencies to deliver digital services that meet the high expectations of today’s users while also navigating the complex requirements of government regulations, security, and accessibility. When teams use both practices in tandem, they can deliver **more innovative,** **safer, and user-friendly** digital services on time and on budget.
 
@@ -721,31 +719,31 @@ Which approach should you prioritize first?
 
  \[ \] Begin procurement for security and operations tools.
 
-**Feedback (Correct):** 
+**Feedback (correct):** 
 
 ✅ Correct\! Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.
 
-**Feedback (Incorrect):**
+**Feedback (incorrect):**
 
 ❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
 
 
-## Digital Service Delivery Providers - Sources of Supply  
+## Digital service delivery providers - Sources of supply  
 
 ### The government ecosystem
 
-Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. Digital Service (USDS), which focuses on building human-centered, agile digital services, often in collaboration with agency teams and external partners. 
+Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. Digital Service (USDS), which focuses on building human-centered, Agile digital services, often in collaboration with agency teams and external partners. 
 
 Internal digital service teams are embedded within agencies and vary in size, mission, and approach. They bring technical expertise in-house and help ensure services are built with users in mind and delivered iteratively.
 
 These teams play a critical role in:
 
-* **modernizing legacy systems** by promoting agile, iterative development  
-* **prioritizing user needs** through human-centered design (HCD)  
-* **improving procurement practices** by advising on modular contracting and vendor selection  
-* **supporting delivery** by embedding with program teams to guide implementation or act as product owners
+* **Modernizing legacy systems** by promoting Agile, iterative development  
+* **Prioritizing user needs** through human-centered design (HCD)  
+* **Improving procurement practices** by advising on modular contracting and vendor selection  
+* **Supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
-### Activity – Discussion (Optional)
+### Activity – Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
@@ -772,7 +770,7 @@ These suppliers include:
 
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
-### Activity \- Digital Service Supplier Discovery:
+### Activity \- Digital service supplier discovery:
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
@@ -783,12 +781,12 @@ Select two companies from the list of Digital Service Coalition members listed [
 * How much experience has each company had performing under federal contracts so far?   
 * What else would you be interested to learn about each company? 
 
-### Discussion prompt (Optional) 
+### Discussion prompt (optional) 
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
-### Discussion prompt (Optional)
+### Discussion prompt (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
@@ -807,7 +805,7 @@ Once the right supplier type is identified, the next step is choosing the approp
 | **Agency-Specific Contract Vehicles** | Tailored BPAs and IDIQs created to meet agency-specific digital needs. | VA SPRUCE IDIQ, SEC Digital Services BPA, OPM Digital Support Services BPA, GSA Total BPA |
 
 **Note:**  
- Agency-specific vehicles are increasingly designed to support agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
+ Agency-specific vehicles are increasingly designed to support Agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
 
 ---
 
@@ -838,7 +836,7 @@ Common models include:
 
 
 ---
-## Recommended Readings
+## Recommended readings
 
 [\[Re\]Coding \<America/\>](https://www.recodingamerica.us/)
 
@@ -855,7 +853,7 @@ Common models include:
 
 [18F Guides](https://guides.18f.org/)
 
-* The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices. 
+* The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as Agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices. 
 
 
 
