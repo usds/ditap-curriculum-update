@@ -193,7 +193,7 @@ Your agency is procuring a new cloud-based platform. The vendor offers limited d
 
 ### Facilitator themes / Notes
 
-| Theme to look for | Facilitator notes / Key points |
+| Theme to Look for | Facilitator Notes / Key Points |
 | :---- | :---------------------------- |
 | Government Access & Ownership of Data | Who owns the data, and how can the government access and use it? |
 | Licensing & Intellectual Property (IP) Risks | Are the licensing terms overly restrictive or ambiguous? |
@@ -252,7 +252,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 * **Instructions**: Small groups discussion (10-15 min), then report out (10-15 min)  
 * Facilitator: *This scenario helps learners apply the fairness and equity concepts. What structural changes could lead to more competition?*  
   
-| # | Expected participant responses                       | Listen for                                                                                                                              | Facilitator insight                                                                                                                                              |
+| # | Expected Participant Responses                       | Listen For                                                                                                                              | Facilitator Insight                                                                                                                                              |
 | - | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | **Overly complex task order requirements**           | "The RFP was too long/technical/dense."<br> "The instructions were unclear or burdensome."                                         | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
 | 2 | **Misalignment with vendor capabilities**            | "The scope didn't match vendor strengths."<br>"We required past performance in a narrow niche."                                     | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
