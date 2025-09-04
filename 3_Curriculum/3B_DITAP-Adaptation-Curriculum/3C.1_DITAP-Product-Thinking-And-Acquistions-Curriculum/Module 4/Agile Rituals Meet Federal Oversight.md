@@ -75,7 +75,7 @@ Below illustrates how key agile ceremonies map to procurement oversight responsi
 
 **What happens**  
 
-The vendor team, PO, and development team meet to plan the sprint. Stories are selected from the backlog, scoped, and committed to by the team.
+The development team and PO meet to plan the sprint. Stories are selected from the backlog, scoped, and committed to by the team.
 
 **Procurement alignment**
 
@@ -116,7 +116,7 @@ The team (including vendor, PO, and often the COR) reflects on what worked well,
 
 **Why it matters**  
 
-Retrospectives aren’t just about team processes, they provide valuable context for understanding vendor performance beyond binary success metrics.
+Retrospectives aren’t just about team processes; they provide valuable context for understanding vendor performance beyond binary success metrics, and they can surface how government actions, decisions, or delays may be impacting progress.
 
 ### Stakeholder feedback sessions: Bringing in broader voices
 

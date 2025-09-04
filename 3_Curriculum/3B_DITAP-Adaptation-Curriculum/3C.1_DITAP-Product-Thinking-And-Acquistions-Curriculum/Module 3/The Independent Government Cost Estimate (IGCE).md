@@ -54,7 +54,7 @@ The **IGCE Agile Team Estimator** is a flexible, user-friendly tool designed to 
 - The Team Planner tab is fully customizable for each contract, allowing users to select labor categories from a convenient dropdown menu.
 - The tool automatically calculates the price per sprint based on the team composition, sprint duration, and total number of sprints.
 - It includes fields for Other Direct Costs (ODCs) and can account for optional tasks by calculating the cost of additional sprints.
-- The Summary page can be adjusted to reflect input from multiple team tabs, allowing for coordinated cost planning across several Agile teams.
+- The Summary page can be adjusted to reflect input from multiple team tabs, allowing for coordinated cost planning across several Agile teams and multiple periods of performance.
 - This estimator supports streamlined planning and promotes consistency in Agile IGCE development.
 
 ## Class Activity: [Estimating the Cost of Agile Delivery](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3C_DITAP-Adaptation-Curriculum/3C.1_DITAP-Product-Thinking-And-Acquistions-Curriculum/Module%203/Class%20Activity%3A%20Estimating%20the%20Cost%20of%20Agile%20Delivery.md)
