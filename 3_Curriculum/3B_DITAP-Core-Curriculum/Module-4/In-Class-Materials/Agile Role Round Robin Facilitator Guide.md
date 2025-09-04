@@ -2,17 +2,17 @@
 
 **Time:** 45 \- 60 minutes  
 **Format:** Small groups (4–6 people each), Role Rotation Activity (instructor-led virtual or in-person)</br>
-**Learning Outcome**: To help participants distinguish between federal and vendor responsibilities during agile delivery by exploring role-based decision-making and identifying alignment points across roles.  
+**Learning Outcome**: To help participants distinguish between federal and vendor responsibilities during Agile delivery by exploring role-based decision-making and identifying alignment points across roles.  
 
 ## Activity agenda:  
 
 **Introduction (5 min)**
-* Explain the learning goal: understanding who owns what in agile execution.  
+* Explain the learning goal: understanding who owns what in Agile execution.  
 * Emphasize that overlapping responsibilities are normal, but role clarity prevents blockers.
 
 **Scenario rotation activity (30 min)**
 * Participants are divided into breakout groups.  
-* Each group receives 2–3 realistic agile delivery prompts.  
+* Each group receives 2–3 realistic Agile delivery prompts.  
 * Roles are rotated for each scenario: PO, COR, CO, and Vendor.  
 * Each person answers: "What should this role do in this situation?"  
 * Quickly discuss the answers to identify and correct any unclear answers. 
