@@ -2,7 +2,7 @@
 
 For Product Managers & CORs.
 
-## About the discovery sprint labs 
+## About the discovery sprint lab 
 
 **Introduction and purpose**
 

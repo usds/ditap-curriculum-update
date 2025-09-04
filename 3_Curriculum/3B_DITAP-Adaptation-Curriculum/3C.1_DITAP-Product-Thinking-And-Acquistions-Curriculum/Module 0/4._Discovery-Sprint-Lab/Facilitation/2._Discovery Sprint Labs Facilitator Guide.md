@@ -1,4 +1,4 @@
-# Facilitator Guide: Discovery Sprint Labs
+# Facilitator Guide: Discovery Sprint Lab
 For Product Managers and Contracting Officer’s Representatives (CORs).
 
 ## Overview and purpose
@@ -7,7 +7,7 @@ Digital services often fail when teams assume too much and learn too late. This 
 * Understand policy, technical, and operational constraints.  
 * Align product decisions and acquisitions to mission outcomes.
 
-These labs provide hands-on experience with tools and mindsets introduced throughout the course, culminating in outputs that can inform real-world procurement activities.
+These discovery sprint labs provide hands-on experience with tools and mindsets introduced throughout the course, culminating in outputs that can inform real-world procurement activities.
 
 ## Course connection
 This lab reinforces key concepts from earlier modules:
