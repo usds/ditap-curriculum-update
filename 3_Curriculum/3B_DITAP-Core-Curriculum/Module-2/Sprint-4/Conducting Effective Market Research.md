@@ -280,13 +280,13 @@ Read about each building block of the pyramid above.
 
 **1\. Background and Mission:** All agency programs and acquisitions must be tied to supporting and accomplishing the agency’s mission. The more your potential vendors know about your mission and related background information, the more likely they are to propose appropriate solutions and provide proper support for that mission. Be sure to include the end users of the system, their specific problems, and any attempts to meet those needs in previous acquisitions. Are there lessons learned or retrospectives of those efforts that would help the industry not repeat previous approaches? 
 
-**2\. Desired outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
+**2\. Desired Outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
 
 **3\. Constraints:** These are operating conditions, environments, or circumstances that limit the possibilities that vendors can propose to provide your desired outcomes. Examples include cybersecurity regulations, agency policies, and server environments. Because constraints impose limits on innovation and can introduce unnecessary costs to potential vendor solutions, every effort should be made to avoid unnecessary constraints or allow flexibility in complying with those constraints. 
 
 Some constraints are absolutely necessary, and potential vendors should be aware of them to propose compliant solutions. While it may not be appropriate to communicate all timelines and resource constraints, consider the benefits of being as transparent as possible.
 
-**4\. Timelines and resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
+**4\. Timelines and Resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
 
 * Will software development and/or testing be done on government or vendor servers?  
 * How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
