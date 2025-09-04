@@ -12,31 +12,31 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Welcome to Module 3
 
-### Overview and Objectives
+### Overview and objectives
 
   -  Module Summary  
    - Learning Objectives  
    - Connection to Overall DITAP Program
 
-### Module Activities
+### Module activities
 
-1. Activity: Build Your Lean Acquisition Canvas  
-2. Discussion: Which Risk Has Tripped Up Your Procurements Most Often?
+1. Activity: Build your lean acquisition canvas  
+2. Discussion: Which risk has tripped up your procurements most often?
 3. Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session? 
 4. Activity: Poll
-5. Activity: Scenario Discussion  
+5. Activity: Scenario discussion  
 6. Activity: Poll  
 7. Discussion: Improving collaboration on a multi-vendor effort 
-8. Activity: Scenario Discussion
-9. Activity: Drafting a Statement of Objectives (SOO) for Agile Services 
+8. Activity: Scenario discussion
+9. Activity: Drafting a Statement of Objectives (SOO) for Agile services 
 10. Discussion: Outcome-based vs personnel \- focused criteria 
-11. Discussion: Applying AI Data Analysis to Acquisition Planning
+11. Discussion: Applying AI data analysis to acquisition planning
 12. Activity: Tech Evaluation Panel Checklist
-13. Activity: Use A Trade-Off Matrix to Help Determine What Matters Most 
+13. Activity: Use a Trade-Off Matrix to help determine what matters most 
 14. Activity: Poll
-15. Activity: The Power of Debriefing
+15. Activity: The power of debriefing
 
-### Reflections on this Module
+### Reflections on this module
 
 ---
 
@@ -64,7 +64,7 @@ By the end of this module, you will be able to:
 * Identify how acquisition strategies vary depending on inherited contracts versus new procurements  
 * Apply key pre-award activities—such as stakeholder engagement and market research—to inform strategic decisions  
 * Describe the lean canvas approach and its role as a living document in agile acquisition environments  
-* Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions.
+* Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions
 
 
 ### Connection to overall DITAP program
@@ -113,7 +113,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 4. ### Activity: Poll (5 minutes)
 
-* This is a quick knowledge check about ownership of source code
+* This is a quick knowledge check about ownership of source code.
 
 * **Purpose**: To quickly check your knowledge or opinions and use the results to guide the discussion.
 
@@ -124,7 +124,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 
 5. ### Activity: Scenario Discussion (20 minutes)
 
-* **Purpose**:  To identify key questions about limited data rights and proprietary encryption they should ask when acquiring a new cloud-based platform.  
+* **Purpose**: To identify key questions about limited data rights and proprietary encryption you should ask when acquiring a new cloud-based platform.  
 * **Expected Outcomes**: You will be able to identify:  
   * Legal risks  
   * Data access concerns  
@@ -149,7 +149,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 7. ### Discussion: Improving collaboration on a multi-vendor effort (10 minutes)
 
 * **Purpose**: To share ideas about improving multi-vendor procurement with the group  
-* **Expected Outcomes**: You will have identified actions they can take to improve multi-vendor efforts.
+* **Expected Outcomes**: You will have identified actions you can take to improve multi-vendor efforts.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
@@ -169,7 +169,7 @@ This session builds on prior learning from Module 2, and prepares you for upcomi
 9. ### Activity: Drafting a Statement of Objectives (SOO) for Agile services (30-45 minutes)
 
 * **Purpose:** To gain hands-on experience drafting a concise and focused SOO  
-* **Expected Outcomes:** You will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. They will involve contracting early in the process to ensure alignment.
+* **Expected Outcomes:** You will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. You will involve contracting early in the process to ensure alignment.
 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*) 
