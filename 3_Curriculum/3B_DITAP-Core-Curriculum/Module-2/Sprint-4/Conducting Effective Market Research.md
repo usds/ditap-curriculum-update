@@ -153,7 +153,7 @@ The Federal government spends over $500 billion yearly on goods and services. As
 There are two goals to this interaction: 
 
 1. To improve procurement outcomes by obtaining as much information as possible regarding potential solutions from vendors before preparing a solicitation  
-2. To better communicate government needs to vendors, so they will provide better-informed offers. 
+2. To better communicate government needs to vendors, so they will provide better-informed offers 
 
 ![The White House and a city connected by an arrow reading, "Information"](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Govt%20Vendor%20Information%20Sharing.png?raw=true)
 
@@ -164,9 +164,9 @@ While the FAR allows for a good deal of flexibility in establishing pre-solicita
 
 After completing this module, you should be able to: 
 
-* Discuss why pre-solicitation communication with offerors is essential in acquiring digital services.  
-* Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
-* Identify best practices for responsible pre-solicitation communication when procuring digital services.
+* Discuss why pre-solicitation communication with offerors is essential in acquiring digital services  
+* Describe ways you can communicate effectively with potential vendors before solicitation of digital services  
+* Identify best practices for responsible pre-solicitation communication when procuring digital services
  
 ---
 ## Acquisition process myths 
@@ -175,7 +175,7 @@ To alleviate some of these concerns and encourage agencies to pursue all legitim
 
 ### Government myths
 
-|   | Government myth | Fact |
+|   | Government Myth | Fact |
 | :---- | ----- | ----- |
 | 1\. | “We can’t meet one-on-one with a potential offeror.” | Government officials can meet one-on-one with potential offerors if no vendor receives preferential treatment. |
 | 2\. | “Since communication with contractors is like communication with registered lobbyists, and since contact with lobbyists must be disclosed, more communication with contractors will involve a substantial additional disclosure burden, so we should avoid these meetings.” | Disclosure is required only in certain circumstances, such as for meetings with registered lobbyists. Many contractors don’t fall into this category, and even when disclosure is required, it is usually a minimal burden that should not prevent a useful meeting from occurring. |
@@ -191,7 +191,7 @@ To alleviate some of these concerns and encourage agencies to pursue all legitim
 
 ### Vendor myths
 
-|  | Vendor myth | Fact |
+|  | Vendor Myth | Fact |
 | :---- | ----- | ----- |
 | 1\. | “The best way to present my company’s capabilities is by marketing directly to contracting officers and/or signing them up for my mailing list.” | Contracting officers and program managers are often inundated with general marketing material that doesn’t reach the right people at the right time. As an alternative, vendors can take advantage of the various outreach sessions that agencies hold to connect contracting officers and program managers with companies whose skills are needed. |
 | 2\. | “It is a good idea to bring only business development and marketing people to meetings with the agency’s technical staff.” | In meetings with government technical personnel, bringing subject matter experts to the meeting is far more valuable than focusing on the sales pitch. |
@@ -246,7 +246,7 @@ By engaging vendors in discussion and information sharing before issuing a solic
 
 * Prepare for pursuit, including finding teaming partners  
 * Decrease the overall business costs by allowing them to plan and forecast more accurately  
-* Find labor and other resources in advance rather than during the proposal.
+* Find labor and other resources in advance rather than during the proposal
 
 Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
 
@@ -332,16 +332,16 @@ As you’ve learned throughout this module, engaging early with industry is crit
 
 **Key characteristics:**
 
-* Surveys are short and specific (often 10–20 questions).  
+* Surveys are short and specific (often 10–20 questions) 
 * They are sent via email, Google Forms, SurveyMonkey, etc.  
-* They gauge vendor capabilities, interest, experience, business size, or appropriate NAICS codes.  
-* Surveys can be anonymous or low-commitment.  
-* They’re easy to analyze and compare responses.  
-* They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI.
+* They gauge vendor capabilities, interest, experience, business size, or appropriate NAICS codes  
+* Surveys can be anonymous or low-commitment  
+* They’re easy to analyze and compare responses 
+* They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI
 
 **Summary comparison**
 
-| Feature | Market research survey | Request for Information (RFI) |
+| Feature | Market Research Survey | Request for Information (RFI) |
 | ----- | ----- | ----- |
 | **Formality** | Informal | Formal, part of the acquisition record |
 | **Length** | Short survey (10–20 questions) | Longer with attachments or drafts |
@@ -583,11 +583,11 @@ Here’s how:
 
 After every significant market research activity, bring your team together for a 15–30 minute retrospective using a simple "traffic light" format:
 
-**Keep doing**: What worked well that we should repeat?
+Keep doing: What worked well that we should repeat?
 
-**Change or improve**: What felt clunky or unclear?
+Change or improve: What felt clunky or unclear?
 
-**Stop doing**: What created friction or added unnecessary burden?
+Stop doing: What created friction or added unnecessary burden?
 
 This format helps normalize reflection and ensures everyone, contracting, program, and technical, can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
 
@@ -605,7 +605,7 @@ Importantly, AI isn’t here to steal your job but to help you keep your sanity.
 
 #### Key areas where AI enhances market research
 
-**1\. Drafting and reviewing documents**
+1\. Drafting and reviewing documents
 
 Traditional approach:
 
@@ -619,7 +619,7 @@ Time savings:
 
 * Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks.
 
-**2\. Analyzing vendor responses**
+2\. Analyzing vendor responses
 
 Traditional approach:
 
@@ -633,7 +633,7 @@ Time savings:
 
 * AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews.
 
-**3\. Conducting market research**
+3\. Conducting market research
 
 Traditional approach:
 
