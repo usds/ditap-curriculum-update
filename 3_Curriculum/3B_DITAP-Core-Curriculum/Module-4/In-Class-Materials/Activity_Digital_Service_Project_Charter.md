@@ -1,6 +1,6 @@
 # Activity: Digital Service Project Charter
 
-## Facilitation guide: Build your charter together.
+## Facilitation guide: Build your charter together
 
 **Time:** 35–45 minutes  
 **Format:** Small groups (3–4 people), role-based activity
@@ -11,7 +11,7 @@ Teach learners to define success, clarify roles, and establish a communication r
 ---
 
 ### Activity setup: 
-Divide participants into triads or small groups. Assign or let them choose roles
+Divide participants into triads or small groups. Assign or let them choose roles:
 
 - Product Owner (PO)  
 - Contracting Officer’s Representative (COR) 
@@ -28,11 +28,11 @@ As a team, fill in the basics:
 - Type of contract and period of performance  
 - What does “success” look like for this project?  
 
-#### Step 2: Clarify roles & shared responsibilities (8–10 minutes)  
+#### Step 2: Clarify roles & shared responsibilities (8–10 minutes) 
 Based on the provided descriptions:
 
-- Each role outlines what they bring to the team.  
-- Groups discuss and add any shared responsibilities not in the charter.  
+- Each role outlines what they bring to the team 
+- Groups discuss and add any shared responsibilities not in the charter 
 
 #### Step 3: Build your communication plan (10 minutes)  
 Create a simple cadence:
@@ -61,7 +61,7 @@ Use these questions to guide a short group reflection:
 
 ### Purpose
 
-This charter outlines how the Contracting Officer (CO), Contracting Officer’s Representative (COR), and Product Owner (PO) will work together to support agile product delivery under this contract. It defines roles, communication rhythms, and shared responsibilities to ensure consistent delivery, effective oversight, and adaptive problem solving.
+This charter outlines how the Contracting Officer (CO), Contracting Officer’s Representative (COR), and Product Owner (PO) will work together to support Agile product delivery under this contract. It defines roles, communication rhythms, and shared responsibilities to ensure consistent delivery, effective oversight, and adaptive problem solving.
 
 ### Contract overview
 
@@ -79,27 +79,27 @@ Contract Type: \[e.g., Time and Materials, FFP with Agile Ordering, BPA Call, et
 
 **Product Owner (PO) – Government lead for product vision & delivery**
 
-- Owns and prioritizes the product backlog in alignment with user and mission needs.
-- Attends agile ceremonies such as sprint planning, retrospectives, and demos.
-- Provides ongoing feedback and acceptance of delivered work.
-- Collaborates closely with the vendor team and COR to assess delivery risks.
-- Maintains documentation of user needs, product vision, and success metrics.
+- Owns and prioritizes the product backlog in alignment with user and mission needs
+- Attends Agile ceremonies such as sprint planning, retrospectives, and demos
+- Provides ongoing feedback and acceptance of delivered work
+- Collaborates closely with the vendor team and COR to assess delivery risks
+- Maintains documentation of user needs, product vision, and success metrics
 
 **Contracting Officer’s Representative (COR) – Oversight and performance**
 
-- Monitors contractor performance and alignment with contract terms.
-- Participates in sprint reviews and observes contractor team engagement.
-- Maintains sprint-level performance observations for QASP input.
-- Raises potential issues early and works with CO/PO on resolutions.
-- Supports retrospective and evaluation activities.
+- Monitors contractor performance and alignment with contract terms
+- Participates in sprint reviews and observes contractor team engagement
+- Maintains sprint-level performance observations for QASP input
+- Raises potential issues early and works with CO/PO on resolutions
+- Supports retrospective and evaluation activities
 
 **Contracting Officer (CO) – Acquisition strategy & governance**
 
-- Oversees contractual compliance and administration.
-- Works with the COR and PO to remove acquisition-related roadblocks.
-- Participates in procurement-focused retrospectives and touchpoints.
-- Provides decision-making on contract scope, modifications, or escalations.
-- Helps maintain alignment between procurement strategy and delivery success.
+- Oversees contractual compliance and administration
+- Works with the COR and PO to remove acquisition-related roadblocks
+- Participates in procurement-focused retrospectives and touchpoints
+- Provides decision-making on contract scope, modifications, or escalations
+- Helps maintain alignment between procurement strategy and delivery success
 
 
 
@@ -107,10 +107,10 @@ Contract Type: \[e.g., Time and Materials, FFP with Agile Ordering, BPA Call, et
 
 | Meeting                     | Participants         | Frequency                 | Purpose                                                                                 |
 |-----------------------------|-------------------|--------------------------|-----------------------------------------------------------------------------------------|
-| CO/COR/PO Baseline Check-ins | CO, COR, PO        | Bi-weekly (first 3 months) | Review sprint performance, team health, delivery alignment, and clarify roles as delivery ramps up |
-| Ongoing Performance Syncs    | CO, COR, PO        | Monthly (after Month 3)  | Monitor trends, address emerging risks, review progress toward goals                     |
-| Procurement Retrospective    | CO, COR, PO        | Quarterly                | Reflect on procurement process effectiveness, review delivery performance, and propose improvements |
-| Sprint Reviews               | COR, PO, Vendor Team | Every sprint             | Review delivered work, observe collaboration, track team progress                        |
+| CO/COR/PO baseline check-ins | CO, COR, PO        | Bi-weekly (first 3 months) | Review sprint performance, team health, delivery alignment, and clarify roles as delivery ramps up |
+| Ongoing performance syncs    | CO, COR, PO        | Monthly (after Month 3)  | Monitor trends, address emerging risks, review progress toward goals                     |
+| Procurement retrospective    | CO, COR, PO        | Quarterly                | Reflect on procurement process effectiveness, review delivery performance, and propose improvements |
+| Sprint reviews               | COR, PO, Vendor Team | Every sprint             | Review delivered work, observe collaboration, track team progress                        |
 
 
 ### Performance monitoring and documentation
@@ -121,15 +121,15 @@ The COR and PO will jointly observe and document contractor performance at the e
 
 When issues arise (e.g., delays, misaligned delivery, non-performance), the team will:
 
-- Raise the concern during regular touchpoints or asynchronously via agreed communication channels.
-- Collaboratively identify the root cause and propose corrective actions.
-- Document the decision or next steps.
-- Escalate to agency leadership or vendor executives if needed.
+- Raise the concern during regular touchpoints or asynchronously via agreed communication channels
+- Collaboratively identify the root cause and propose corrective actions
+- Document the decision or next steps
+- Escalate to agency leadership or vendor executives if needed
 
 ### Celebrating success
 
 To promote a healthy team culture and recognize progress:
 
-- The CO, COR, and PO will acknowledge milestone achievements during touchpoints.
-- Sprint demos and reviews will include feedback and “what went well” moments.
-- Team wins (e.g., user value delivered, problems solved) will be documented for internal knowledge sharing and morale.
+- The CO, COR, and PO will acknowledge milestone achievements during touchpoints
+- Sprint demos and reviews will include feedback and “what went well” moments
+- Team wins (e.g., user value delivered, problems solved) will be documented for internal knowledge sharing and morale
