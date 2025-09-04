@@ -21,7 +21,7 @@
 
 **Slide 4: Common Practice vs Agile Need**
 
-| Aspect | Traditional KP model | Agile/Outcome-Based approach |
+| Aspect | Traditional KP Model | Agile/Outcome-Based Approach |
 | :---- | :---- | :---- |
 | Focus | Individuals | Teams |
 | Structure | Prescriptive | Flexible |
