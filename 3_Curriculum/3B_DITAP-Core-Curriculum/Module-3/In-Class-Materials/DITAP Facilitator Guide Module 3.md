@@ -32,7 +32,7 @@ By the end of this module, participants will be able to:
 * Explain the purpose and value of acquisition strategy planning in the federal procurement lifecycle  
 * Identify how acquisition strategies vary depending on inherited contracts versus new procurements  
 * Apply key pre-award activities—such as stakeholder engagement and market research—to inform strategic decisions  
-* Describe the lean canvas approach and its role as a living document in agile acquisition environments  
+* Describe the lean canvas approach and its role as a living document in Agile acquisition environments  
 * Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions
 
 ### Connection to overall DITAP program 
@@ -297,7 +297,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
    Your agency needs a new platform for tracking and managing stakeholder engagement across multiple programs. The current solution is outdated, with poor user experience and no mobile support. You want a cloud-based solution built iteratively using Agile methods, with a strong focus on usability, accessibility, and performance.
 
-   * Each group drafts a quick SOO for agile services using the [template](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) that includes:   
+   * Each group drafts a quick SOO for Agile services using the [template](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Statement%20of%20Objectives%20Template.md) that includes:   
      * **Background:** Why the project is needed  
      * **Scope:** High-level overview of the desired work  
      * **Objectives:** Desired outcomes (not tasks)  
