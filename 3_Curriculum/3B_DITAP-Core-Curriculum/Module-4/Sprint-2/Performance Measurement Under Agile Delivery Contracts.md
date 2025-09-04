@@ -1,8 +1,8 @@
 # Module 4 Sprint 2
 
-## Using value-based metrics and modern incentives in federal Agile procurement
+# Using value-based metrics and modern incentives in federal Agile procurement
 
-### Why modern metrics matter more than ever
+## Why modern metrics matter more than ever
 
 Federal agencies now deliver digital services at unprecedented scale and speed. Citizens expect government services to work as well as commercial apps they use daily. Traditional procurement metrics, focused on requirements compliance and schedule adherence, don't capture whether we're delivering value to users.
 
@@ -15,7 +15,7 @@ Modern metrics help you answer the questions that matter:
 
 You need metrics that work in today's environment, which includes remote teams, cloud-native development, continuous deployment, and user-centered design. This module demonstrates how to measure what matters and create incentives that drive tangible outcomes.
 
-### DevOps Research and Assessment (DORA) metrics 
+## DevOps Research and Assessment (DORA) metrics 
 
 The DevOps Research and Assessment framework remains the gold standard, but federal applications require additional context:
 
@@ -42,7 +42,7 @@ The DevOps Research and Assessment framework remains the gold standard, but fede
    * **Federal context:** Include incident response and communication requirements  
    * **Target:** Less than one hour for most issues
 
-### User-Centered metrics
+## User-Centered metrics
 
 These metrics focus on actual user experience and mission impact:
 
@@ -78,7 +78,7 @@ These help you assess contractor team health and collaboration:
 
 ---
 
-### Tools for modern federal procurement oversight
+## Tools for modern federal procurement oversight
 
 **Government-Approved DevOps Platforms**
 
@@ -124,7 +124,7 @@ Choose tools that meet federal security requirements:
 
 ---
 
-### Modern incentive structures for Agile contracts
+## Modern incentive structures for Agile contracts
 
 **Designing Effective Incentives for Agile Contracts**
 
@@ -189,7 +189,7 @@ Choose tools that meet federal security requirements:
 
 ---
 
-### Implementation guidance 
+## Implementation guidance 
 
 Designing incentives is a team effort. The program office, product manager, and COR bring delivery insight to define what matters and how to measure it. The CO helps translate that into contract language. Together, they create realistic incentives that support mission success.
 
@@ -225,7 +225,7 @@ When designing incentives:
 
 ---
 
-### Implementing modern metrics and incentives
+## Implementing modern metrics and incentives
 
 **Setting Up Your Metrics Program**
 
@@ -266,7 +266,7 @@ When designing incentives:
 
 ---
 
-### Discussion prompt (optional)
+## Discussion prompt (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 For this discussion assignment, consider a digital service acquisition that you have worked on or heard about and analyze how modern metrics and incentives could be applied:
@@ -305,7 +305,7 @@ Choose a digital service your agency currently uses or is developing. This servi
 
 ---
 
-### Additional resources
+## Additional resources
 
 **Official Guidance**
 
@@ -367,7 +367,7 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 ---
 
-### Understanding multi-vendor scenarios in the federal government
+## Understanding multi-vendor scenarios in the federal government
 
 **Common Multi-Vendor Arrangements:**
 
@@ -403,16 +403,16 @@ You’re building more than just contracts, you’re engineering a delivery ecos
 
 | Element | Practice | Impact |
 | ----- | ----- | ----- |
-| Governance Hub | Center of Excellence–style team with vendor \+ gov reps | Aligned goals, fast issue resolution |
+| Governance hub | Center of Excellence–style team with vendor \+ gov reps | Aligned goals, fast issue resolution |
 | Inter-vendor Collaboration | Self-organized working groups, shared tools & practices | Better integration, reduced duplication |
 | Retrospectives & QPRs | Joint learning moments, vendor-led feedback | Process improvement & delivery acceleration |
-| Joint Root Cause Analysis | Data-driven, transparent reviews | Less blame, more system improvement |
-| Procurement Velocity | Targeted TO lead times & pre-positioned templates | Faster delivery starts, less administrative drag |
-| Incentive Structures | Award terms, performance bonuses, QASP collaboration metrics | Reward quality and partnership behavior |
+| Joint root cause analysis | Data-driven, transparent reviews | Less blame, more system improvement |
+| Procurement velocity | Targeted TO lead times & pre-positioned templates | Faster delivery starts, less administrative drag |
+| Incentive structures | Award terms, performance bonuses, QASP collaboration metrics | Reward quality and partnership behavior |
 
 
 
-#### 1\. Ecosystem governance for scaled delivery
+### 1\. Ecosystem governance for scaled delivery
 
 **Federal Success Example: Centers of Excellence**
 
@@ -428,7 +428,7 @@ The General Services Administration's Centers of Excellence (CoE) program demons
 
 This approach has enabled GSA to deliver complex modernization projects more quickly and effectively than traditional single-vendor approaches.
 
-#### 2\. Vendor self-organization around shared challenges
+### 2\. Vendor self-organization around shared challenges
 
 One of the advantages of a mature, well-managed vendor ecosystem is that teams can begin to **self-organize** around shared engineering or delivery problems. Rather than waiting for direction from government staff, vendors can form cross-vendor working groups to collaborate on solving problems together.
 
@@ -444,7 +444,7 @@ Agencies should **create space for this collaboration**:
 * Assign liaisons or shared technical advisors who float between teams.  
 * Reward knowledge-sharing in QASP or performance evaluations.
 
-#### 3\. Establishing effective multi-vendor governance 
+### 3\. Establishing effective multi-vendor governance 
 
 **Create a Coordination Structure**
 
@@ -488,7 +488,7 @@ Agencies should **create space for this collaboration**:
 * **Purpose:** Strategic alignment, performance assessment, planning  
 * **Format:** Comprehensive review, vendor feedback, process improvements
 
-#### 4\. Collaborative problem resolution (not blame culture)
+### 4\. Collaborative problem resolution (not blame culture)
 
 Multi-vendor environments inevitably encounter breakdowns. A healthy system doesn’t eliminate failure, it learns from it faster.
 
@@ -509,7 +509,7 @@ Instead of finger-pointing:
 
 Add these outputs to shared governance documentation and review them regularly in CoE or program office meetings.
 
-#### 5\. Procurement agility and performance incentives
+### 5\. Procurement agility and performance incentives
 
 A critical measure of multi-vendor maturity is the ability to issue and award task orders quickly and fairly.
 
@@ -527,35 +527,35 @@ A critical measure of multi-vendor maturity is the ability to issue and award ta
 
 ---
 
-### Additional options to improve management
+## Additional options to improve management
 
 Here's a list of additional elements that would strengthen your multi-vendor management architecture:
 
-#### Operational structures
+### Operational structures
 
 * **Vendor Onboarding Playbook:** Standardize the process of bringing new vendors  into the ecosystem, including shared tools, security protocols, performance expectations, and definitions of success.
 * **Role Clarification Across Teams:** Clearly define how the COR, CO, PO, vendor team leads, and agency stakeholders interact to avoid duplicated or dropped responsibilities.
 * **Team Topologies:** Map how vendor teams are structured, e.g., platform team vs. feature teams—and clarify interdependencies.
 
-#### Governance and oversight
+### Governance and oversight
 
 * **Joint Governance Board or Review Panel:** Include rotating vendor representation to increase transparency and co-ownership of improvement ideas.
 * **Integrated Risk Registers:** Maintain a centralized view of delivery risks that’s updated collaboratively across vendors and agency leadership.
 * **Standardized Task Order Evaluation Criteria:** Reduce variance and the perception of favoritism by using consistent scoring templates and rubrics across awards.
 
-#### Delivery alignment
+### Delivery alignment
 
 * **Shared Product Vision:** All vendors should understand the end goals of the platform or service. Consider using a roadmap wall or “North Star” artifact reviewed quarterly.
 * **Backlog Coordination**: Create a shared high-level backlog and organize features into modular chunks that can be distributed and sequenced across vendors.
 * **Dependency Mapping:** Maintain a live dependency matrix across vendors to avoid blockers, duplications, or sequencing issues.
 
-#### Performance management
+### Performance management
 
 * **QASP Metrics for Team Collaboration:** Include metrics for cooperation, responsiveness, joint planning, and support of other vendors.
 * **Vendor Self-Assessments:** Let vendors assess their own performance quarterly before retrospectives to promote self-awareness and improvement.
 * **Performance Leaderboard or Radar Chart:** Visualize delivery metrics (velocity, quality, collaboration, responsiveness) across vendors for internal government visibility.
 
-#### Culture & incentives
+### Culture & incentives
 
 * **Psychological Safety Practices:** Encourage agencies to model transparency and ownership when issues arise (no scapegoating).
 * **Win-Together, Learn-Together Sessions:** Celebrate successful joint releases or key deliveries, with time built in for failure analysis without blame.
@@ -563,7 +563,7 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 ---
 
-### Contract administration for multi-vendor success
+## Contract administration for multi-vendor success
 
 **Task Order Management**
 
@@ -613,7 +613,7 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 ---
 
-### Managing common multi-vendor challenges
+## Managing common multi-vendor challenges
 
 **Technical Coordination Issues**
 
@@ -677,7 +677,7 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 ---
 
-### Your implementation roadmap
+## Your implementation roadmap
 
 **Setting Up Multi-Vendor Coordination**
 
