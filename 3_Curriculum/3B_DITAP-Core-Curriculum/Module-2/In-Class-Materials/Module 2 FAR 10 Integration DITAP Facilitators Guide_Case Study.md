@@ -1,10 +1,10 @@
 # FAR 10 Integration Assignments  
 
-**Enhanced Follow-Up Assignments for New FAR Part 10**  
+**Enhanced follow-up assignments for New FAR Part 10**  
 
-**Immediate Post-Session Assignment: New FAR Strategic Market Research Application**
+**Immediate post-session assignment: New FAR strategic market research application**
 
-## Assignment Overview
+## Assignment overview
 - Apply the new FAR Part 10 strategic framework to both Casey's continuing CRM acquisition and your own federal acquisition context. This assignment bridges today's paradigm shift understanding with practical application skills.
 - **Time Commitment:** 
     - 60-75 minutes
@@ -13,7 +13,7 @@
 - **Format:** 
     - Individual analysis with peer discussion component
 
-### Part A: Casey's Strategic Research Plan Evolution (35 minutes)
+### Part A: Casey's strategic research plan evolution (35 minutes)
 
 Context Setting for New FAR Application
 - Based on today's session on the new FAR Part 10 framework, refine Casey's market research approach to leverage the strategic flexibility now available while addressing stakeholder integration challenges.
@@ -66,7 +66,7 @@ Context Setting for New FAR Application
 
 **Key Documentation Question**: Complete this statement: "If this acquisition were protested, Casey's research documentation would demonstrate..."
 
-### Part B: Personal Application of New FAR Framework (25 minutes)
+### Part B: Personal application of new FAR framework (25 minutes)
 
 Context Bridge to Your Work
 - Apply the new FAR Part 10 strategic framework to your own federal acquisition experience or current work context.
@@ -74,7 +74,7 @@ Context Bridge to Your Work
 **1\. Current Context Analysis (10 minutes)**
 
 **Your Acquisition Context:**
-* **Current or Recent Acquisition**: Briefly describe an acquisition you're involved with or have recent experience with  
+* **Current or Recent Acquisition**: Briefly describe an acquisition you're involved with or have recent experience with.
 * **Market Research Conducted**: What market research approach was used (if any)?  
 * **Old vs. New FAR Impact**: How would the new FAR Part 10 flexibility change this approach?
 
@@ -109,7 +109,7 @@ Context Bridge to Your Work
 * **Application Opportunity**: When will you next have a chance to apply this strategic framework?  
 * **Mentor/Resource Need**: What additional support would help you master the new approach?
 
-### Part C: Session Bridge Preparation (10-15 minutes)
+### Part C: Session bridge preparation (10-15 minutes)
 
 Milestone 2 Connection: Technical Integration Analysis
 - **Pre-Reading Assignment**: Read Cynuria Case Study Milestone 2 \- Integration Solutions
@@ -126,10 +126,10 @@ Milestone 2 Connection: Technical Integration Analysis
 **Forum Topic**: "Strategic Market Research Insights for Technical Decisions"
 
 **Post Requirements** (200-250 words):
-* **Strategic Research Value**: Based on your refined market research plan, identify one specific insight that would most influence Casey's technical integration decision-making  
-* **New FAR Advantage**: Explain how the 2025 FAR Part 10 changes specifically enable this insight  
-* **Stakeholder Impact**: Describe how this research insight addresses concerns from Alex, Riley, or Casey  
-* **Technical Connection**: Connect your market research insight to specific technical evaluation considerations from Milestone 2
+* **Strategic Research Value**: Based on your refined market research plan, identify one specific insight that would most influence Casey's technical integration decision-making.  
+* **New FAR Advantage**: Explain how the 2025 FAR Part 10 changes specifically enable this insight.  
+* **Stakeholder Impact**: Describe how this research insight addresses concerns from Alex, Riley, or Casey.  
+* **Technical Connection**: Connect your market research insight to specific technical evaluation considerations from Milestone 2.
 
 **Peer Response Requirements**: Respond to at least two peers' posts with:
 * Additional insights about how their market research approach could inform technical decisions  
@@ -140,24 +140,24 @@ Long-Term Portfolio Project Integration
 
 **Stakeholder Analysis Project Enhancement**
 
-## New FAR Part 10 Component Requirements
+## New FAR part 10 component requirements
 
 Your portfolio Stakeholder Analysis Project must now demonstrate understanding of the 2025 FAR paradigm shift and its implications for stakeholder management.
 
 **New FAR Framework Integration:**
-* **Paradigm Shift Analysis**: Compare old prescriptive vs. new strategic market research approaches for your selected acquisition  
-* **Cross-FAR Integration**: Demonstrate understanding of how market research obligations span Parts 7, 10, and 19  
-* **Strategic Method Selection**: Justify market research methods based on strategic information needs rather than compliance requirements
+* **Paradigm Shift Analysis**: Compare old prescriptive vs. new strategic market research approaches for your selected acquisition.
+* **Cross-FAR Integration**: Demonstrate understanding of how market research obligations span Parts 7, 10, and 19.  
+* **Strategic Method Selection**: Justify market research methods based on strategic information needs rather than compliance requirements.
 
 **Enhanced Stakeholder Integration:**
-* **Strategic Information Needs**: Connect stakeholder concerns to specific research questions and methods  
-* **Industry Engagement Strategy**: Design "responsible and constructive" industry engagement that serves stakeholder information needs  
-* **Risk Management**: Address risks created by new flexibility while managing stakeholder concerns
+* **Strategic Information Needs**: Connect stakeholder concerns to specific research questions and methods.  
+* **Industry Engagement Strategy**: Design "responsible and constructive" industry engagement that serves stakeholder information needs.  
+* **Risk Management**: Address risks created by new flexibility while managing stakeholder concerns.
 
 **Professional Development Focus:**
-* **New FAR Competency**: Assess your current comfort level with strategic vs. compliance-based market research  
-* **Development Planning**: Create plan for building expertise in new FAR framework application  
-* **Career Integration**: Connect new strategic market research competency to your federal acquisition career advancement
+* **New FAR Competency**: Assess your current comfort level with strategic vs. compliance-based market research.  
+* **Development Planning**: Create plan for building expertise in new FAR framework application.  
+* **Career Integration**: Connect new strategic market research competency to your federal acquisition career advancement.
 
 **Portfolio Milestone Schedule (Updated)**
 * **Week 3**: Stakeholder Analysis with New FAR Strategic Market Research Component  
@@ -171,9 +171,9 @@ Case Study Analysis Project Integration
 Your comprehensive Casey case study analysis will demonstrate mastery of the new FAR Part 10 strategic framework through:
 
 **Milestone Integration with New FAR Context:**
-* **Strategic Research Design**: How Casey's flexible market research approach enables better technical integration evaluation (Milestone 2\)  
-* **Commercial Solutions Analysis**: How new FAR commercial emphasis affects security and compliance analysis (Milestone 3\)  
-* **Strategic Documentation**: How flexible research approach supports comprehensive acquisition strategy decisions
+* **Strategic Research Design**: How Casey's flexible market research approach enables better technical integration evaluation. (Milestone 2\)  
+* **Commercial Solutions Analysis**: How new FAR commercial emphasis affects security and compliance analysis. (Milestone 3\)  
+* **Strategic Documentation**: How flexible research approach supports comprehensive acquisition strategy decisions.
 
 **New FAR Competency Demonstration:**
 * **Paradigm Shift Understanding**: Clear articulation of how 2025 changes affect federal acquisition approach  
@@ -213,7 +213,7 @@ Your comprehensive Casey case study analysis will demonstrate mastery of the new
 * **Risk Awareness**: What risks are identified and how are they addressed?  
 * **Innovation Recognition**: What creative approaches demonstrate effective use of new flexibility?
 
-### Facilitator Integration for Next Session
+### Facilitator integration for next session
 
 Based on assignment review, Session 2 will include:
 * **New FAR Application Patterns**: Common successful strategies and challenges from student work  
