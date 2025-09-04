@@ -1,8 +1,9 @@
 # DITAP In-Class Facilitator Guide
 
+# Module 4 \- Managing Agile digital service contracts: oversight, performance, and delivery
+
 *Updated July 2025*
 
-## Module 4 \- Managing Agile digital service contracts: oversight, performance, and delivery
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -14,27 +15,27 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Overview and objectives
 
-   - Module Summary  
-   - Learning Objectives  
-   - Connection to Overall DITAP Program
+   - Module summary  
+   - Learning objectives  
+   - Connection to overall DITAP program
 
 ### Materials and preparation
 
-   - Required Materials  
-   - Preparation Checklist
+   - Required materials  
+   - Preparation checklist
 
 ### Module agenda
 
 ### Module activities
-1. Activity: Who Does What? Agile Role Round Robin 
-2. Activity: Build Your Charter Together
+1. Activity: Who does what? Agile role round robin 
+2. Activity: Build your charter together
 3. Discussion: What behavior are you trying to incentivize \- and does your current contract structure support it? 
-4. Activity: Cloud Breach Tabletop Exercise
+4. Activity: Cloud breach tabletop exercise
 
 ### Additional resources
 
-   - Links to Relevant Documents  
-   - Contact Information
+   - Links to relevant documents  
+   - Contact information
 
 
 ## Overview & objectives
@@ -43,7 +44,7 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Module summary
 
-Module 4 consists of exercises and insights for managing vendor partnerships and supporting delivery through contract administration practices grounded in agile and lean methodologies. Learners will track project health using real-time, measurable, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. 
+Module 4 consists of exercises and insights for managing vendor partnerships and supporting delivery through contract administration practices grounded in Agile and lean methodologies. Learners will track project health using real-time, measurable, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. 
 
 Participants will get information about how to launch a digital services contract starting with the contract kickoff, moving on to ongoing contract management and problem resolution. 
 
@@ -55,12 +56,12 @@ The focus is on transparency, collaboration, and outcomes throughout the contrac
 
 By the end of this module, participants will be able to:
 
-* Explain the role of product ownership in agile delivery and how it supports post-award success  
-* Describe how product owners, CORs, and vendors collaborate using agile tools and team rituals  
-* Identify agile performance metrics that go beyond compliance to measure true delivery value  
-* Compare traditional and agile performance measurement methods, including QASP alternatives and real-time metrics  
-* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place  
-  Recognize early signs of delivery issues and explain approaches to address performance concerns in agile environments
+* Explain the role of product ownership in Agile delivery and how it supports post-award success  
+* Describe how product owners, CORs, and vendors collaborate using Agile tools and team rituals  
+* Identify Agile performance metrics that go beyond compliance to measure true delivery value  
+* Compare traditional and Agile performance measurement methods, including QASP alternatives and real-time metrics  
+* Outline strategies to launch a new digital services contract with the right people, tools, and processes in place
+* Recognize early signs of delivery issues and explain approaches to address performance concerns in Agile environments
 
 ### Connection to overall DITAP program
 
@@ -70,7 +71,7 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
 ## Materials and preparation
 
-  ### Required materials:
+### Required materials:
 
 - [ ] Slide deck for Module 4  
 - [ ] [Facilitator Guide: Who does what? Agile role round robin](https://github.com/usds/ditap-curriculum-update/blob/1b47b0cc6c028e2259c15046747f7575ad4173c0/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Agile%20Role%20Round%20Robin%20Facilitator%20Guide.md)
@@ -91,10 +92,10 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
 | # | Activity | Sprint # | Duration in minutes |
 | :-: | :--- | :---: | :---: |
-| 1 | Who Does What? Agile Role Round Robin | 1 | 40–60 |
-| 2 | Build Your Charter Together | 1 | 35–45 |
-| 3 | What Behavior Are You Trying to Incentivize (Discussion) | 2 | 15 |
-| 4 | Cloud Breach Tabletop Exercise | 3 | 60–90 |
+| 1 | Who does what? Agile role round robin | 1 | 40–60 |
+| 2 | Build your charter together | 1 | 35–45 |
+| 3 | What behavior are you trying to incentivize (discussion) | 2 | 15 |
+| 4 | Cloud breach tabletop exercise | 3 | 60–90 |
 
 
    
@@ -109,17 +110,17 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    #### Activity instructions:
 
-   * **Purpose**: Explores real-world decision-making that occurs across agile roles during delivery \- especially between federal and vendor team members. Participants practice thinking critically about who owns what in agile delivery and where the role boundaries blur.   
-   * **Expected Outcomes**: Learners will be able to delineate the agile roles and responsibilities across the team.  
+   * **Purpose**: Explores real-world decision-making that occurs across Agile roles during delivery \- especially between federal and vendor team members. Participants practice thinking critically about who owns what in Agile delivery and where the role boundaries blur.   
+   * **Expected Outcomes**: Learners will be able to delineate the Agile roles and responsibilities across the team.  
    * **Materials Needed** (specific to activity):   
      * [Participant Worksheet](https://github.com/usds/ditap-curriculum-update/blob/adb0ba4e119e3a6a843f118aff56a4a04e3c5b6e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Agile%20Role%20Round%20Robin%20Participant%20Guide.md)  
      * [Facilitator Guide](https://github.com/usds/ditap-curriculum-update/blob/adb0ba4e119e3a6a843f118aff56a4a04e3c5b6e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Agile%20Role%20Round%20Robin%20Facilitator%20Guide.md)  
      * Divide participants into breakout groups of 4-6 people each   
-     * 2-3 agile delivery prompts per group
+     * 2-3 Agile delivery prompts per group
      * Set up rooms (in-person or virtual)  
      * Notetaker / whiteboard and markers  
    * **Instructions**:   
-     * Introduce the activity:  we are going to break out into groups and spend the next 45-60 min in a role rotation activity. The idea is to understand who owns what in an agile framework.  
+     * Introduce the activity: we are going to break out into groups and spend the next 45-60 min in a role rotation activity. The idea is to understand who owns what in an Agile framework.  
      * Send each group to their respective meeting spaces and assign them their 2-3 prompts.  
      * Instruct them to take and rotate roles for each exercise, and ask “What should this role do in this situation?”  
      * Don’t think about getting it “right” \- experience the tensions (this is normal) and overlap and think critically about where roles overlap.   
@@ -148,10 +149,10 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    * **Purpose**: To align on what success looks like, who owns what, and how you’ll work together throughout delivery.   
    * **Expected Outcomes**: The group collaborates to build a simple project charter.   
-   * **Materials Needed** (specific to activity):  
+   * **Materials Needed** (specific to activity): 
      * Breakout spaces  
      * [Facilitation Guide: “Build Your Charter Together”](https://github.com/usds/ditap-curriculum-update/blob/adb0ba4e119e3a6a843f118aff56a4a04e3c5b6e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/In-Class-Materials/Activity_Digital_Service_Project_Charter.md) (includes charter template)  
-   * **Instructions**:   
+   * **Instructions**: 
      * Do a simulation of building a shared charter at the start of a project  
      * Form groups of 3-4 and take on the CO, COR, and PO roles  
      * Work together to review the scenario and fill out four sections of a simple charter:  
@@ -177,12 +178,12 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    #### Activity instructions:
 
-   * **Purpose**: to consider what contract structure and incentives encourage the desired behaviors and outcomes?  
+   * **Purpose**: to consider what contract structure and incentives encourage the desired behaviors and outcomes  
    * **Expected Outcomes**: Learners will be able to structure their contracts with clear intention to encourage and incentivize the vendor to deliver on contract priorities.  
-   * **Materials Needed** (specific to activity):   
+   * **Materials Needed** (specific to activity): 
      * None  
-   * **Instructions**:   
-     “What we reward is  often what we get. If we design a contract structure that rewards speed above all else, we might get fast delivery but not necessarily quality or usability. If we reward perfect documentation, we might get thorough paperwork but maybe less responsiveness to user needs.”  
+   * **Instructions**:  
+     “What we reward is often what we get. If we design a contract structure that rewards speed above all else, we might get fast delivery but not necessarily quality or usability. If we reward perfect documentation, we might get thorough paperwork but maybe less responsiveness to user needs.”  
      The question we’re exploring today is: What behavior do you actually want from your vendors and partners—and does your contract make that behavior likely, or does it unintentionally discourage it?  
      * **Prompts:**   
        * “What’s an example from your own work where the incentives matched the desired behavior well?”  
@@ -198,8 +199,8 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    #### Activity instructions:
 
-   * **Purpose**: Test your team’s response to a security breach scenario, using the roles and responsibilities you hold in federal agile delivery. Focus on identifying process gaps and improving response clarity when responding to a security breach.  
-   * **Expected Outcomes**: By the end of this exercise, participants should be able to:  
+   * **Purpose**: Test your team’s response to a security breach scenario, using the roles and responsibilities you hold in federal Agile delivery. Focus on identifying process gaps and improving response clarity when responding to a security breach.  
+   * **Expected Outcomes**: By the end of this exercise, participants should be able to: 
      * Apply contract breach clauses in a time-sensitive, real-world context  
      * Clarify roles and escalation responsibilities across government and vendor teams  
      * Identify weaknesses in documentation, workflows, or communication paths  
@@ -271,7 +272,6 @@ This session builds on prior learning from Module 3 which focuses on acquisition
 
    * Link to relevant documents as needed.
 
-     
 
    ### Contact information:
 
