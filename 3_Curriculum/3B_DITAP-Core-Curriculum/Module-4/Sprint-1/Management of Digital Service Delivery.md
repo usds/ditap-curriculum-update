@@ -1,30 +1,30 @@
 # Module 4 Sprint 1
 
-## Managing digital service delivery
+# Managing digital service delivery
 
 We awarded the contract. Now what?
 
-In many traditional acquisitions, the role of the Contracting Officer (CO) winds down significantly after award. But when it comes to digital service procurements, especially those that use agile delivery methods, award is just the beginning. Your engagement in the post-award phase can significantly impact the success of product development.
+In many traditional acquisitions, the role of the Contracting Officer (CO) winds down significantly after award. But when it comes to digital service procurements, especially those that use Agile delivery methods, award is just the beginning. Your engagement in the post-award phase can significantly impact the success of product development.
 
-In this module, we’ll explore how Contracting Officers can play an active, valuable role during the delivery phase of a digital service contract. You’ll learn how to work effectively with the Contracting Officer’s Representative (COR) and the Product Owner (PO), understand what product management means in this context, and recognize how agile delivery teams operate once the work begins.
+In this module, we’ll explore how Contracting Officers can play an active, valuable role during the delivery phase of a digital service contract. You’ll learn how to work effectively with the Contracting Officer’s Representative (COR) and the Product Owner (PO), understand what product management means in this context, and recognize how Agile delivery teams operate once the work begins.
 
 Your continued involvement matters. Agile product delivery thrives when all parts of the acquisition team remain connected throughout the contract. As the CO, you’re uniquely positioned to be the team’s “barrier remover,” helping identify and resolve issues early, manage contractual risks, and make sure the contract flexes with the needs of the project—all while staying compliant and goal-oriented.
 
 This sprint will help you recognize:
 
 * What product ownership looks like in federal digital service delivery
-* How CORs and POs interact and support agile delivery
+* How CORs and POs interact and support Agile delivery
 * Why communication rhythms, shared understanding, and rituals matter
 * How to help your team celebrate progress and spot success
 
 
-### Digital service delivery in today's federal environment
+## Digital service delivery in today's federal environment
 
 Federal agencies are increasingly adopting digital-first approaches to improve public services. This shift is supported by evolving agency priorities and cross-government efforts to modernize public-facing services. This transformation emphasizes modern service delivery practices that prioritize user needs, support rapid iteration, and focus on measurable user outcomes rather than rigid technical requirements.
 
 You operate in an environment where there is growing demand for faster delivery, better user experiences, and increased transparency. However, traditional procurement methods often create barriers to achieving these outcomes. Agile digital service contracts help remove these obstacles by emphasizing collaboration, adaptability, and continuous improvement throughout the development process.
 
-### Building products, not just deliverables
+## Building products, not just deliverables
 
 **Understanding Product-Centered Procurement**
 
@@ -36,7 +36,7 @@ Product teams utilize research, testing, and data to inform their decisions. The
 
 Your role supports this by ensuring contracts provide flexibility for discovery and iteration while maintaining appropriate oversight and accountability.
 
-### Laying the groundwork for success
+## Laying the groundwork for success
 
 The first few times you manage a digital service delivery, it may feel unfamiliar. That’s okay. It’s not about getting everything perfect upfront, it’s about building shared understanding and accountability.
 
@@ -60,17 +60,17 @@ See the attached Sample Project Charter for a template to kick off this process:
 [Project Charter](https://github.com/usds/ditap-curriculum-update/blob/d0e92385bb4b3d14be7b45ffe14cafc73c5c125a/3_Curriculum/3B_DITAP-Core-Curriculum/Module-4/Module-4-Media/Digital_Service_Project_Charter.md)
 
 
-### Agile framework in federal procurement 
+## Agile framework in federal procurement 
 
 **How Agile Events Align with Oversight Roles and Responsibilities**
 
-Federal agile delivery often follows a consistent two-week sprint cadence. While teams may vary in complexity, size, or contract structure, this foundational rhythm offers clarity for performance oversight, vendor accountability, and stakeholder communication.
+Federal Agile delivery often follows a consistent two-week sprint cadence. While teams may vary in complexity, size, or contract structure, this foundational rhythm offers clarity for performance oversight, vendor accountability, and stakeholder communication.
 
-This guide outlines how standard agile ceremonies align with the responsibilities of the **Product Owner (PO)**, **Contracting Officer's Representative (COR)**, and **Contracting Officer (CO)**
+This guide outlines how standard Agile ceremonies align with the responsibilities of the **Product Owner (PO)**, **Contracting Officer's Representative (COR)**, and **Contracting Officer (CO)**
 
-#### Agile ceremony overview \+ procurement touchpoints
+### Agile ceremony overview \+ procurement touchpoints
 
-##### Daily standup (Daily, 15 minutes)
+#### Daily standup (Daily, 15 minutes)
 
 * **What Happens**: Vendor team shares status updates, blockers, and next steps.  
 * **PO Role**: Ensures focus remains on outcomes and product priorities.  
@@ -79,7 +79,7 @@ This guide outlines how standard agile ceremonies align with the responsibilitie
   * COR notes major blockers or risks that may impact delivery.  
   * Can inform discussions with CO if risks persist or escalate.
 
-##### Sprint planning (start of every sprint – e.g., Week 1, Week 3\)
+#### Sprint planning (start of every sprint – e.g., Week 1, Week 3\)
 
 * **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.  
 * **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.  
@@ -88,7 +88,7 @@ This guide outlines how standard agile ceremonies align with the responsibilitie
   * COR ensures planned work aligns with contract objectives and performance standards.  
   * Documents expectations for QASP tracking and vendor evaluation.
 
-##### Sprint review (end of each sprint – e.g., Week 2, Week 4\)
+#### Sprint review (end of each sprint – e.g., Week 2, Week 4\)
 
 * **What Happens**: Vendor demos completed work to PO, COR, and stakeholders.  
 * **PO Role**: Accepts or rejects deliverables based on the agreed Definition of Done (DoD).  
@@ -97,7 +97,7 @@ This guide outlines how standard agile ceremonies align with the responsibilitie
   * COR documents observations in the performance file.  
   * Key input to QASP, CPARS, and other performance assessments.
 
-##### Sprint retrospective (end of each sprint)
+#### Sprint retrospective (end of each sprint)
 
 * **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.  
 * **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.  
@@ -105,7 +105,7 @@ This guide outlines how standard agile ceremonies align with the responsibilitie
 * **Procurement Alignment**:  
   * Lessons learned may prompt updates to backlog, team processes, or performance plans.
 
-##### Monthly business review (end of month)
+#### Monthly business review (end of month)
 
 * **What Happens**: PO, COR, and CO review sprint outcomes, address contract questions, and plan forward.  
 * **Who Participates**: CO, COR, PO, vendor lead  
@@ -116,7 +116,7 @@ This guide outlines how standard agile ceremonies align with the responsibilitie
 
 ### Why this matters for procurement
 
-This agile rhythm allows the government to:
+This Agile rhythm allows the government to:
 
 * Tie the vendor’s work directly to observable, time-bound outcomes.  
 * Provide continuous oversight without micromanagement.  
@@ -254,13 +254,13 @@ From culture to automated security testing measures, these readings provide ongo
 
 This collection of readings has been specifically curated to enhance your knowledge and understanding of how the industry manages and delivers Agile projects.
 
-* [Agile Government](https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends/2024/agile-government-is-imperative-for-public-sector.html) – This report from Deloitte Insights provides a comprehensive analysis of how government agencies worldwide are applying agile approaches across procurement, regulation, policymaking, and workforce management with recent federal case studies.
+* [Agile Government](https://www2.deloitte.com/us/en/insights/industry/public-sector/government-trends/2024/agile-government-is-imperative-for-public-sector.html) – This report from Deloitte Insights provides a comprehensive analysis of how government agencies worldwide are applying Agile approaches across procurement, regulation, policymaking, and workforce management with recent federal case studies.
 
-* [The 5 A's of Agile Government Performance and Tools for Adoption](https://napawash.org/articles-from-our-partners/the-5-as-of-agile-government-performance-and-tools-for-adoption)– A summary and introduction to a practical framework for measuring and improving government performance using agile principles with specific federal implementation guidance.
+* [The 5 A's of Agile Government Performance and Tools for Adoption](https://napawash.org/articles-from-our-partners/the-5-as-of-agile-government-performance-and-tools-for-adoption)– A summary and introduction to a practical framework for measuring and improving government performance using Agile principles with specific federal implementation guidance.
 
-* [Adopting Agile in Government: A Comparative Case Study](https://www.tandfonline.com/doi/full/10.1080/14719037.2024.2354776) (optional)– An academic analysis of successful and failed agile implementations across government agencies, with focus on implementation challenges and success factors.
+* [Adopting Agile in Government: A Comparative Case Study](https://www.tandfonline.com/doi/full/10.1080/14719037.2024.2354776) (optional)– An academic analysis of successful and failed Agile implementations across government agencies, with focus on implementation challenges and success factors.
 
-* [GAO Agile Assessment Guide](https://www.gao.gov/products/gao-20-590g) (optional) \- Latest government auditing guidance from GAO on evaluating agile implementations, with metrics for program health and success indicators.
+* [GAO Agile Assessment Guide](https://www.gao.gov/products/gao-20-590g) (optional) \- Latest government auditing guidance from GAO on evaluating Agile implementations, with metrics for program health and success indicators.
 
 * [DevSecOps: Challenges and Solutions](https://www.actiac.org/documents/devsecops-challenges-and-solutions) (optional) \- As organizations go through this transformational journey towards DevSecOps, it is likely to encounter challenges that can be organized in three high level categories—Cultural, Leadership and Technical. ACT-IAC developed this whitepaper to document those challenges as well as offer possible solutions that have had some measure of success within federal organizations.
 
@@ -271,10 +271,10 @@ This collection of readings has been specifically curated to enhance your knowle
 
 For this activity, read at least 2 of the articles listed above and use the discussion board to answer the following questions:
 
-1. How can government agencies balance agile flexibility with compliance requirements?
+1. How can government agencies balance Agile flexibility with compliance requirements?
 2. What are the most meaningful leading indicators for government IT project success?
-3. How can contracting officers create incentive structures that promote healthy agile behaviors in government contractors?
-4. When is it appropriate to pivot or terminate an agile initiative in government?
+3. How can contracting officers create incentive structures that promote healthy Agile behaviors in government contractors?
+4. When is it appropriate to pivot or terminate an Agile initiative in government?
 5. How do we measure public value in government digital services beyond traditional ROI?
 
 **Share Your Resources:** Use the course **discussion board** to share resources related to industry best practices. Did any of the articles mentioned above lead you to a new resource that could support your research into delivering high-quality digital services? If so, post a brief description and the link to the discussion board. You’re also encouraged to share any helpful resources you’ve discovered on your own during the course. Reviewing each other’s contributions can help build a stronger, shared knowledge base across the class.
