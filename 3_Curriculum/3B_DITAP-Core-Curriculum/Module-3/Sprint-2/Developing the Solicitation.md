@@ -1,6 +1,6 @@
 # Module 3 Sprint 2
 
-## Strategic Planning and Execution in Digital Acquisitions
+# Strategic Planning and Execution in Digital Acquisitions
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
@@ -8,24 +8,24 @@ This sprint prepares learners to navigate and lead digital acquisitions by focus
 
 By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
 
-### Learning Objectives
+## Learning objectives
 
 By the end of this sprint, participants will be able to:
 
-1. **Analyze tradeoffs and mission priorities** using structured case study methods to inform acquisition strategy decisions.
+1. **Analyze tradeoffs and mission priorities** using structured case study methods to inform acquisition strategy decisions
 
-2. **Develop a Statement of Objectives (SOO)** that articulates clear, outcome-based needs aligned with user and agency goals.
+2. **Develop a Statement of Objectives (SOO)** that articulates clear, outcome-based needs aligned with user and agency goals
 
-3. **Differentiate between key personnel requirements and outcome-based contracting**, and apply Agile-compatible strategies to team evaluation.
+3. **Differentiate between key personnel requirements and outcome-based contracting**, and apply -compatible strategies to team evaluation
 
-4. **Evaluate the strategic role of AI** in acquisition planning, risk mitigation, and digital services maturity.
+4. **Evaluate the strategic role of AI** in acquisition planning, risk mitigation, and digital services maturity
 
-5. **Plan and conduct effective vendor negotiations** that clarify assumptions, resolve misunderstandings, and support best-value outcomes in digital procurements.
+5. **Plan and conduct effective vendor negotiations** that clarify assumptions, resolve misunderstandings, and support best-value outcomes in digital procurements
 
 ---
-## Understanding FAR 37.6: How Does Agile Methodology Fit Into Federal Acquisitions?
+## Understanding FAR 37.6: How does methodology fit into federal acquisitions?
 
-While **FAR 37.6** does not specifically mention Agile methodologies, it aligns with the principles and practices that underpin Agile development approaches. Here’s how FAR 37.6 can be linked to Agile software development:
+While **FAR 37.6** does not specifically mention methodologies, it aligns with the principles and practices that underpin development approaches. Here’s how FAR 37.6 can be linked to software development:
 
 1\. **Outcome-Focused Approach:** FAR 37.6 emphasizes the importance of focusing on outcomes rather than prescribing specific methods or processes. Similarly, Agile software development emphasizes delivering value and achieving desired outcomes through iterative development and frequent feedback loops.
 
@@ -40,13 +40,13 @@ By leveraging the flexibility, collaboration, iterative delivery, and outcome-fo
 It’s important to note that compliance with FAR 37.6 and the specific procurement regulations of government agencies is necessary when implementing Agile software development within a government context. Consulting with legal and procurement experts familiar with government regulations is recommended to ensure adherence to all applicable guidelines.
 
 ---
-## Artificial Intelligence (AI) in Procurement
+## Artificial Intelligence (AI) in procurement
 
 The use of AI in both the private and public sectors is a game-changer. AI can help teams rapidly analyze vast amounts of data, enabling them to gain valuable insights that can save significant time and resources. Businesses use AI to optimize enterprise resource systems, automate routine tasks, forecast consumer demand and behavior, and even innovate new products and services. 
 
 Likewise, government agencies utilize AI to enhance cybersecurity, expedite data analysis, and even aid commanders in accelerating operational execution. While various uses of AI in acquisition are still being explored, there is little debate on the benefits. 
 
-### What Does “AI in Procurement” Really Mean?
+### What does “AI in procurement” really mean?
 
 AI in procurement goes beyond simply buying AI tools; it's about fundamentally transforming how we manage contracts, analyze data, make decisions, and create value. In government acquisition, this includes:
 
@@ -56,18 +56,18 @@ AI in procurement goes beyond simply buying AI tools; it's about fundamentally t
 
 * **Powering Procurement with AI**: Transforming procurement from a support function into a strategic, data-driven decision engine.
 
-### How AI Supports Acquisition Strategy
+### How AI supports acquisition strategy
 
 AI can enhance nearly every phase of acquisition strategy from planning and market research to contract writing and risk management. Here’s how:
 
 | Function | AI's Strategic Contribution | AI Type |
 | ----- | ----- | ----- |
-| Market Research | Identifies trends, vendors, and technologies | Predictive |
-| Lifecycle Costing | Forecasts sustainment costs and obsolescence | Predictive |
-| Contract Drafting | Drafts RFPs, PWSs, and justifications | Generative |
-| Risk Identification | Flags supplier risks, anomalies, and disruption scenarios | Predictive |
-| Demand Forecasting | Anticipates needs based on usage, mission, and external conditions | Predictive |
-| Performance Management | Predicts vendor delays and supports corrective planning | Predictive |
+| Market research | Identifies trends, vendors, and technologies | Predictive |
+| Lifecycle costing | Forecasts sustainment costs and obsolescence | Predictive |
+| Contract drafting | Drafts RFPs, PWSs, and justifications | Generative |
+| Risk identification | Flags supplier risks, anomalies, and disruption scenarios | Predictive |
+| Demand forecasting | Anticipates needs based on usage, mission, and external conditions | Predictive |
+| Performance management | Predicts vendor delays and supports corrective planning | Predictive |
 
 Some tools may use a blend of predictive and generative AI, this depends on the function and the data available.
 
@@ -77,15 +77,15 @@ Predictive AI, also known as predictive analytics, uses machine learning to anal
 
 In acquisition strategy, Predictive AI can:
 
-* Forecast future needs to shape long-term acquisition strategies.  
-* Improve framing assumptions for cost, schedule, and performance baselines.  
-* Reduce manual research by identifying trends, risks, or anomalies in real time.
+* Forecast future needs to shape long-term acquisition strategies  
+* Improve framing assumptions for cost, schedule, and performance baselines  
+* Reduce manual research by identifying trends, risks, or anomalies in real time
 
 By rapidly analyzing historical and current data, predictive AI enables better-informed decisions, reduces manual analysis, and strengthens long-term acquisition planning.
 
 #### Generative AI
 
-Generative AI analyzes and uses data to create new content. Its quality can be linked to the amount of data it accesses, which may be a limiting factor in acquisition due to restricted access to sensitive information. In acquisition, tools like ChatGPT or CoPilot can streamline documentation tasks.documentation.
+Generative AI analyzes and uses data to create new content. Its quality can be linked to the amount of data it accesses, which may be a limiting factor in acquisition due to restricted access to sensitive information. In acquisition, tools like ChatGPT or CoPilot can streamline documentation tasks.
 
 In acquisition, Generative AI can:
 
@@ -95,31 +95,29 @@ In acquisition, Generative AI can:
 
 While AI expands our capabilities, it doesn’t replace the need for sound judgment. Strategic planning still demands creativity, ethical awareness, and contextual understanding, none of which AI can fully replicate.
 
-### Policy & Guidance: What’s New
+### Policy & guidance: What’s new
 
 U.S. Federal policy has rapidly evolved to support the responsible use of AI in procurement and acquisition. 
 
-#### Executive Orders
+#### Executive orders
 
 * [EO 14179 (Jan 2025\)**: *Removing Barriers to American Leadership in AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. 
 
 * [AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government. 
 
-#### OMB Guidance
+#### OMB guidance
 
 * [M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) (April 2025\): Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. 
 
-#### Federal AI Use Case Inventory
+#### Federal AI use case inventory
 
 A comprehensive inventory of AI use across the federal government gives insight into how agencies are applying AI now (as of January 23, 2025):
 
-* 2,133 total AI use cases across 41 agencies.
+* 2,133 total AI use cases across 41 agencies
+* 351 classified as rights- and/or safety-impacting
+* Procurement-specific uses include spend analysis, supplier risk modeling, automated evaluation, and fraud detection
 
-* 351 classified as rights- and/or safety-impacting.
-
-* Procurement-specific uses include spend analysis, supplier risk modeling, automated evaluation, and fraud detection.
-
-### Key Considerations for Procurement Leaders
+### Key considerations for procurement leaders
 
 To effectively use AI in acquisition strategy:
 
@@ -138,7 +136,7 @@ To effectively use AI in acquisition strategy:
 5. **Shift focus from transactions to value**  
    Use AI to free up time for higher-level analysis, supplier engagement, and innovation.
 
-### The Way Forward
+### The way forward
 
 Efforts are underway to examine the use of AI in developing and writing an acquisition strategy (and other key acquisition documents). We are still learning and, given the potential benefits, a coordinated effort could offer significant value. If we accept the premise that the quality of the acquisition strategy is directly linked to subsequent acquisition outcomes, continued investment in AI and its optimal use can yield significant returns on that investment. 
 
@@ -161,7 +159,7 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 
 
 ---
-## Discussion Prompt (Optional): How Should AI Influence Acquisition Strategy Development?
+## Discussion prompt (optional): How should AI influence acquisition strategy development?
 >Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
 AI is rapidly changing the landscape of both private industry and public sector operations. From predictive analytics that forecast long-term sustainment and supply chain trends, to generative tools that draft acquisition documents or simulate operational environments, AI has clear potential to improve how we design and deliver acquisition strategies.
@@ -180,7 +178,7 @@ Choose one of the following prompts and share a short reflection. Your insight m
 
 
 ---
-## 7 Strategies for Evaluating the Ethical and Legal Impact of Implementing AI in Federal Agencies
+## Seven strategies for evaluating the ethical and legal impact of implementing AI in federal agencies
 
 As federal agencies harness the transformative potential of Artificial Intelligence (AI) to enhance their operations, addressing the ethical and legal implications associated with acquiring and deploying AI technologies naturally takes center stage. Long before the robots rise-up and enslave humanity, we will need to address some more near-term risks and concerns. Agencies must ensure that AI solutions are ethically sound and legally compliant in order to maintain public trust, adhere to regulatory standards, and to achieve strategic objectives. Here’s a guide to help federal agencies assess the ethical and legal implications of acquiring AI.
 
@@ -229,8 +227,8 @@ As federal agencies harness the transformative potential of Artificial Intellige
 * Regular Audits to evaluate AI systems against ethical and legal standards.  
 * Feedback Mechanisms to gather input from stakeholders and address concerns.  
 * Adaptive Policies to reflect new regulations and ethical guidelines.
-
-**Concluding Thoughts**
+---
+## Concluding Thoughts
 
 For federal agencies, thoroughly assessing the ethical and legal implications of acquiring AI ensures responsible technology use. By understanding regulatory requirements, ensuring data privacy and security, addressing algorithmic bias, promoting transparency, ensuring accountability, evaluating vendor compliance, and implementing continuous monitoring, agencies can confidently integrate AI solutions that adhere to the highest standards of ethics and legality, mitigating risks while enhancing the impact of AI initiatives.
 
