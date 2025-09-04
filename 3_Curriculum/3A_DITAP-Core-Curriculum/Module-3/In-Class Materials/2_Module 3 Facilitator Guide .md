@@ -22,6 +22,7 @@ Facilitator(s): \[List Facilitator Names\]
 
    - Required Materials  
    - Preparation Checklist
+   - [SOO Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/In-Class%20Materials/Statement%20of%20Objectives%20Template.md)
 
 ### Module Agenda 
 
