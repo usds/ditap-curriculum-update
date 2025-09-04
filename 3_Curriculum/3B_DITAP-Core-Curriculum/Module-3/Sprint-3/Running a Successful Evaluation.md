@@ -143,7 +143,7 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
    Ensure that the criteria reflect the procurement’s most important dimensions, whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight.
 
 3. **Engage Cross-Functional Stakeholders Early**  
-   Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive,  and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
+   Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive, and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
 
 4. **Categorize and Prioritize Criteria**  
    Group evaluation factors into logical categories, such as Technical, Management, Past Performance, and Cost. Within these, distinguish between:
@@ -168,12 +168,12 @@ Selecting the right evaluation criteria is both a technical and strategic task. 
    * **Past Experience** evaluates their actual technical work—what did they build, and how well did it meet the need?
 
 9. **Choose the Right Evaluation Methodology**  
-    Match the methodology to the acquisition’s complexity and goals. Use:
+    Match the methodology to the acquisition’s complexity and goals. Choose from:
 
-   * Pass/Fail for threshold requirements,  
-   * Point Scales for nuanced scoring,  
-   * Comparative Evaluation for streamlined, side-by-side judgments, or  
-   * Best-Value Trade-Offs when balancing cost and quality in complex procurements.
+   * Pass/Fail for threshold requirements
+   * Point Scales for nuanced scoring 
+   * Comparative Evaluation for streamlined, side-by-side judgments
+   * Best-Value Trade-Offs when balancing cost and quality in complex procurements
 
 10. **Pilot and Calibrate Your Criteria**  
      Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives.
@@ -186,7 +186,7 @@ In agile environments, where collaboration, adaptability, and working software a
 ---
 >Note to Vendors: The following two appendices may also be shared as optional in-class handouts to support continued learning and student reference beyond the session.
 
-## APPENDIX A: Comparative evaluation model for RFPs
+### Appendix A: Comparative evaluation model for RFPs
 
 I. Introduction: A model for comparative evaluation of vendor proposals.
 
@@ -233,7 +233,7 @@ VI. Additional Considerations
 
 ---
 
-## APPENDIX B: Best-Value trade-off evaluation model for RFPs
+### Appendix B: Best-Value trade-off evaluation model for RFPs
 
 I. Introduction
 
@@ -308,7 +308,7 @@ In digital procurements:
 * **Negotiations** at the right time prevent misunderstandings and save time in the long run.
 * **Strategic discussions** build trust, which is crucial for high-risk, agile projects.
 * **Early negotiations** can clear up incomplete information in proposals.
-* You don’t have to negotiate with everyone,  focus on top-ranked vendors to sharpen competition and speed up award.
+* You don’t have to negotiate with everyone, focus on top-ranked vendors to sharpen competition and speed up award.
 
 **Key benefits of early negotiations:**
 
@@ -404,9 +404,9 @@ The FAR states that the Contracting Officer (CO), at a minimum, must conduct neg
 
 Because of differences in proposals, negotiations may result in an extensive dialog with one offeror and a much briefer one with another. In either case, however, you must treat each offeror equitably.
 
-###  Unique aspects of negotiations for digital services
+### Unique aspects of negotiations for digital services
 
-When acquiring digital services, the Government needs to think and buy differently. As an example: The traditional model in which the Government owns or manages capital resources doesn’t apply with cloud services. Rather, cloud contracting is based on a consumption model, on paying for resources used on-demand.  In digital services, a number of acquisition issues have emerged, and obviously, these can impact negotiations.  
+When acquiring digital services, the Government needs to think and buy differently. As an example: The traditional model in which the Government owns or manages capital resources doesn’t apply with cloud services. Rather, cloud contracting is based on a consumption model, on paying for resources used on-demand. In digital services, a number of acquisition issues have emerged, and obviously, these can impact negotiations. 
 
 When entering negotiations in a digital services context, teams should actively focus on:
 
@@ -435,7 +435,7 @@ Because negotiation objectives will be different for each proposal, the CO shoul
 
 As part of establishing negotiation objectives, the team should:
 
-* Identify “must-haves.”
+* Identify “must-haves”
 
 Based on what is important to the program office who has established the requirements, the team should determine in advance what the agency can and cannot live with. For example: The proposed labor rates for program developers are at full GSA Schedule contract rates; however, for similar acquisitions, the offeror traditionally discounts those Schedule rates by 30%. The must-have would be to secure discounts equal to or better than 30%. Another example: An offeror fails to provide subject matter experts to serve as part of the software development team. The Government feels that such expertise is a must-have. As such, this becomes a negotiation objective.
 
@@ -449,8 +449,8 @@ To attain the best possible overall solution, negotiations often involve tradeof
 
   o   A “significant weakness” is a flaw that appreciably increases the risk of unsuccessful contract performance. The CO should consider discussing any weakness that, if addressed, could materially enhance:
 
-  1. The proposal’s potential for award; and  
-  2. The likelihood of the Government receiving the best possible solution.
+  1. The proposal’s potential for award  
+  2. The likelihood of the Government receiving the best possible solution
 
 Identifying must-haves, tradeoffs, deficiencies, and significant weaknesses positions the Government to establish effective negotiation objectives. For example: Let’s say that in evaluating proposals for Agile development, the team notes that an offeror has proposed sprints of very long duration and limited use of a subject matter expert. The team sees both issues as significant weaknesses. As a result, the team’s negotiation objectives include having the offeror change its approach to sprints and provide the expert on a full-time basis. While this will probably increase the price to some degree, the team sees the technical benefits as worth the change in cost.
 
@@ -462,10 +462,10 @@ It is important to address logistical considerations prior to conducting negotia
 
 |  | Logistical Considerations |
 |--|--|
-|   ![clock](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/clock.gif?raw=true)   | **Schedule a Time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives.  When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
-| ![arrange location](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/arrange%20location.gif?raw=true) | **Arrange for a Location**  <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access.  In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
-|![invite participants](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/invite%20participants.gif?raw=true)  | **Invite Appropriate Participants**  <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
-| ![draft materials](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/draft%20materials.gif?raw=true) | **Draft and Distribute Read-Ahead Materials**  <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
+|   ![clock](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/clock.gif?raw=true) | **Schedule a time** <br> Negotiations should be conducted as soon as possible after the Government completes its evaluation of proposals and develops its negotiation objectives. When planning a time, consider the availability of all required Government personnel and offeror personnel. Allow enough lead time for both parties to assemble their teams. Consider the depth and breadth of the issues that will be covered, and allow reasonable time for discussion. This could be a couple hours for smaller acquisitions to a week or more for significant programs. |
+| ![arrange location](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/arrange%20location.gif?raw=true) | **Arrange for a location** <br> If the negotiation session will be face to face, arrange for a location. Generally, the Government will want to hold the session at its own site. However, there may be reasons to use a neutral site. (Conducting negotiations at the offeror’s location is generally considered the least desirable alternative.) Consider and prepare for related requirements, such as room size, seating capacity, and internet access. In addition to conducting the negotiation session face to face, it may also be held via phone, video conference, or web meeting. |
+|![invite participants](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/invite%20participants.gif?raw=true) | **Invite appropriate participants** <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
+| ![draft materials](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/draft%20materials.gif?raw=true) | **Draft and distribute read-ahead materials** <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available. In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
 
 
 
@@ -496,19 +496,19 @@ Other tips for conducting effective negotiations:
 
 **DO**
 
-* Acknowledge the positive aspects of the proposal.  
+* Acknowledge the positive aspects of the proposal  
 * Ensure the discussions are “meaningful” — that you identify deficiencies and significant weaknesses and discuss the specific areas that require revision or modification. Make sure the offeror fully understands the Government’s concerns.   
 *  Use language that is simple and commonly understood. The offeror may not understand agency-specific acronyms or jargon.  
 *  If you don’t understand something, ask for clarification. Don’t make assumptions based on what you *think* you’ve heard.  
 *  Follow the agenda. Make sure every item has been adequately addressed.  
-*  Be fair, rational, and professional. 
+*  Be fair, rational, and professional 
 
 **DON'T** 
 
 * Play power games. This does not make the Government look good or promote goodwill with industry.  
-* Allow the offeror to take control of discussions.  
-*  Reveal the Government’s position on price.  
-*  Disclose any information about another offeror and/or another offeror's proposal. 
+* Allow the offeror to take control of discussions  
+* Reveal the Government’s position on price  
+* Disclose any information about another offeror and/or another offeror's proposal 
 
 #### Success strategy \#6: Follow up as appropriate
 
@@ -820,7 +820,7 @@ During the debriefing, DON’T:
 ---
 ## Conclusion
 
-Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
+Debriefings can really help shape the way vendors bid on future procurements, as well as give you the opportunity to explain why they didn’t win or what they could do better next time. Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
 * [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Debriefing_Agendas.pdf)   
 * [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
