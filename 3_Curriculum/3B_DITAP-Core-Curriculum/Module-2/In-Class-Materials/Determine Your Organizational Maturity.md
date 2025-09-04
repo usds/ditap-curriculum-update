@@ -20,32 +20,32 @@ Traditional government acquisition strategies were built around static requireme
 
 ## Four foundational risk axioms for digital procurement
 
-1. Procurement Time is Inversely Proportional to Flexibility  
+**1. Procurement Time is Inversely Proportional to Flexibility**  
    * Large, multi-year contracts make it harder to pivot if the vendor underperforms.  
    * Switching contractors midstream is costly and time-consuming.
 
-**Start with short, focused contracts that allow for early evaluation and exit if needed.**
+   **_Start with short, focused contracts that allow for early evaluation and exit if needed._**
 
-2. Platform Ownership and Openness Reduce Vendor Lock-In  
+**2. Platform Ownership and Openness Reduce Vendor Lock-In**  
    * COTS/Open Source solutions are most effective when the government maintains platform ownership.  
    * The ideal state (e.g., SPRUCE model) is a task order-based environment with prequalified vendors ready to integrate within 3–4 weeks.
 
-**Design acquisitions to enable vendor interoperability and shared ownership.**
+   **_Design acquisitions to enable vendor interoperability and shared ownership._**
 
-3. Fixed Price Can De-Risk Delivery  
+**3. Fixed Price Can De-Risk Delivery**  
    * Fixed-price contracts, especially for short-term modules, establish clearer accountability.  
    * But they must be paired with clear outcome definitions, or they risk rigidity.
 
-**Use fixed-price per iteration/milestone to balance flexibility and control.**
+   **_Use fixed-price per iteration/milestone to balance flexibility and control._**
 
-4. Agile Adoption is a Long Game  
+**4. Agile Adoption is a Long Game**  
    * Industry data shows Agile practices take 2–3 years to fully mature—but lead to a 3x higher likelihood of success (Standish Chaos Report).
 
-**Use procurement as a tool to build maturity over time through structured learning, iteration, and capability building.**
+   **_Use procurement as a tool to build maturity over time through structured learning, iteration, and capability building._**
 
 ## Applying a whole-system, maturity-aligned approach
 
-**The Problem with One-Off Strategies:**
+### The problem with one-off strategies:
 
 Acquisition strategies that treat each procurement as a discrete, siloed effort—focusing only on the immediate requirement or system—often fail to account for the broader, interconnected constraints that shape a program’s success or failure. For example, federal budgeting cycles are rigid and slow-moving, often disconnected from the pace of digital delivery. If an acquisition strategy doesn’t align with how and when funds are allocated or obligated, even the best technical design can stall or underdeliver due to funding gaps or timing mismatches.
 
@@ -55,7 +55,7 @@ Additionally, **organizational change fatigue** is a real barrier. Many federal 
 
 Finally, **policy and leadership readiness** must be considered. A procurement plan that depends on rapid decision-making, risk tolerance, or modern interpretation of FAR flexibilities will not succeed in environments where leadership is risk-averse or unfamiliar with digital acquisition norms. Without buy-in from legal, oversight, and executive stakeholders, even the most well-intentioned digital acquisition strategy can be blocked or significantly delayed. A successful strategy, therefore, must view acquisition as part of a **whole organizational ecosystem**—one that integrates funding cycles, human capital realities, change management dynamics, and governance maturity into its structure. Only by accounting for these constraints can agencies create a strategy that is not just ideal on paper, but executable in practice.
 
-## The modern approach
+### The modern approach
 
 A digital service acquisition strategy should be a whole-system risk reduction plan. A modern digital service acquisition strategy should not be treated as a transactional exercise to fulfill a single requirement, but rather as a **whole-system risk reduction plan**—a strategic framework that aligns the agency’s long-term goals, technical architecture, and operational realities. This kind of strategy weaves together multiple perspectives across the organization to create not only a pathway for successful delivery, but also a foundation for sustainable, adaptive capacity over time.
 
@@ -87,7 +87,8 @@ Once the maturity assessment is complete and the team has clarified its goals an
 
 In short, the maturity assessment is not a side note—it is a strategic tool that strengthens the entire procurement lifecycle.
 
-**Digital Service Maturity & Readiness**: Maturity Models:  
+### Digital service maturity & readiness: Maturity models
+
 A maturity model is a structured framework that describes the stages of growth or capability of an organization, team, or process. Each level represents a degree of sophistication, reliability, and repeatability.
 
 In the digital services context, maturity models help assess:
@@ -104,13 +105,13 @@ Maturity models can help acquisition professionals in the pre-solicitation and a
 
 Utilizing an Agile or design maturity model to assess your implementation team might be helpful for market research and requirement goals. It can also help the industry know where your team is, allowing them to right-size a solution based on where your agency is. Market intelligence gives the industry a transparent and functional way to assess potential risks. Scope is imperative to the type of procurement methods for digital services that will be introduced later in this course.  
 
-**In-class Activity**: Walk through the  [TechFarHub Maturity Model](https://techfarhub.usds.gov/resources/learning-center/agency-maturity-for-agile/). 
+**In-class Activity**: Walk through the [TechFarHub Maturity Model](https://techfarhub.usds.gov/resources/learning-center/agency-maturity-for-agile/). 
 
-## Digital services industry maturity
+### Digital services industry maturity
 
 A key element of using maturity models is that they’re typically developed through the collective knowledge and experience of industry subject matter experts, then validated through real-world application and feedback within that same industry to ensure relevance and credibility. Consider the [Digital Services Coalition’s Digital Services Maturity Model](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1425401169%23gid=1425401169), which is used to screen potential new applicants to the non-profit trade association. This maturity model was developed to highlight the unique characteristics of companies working on digital transformations in government environments.
 
-The State of Maryland applied principles similar to those in the DSC Maturity Model in its [Agile Digital Experience Product Transformation (ADEPT)](https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/70911) procurement. The ADEPT contract is a multi-award vehicle designed to streamline the procurement of digital services, emphasizing Agile methodologies and user-centered design. By integrating maturity assessments into their procurement strategy, Maryland aimed to engage vendors with proven capabilities in delivering modern digital services.[DSC Maturity Matrix](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1104018846%23gid=1104018846) 
+The State of Maryland applied principles similar to those in the DSC Maturity Model in its [Agile Digital Experience Product Transformation (ADEPT)](https://emma.maryland.gov/page.aspx/en/bpm/process_manage_extranet/70911) procurement. The ADEPT contract is a multi-award vehicle designed to streamline the procurement of digital services, emphasizing Agile methodologies and user-centered design. By integrating maturity assessments into their procurement strategy, Maryland aimed to engage vendors with proven capabilities in delivering modern digital services. [DSC Maturity Matrix](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1104018846%23gid=1104018846) 
 
 ## Use of maturity models in market research  
 Maturity Models can be used effectively in market research and can improve communication when the scope or requirements might not be fully identified or shared: 
