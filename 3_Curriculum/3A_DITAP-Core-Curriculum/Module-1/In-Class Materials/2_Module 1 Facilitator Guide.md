@@ -1,8 +1,8 @@
 # DITAP In-Class Facilitator Guide
 
+# Module 1 - Introduction to Digital Services: The Who, What, and How of Digital Service Delivery  
 *Updated July 2025*
 
-## Module 1 - Introduction to Digital Services: The Who, What, and How of Digital Service Delivery  
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
 Location: \[Insert Physical or Virtual Location\]  
@@ -11,32 +11,32 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-### Overview and Objectives
-   - Module Summary  
-   - Learning Objectives  
-   - Connection to Overall DITAP Program
+### Overview and objectives
+   - Module summary  
+   - Learning objectives  
+   - Connection to overall DITAP program
 
-### Materials and Preparation
-   - Required Materials  
-   - Preparation Checklist
+### Materials and preparation
+   - Required materials  
+   - Preparation checklist
 
-### Module Agenda
+### Module agenda
 
-### Module Activities 
+### Module activities 
 
 1. Discussion: What digital services have you used?
-2. Activity: Who’s Who of Digital Services Teams
+2. Activity: Who’s who of digital services teams
 3. Discussion: Consideration of user needs
 4. Discussion: User persona
 5. Discussion: Reflections on a past project
 6. Activity: Create a sprint backlog
 7. Discussion: Everyday data
 8. Discussion: What could you ask about data
-9. Discussion: Benefits and challenges of agile development methods
+9. Discussion: Benefits and challenges of Agile development methods
 10. Discussion: Why continuous integration and continuous delivery (CI/CD)?
 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?
-12. Discussion: Proprietary vs. Open-Source Software
-13. Activity: Build-a-Digital-Service Workshop
+12. Discussion: Proprietary vs. Open-Source software
+13. Activity: Build-a-Digital-Service workshop
 14. Discussion: Deciding the best way to use (or not use) cloud
 15. Activity: Preventing misunderstandings in a shared responsibility model
 16. Discussion: How can we encourage modular or hybrid cloud strategies?
@@ -48,33 +48,33 @@ Facilitator(s): \[List Facilitator Names\]
 22. Activity: What would you ask the technical or security team?
 23. Discussion: Cybersecurity expectations
 
-### Additional Resources
-   - Links to Relevant Documents  
-   - Contact Information
+### Additional resources
+   - Links to relevant documents  
+   - Contact information
 
 
-## Overview and Objectives
+## Overview and objectives
 
-   ### Module Summary
+   ### Module summary
 
    In this module, we will describe digital services in the 21st century, including what they are, who provides them, how they are delivered, and why they are important. 
 
-   ### Learning Objectives
+   ### Learning objectives
 
 By the end of this module, participants will be able to:   
 * Define digital services  
 * Identify key players in the digital services ecosystem  
 * Identify strategies to help you identify user needs  
-* Describe contemporary practices used to develop digital services.
+* Describe contemporary practices used to develop digital services
 
-### Connection to Overall DITAP Program
+### Connection to overall DITAP program
 
-  This topic introduces the foundational concepts of digital services within the federal landscape. Learners will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery.
+This topic introduces the foundational concepts of digital services within the federal landscape. Learners will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery.
 
 
-## Materials and Preparation
+## Materials and preparation
 
-### Required Materials:
+### Required materials:
 
 - [ ] Module 1 Slide deck  
 - [ ] Participant guide or activity instructions (PDF or printout)  
@@ -85,11 +85,11 @@ By the end of this module, participants will be able to:
 - [ ] Time or timekeeping tool  
 - [ ] Breakout room assignments or groups pre-defined (or virtual delivery)
 
-### Preparation Checklist:
+### Preparation checklist:
 
 - [ ] Set up breakout rooms or groups for in-person classrooms. 
 
-## Module Agenda
+## Module agenda
 
 | # | Activity | Sprint # | Duration in minutes |
 | :-: | :---- | :---: | :---: |
@@ -101,7 +101,7 @@ By the end of this module, participants will be able to:
 | 6 | Activity: Create a Sprint Backlog | 2 | 45-60 |
 | 7 | Discussion: Everyday Data | 3 | 5-10 |
 | 8 | Discussion: What could you ask about data? | 3 | 10 |
-| 9 | Discussion: Benefits and challenges of agile development methods | 3 | 5-10 |
+| 9 | Discussion: Benefits and challenges of Agile development methods | 3 | 5-10 |
 | 10 | Discussion: Why continuous integration and continuous delivery (CI/CD)? | 3 | 5-10 |
 | 11 | Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk? | 3 | 5-10 |
 | 12 | Discussion: Proprietary vs. Open-Source Software | 3 | 5-10 |
@@ -119,13 +119,13 @@ By the end of this module, participants will be able to:
 
 
 
-## Module Activities
+## Module activities
 
-### 1. Discussion: What Digital Services Have You Used?  
+### 1. Discussion: What digital services have you used?  
 
    Total time allocation: 5 min
 
-#### Activity Instructions:    
+#### Activity instructions:    
 * **Purpose:** Participants get familiar with digital services they and their colleagues use, and why.   
 * **Expected Outcomes**: Participants will be able to name several digital services they and their colleagues use in the procurement process.   
 * **Materials needed:**   
@@ -139,7 +139,7 @@ By the end of this module, participants will be able to:
 
    Total time allocation: 60 minutes
 
-#### Activity Instructions:
+#### Activity instructions:
 
 * **Purpose**: To build awareness of digital service teams’ missions, work, and roles in government to help participants anticipate collaboration needs.
 * **Expected Outcomes**: Participants gain familiarity with DSTs and identify connections to their own contracting work.
@@ -170,16 +170,16 @@ By the end of this module, participants will be able to:
   
    3\. **Prompt & Instructions** (5 min)
 
-    Tell participants:  In your breakout groups, you’ll select one Digital Service Team from the tracker. Explore their mission, recent projects, and how they deliver their work. Then consider what stood out to you, what surprised you, and how this might connect to your procurement experience.
+    Tell participants: In your breakout groups, you’ll select one Digital Service Team from the tracker. Explore their mission, recent projects, and how they deliver their work. Then consider what stood out to you, what surprised you, and how this might connect to your procurement experience.
 
     - **Provide the template (on slide or worksheet):**
-     - Team Name & Level of Gov’t  
-     - Mission/Vision/Values  
-     - Known Projects/Services (case studies if available)  
-     - Delivery Practices (how they work, agile methods, tools)  
-     - Stakeholders or Partners (other agencies, vendors, etc.)  
-     - Impact or Outcomes (metrics, stories, testimonials)  
-     - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
+        - Team Name & Level of Gov’t  
+        - Mission/Vision/Values  
+        - Known Projects/Services (case studies if available)  
+        - Delivery Practices (how they work, Agile methods, tools)  
+        - Stakeholders or Partners (other agencies, vendors, etc.)  
+        - Impact or Outcomes (metrics, stories, testimonials)  
+        - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
 
    4\. **Breakouts (20 min)**
   - Form groups of 3–5 participants.  
@@ -202,16 +202,16 @@ By the end of this module, participants will be able to:
 
 ---
 
-### 3. Discussion: Consideration of User Needs
+### 3. Discussion: Consideration of user needs
 
    Total time allocation: 10 minutes
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose:** This discussion sets the stage for understanding why this work matters.  
 * **Expected Outcomes:** Learners will gain a clear understanding of how and why user needs must be at the forefront of a project.  
 * **Materials needed**:   
-  * Whiteboard & markers  or digital collaboration tool (optional)  
+  * Whiteboard & markers or digital collaboration tool (optional)  
 * **Instructions:**   
   Introduce the activity (what it is and why) and include what they can expect as to sequence of events and timing. 
 
@@ -224,18 +224,18 @@ By the end of this module, participants will be able to:
 
 ---
 
-### 4. Discussion: User Persona
+### 4. Discussion: User persona
 
    Total time allocation: 10 min
 
-   #### Activity Instructions:  
+   #### Activity instructions: 
 
-* **Purpose:** Participants are required to think specifically about how to  communicate the key elements that support their users’ needs.   
+* **Purpose:** Participants are required to think specifically about how to communicate the key elements that support their users’ needs.   
 * Expected Outcomes: Learners will be able to prioritize users’ needs when delivering a product or service.  
 * **Materials needed:**   
   * Whiteboard and markers or digital collaboration tool (optional)   
 * **Instructions:**  
-  Introduce the activity
+  Introduce the activity.
 
   **Prompts:**   
   * Think about a service your agency provides. If you had to create a persona for one of your users, what are three things you would include about their needs or behaviors?  
@@ -243,34 +243,34 @@ By the end of this module, participants will be able to:
 
 ---    
 
-### 5. Discussion: Reflections on a Past Project 
+### 5. Discussion: Reflections on a past project 
 
    Total time allocation: 25 min
 
-   #### Activity Instructions: 
+   #### Activity instructions: 
 
-* **Purpose:** To understand the benefits of agile  
-* **Expected Outcomes:** Learners will be able to articulate the benefits of agile and where it could benefit their work  
+* **Purpose:** To understand the benefits of Agile  
+* **Expected Outcomes:** Learners will be able to articulate the benefits of Agile and where it could benefit their work  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) 
+  Introduce the activity (what is it and why).
 
   **Prompt:**  
-  Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
+  Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
   * **Follow-up prompts (for facilitation):**  
-    * What barriers would have made agile adoption difficult?  
+    * What barriers would have made Agile adoption difficult?  
       * How might early stakeholder feedback have changed the project outcome?  
       * What role could you have played in making the process more iterative or user-centered?
 
  ---   
 
-### 6. Activity: Create a Sprint Backlog
+### 6. Activity: Create a sprint backlog
 
    Total time allocation: 45-60 min
 
-   #### Activity Instructions: 
+   #### Activity instructions: 
 
 * **Purpose:** Participants think in sprints and what tasks to accomplish  
 * **Expected Outcomes**: Participants will develop a structured backlog for each sprint.   
@@ -278,29 +278,29 @@ By the end of this module, participants will be able to:
   * Breakout rooms   
   * Whiteboard and markers, or digital collaboration tool  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   Use a fictional case study (e.g., a federal agency project) to create a sample sprint backlog, breaking it into user stories. You will work in groups to prioritize tasks and plan the sprint.
 
   * **Follow-up prompts:**  
-    * What barriers would have made agile adoption difficult?  
+    * What barriers would have made Agile adoption difficult?  
     * How might early stakeholder feedback have changed the project outcome?  
     * What role could you have played in making the process more iterative or user-centered?
 
 ---
 
-### 7. Discussion: Everyday Data
+### 7. Discussion: Everyday data
    Total time allocation: 5-10 min
 
-   ### Activity Instructions:  
+   ### Activity instructions:  
 
 * **Purpose:** Participants can identify different types of data they use to perform their jobs.   
 * **Expected Outcomes:** Learners will be able to use data to gain insight, measure impact, and enhance performance.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   Can anyone give an example of a type of data you use every day in your job?
@@ -321,14 +321,14 @@ By the end of this module, participants will be able to:
 
    Total time allocation: 10 min
 
-   ### Activity Instructions:  
+   ### Activity instructions:  
 
 * **Purpose:** Learners will apply critical thinking and develop evaluative habits when reviewing technical proposals, specifically through the lens of data.  
-* **Expected Outcomes:** Learners will be able to ask informed questions based on the correct criteria   
+* **Expected Outcomes:** Learners will be able to ask informed questions based on the correct criteria.   
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   What’s one question about data you could ask the next time you're reviewing a tech proposal?
@@ -348,24 +348,24 @@ By the end of this module, participants will be able to:
 
    Total time allocation: 5-10 min
 
-   ### Activity Instructions:  
+   ### Activity instructions:  
 
-* **Purpose:** Participants can explain the advantages and challenges of an agile approach to contracting officers  
-* **Expected Outcomes**: Participants and contracting officers share an understanding of the pros and cons of agile development methods.  
+* **Purpose:** Participants can explain the advantages and challenges of an Agile approach to contracting officers.  
+* **Expected Outcomes**: Participants and contracting officers share an understanding of the pros and cons of Agile development methods.  
 * **Materials needed:**   
   * None  
 * **Instructions**:   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
-  What benefits and challenges might agile development methods present to contracting officers?
+  What benefits and challenges might Agile development methods present to contracting officers?
 
 | Facilitator themes to look for: |
 | :----------------------------- |
 | Flexibility vs. scope definition tension |
-| Measuring performance or value in agile terms |
+| Measuring performance or value in Agile terms |
 | Incremental delivery and payment structuring |
-| Difficulty aligning agile with traditional FAR-based contracting |
+| Difficulty aligning Agile with traditional FAR-based contracting |
 | Clarity in roles/responsibilities during sprints |
 
 ---
@@ -374,14 +374,14 @@ By the end of this module, participants will be able to:
 
    Total time allocation: 5-10 min
 
-   ### Activity Instructions:  
+   ### Activity instructions:  
 
 * **Purpose:** CI/CD is a key method for modern software deployments.  
 * **Expected Outcomes**: Learners will be able to recognize when CI/CD is an appropriate solution based on its benefits and shortcomings applied to the scope required.   
 * **Materials needed**:   
   * None  
 * **Instructions**:   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   Why is continuous integration and continuous delivery (CI/CD) beneficial for government software deployments?
@@ -399,14 +399,14 @@ By the end of this module, participants will be able to:
 ### 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk? 
 Total time allocation: 5-10 min
 
-### Activity Instructions: 
+### Activity instructions: 
    
 * **Purpose:** Learners will deepen their understanding of how transparency in software components contributes to risk management in government acquisitions.  
 * **Expected Outcomes**: Learners will be able to explain how an SBOM supports supply chain security, identifies vulnerabilities, and improves oversight of third-party software components.  
 * **Materials needed**:   
   * None  
 * **Instructions**:   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt**:   
   What role does a Software Bill of Materials (SBOM) play in managing risk?
@@ -421,18 +421,18 @@ Total time allocation: 5-10 min
 
 ---
 
-### 12. Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software
+### 12. Discussion: Procurement tradeoffs: Proprietary vs. Open-Source software
 
 Total time allocation: 5-10 min
 
-   ### Activity Instructions:  
+   ### Activity instructions:  
 
 * **Purpose**: To explore and understand the major tradeoffs between proprietary and open-source software.  
 * **Expected Outcomes**: Learners will be able to identify and articulate key differences, advantages and disadvantages between proprietary and open-source software for procurement, and recognize critical factors for decision-making in real-world scenarios.  
 * **Materials needed:**   
   * Whiteboard & markers or digital sharing interface  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt**:   
   What are the major tradeoffs between proprietary and open-source software from a procurement perspective?
@@ -449,12 +449,12 @@ Total time allocation: 5-10 min
 
 ---
 
-### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
+### 13. Activity: [Build-a-Digital-Service workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
 
 Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  <br>
 Total time allocation: 60-90 min
 
-### Activity Instructions:
+### Activity instructions:
 
 
 * **Purpose:** Participants will:  
@@ -462,7 +462,7 @@ Total time allocation: 60-90 min
    * Integrate accessibility, feedback loops, and iterative delivery  
    * Make informed procurement decisions aligned with modern acquisition practices  
    * Practice collaborative planning in a simulated multi-role environment (e.g., tech, user, CO)  
-* **Expected Outcomes:** Learners will be able to apply human-centered design and agile principles to collaboratively design a government digital service that addresses the specific needs of a target user group.  
+* **Expected Outcomes:** Learners will be able to apply human-centered design and Agile principles to collaboratively design a government digital service that addresses the specific needs of a target user group.  
 * **Materials needed:**   
   * Breakout rooms for small groups (3-5 people)  
   * Whiteboard & markers or digital sharing interface  
@@ -476,17 +476,17 @@ Total time allocation: 60-90 min
 
   * Roles within each group (optional):  
     * *Facilitator* – keeps team on track  
-      * *Note taker/sketcher* – captures wireframe and key points  
-      * *Presenter* – shares out to full group  
-      * *CO/COR rep* – advocates for procurement alignment
+    * *Note taker/sketcher* – captures wireframe and key points  
+    * *Presenter* – shares out to full group  
+    * *CO/COR rep* – advocates for procurement alignment
 
-    *  They must address these questions:   
+  * They must address these questions:   
       * What is the core user need?  
       * What does the interface/wireframe look like?  
       * How will you ensure accessibility and iterative feedback?  
       * What procurement considerations or contract decisions will enable this?
 
-    * With the following deliverables (paste into chat/slides):   
+  * With the following deliverables (paste into chat/slides):   
       * Description of digital service  
       * Wireframe or sketch (rough is fine\!) of a user-facing interface or service flow  
       * Accessibility considerations (What barriers will you address?)  
@@ -510,9 +510,9 @@ Total time allocation: 60-90 min
 
 * **Debrief and Discussion (5-10 min)**  
   **Prompts:**   
-  * What stood out in how teams approached user needs?  
-  * What strategies did you see for managing feedback and iteration?  
-  * What procurement decisions helped support flexibility or continuous delivery?  
+  * What stood out in how teams approached user needs?
+  * What strategies did you see for managing feedback and iteration?
+  * What procurement decisions helped support flexibility or continuous delivery?
   * What felt challenging or unclear in applying these concepts?
 
     **Encourage open reflection in chat or voice.** 
@@ -525,18 +525,17 @@ Total time allocation: 60-90 min
 
 ---
 
-### 14. Discussion:  Deciding The Best Way To Use (Or Not Use) Cloud To Support Your Mission 
-
+### 14. Discussion: Deciding the best way to use (or not use) cloud to support your mission
 Total time allocation: 5–10 min
 
-### Activity Instructions:
+### Activity instructions:
 
 * **Purpose:** Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient.    
 * **Expected Outcomes**: Learners will be able to discern appropriate situations for using cloud services.    
 * **Materials needed:**   
   * Whiteboard & markers or digital sharing interface  
 * **Instructions**:   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt**:   
   How can your agency decide the best way to use (or not use) cloud to support your mission?
@@ -551,18 +550,18 @@ Total time allocation: 5–10 min
 
 ---
 
-### 15. Discussion: Preventing Misunderstandings in a Shared Responsibility Model 
+### 15. Discussion: Preventing misunderstandings in a shared responsibility model
 
 Total time allocation: 5-10 min
 
-### Activity Instructions:  
+### Activity instructions:  
 
 * **Purpose:** Learners will be able to recognize where there could be misunderstandings between vendors and agencies and how to apply the shared responsibility model to prevent those misunderstandings.   
 * **Expected Outcomes**: Learners will identify common misunderstandings in shared responsibility models and propose contract strategies to clarify roles and mitigate risk.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   In a shared responsibility model, where do you think misunderstandings between vendors and agencies are most likely to occur? What could be done contractually to prevent that?
@@ -584,14 +583,14 @@ Total time allocation: 5-10 min
 
 Total time allocation: 5–10 min
 
-### Activity Instructions
+### Activity instructions
 
 * **Purpose:** Learners know what the priorities and potential pitfalls are when procuring cloud solutions, and how to align agency needs with vendor capabilities.  
 * **Expected Outcomes:** Learners will be able to analyze the benefits and tradeoffs of modular and hybrid cloud strategies and identify procurement approaches that promote flexibility and vendor collaboration without increasing complexity.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**  
   How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience?
@@ -607,18 +606,18 @@ Total time allocation: 5–10 min
 
 ---
 
-### 17. Discussion: Procurement Decisions and AI  
+### 17. Discussion: Procurement decisions and AI 
 
 Total time allocation: 5–10 min
 
-### Activity Instructions:
+### Activity instructions:
  
 * **Purpose:** To understand when use of AI is appropriate or inappropriate.  
 * **Expected Outcomes:** Learners will be able to recognize tasks for which AI is not an appropriate solution.   
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   What kind of procurement decisions do you think shouldn’t be made by AI? Why?
@@ -638,18 +637,18 @@ Transparency and auditability |
 
 ---
 
-### 18. Discussion: Use of Machine Learning 
+### 18. Discussion: Use of machine learning 
 
 Total time allocation: 5–10 min  
 
-### Activity Instructions:  
+### Activity instructions:  
 
-* **Purpose:** Learners will be able to ask key questions that will help ensure proper application of machine learning  
+* **Purpose:** Learners will be able to ask key questions that will help ensure proper application of machine learning.  
 * **Expected Outcomes:** Learners will be able to recognize and probe for the reasons a vendor would use machine learning for their project.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   If a vendor says their tool uses “machine learning,” what’s one question you’d ask before moving forward?
@@ -667,18 +666,18 @@ Total time allocation: 5–10 min
 ---
 
 
-### 19. Activity: “Procure or Pass?” Game 
+### 19. Activity: “Procure or Pass?” game 
 
 Total time allocation: 25–30 min  
 
-### Activity Instructions:
+### Activity instructions:
  
 * **Purpose:** Learners will:  
   * Build awareness of common AI use cases in government  
   * Explore ethical and operational considerations in AI procurement  
   * Practice applying judgment to ambiguous or emerging tech situations
 
-* **Expected Outcomes:**  Learners will be able to make informed choices on whether or not to use AI. 
+* **Expected Outcomes:** Learners will be able to make informed choices on whether or not to use AI. 
 
 * **Materials needed:**   
   * Slide deck with 3–5 brief AI use case prompts  
@@ -721,7 +720,7 @@ Total time allocation: 25–30 min
 | Team Debate: For each case, assign half the group to argue "procure" and the other "pass." | 
 
 
-  #### Sample Use Cases
+  #### Sample use cases
 
 **Use Case 1:**   
  A vendor proposes an AI auto-scoring tool to evaluate and rank RFP responses based on pre-trained relevance criteria.
@@ -768,18 +767,18 @@ Total time allocation: 25–30 min
 
 ---
 
-### 20. Discussion: Importance of Defining Security Expectations  
+### 20. Discussion: Importance of defining security expectations  
 
 Total time allocation: 5-10 min
 
-### Activity Instructions: 
+### Activity instructions: 
 
 * **Purpose:** Missteps where security is very risky and can be costly in terms of credibility and monetarily. Learners will know what can be done to mitigate these risks.   
 * **Expected Outcomes:** Learners will be better able to avoid unnecessary security risks when procuring vendors' services.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   Have you seen a procurement where security expectations weren’t clearly defined? What happened?
@@ -795,18 +794,18 @@ Total time allocation: 5-10 min
 ---
   
 
-### 21. Discussion: Surfacing Security Risks Early 
+### 21. Discussion: Surfacing security risks early 
 
 Total time allocation: 5–10 min
 
-### Activity Instructions:
+### Activity instructions:
  
 * **Purpose:** Apply what they've learned about security risks and procurement.   
 * **Expected Outcomes:** Learners will be able to generate relevant, security-focused questions to ask during market research that help identify and mitigate risks early in the acquisition process.  
 * **Materials needed:**   
   * None  
 * **Instructions:**  
-   Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+   Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   What’s one question a CO could ask during market research to surface security risks early?
@@ -825,11 +824,11 @@ Total time allocation: 5–10 min
   
 
 
-### 22. Activity: What Would You Ask? 
+### 22. Activity: What would you ask? 
 
 Total time allocation: 15-20 min
 
-### Activity Instructions:
+### Activity instructions:
 
 * **Purpose:** Build confidence in procurement professionals to ask informed cybersecurity questions during pre-award planning.  
 * **Expected Outcomes:** Learners will be prepared to ask informed questions about their cybersecurity needs.  
@@ -837,7 +836,7 @@ Total time allocation: 15-20 min
   * Breakout rooms  
   * Whiteboard and markers or digital sharing tool  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   Break learners into small breakout groups. Assign each group one of the four cybersecurity focus areas:
 
@@ -845,8 +844,10 @@ Total time allocation: 15-20 min
   * Identity and Access Management (IAM)  
   * Vulnerability management  
   * SIEM integration  
+  
     **Prompt:**  
     We’re going to break out into small groups for ten minutes. Then during the debrief, each group will share their questions.   
+
     **Prompt:**  
     You’re preparing for an early acquisition planning meeting. Based on your assigned topic, come up with 2–3 questions you would ask the technical or security team to ensure this requirement is built into the contract.
 
@@ -892,18 +893,18 @@ Total time allocation: 15-20 min
   ---
  
 
-### 23. Discussion: Cybersecurity Expectations 
+### 23. Discussion: Cybersecurity expectations 
 
 Total time allocation: 5-10 min
 
-#### Activity Instructions:  
+#### Activity instructions:  
 
-* **Purpose:** Learners will be able to include security expectations in  requirements, evaluation criteria, and post-award monitoring.   
+* **Purpose:** Learners will be able to include security expectations in requirements, evaluation criteria, and post-award monitoring.   
 * **Expected Outcomes:** Learners will be able to prevent weak systems being procured.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) and include what they can expect as to  sequence of events and timing. 
+  Introduce the activity (what is it and why) and include what they can expect as to sequence of events and timing. 
 
   **Prompt:**   
   What’s one thing you can do in your next contract to strengthen cybersecurity expectations?
@@ -920,14 +921,14 @@ Total time allocation: 5-10 min
 
   
 
-## Additional Resources 
+## Additional resources 
 
-### Links to Relevant Documents:
+### Links to relevant documents:
 
 * Link to relevant documents as needed.
 
 
-### Contact Information:
+### Contact information:
 
   * Who to contact for technical issues or content questions.  
       
