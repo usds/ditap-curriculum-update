@@ -1,12 +1,12 @@
 # Module 2 Sprint 1
 
-## Introduction to Assessing Agency Readiness
+# Introduction to Assessing Agency Readiness
 
 Before an agency embarks on a digital service acquisition, it must first understand its own readiness to support the demands of modern, agile procurement. In today’s rapidly evolving digital landscape, success isn't just about selecting the right technology or vendor, it’s about aligning acquisition strategies with an agency’s internal capabilities, culture, governance, and tolerance for change. This learning unit focuses on helping participants assess and understand these internal factors so they can make strategic decisions that reduce risk and enhance outcomes.
 
 Drawing from real-world case studies and frameworks, including maturity models and readiness surveys, this module guides learners through the foundational steps of gauging organizational readiness. Participants will explore how elements like agile adoption, stakeholder alignment, procurement agility, and leadership support can directly influence the success of a digital acquisition. By the end, learners will be equipped to evaluate readiness not just as a bureaucratic checkbox, but as a strategic advantage in designing executable, scalable acquisition strategies.
 
-### Learning Objectives
+## Learning objectives
 
 By the end of this module, participants will be able to:
 
@@ -25,9 +25,9 @@ By the end of this module, participants will be able to:
 * Apply a maturity-aligned framework to shape acquisition strategies that are executable, adaptable, and mission-focused.
 
 ---
-## Change and Innovation Readiness Survey
+## Change and innovation readiness survey
 
-### Purpose of the Activity: 
+### Purpose of the activity: 
 
 To effectively lead innovation, you must first know your agency’s current stance and how ready it is for change. This activity will help you tailor your efforts to productively lead change. The survey is intended to help you take a “pulse check” of your agency; it is not intended to be a comprehensive or formal evaluation of change. However, take time to complete it and gather data to inform your answers where appropriate.
 
@@ -42,5 +42,3 @@ Would you consider yourself, your team, and your organization risk-averse or ris
 2\. [Do You Have a Hard Time Making Decisions?](http://learning.blogs.nytimes.com/2011/08/18/do-you-have-a-hard-time-making-decisions/?_r=1)
 
 This *New York Times* article explores the “decision fatigue” phenomenon and raises questions for readers about what conditions should be in place for good versus bad decision-making. Think about how decision fatigue may apply to stakeholders in your agency.
-
-
