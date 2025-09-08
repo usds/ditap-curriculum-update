@@ -17,7 +17,7 @@ Facilitator framing should emphasize that the activity is not about memorizing a
 * Group report-out: 20 min  
 * Final debrief: 10 min
 
-### Step 1: Framing & Instructions (10 min)
+### Step 1: Framing and instructions (10 min)
 
 1. **Context setup**:  
    Today, we'll explore real Digital Service Teams (DSTs) government digital-native teams. We’ll look at their mission and focus, the kinds of projects they deliver, and the ways they work. We’ll also explore how their practices, partnerships, and public deliverables could inform or inspire your own approach to digital services acquisition.
@@ -48,14 +48,14 @@ Facilitator framing should emphasize that the activity is not about memorizing a
        7. Publicly Shared Artifacts  
           1. Design guides, playbooks, blog posts, open source repos
 
-### Step 2: Breakout Exploration (20 min)
+### Step 2: Breakout exploration (20 min)
 
 * **Form groups** of 3–5 participants.  
 * Participants select a DST and look for the information above.  
 * **Support the rooms**:  
    The facilitation team drops into rooms to check progress, answer tech questions, and offer guidance.
 
-### Step 3: Group Report-Out (20 min)
+### Step 3: Group report-out (20 min)
 
 * **Present in main room**: Each group gets 5 minutes:
 
@@ -65,9 +65,9 @@ Facilitator framing should emphasize that the activity is not about memorizing a
   3. What surprised you?   
   4. What aligns with your procurement experience?
 
-### Step 4: Large-Group Debrief (10 min)
+### Step 4: Large-group debrief (10 min)
 
-**Discussion Prompts:**
+**Discussion prompts:**
 
 1. What similarities or differences did you notice between the DSTs your group reviewed and others in terms of mission, organizational structure, or recent work?  
 2. Were there any innovative practices or strategies that stood out to your group that could inform future digital services projects?  
