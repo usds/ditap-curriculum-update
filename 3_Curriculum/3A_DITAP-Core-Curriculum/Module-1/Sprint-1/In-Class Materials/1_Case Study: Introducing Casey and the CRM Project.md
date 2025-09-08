@@ -2,7 +2,7 @@
 
 **Module 1 Sprint 1**
 
-- **Session Title: Introducing Casey and the CRM Project**  
+- **Session title:** Introducing Casey and the CRM Project  
 - **Date:** \[Insert Date\]  
 - **Time:** \[Insert Start and End Time\]  
 - **Location:** \[Insert Location or Link\]  
