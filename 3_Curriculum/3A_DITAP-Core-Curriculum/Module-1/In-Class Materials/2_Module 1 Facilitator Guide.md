@@ -36,7 +36,7 @@ Facilitator(s): \[List Facilitator Names\]
 9. Discussion: Benefits and challenges of Agile development methods
 10. Discussion: Why continuous integration and continuous delivery (CI/CD)?
 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?
-12. Discussion: Proprietary vs. Open-Source Software
+12. Discussion: Proprietary vs. Open-Source software
 13. Activity: Build-a-Digital-Service workshop
 14. Discussion: Deciding the best way to use (or not use) cloud
 15. Activity: Preventing misunderstandings in a shared responsibility model
@@ -90,7 +90,7 @@ This topic introduces the foundational concepts of digital services within the f
 
 - [ ] Set up breakout rooms or groups for in-person classrooms. 
 
-## Module Agenda
+## Module agenda
 
 | # | Activity | Sprint # | Duration in minutes |
 | :-: | :---- | :---: | :---: |
@@ -126,7 +126,8 @@ This topic introduces the foundational concepts of digital services within the f
 
    Total time allocation: 5 min
 
-#### Activity instructions: 
+#### Activity instructions:    
+
 * **Purpose:** Participants get familiar with digital services they and their colleagues use, and why.   
 * **Expected Outcomes**: Participants will be able to name several digital services they and their colleagues use in the procurement process.   
 * **Materials needed:**   
@@ -174,13 +175,13 @@ Total time allocation: 60 minutes
     Tell participants: In your breakout groups, you’ll select one Digital Service Team from the tracker. Explore their mission, recent projects, and how they deliver their work. Then consider what stood out to you, what surprised you, and how this might connect to your procurement experience.
 
     - **Provide the template (on slide or worksheet):**
-     - Team Name & Level of Gov’t  
-     - Mission/Vision/Values  
-     - Known Projects/Services (case studies if available)  
-     - Delivery Practices (how they work, Agile methods, tools)  
-     - Stakeholders or Partners (other agencies, vendors, etc.)  
-     - Impact or Outcomes (metrics, stories, testimonials)  
-     - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
+        - Team Name & Level of Gov’t  
+        - Mission/Vision/Values  
+        - Known Projects/Services (case studies if available)  
+        - Delivery Practices (how they work, Agile methods, tools)  
+        - Stakeholders or Partners (other agencies, vendors, etc.)  
+        - Impact or Outcomes (metrics, stories, testimonials)  
+        - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
 
    4\. **Breakouts (20 min)**
   - Form groups of 3–5 participants.  
@@ -212,7 +213,7 @@ Total time allocation: 60 minutes
 * **Purpose:** This discussion sets the stage for understanding why this work matters.  
 * **Expected Outcomes:** Learners will gain a clear understanding of how and why user needs must be at the forefront of a project.  
 * **Materials needed**:   
-  * Whiteboard & markers  or digital collaboration tool (optional)  
+  * Whiteboard & markers or digital collaboration tool (optional)  
 * **Instructions:**   
   Introduce the activity (what it is and why) and include what they can expect as to sequence of events and timing. 
 
@@ -229,7 +230,7 @@ Total time allocation: 60 minutes
 
    Total time allocation: 10 min
 
-   #### Activity instructions:  
+   #### Activity instructions: 
 
 * **Purpose:** Participants are required to think specifically about how to communicate the key elements that support their users’ needs.   
 * Expected Outcomes: Learners will be able to prioritize users’ needs when delivering a product or service.  
@@ -251,11 +252,13 @@ Total time allocation: 60 minutes
    #### Activity instructions: 
 
 * **Purpose:** To understand the benefits of Agile  
+
 * **Expected Outcomes:** Learners will be able to articulate the benefits of Agile and where it could benefit their work. 
+
 * **Materials needed:**   
   * None  
 * **Instructions:**   
-  Introduce the activity (what is it and why) 
+  Introduce the activity (what is it and why).
 
   **Prompt:**  
   Think back to a digital service or IT project you were involved in—whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
@@ -322,6 +325,7 @@ Total time allocation: 60 minutes
 
    Total time allocation: 10 min
 
+
    #### Activity instructions:  
 
 * **Purpose:** Learners will apply critical thinking and develop evaluative habits when reviewing technical proposals, specifically through the lens of data.  
@@ -348,6 +352,7 @@ Total time allocation: 60 minutes
 ### 9. Discussion: Benefits And challenges Of Agile development methods 
 
    Total time allocation: 5-10 min
+
 
    #### Activity instructions:  
 
@@ -401,7 +406,7 @@ Total time allocation: 60 minutes
 Total time allocation: 5-10 min
 
 #### Activity instructions: 
-   
+
 * **Purpose:** Learners will deepen their understanding of how transparency in software components contributes to risk management in government acquisitions.  
 * **Expected Outcomes**: Learners will be able to explain how an SBOM supports supply chain security, identifies vulnerabilities, and improves oversight of third-party software components.  
 * **Materials needed**:   
@@ -422,11 +427,13 @@ Total time allocation: 5-10 min
 
 ---
 
+
+
 ### 12. Discussion: Procurement tradeoffs: Proprietary vs. Open-Source Software
 
 Total time allocation: 5-10 min
 
-   #### Activity instructions:  
+   #### Activity instructions: 
 
 * **Purpose**: To explore and understand the major tradeoffs between proprietary and open-source software.  
 * **Expected Outcomes**: Learners will be able to identify and articulate key differences, advantages and disadvantages between proprietary and open-source software for procurement, and recognize critical factors for decision-making in real-world scenarios.  
@@ -450,7 +457,7 @@ Total time allocation: 5-10 min
 
 ---
 
-### 13. Activity: [Build-a-Digital-Service Workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
+### 13. Activity: [Build-a-Digital-Service workshop](https://github.com/usds/ditap-curriculum-update/blob/33e9a36caebaa7808e3b61f8973e3f0c4c790554/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Activity%3A%20Build%20a%20Digital%20Service%20Workshop.md) 
 
 Groups will create a new government digital service to help a specific user group (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  <br>
 Total time allocation: 60-90 min
@@ -477,22 +484,22 @@ Total time allocation: 60-90 min
 
   * Roles within each group (optional):  
     * *Facilitator* – keeps team on track  
-      * *Note taker/sketcher* – captures wireframe and key points  
-      * *Presenter* – shares out to full group  
-      * *CO/COR rep* – advocates for procurement alignment
+    * *Note taker/sketcher* – captures wireframe and key points  
+    * *Presenter* – shares out to full group  
+    * *CO/COR rep* – advocates for procurement alignment
 
-    *  They must address these questions:   
-         * What is the core user need?  
-         * What does the interface/wireframe look like?  
-         * How will you ensure accessibility and iterative feedback?  
-         * What procurement considerations or contract decisions will enable this?
+  * They must address these questions:   
+      * What is the core user need?  
+      * What does the interface/wireframe look like?  
+      * How will you ensure accessibility and iterative feedback?  
+      * What procurement considerations or contract decisions will enable this?
 
-    * With the following deliverables (paste into chat/slides):   
-         * Description of digital service  
-         * Wireframe or sketch (rough is fine\!) of a user-facing interface or service flow  
-         * Accessibility considerations (What barriers will you address?)  
-         * Feedback loop (When/how will users or stakeholders provide input?)  
-         * Key procurement decisions (What contract features support delivery? Modular? Coaching? ATO strategy?)
+  * With the following deliverables (paste into chat/slides):   
+      * Description of digital service  
+      * Wireframe or sketch (rough is fine\!) of a user-facing interface or service flow  
+      * Accessibility considerations (What barriers will you address?)  
+      * Feedback loop (When/how will users or stakeholders provide input?)  
+      * Key procurement decisions (What contract features support delivery? Modular? Coaching? ATO strategy?)
 
   * **Bring the groups back from breakouts.**
 
@@ -511,9 +518,9 @@ Total time allocation: 60-90 min
 
 * **Debrief and Discussion (5-10 min)**  
   **Prompts:**   
-  * What stood out in how teams approached user needs?  
-  * What strategies did you see for managing feedback and iteration?  
-  * What procurement decisions helped support flexibility or continuous delivery?  
+  * What stood out in how teams approached user needs?
+  * What strategies did you see for managing feedback and iteration?
+  * What procurement decisions helped support flexibility or continuous delivery?
   * What felt challenging or unclear in applying these concepts?
 
     **Encourage open reflection in chat or voice.** 
@@ -613,7 +620,7 @@ Total time allocation: 5–10 min
 Total time allocation: 5–10 min
 
 #### Activity instructions:
- 
+
 * **Purpose:** To understand when use of AI is appropriate or inappropriate.  
 * **Expected Outcomes:** Learners will be able to recognize tasks for which AI is not an appropriate solution.   
 * **Materials needed:**   
@@ -642,6 +649,7 @@ Transparency and auditability |
 ### 18. Discussion: Use of machine learning 
 
 Total time allocation: 5–10 min  
+
 
 #### Activity instructions:  
 
@@ -846,8 +854,10 @@ Total time allocation: 15-20 min
   * Identity and Access Management (IAM)  
   * Vulnerability management  
   * SIEM integration  
+  
     **Prompt:**  
     We’re going to break out into small groups for ten minutes. Then during the debrief, each group will share their questions.   
+
     **Prompt:**  
     You’re preparing for an early acquisition planning meeting. Based on your assigned topic, come up with 2–3 questions you would ask the technical or security team to ensure this requirement is built into the contract.
 
