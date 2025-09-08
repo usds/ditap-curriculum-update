@@ -5,34 +5,34 @@
 This activity supports digital service acquisition professionals in developing the skills to influence key stakeholders in legal, governance, and leadership roles. Scenarios reflect real-world, bureaucratic challenges that arise when advocating for non-traditional, user-centered procurement strategies. The emphasis is on developing strategies to navigate resistance and promote iterative, mission-aligned solutions.
 
 **Roles Overview**:
-* **Role A**: Digital service or acquisition professional with a specific goal/request.  
-* **Role B**: A key stakeholder with decision-making authority who may resist the request (e.g., OGC Attorney, Procurement Executive, IT Governance Lead). Ideally played by a facilitator or guest actor.  
-* **Role C**: Observers and debrief leaders who evaluate the scenario and provide feedback on the influencing strategies used.
+* **Role A**: Digital service or acquisition professional with a specific goal/request  
+* **Role B**: A key stakeholder with decision-making authority who may resist the request (e.g., OGC Attorney, Procurement Executive, IT Governance Lead). Ideally played by a facilitator or guest actor  
+* **Role C**: Observers and debrief leaders who evaluate the scenario and provide feedback on the influencing strategies used
 
-## Activity Format: 
+## Activity format: 
 Student-Led Role Play (Preferred for In-Person)
 
 **Duration**: 60 minutes total (3 rounds \+ transitions)
 
 **Group Size**: 3 to 6 participants per group, using in-person table groups or virtual breakout rooms.
 
-### Activity Structure (Per Scenario)
+### Activity structure (per scenario)
 
-* 5 minutes – Prep:  
-  * Role A prepares their strategy.  
-  * Role B reviews their stakeholder stance.  
-  * Role C reviews the scenario and prepares to lead the debrief.  
-* 5 minutes – Role Play:  
-  * Roles A and B engage in the conversation.  
-  * Facilitator may lightly guide if needed.  
-* 5 minutes – Debrief:  
-  * Role C leads the reflection using a set of structured prompts.  
-* 5 minutes – Transition:  
-  * Return to main room.  
-  * Share key takeaways.  
-  * Rotate participants and assign the next scenario.
+* Prep (5 min):  
+  * Role A prepares their strategy  
+  * Role B reviews their stakeholder stance  
+  * Role C reviews the scenario and prepares to lead the debrief  
+* Role Play (5 min):  
+  * Roles A and B engage in the conversation  
+  * Facilitator may lightly guide if needed  
+* Debrief (5 min):  
+  * Role C leads the reflection using a set of structured prompts  
+* Transition (5 min):  
+  * Return to main room  
+  * Share key takeaways  
+  * Rotate participants and assign the next scenario
 
-### Facilitator Instructions
+### Facilitator instructions
 
 **Step 1**: Break into Groups
    - Assign 3 to 6 participants per group. For virtual sessions, use breakout rooms. Each group will rotate through different roles and scenarios across three rounds.
@@ -48,15 +48,15 @@ Student-Led Role Play (Preferred for In-Person)
 * Do not share the specific role sheets for A or B with the whole group.  
 * If participants have trouble accessing the file, screen share, or paste the text into chat.
 
-**Step 4**: Start the Prep Time (5 Minutes) 
+**Step 4**: Start the Prep Time (5 min) 
 * Use a visible or verbal timer.  
 * Encourage camera off/mute for focused prep.
 
-**Step 5**: Run the Role Play (5 Minutes)
+**Step 5**: Run the Role Play (5 min)
 * Ask Roles A and B to turn on their cameras and begin.  
 * Light facilitation is fine to prompt stuck participants.
 
-**Step 6**: Facilitate the Debrief (Led by Role C)
+**Step 6**: Facilitate the Debrief (led by Role C)
 - "Thank you, Role A and B. Now it's Role C's turn to guide the debrief. You observed the full conversation—what stood out?"
 
 Provide or screen-share the following prompts:</br>
@@ -86,28 +86,28 @@ Repeat for three rounds or as time allows.
 
 This can be used in a future class session or submitted as a reflection.
 
-### Facilitator Notes:
+### Facilitator notes:
 * Prioritize realism and relatability over performance.  
 * Be encouraging but firm with time.  
 * Capture powerful strategies or themes from each group to share at the end.
 
 Let participants know that there is no perfect script—this is practice for messy, human conversations that require empathy, clarity, and confidence.
 
-## Alternative Activity Set up:   
+## Alternative activity setup   
 
 **Roles Overview**:
 * **Role A**: Played by a facilitator. A digital service or acquisition professional with a specific goal/request.  
 * **Role B**: Played by a facilitator or guest actor. A key stakeholder with decision-making authority who may resist the request (e.g., OGC Attorney, Procurement Executive, IT Governance Lead).  
 * **Role C**: All participants. Observers and debrief leaders who evaluate the scenario and provide feedback on the influencing strategies used.
 
-### Activity Format: 
+### Activity format 
 Facilitator-Led Role Play (Ideal for Short Sessions or Hesitant Participants)
 
 **Duration**: 60 minutes total (3 rounds \+ transitions)
 
 **Group Size**: The full cohort watches the role play, then breaks into small groups (3-6 participants) for debriefing and discussion.
 
-### Activity Structure (Per Scenario)
+### Activity structure (per scenario)
 
 * 5 minutes – Live Role Play:  
   * Facilitators act out the scenario in front of the whole group.  
@@ -117,23 +117,23 @@ Facilitator-Led Role Play (Ideal for Short Sessions or Hesitant Participants)
 * 5 minutes – Full Group Share-Out:  
   * Select groups report back key takeaways before the following scenario begins.
 
-### Facilitator Instructions
+### Facilitator instructions
 
 **Step 1**: Introduce the Format
 - "In this version of the activity, facilitators will act out each influencing scenario for you. As observers, your job is to analyze the strategies used, reflect on what was effective, and think about how you would handle similar challenges in your work."
 
-**Step 2**: Perform the Scenario (5 Minutes)
+**Step 2**: Perform the Scenario (5 min)
 * Facilitators play out the scripted exchange between Role A and Role B.  
 * Keep it realistic and grounded in agency experience.
 
-**Step 3**: Break into Debrief Groups (10 Minutes)
+**Step 3**: Break into Debrief Groups (10 min)
 * Send participants into breakout groups (3–6 people per group).  
 * Assign a notetaker or rotating speaker to capture key points.  
 * Display or distribute the following prompts:
 
 Debrief Prompts for Participants (Role C):
 
-1. What was Role A’s ask?  
+1. What was Role A’s ask?
 2. What conflict did Role B introduce?  
 3. What strategies did Role A use to influence Role B?  
 4. What seemed effective or ineffective?  
@@ -142,7 +142,7 @@ Debrief Prompts for Participants (Role C):
 
 Encourage each group to consider how these strategies could be adapted to their context.
 
-**Step 4**: Regroup and Share Insights (5 Minutes)
+**Step 4**: Regroup and Share Insights (5 min)
 * Bring everyone back to the main session.  
 * Ask 1–2 groups to share highlights.  
 * Optionally, facilitators can add brief reflections on what they modeled and why.
@@ -175,9 +175,9 @@ Conversation Goal: Your objective is to gain approval to proceed with the acquis
 
 You want to demonstrate that this solution qualifies as COTS under the FAR definition—it is commercially available, broadly adopted, and supported through integrators and commercial services. You must argue that, while it is not turnkey, it functions similarly to many COTS tools that also require configuration, integration, and support contracts. You’re prepared to propose mitigation steps like:
 
-* Procuring commercial integration/support services,  
-* Documenting precedent from other federal agencies, and  
-* Offering a limited-scope pilot to demonstrate feasibility.
+* Procuring commercial integration/support services
+* Documenting precedent from other federal agencies
+* Offering a limited-scope pilot to demonstrate feasibility
 
 Your fallback is to secure conditional approval to issue a limited pilot or prototype contract while continuing to evaluate governance concerns.
 

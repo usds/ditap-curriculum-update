@@ -42,7 +42,7 @@ Traditional government acquisition strategies were built around static requireme
    * Industry data shows Agile practices take 2–3 years to fully mature—but lead to a 3x higher likelihood of success (Standish Chaos Report).
 
    **_Use procurement as a tool to build maturity over time through structured learning, iteration, and capability building._**
-
+   
 ## Applying a whole-system, maturity-aligned approach
 
 ### The problem with one-off strategies:
@@ -55,7 +55,7 @@ Additionally, **organizational change fatigue** is a real barrier. Many federal 
 
 Finally, **policy and leadership readiness** must be considered. A procurement plan that depends on rapid decision-making, risk tolerance, or modern interpretation of FAR flexibilities will not succeed in environments where leadership is risk-averse or unfamiliar with digital acquisition norms. Without buy-in from legal, oversight, and executive stakeholders, even the most well-intentioned digital acquisition strategy can be blocked or significantly delayed. A successful strategy, therefore, must view acquisition as part of a **whole organizational ecosystem**—one that integrates funding cycles, human capital realities, change management dynamics, and governance maturity into its structure. Only by accounting for these constraints can agencies create a strategy that is not just ideal on paper, but executable in practice.
 
-### The modern approach
+## The modern approach:
 
 A digital service acquisition strategy should be a whole-system risk reduction plan. A modern digital service acquisition strategy should not be treated as a transactional exercise to fulfill a single requirement, but rather as a **whole-system risk reduction plan**—a strategic framework that aligns the agency’s long-term goals, technical architecture, and operational realities. This kind of strategy weaves together multiple perspectives across the organization to create not only a pathway for successful delivery, but also a foundation for sustainable, adaptive capacity over time.
 
@@ -107,7 +107,7 @@ Utilizing an Agile or design maturity model to assess your implementation team m
 
 **In-class Activity**: Walk through the [TechFarHub Maturity Model](https://techfarhub.usds.gov/resources/learning-center/agency-maturity-for-agile/). 
 
-### Digital services industry maturity
+## Digital services industry maturity
 
 A key element of using maturity models is that they’re typically developed through the collective knowledge and experience of industry subject matter experts, then validated through real-world application and feedback within that same industry to ensure relevance and credibility. Consider the [Digital Services Coalition’s Digital Services Maturity Model](https://docs.google.com/spreadsheets/d/1Dv9UCK20OyAakRptw8-RrG9b69IqqK4n8bMK4YNSxLo/edit?gid=1425401169%23gid=1425401169), which is used to screen potential new applicants to the non-profit trade association. This maturity model was developed to highlight the unique characteristics of companies working on digital transformations in government environments.
 
