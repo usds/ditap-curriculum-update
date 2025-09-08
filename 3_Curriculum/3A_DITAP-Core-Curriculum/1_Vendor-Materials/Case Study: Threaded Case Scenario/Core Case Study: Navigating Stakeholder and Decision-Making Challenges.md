@@ -13,7 +13,7 @@ IV. Evaluation and Feedback</br>
 
 This case study reflects an authentic scenario that Acquisitions professionals could experience when procuring digital services. It is intended to simulate the conditions faced when acquiring digital assets and the associated risks and barriers presented by diverse stakeholders with varied personalities and perspectives. Learners are provided a comprehensive view of the situation, along with details regarding each stakeholder group and objective data to support their concerns in acquiring the new software. They will be prompted to consider relevant policies, procedures, and opportunities to source additional data, to further align their approach with the requirements. 
 
-**Approach and Delivery Format** 
+**Approach & Delivery Format** 
 
 The scenario presented in this case study is designed to be universally applicable to a variety of government agencies. It is designed for flexibility in delivery mode and the time allotted to complete it. Each milestone includes a percentage of time needed to complete the analysis allowing for a flexible delivery over days, weeks, or more. The exercise also includes facilitator instructions and tips for delivery. Learner instructions guide them through navigating the case study and completing each exercise milestone. 
 
@@ -48,14 +48,14 @@ This case study focuses on the challenges of navigating multi-stakeholder decisi
 
 The purpose of this case study analysis is to consider creative solutions to a realistic scenario learners may encounter as an Acquisition team member procuring digital services, as there is often no single way to solve a problem. In this exercise, learners should carefully analyze the information and research provided and determine a solution that accounts for the varied stakeholder needs involved. Their analysis should include the research or data used to support their solution. To fully analyze the case, learners will engage in several exercises to consider the case from different perspectives using different analysis techniques. 
 
-### Learning Objectives  
+### Learning objectives  
 
 After considering this case study and forming a solution, learners will build the skills to: 
 - Analyze conflicting stakeholder priorities in the CRM acquisition process.
 - Evaluate potential solutions for integration and data security.
 - Develop a strategy that addresses all concerns and ensures the CRM meets agency requirements. 
 
-### Learner Instructions
+### Learner instructions
 
 **Overview** 
 
@@ -68,7 +68,7 @@ After reading the scenario, you will consider three key questions and use them t
 2. What strategies can ensure data security measures do not impact system performance?
 3. How can Casey mediate stakeholder concerns to reach a consensus? 
 
-### Milestone Exercises 
+### Milestone exercises 
 
 You will complete this case study analysis through several milestone exercises leading to a final proposed solution presentation. Each milestone exercise will be reviewed with your peers and your facilitator. As your analysis progresses, you will use new information uncovered from each milestone to form your final opinion on the appropriate approach to solving the problem presented. There are five milestone exercises: (1) Stakeholder Analysis, (2) Evaluation of Integration Solutions, (3) Evaluation of Data Security Solutions, (4) Written Case Study Analysis, and (5) Final Presentation. 
 
@@ -97,7 +97,7 @@ The process of acquiring new digital assets like this is a complicated one. Unli
 
 <img width="54" height="59" alt="facilitator tip icon" src="https://github.com/user-attachments/assets/e2e7551c-6cac-4da5-b028-49d10d102f26" /> _Facilitator Tip: In the next section, learners are introduced to the players in the scenario. Learners may not be given all the information up front. Remind learners that as they work through the case study, research and other activities may uncover additional information._
 
-### The players \- Part I 
+### The Players \- Part I 
 
 **Acquisitions Office: Casey** 
 
@@ -141,7 +141,7 @@ Alex notes that their experience with adopting cloud-based software has been lim
 
 <img width="68" height="58" alt="learner reflection images" src="https://github.com/user-attachments/assets/e267dbb1-ab21-41d2-8188-f56784de6bf9" /> _Learner Reflection Exercise: If the next step is a meeting with the Compliance Officers, what is the desired outcome from the meeting, and what should Alex come prepared to discuss? Are there any risks to consider?_
 
-### The players \- Part II 
+### The Players \- Part II 
 
 **Compliance Office: Riley** 
 
@@ -171,7 +171,7 @@ During their joint working sessions, Casey asks Alex and Riley to share the majo
 
 Riley adds, “With proper planning, testing, and cross-departmental coordination, these challenges can be mitigated. We would have to create a strong strategic plan for a successful implementation. Updating legacy systems to meet the new demands of the cloud system, raises major concerns for me as I think about ensuring regulatory compliance. Newly developed solutions may require compliance reviews, risk management policies, and additional implementation strategies.” Alex’s face shows some disagreement. “But, updating legacy systems might mean fewer complications because the tools have already been audited and approved.” Alex leans back in the chair with arms crossed. 
 
-Riles continues, “From a security perspective, whether we update legacy systems or develop newly built custom integrations, data security is a critical concern. In either option Alex has proposed, we’d have to run regular security audits and updates to protect the organization’s infrastructure. This would create serious issues with time, resources, and potential disruptions. But, what about developing and implementing advanced encryption and access controls?” 
+Riley continues, “From a security perspective, whether we update legacy systems or develop newly built custom integrations, data security is a critical concern. In either option Alex has proposed, we’d have to run regular security audits and updates to protect the organization’s infrastructure. This would create serious issues with time, resources, and potential disruptions. But, what about developing and implementing advanced encryption and access controls?” 
 
 “This might help avert security threats, but encryption would slow everything down. Increased latency, more storage issues, and potential performance crashes. My team has to handle all of that and we just can’t take those hits.” 
 
@@ -197,7 +197,7 @@ With these proposed solutions in mind, Casey researches some industry white pape
 
 <img width="68" height="58" alt="learner reflection images" src="https://github.com/user-attachments/assets/e267dbb1-ab21-41d2-8188-f56784de6bf9" /> _Learner Reflection Exercise: There is often more than one possible solution to satisfy the stakeholders and requirements. Are there other solutions Casey has not yet considered?_
 
-### Facilitator Instructions
+### Facilitator instructions
 
 **Group Discussion** 
 
@@ -209,7 +209,7 @@ After teams have had time to discuss, bring them back together to share their in
 
 <img width="54" height="59" alt="facilitator tip icon" src="https://github.com/user-attachments/assets/e2e7551c-6cac-4da5-b028-49d10d102f26" /> _Facilitator Tips: Circulate between groups (if delivering in person) or among breakout rooms (if delivering virtually).  / Each milestone activity has a suggested percentage representing the relative proportion of time to spend on that activity. Adjust actual timing accordingly._
 
-### Learner Instructions
+### Learner instructions
 
 **Discussion Questions:** Consider the questions below and discuss them with your team. 
 - How can Casey balance the cost and time implications of custom integration solutions?
@@ -224,11 +224,11 @@ After teams have had time to discuss, bring them back together to share their in
 **Additional Resources:** Consider these additional resources as you complete each milestone: 
 - Integration feasibility report and cost analysis 
 - Data security assessment and encryption impact study 
-- [Federal Acquisition Website](https://digital.gov/topics/acquisition/) 
+- [Federal Acquisition Website](https://digital.gov/topics/acquisition/) (archived [August 26, 2025](https://web.archive.org/web/20250826213615/https://digital.gov/topics/acquisition/))
 - [USDS TechFAR Hub](https://techfarhub.usds.gov/get-started/)  
 - [GAO Cost Estimating and Assessment Guide](https://guides.gaoinnovations.gov/cost-guide/index.html) 
 
-## Milestone Exercises 
+## Milestone exercises  
 
 **Milestone 1: Stakeholder Analysis (15%)** 
 
@@ -298,7 +298,7 @@ Your analysis will be assessed on your group’s ability to address stakeholder 
 
 ## IV. Evaluation and feedback 
 
-### Learner Instructions: Evaluation Criteria
+### Learner instructions: Evaluation criteria
 
 The facilitator will evaluate each group’s analysis and presentation on a scale of 1-5 (1 \= Unsatisfactory, 5 \= Excellent) considering the following elements of the exercise: 
 - **Understanding the Problem:** This criterion assesses how well the analysis identifies and understands the core issues and challenges presented in the case. It includes recognizing the key problems for each set of stakeholders, their implications, and any underlying factors contributing to the scenario. 
@@ -311,10 +311,10 @@ The facilitator will evaluate each group’s analysis and presentation on a scal
 
 ## Conclusion
 
-### Facilitator Instructions
+### Facilitator instructions
 With the full class, debrief a summary of the evaluation and feedback (recapping the case study’s objectives and invite learners to share their initial reflections), then ask learners to share their insights below with the other participants. Once the debrief exercise is complete, offer Congratulations as drafted below. 
 
-### Learner Instructions
+### Learner instructions
 Take a few minutes with a few of your fellow learners to make some notes about the following reflections, and share with the class as guided by the facilitator. 
 
 - Highlight key insights and connect them to the case study’s concepts, addressing any questions or clarifications needed. 
@@ -328,3 +328,4 @@ You’ve successfully navigated the complexities of this case study analysis exe
 Through this exercise, you have showcased your ability to tackle real-world acquisition challenges and derive insightful solutions. This achievement highlights both your technical expertise and your critical analysis skills for future success as a Contracting Officer. 
 
 Keep up the great work and continue to build on this accomplishment. Well done\! 
+
