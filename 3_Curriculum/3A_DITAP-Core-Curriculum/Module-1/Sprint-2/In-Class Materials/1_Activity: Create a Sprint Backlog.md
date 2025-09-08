@@ -1,5 +1,5 @@
 # Activity: Create a Sprint Backlog
-_Module 1, Sprint 2_
+**Module 1 Sprint 2**
 
 - **Time**: 45–60 minutes
 - **Audience**: Federal procurement professionals (1102s) learning Agile & HCD
