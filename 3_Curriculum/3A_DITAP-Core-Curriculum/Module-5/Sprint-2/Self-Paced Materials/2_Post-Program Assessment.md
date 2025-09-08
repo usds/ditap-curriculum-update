@@ -15,7 +15,7 @@
 You are a Contracting Officer assigned to a critical modernization effort for your agency's core financial system. The current system is decades old, highly customized, and difficult to maintain. Previous attempts at modernization using traditional "big-bang" waterfall methods have failed, leading to significant financial waste and a deeply entrenched culture of risk-aversion within leadership. There's a strong resistance to adopting modern digital service acquisition practices like agile or human-centered design. Everyone agrees the system is problematic, but no one wants to "rock the boat." You realize your expertise in digital services acquisition is crucial to shifting this mindset and setting the acquisition on a successful path.
 
 
-### Question 1
+### Question 1 
 **As the Contracting Officer, your immediate goal is to address the deeply rooted cultural resistance and foster an openness to new approaches. Which of the following is the optimal first step to initiate change in this risk-averse environment?**  
 
 Relevant modules: Module 2 (Assessing Agency Readiness) and Module 5 (Leading Change as an Individual)
@@ -43,7 +43,7 @@ Relevant modules: Module 2 (Assessing Agency Readiness) and Module 5 (Leading Or
 
 ---
 
-### Question 3
+### Question 3 
 **The current contract performance metrics, designed for a waterfall approach, indicate failure to meet needs. You also notice challenges with the existing culture and processes.  Which option is the best tactic to get things moving in the right direction?** 
 
 Relevant modules: Module 4 (Performance Measurement Under Agile Delivery Contracts) and Module 5 (Leading Organizational Change)
@@ -62,7 +62,9 @@ Relevant modules: Module 4 (Performance Measurement Under Agile Delivery Contrac
 You are a newly warranted Contracting Officer responsible for a significant new digital services contract. This enterprise-level system will consolidate and streamline several manual processes across various agency departments, impacting thousands of employees and external users. Your agency leadership and the program office are enthusiastic about adopting modern digital service acquisition principles, but you recognize that digital service expertise is not yet widespread within the agency. You have ample time for planning and are seen as the expert responsible for ensuring this complex project is delivered on time and within budget.
 
 
-### Question 1: What is the most effective initial step to ensure the new enterprise system is designed to truly meet user needs and deliver mission outcomes? 
+### Question 1
+
+**What is the most effective initial step to ensure the new enterprise system is designed to truly meet user needs and deliver mission outcomes?**
 
 Relevant module: Module 2 (Define Success for your Digital Service Acquisition)
 
@@ -75,7 +77,9 @@ Relevant module: Module 2 (Define Success for your Digital Service Acquisition)
 
 ---
 
-### Question 2: The program office expresses reluctance to consider Software-as-a-Service (SaaS) or Platform-as-a-Service (PaaS) offerings because they haven't "gone to cloud yet" and are concerned about security. What strategy should you employ to start de-mystifying these technologies and inform the acquisition strategy?
+### Question 2
+
+**The program office expresses reluctance to consider Software-as-a-Service (SaaS) or Platform-as-a-Service (PaaS) offerings because they haven't "gone to cloud yet" and are concerned about security. What strategy should you employ to start de-mystifying these technologies and inform the acquisition strategy?**
 
 Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 2 (Assessing Agency Readiness)
 
@@ -88,7 +92,9 @@ Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 2 (Assessi
 
 ---
 
-### Question 3: You need to draft the solicitation for this complex digital service. The program office's initial draft is a prescriptive document with a fixed three-year waterfall approach. You want to shift it to be outcome-based, flexible, and encourage iterative development. Which approach is the best way to structure the solicitation to achieve this goal? 
+### Question 3
+
+**You need to draft the solicitation for this complex digital service. The program office's initial draft is a prescriptive document with a fixed three-year waterfall approach. You want to shift it to be outcome-based, flexible, and encourage iterative development. Which approach is the best way to structure the solicitation to achieve this goal?**
 
 Relevant modules: Module 3 (Develop a Solicitation)
 
@@ -101,7 +107,9 @@ Relevant modules: Module 3 (Develop a Solicitation)
 
 ---
 
-### OPTIONAL - Question 4: What funding strategy best supports large-scale digital transformations while maintaining flexibility and reducing risk?  
+### Optional - Question 4
+
+**What funding strategy best supports large-scale digital transformations while maintaining flexibility and reducing risk?** 
 
 Relevant modules: Module 3 (Acquisition Strategy Design) and Module 4 (Contract Management and Performance)
 
@@ -119,7 +127,9 @@ Relevant modules: Module 3 (Acquisition Strategy Design) and Module 4 (Contract 
 You are the Contracting Officer for a major digital transformation program that involves consolidating several legacy systems into a new, modular enterprise platform. To mitigate vendor lock-in and foster innovation, the agency has opted for a multi-vendor strategy, awarding separate contracts to five different vendors for interconnected modules (e.g., identity management, data analytics, user interface, legacy data migration). While this approach offers flexibility, it has introduced complex challenges related to integration, shared accountability, and consistent performance measurement across the different vendor teams.
 
 
-### Question 1: Given the multi-vendor environment, what is the best practice for effectively governing shared responsibilities, ensuring seamless integration, and fostering collaboration among the different vendor teams? 
+### Question 1
+
+**Given the multi-vendor environment, what is the best practice for effectively governing shared responsibilities, ensuring seamless integration, and fostering collaboration among the different vendor teams?** 
 
 Relevant module: Module 4 (Management of Digital Service Delivery and Performance Measurement Under Agile Delivery Contracts)
 
@@ -132,7 +142,9 @@ Relevant module: Module 4 (Management of Digital Service Delivery and Performanc
 
 ---
 
-### Question 2: Your program wants to ensure that the agile-developed components across different vendors work seamlessly together in the final integrated platform. Which approach to incorporating warranties will best mitigate integration risks and ensure accountability for the overall system quality? 
+### Question 2
+
+**Your program wants to ensure that the agile-developed components across different vendors work seamlessly together in the final integrated platform. Which approach to incorporating warranties will best mitigate integration risks and ensure accountability for the overall system quality?** 
 
 Relevant module: Module 4 (Performance Measurement Under Agile Delivery Contracts)
 
@@ -145,7 +157,9 @@ Relevant module: Module 4 (Performance Measurement Under Agile Delivery Contract
 
 ---
 
-### Question 3: After several sprints, you observe a decline in reported velocity and an uptick in defects within one vendor's module, despite automated tests still showing satisfactory results. The program office cannot specifically identify the problem. Which is the best response to address these issues and understand their root causes?  
+### Question 3
+
+**After several sprints, you observe a decline in reported velocity and an uptick in defects within one vendor's module, despite automated tests still showing satisfactory results. The program office cannot specifically identify the problem. Which is the best response to address these issues and understand their root causes?**
 
 Relevant module: Module 4 (Performance Measurement Under Agile Delivery Contracts and Contract Management and Problem Resolution)
 
@@ -158,7 +172,8 @@ Relevant module: Module 4 (Performance Measurement Under Agile Delivery Contract
 
 ---
 
-### OPTIONAL - Question 4: How should cybersecurity be integrated across multiple vendors to ensure secure delivery in a modular environment?  
+### Optional - Question 4
+**How should cybersecurity be integrated across multiple vendors to ensure secure delivery in a modular environment?** 
 
 Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 4 (Delivery Management and Performance)
 
@@ -171,7 +186,9 @@ Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 4 (Deliver
 
 ---
 
-### OPTIONAL - Question 5: When transitioning vendors in a modular, multi-vendor environment, what is the best strategy to reduce the risk of knowledge loss and ensure continuity?  
+### Optional - Question 5
+
+**When transitioning vendors in a modular, multi-vendor environment, what is the best strategy to reduce the risk of knowledge loss and ensure continuity?** 
 
 Relevant modules: Module 3 (Solicitation Development), Module 4 (Delivery Management), and Module 5 (Leading Organizational Change)
 
@@ -190,7 +207,9 @@ Your agency is exploring the procurement of a new AI-enabled tool to assist in p
 
 
 
-### Question 1: When establishing evaluation criteria for the AI-enabled tool, which of the following is the most critical factor to prioritize to mitigate concerns about algorithmic bias and ensure fairness in citizen application processing?  
+### Question 1
+
+**When establishing evaluation criteria for the AI-enabled tool, which of the following is the most critical factor to prioritize to mitigate concerns about algorithmic bias and ensure fairness in citizen application processing?** 
 
 Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 3 (Developing a Solicitation)
 
@@ -203,7 +222,9 @@ Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 3 (Develop
 
 ---
 
-### Question 2: Your program manager is excited about integrating an open-source library into the core of the new AI-enabled system, believing "open source is free and means the government owns everything." How should you, as the Contracting Officer, address potential intellectual property (IP) and data rights concerns to ensure the agency maintains necessary control and flexibility?  
+### Question 2
+
+**Your program manager is excited about integrating an open-source library into the core of the new AI-enabled system, believing "open source is free and means the government owns everything." How should you, as the Contracting Officer, address potential intellectual property (IP) and data rights concerns to ensure the agency maintains necessary control and flexibility?**  
 
 Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 3 (Developing a Successful Acquisition Strategy)
 
@@ -216,7 +237,9 @@ Relevant modules: Module 1 (Digital Service Tech Bootcamp) and Module 3 (Develop
 
 ---
 
-### Question 3: To ensure ongoing accountability and ethical use of the AI-enabled application post-award, what is the most effective strategy to ensure continuous human oversight and the ability to intervene if the AI's decision-making process becomes problematic or biased over time?  
+### Question 3
+
+**To ensure ongoing accountability and ethical use of the AI-enabled application post-award, what is the most effective strategy to ensure continuous human oversight and the ability to intervene if the AI's decision-making process becomes problematic or biased over time?** 
 
 Relevant modules: Module 3 (Developing a Solicitation), Module 4 (Management of Digital Service Delivery), and Module 5 (Leading Organizational Change)
 
