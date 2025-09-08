@@ -13,7 +13,7 @@ IV. Evaluation and Feedback</br>
 
 This case study reflects an authentic scenario that Acquisitions professionals could experience when procuring digital services. It is intended to simulate the conditions faced when acquiring digital assets and the associated risks and barriers presented by diverse stakeholders with varied personalities and perspectives. Learners are provided a comprehensive view of the situation, along with details regarding each stakeholder group and objective data to support their concerns in acquiring the new software. They will be prompted to consider relevant policies, procedures, and opportunities to source additional data, to further align their approach with the requirements. 
 
-**Approach & Delivery Format** 
+**Approach and Delivery Format** 
 
 The scenario presented in this case study is designed to be universally applicable to a variety of government agencies. It is designed for flexibility in delivery mode and the time allotted to complete it. Each milestone includes a percentage of time needed to complete the analysis allowing for a flexible delivery over days, weeks, or more. The exercise also includes facilitator instructions and tips for delivery. Learner instructions guide them through navigating the case study and completing each exercise milestone. 
 
