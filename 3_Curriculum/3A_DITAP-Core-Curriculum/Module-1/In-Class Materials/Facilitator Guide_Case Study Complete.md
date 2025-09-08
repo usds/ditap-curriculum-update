@@ -1,6 +1,6 @@
 # Case Study Facilitator Guide
 
-**Pacing Chart**  
+**Pacing chart**  
 
 | Module | Sprint | Activity Title | Case Study Milestone Alignment |
 | :---- | :---- | :---- | :---- |
