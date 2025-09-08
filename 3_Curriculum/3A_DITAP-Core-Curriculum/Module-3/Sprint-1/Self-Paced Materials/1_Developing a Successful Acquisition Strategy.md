@@ -137,7 +137,10 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Integration/interoperability**<br>- Higher integration costs<br>- Lack of data portability<br>- Higher enterprise costs<br>- Effects user experience and adoption | - Adherence to government data/API standards<br>- Mandate documentation and automate where possible<br>- Test integration points<br>- Technical discovery and architecture reviews | |
 | **Cultural resistance**<br>- Slower time to market<br>- Reduces benefits of Agile<br>- Misaligned expectations | - Engage leadership early<br>- Include change management as a CLIN<br>- Identify internal champions<br>- Demand cross-functional team involvement | |
 | **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
-| **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | |
+| **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | 
+| **ICT Accessibility Non-compliance** | Document Section 508 compliance requirements early in acquisition planning, identify exceptions for national security systems or incidental contractor use, and prepare exemption documentation for undue burden or fundamental alteration schenarios | [Section 508.gov compliance tools](https://www.section508.gov/tools/) |
+| **Inadequate Competition Advocay** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
+| **Technology Evolution Mismatch** | Use modular contracting with 180-day award and 18-month delivery timelines to allow subsequent increments to leverage technology advances | [FAR 39.102 contracting guidance](https://www.acquisition.gov/far/39.102) ||
 
 
 ### Discussion question (optional):
@@ -184,7 +187,12 @@ The following challenges and recommended approaches are offered to help guide yo
   * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. 
 * *Use warranties and innovate*: Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce.
 
+**Challenge: Scope your contract safely.**
+- *Utilize enhanced modular contracting requirements*. The revised FAR Part 39 requires agencies to use modular contracting for major ICT systems to the maximum extent possible, with contracts awarded within 180 days and deliveries scheduled within 18 months of solicitation. Each increment should comprise a system that is not dependent on subsequent increments to perform its principal functions.
+- *Structure for technology evolution*. Design contracts to allow subsequent increments to leverage the technology evolution that occurs during the implementation of earlier increments. This built-in flexibility reduces the need for contract termination due to technological obsolescence.
+
 ---
+
 ## Stakeholder Engagement: Capability and Cooperation
 
 Many of the techniques you are learning in this program will be new territory for your stakeholders. Customers, as well as stakeholders in the acquisition review process, may be put off by all these unfamiliar concepts. They may be resistant to moving the acquisition forward under your vision or your team’s vision. This must be factored into your acquisition approach. Sometimes, small steps are better than rapid wholesale change. Keep as much as possible in familiar territory for these people, and move them incrementally in the direction they need to go. Think of it as another aspect of “buy small, miss small.”
@@ -217,9 +225,13 @@ If you are attempting to transition an existing contract to more agile-based dev
 * Can you piggyback on another agency’s contract or one of your agency’s enterprise contracts?  
 * Does the contract type permit orders, and would the order fall within scope?  
 * What flexibilities do you have within the existing contract or scope as it currently stands? Do the CLIN descriptions and requirements document provide the needed flexibility? Would modifications be out of scope?  
-* How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)?  
+* How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)? 
 * How difficult will it be to re-baseline performance metrics to accommodate agile processes and then get both the contractor and the government to buy in?
-
+* Leverage the new ICT acquisition framework.
+    *  The revised FAR Part 39 emphasizes faster acquisition and secure deployment of new or emerging technology. Consider whether your existing contract can accommodate the broader ICT scope (including communication technology, IoT devices, and emerging tech) and the enhanced performance-based approach that now permits minimum personnel qualifications when justified.
+* Apply updated competition requirements.
+    * Use the streamlined FAR Part 6 procedures that consolidate small business set-aside authorities and simplify justification and approval requirements. This can significantly reduce administrative burden when modifying existing contracts.
+      
 ---
 ## Considerations for a New Contract
 
@@ -237,6 +249,10 @@ A new procurement is likely if you’ve determined that using an existing contra
 | **Commercial procurements** | Cost reimbursable contracts aren’t allowed for commercial procurements, including orders from GSA’s Federal Supply Schedule. How does this fit into your risk picture? |
 | **Modular contracting**  | What contract types will support Modular Contracting and “buy small, miss small” (FAR Part 39)? Think about IDIQs, BPAs, BOAs, Base period with options versus multiple-year, multiple-award ordering vehicles, etc. |
 | **Define an exit strategy** | Ensure that getting out of a non-performing results-based contract is as easy as getting into it. Utilize Award Term incentives, modular contracting methods, streamlined acquisitions, data rights clauses, multiple award strategies, and back-up acquisition strategies so that you can quickly end one contract and start a new one. |
+| **ICT Accessibility Standards** | Ensure compliance with Section 508 requirements under 36 CFR 1194.1 for ICT accessibility standards. Document any exceptions or exemptions for undue burden, fundamental alteration, or nonavailability of conforming commercial products. |
+| **Performance-Based Personnel Requirements** | Avoid minimum educational or experience requirements for contractor personnel unless agency needs cannot be met without such requirements or when not using performance-based acquisition methods. |
+| **Technology Refresh and Evolution** | Structure contracts to leverage technology evolution during implementation, with each increment being compatible with common or commercially acceptable IT standards. |
+| **Competition Advocacy Coordination** | Engage with your agency's advocate for competition early to promote full and open competition and challenge potential barriers to acquisition. ||
 
 Of course, a sound strategy can’t exist without a plan for selecting the vendor. Source selection is critical and will entail many considerations. You’ll want to develop effective, meaningful, and simple source selection criteria.
 
@@ -272,8 +288,18 @@ This model aligns well with modular contracting, a technique that divides work i
 
 In contrast, while T&M contracts can offer flexibility during uncertain discovery phases or rapid prototyping, they require more active oversight and offer less cost predictability.
 
+### Modular contracting under the new FAR Part 39
+
+The revised FAR Part 39 emphasizes strategies that promote faster acquisition and secure deployment of new or emerging technologies. This expanded scope now encompasses not only information technology but also communication technology, Internet of Things devices, emerging technologies, and operational technology.
+
+**Enhanced Modular Contracting Requirements**: As previously mentioned, agencies should use modular contracting to acquire major information systems and communication technology to the maximum extent possible, with specific timelines: award a contract within 180 days after solicitation issuance and schedule deliveries within 18 months after solicitation.
+
+**Performance-Based Approach**: When acquiring information technology services, solicitations should not describe minimum experience or educational requirements for proposed contractor personnel unless the contracting officer determines that the agency's needs cannot be met without that requirement or requires using a non-performance-based acquisition approach.
+
+**Risk Management Framework**: Both contracting and program office officials are responsible for assessing, monitoring, and controlling risk throughout the acquisition process, with reasonable risk-taking appropriate as long as risks are controlled and mitigated.
 
 ---
+
 ## State of the Market
 
 Due diligence in market research is critical. In the digital services arena, there’s an entire universe of firms that can satisfy your needs. However, many of these firms are overlooked because traditional market research methods fail to identify and engage them. While your program office is responsible for market research, the familiarity factor can often restrict a pool of potential offerors to those with a history with the agency. They may be significantly expanded with nontraditional providers.
@@ -286,6 +312,15 @@ As you recall from your training on how to survey the marketplace and how to eng
 * Use [FAR Part 19](https://www.acquisition.gov/far/part-19). Part 19 offers substantial flexibility for engaging and contracting with small businesses new to government contracting.
 
 As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start, and continue, to do business with the government. 
+
+### Updated competition requirements under FAR Part 6 Overhaul
+
+The Revolutionary FAR Overhaul has streamlined FAR Part 6 (Competition Requirements) to promote faster acquisitions and greater competition.
+
+Key changes affecting market research include:
+- **Simplified Competition Procedures**: Contracting officers must use competitive procedures best suited to efficiently fulfill government requirements, including sealed bids, competitive proposals, and other statutorily authorized procedures. This provides greater flexibility in how you engage the market.
+- **Enhanced Competition Advocacy**: Each agency's advocate for competition now has expanded responsibilities to promote full and open competition, commercial acquisition, and challenge barriers to acquisition. Work closely with your competition advocate when exploring nontraditional providers.
+- **Consolidated Set-Aside Authorities**: All small business set-aside requirements have been consolidated, making it easier to identify opportunities for small businesses, including 8(a), HUBZone, WOSB, VOSB, and SDVOSB contractors.
 
 ---
 ## Knowledge Check
@@ -311,8 +346,85 @@ As you explore the marketplace, know that new or nontraditional providers can pr
 
 > The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
 
+---
 
+3. What approach should you take when stakeholders are resistent to agile acquisition concepts?
+- [ ] A. Implement changes immediately to demonstrate benefits
+- [x] B. Keep as much as possible in familiar territory and move incrementally in the direction they need to go
+- [ ] C. Seek approval from the higher authority to override resistance
+- [ ] Wait until stakeholders are replaced with more supportive personnel
 
+> Correct! Small steps are better than rapid wholesale change when stakeholders are resistant to unfamiliar concepts, treating this as another aspect of "buy small, miss small."
+
+---
+
+4. What is the primary purpose of using the lean canvas approach for acquisition strategy documentation?
+- [ ] A. To meet FAR compliance requirements for acquisition planning
+- [ ] To replace all traditional acquisition planning documents
+- [x] To capture key points of an acquisition strategy in a concise, high-level overview that gets everyone on the same page
+- [ ] To eliminate the need for market research
+
+> Correct! The lean canvas tool provides a concise way to capture key points of an acquisition strategy, helping teams discuss decisions and trade-offs while shaping the Product Vision.
+
+---
+
+5. When should minimum educational or experience requirements be included in ICT solicitations under the updated FAR Part 39?
+- [ ] A. Never, these requirements are always prohibited
+- [ ] B. Only for contracts over $1 million
+- [x] C. When the contracting officer determines that agency needs can't be met without the requirement, or when not using performance-based acquisition
+- [ ] D. Only with senior procurement executive approval
+
+> Correct! FAR 39.103 states that solicitations should not describe minimum experience or educational requirements unless the contracting officer determines that agency needs cannot be met without that requirement or unless the requirement is for using other than a performance-based acquisition.
+
+---
+
+6. What is a key advantage of Fixed Proice per iteration (FFP per sprint) contract pricing over traditional fixed-price contracts for digital services?
+- [ ] A. It eliminates all performance risks for the government
+- [x] B. It maintains cost control while preserving flexibility in scope within each sprint
+- [ ] C. It always costs less than Time and Materials contracts
+- [ ] D. It requires less government oversight than other contract types
+
+> Correct! FFP per iteration maintains cost control by fixing the price per iteration while preserving flexibility in the scope of reatures or deliverables within each sprint, aligning well with agile development practices.
+
+--- 
+
+7. What is the most significant risk to address when working with nontraditional providers?
+- [ ] A. Higher costs due to lack of government experience
+- [ ] B. Inability to meet technical requirements
+- [x] C. Unfamiliarity with government contracting processes and requirements
+- [ ] D. Lack of adequate insurance coverage
+
+> Correct! Nontraditional providers can pose significant challenges in contract management due to their unfamiliarity with CDRLs, contractor certifications, SAM, CPARS/PPIRS, and other government-specific requirements.
+
+---
+
+8. Under the streamlined FAR Part 6, how are small business set-aside authorities now organized?
+- [x] A. All consolidated into two sections
+- [ ] B. Each type has its own separate section
+- [ ] Moved to FAR Part 19 entirely
+- [ ] Eliminated in favor of full competition
+
+> Correct! The overhauled FAR 6.102-2 now covers all small business set-asides in consolidated sections, including SBIR/STTR and specific small business socioeconomic categories.
+
+--- 
+
+9. What should be the primary focus when determining whether to use existing contracts versus new procurement for digital services?
+- [ ] A. Always choose the lowest cost option available
+- [ ] B. Prioritize speed of award over all other considerations
+- [ ] C. Default to new contracts to ensure maximum competition
+- [x] D. Determine if using an existing contract vehincle would be appropriate and effective for the product vision
+
+> Correct! Existing contracts should be considered when they can provide what the agency needs, but the key determiniation is whether the existing vehicle would be appropriate and effective for achieving the product vision.
+
+--- 
+
+10. What is essential for effective contract exit strategies in digital services acquisitions?
+- [ ] A. Having legal counsel review all termination clauses
+- [x] B. Building flexibility into contracts and planning for modular delivery with shorter periods of performance
+- [ ] C. Requiring contractors to provide performance bonds
+- [ ] D. Using only cost-reimbursable contract types
+
+> Correct! Use modular contracting to limit award periods to six months or a year, whenever possible. This approach avoids the need for termination and makes contracts easier to manage and re-compete.
 ## Compliance & Other Legal Issues
 
 This online module will teach you about regulatory compliance, legal considerations, and risk avoidance/mitigation when procuring digital services. It will address significant challenges identified in acquiring digital services and provide guidance and best practices to address those challenges. Specifically, it will address intellectual property and data rights, as well as how to protect your data in a digital service environment.
