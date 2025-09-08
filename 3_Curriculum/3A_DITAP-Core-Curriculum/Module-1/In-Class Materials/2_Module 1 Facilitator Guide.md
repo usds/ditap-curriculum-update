@@ -1,6 +1,6 @@
 # DITAP In-Class Facilitator Guide
 
-# Module 1 - Introduction to Digital Services: The Who, What, and How of Digital Service Delivery 
+## Module 1 - Introduction to digital services: The who, what, and how of digital service delivery 
 
 *Updated July 2025*
 
@@ -10,7 +10,7 @@ Location: \[Insert Physical or Virtual Location\]
 Target Audience: \[Describe the intended learners\]  
 Facilitator(s): \[List Facilitator Names\]
 
-## Table of Contents
+## Table of contents
 
 ### Overview and objectives
    - Module summary  
@@ -118,18 +118,16 @@ This topic introduces the foundational concepts of digital services within the f
 | 22 | Activity: What would you ask the technical or security team? | 3 | 15-20 |
 | 23 | Discussion: Cybersecurity expectations | 3 | 5-10 |
 
-
-
 ## Module activities
 
-### 1. Discussion: What digital services have you used?  
+### 1. Discussion: Which digital services have you used?  
 
    Total time allocation: 5 min
 
 #### Activity instructions:    
 
 * **Purpose:** Participants get familiar with digital services they and their colleagues use, and why.   
-* **Expected Outcomes**: Participants will be able to name several digital services they and their colleagues use in the procurement process.   
+* **Expected outcomes**: Participants will be able to name several digital services they and their colleagues use in the procurement process.   
 * **Materials needed:**   
   * Whiteboard & markers or digital collaboration tool (optional)  
 * **Instructions:**   
@@ -144,7 +142,7 @@ Total time allocation: 60 minutes
 #### Activity instructions:
 
 * **Purpose**: To build awareness of digital service teams’ missions, work, and roles in government to help participants anticipate collaboration needs.
-* **Expected Outcomes**: Participants gain familiarity with DSTs and identify connections to their own contracting work.
+* **Expected outcomes**: Participants gain familiarity with DSTs and identify connections to their own contracting work.
 * **Materials needed:**  
   * Access to the [DSN Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)  
   * Breakout rooms (groups of 3–5)  
@@ -153,50 +151,43 @@ Total time allocation: 60 minutes
 * **Instructions**
 
    1\. **Introduce the activity** (5 min)
-
    * Framing: Explain that the goal is not to memorize acronyms but to build awareness of the digital services ecosystem. Contracting professionals should know who these teams are and how their work could intersect with acquisitions.
-
    * Sequence & timing:  
      * Intro & setup – 10 min  
      * Breakout exploration – 20 min  
      * Group report-outs – 20 min  
      * Debrief & discussion – 10 min  
-
-   2\. **DSN Tracker Demo** (5 min)  
+   2\. **DSN tracker demo** (5 min)  
    - Share your screen and navigate to: [DSN Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)
    - Walk participants through the site:
      - Show how to filter by federal vs. state, team maturity, or other characteristics.
      - Select one DST to explore together.
      - Point out key info fields: mission, projects, stakeholders, and publicly shared artifacts.
    - Highlight how to use this info to fill in the breakout template.
-  
-   3\. **Prompt & Instructions** (5 min)
+   3\. **Prompt and instructions** (5 min)
 
     Tell participants: In your breakout groups, you’ll select one Digital Service Team from the tracker. Explore their mission, recent projects, and how they deliver their work. Then consider what stood out to you, what surprised you, and how this might connect to your procurement experience.
 
     - **Provide the template (on slide or worksheet):**
-        - Team Name & Level of Gov’t  
-        - Mission/Vision/Values  
-        - Known Projects/Services (case studies if available)  
-        - Delivery Practices (how they work, Agile methods, tools)  
-        - Stakeholders or Partners (other agencies, vendors, etc.)  
-        - Impact or Outcomes (metrics, stories, testimonials)  
-        - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
-
+     - Team Name & Level of Gov’t  
+     - Mission/Vision/Values  
+     - Known Projects/Services (case studies if available)  
+     - Delivery Practices (how they work, Agile methods, tools)  
+     - Stakeholders or Partners (other agencies, vendors, etc.)  
+     - Impact or Outcomes (metrics, stories, testimonials)  
+     - Publicly Shared Artifacts (design guides, playbooks, repos, blog posts)
    4\. **Breakouts (20 min)**
   - Form groups of 3–5 participants.  
   - Assign each group to choose one DST and complete the template.  
   - Facilitators drop into rooms to answer questions, ensure progress, and help with technical issues.
-
-   5\. **Group Presentations (20 min total)**
+   5\. **Group presentations (20 min total)**
   - Each group gets ~5 minutes to present. Suggested structure:
     - Which DST did you choose, and why?  
     - What caught your attention about this team?  
     - What project stood out and why?  
     - What surprised you?  
     - What aligns (or doesn’t) with your procurement experience?
-
-   6\. **Debrief & Discussion (10 min)**
+   6\. **Debrief and discussion (10 min)**
   - Use prompts to guide reflection:
     - What similarities or differences did you notice between the DSTs reviewed?  
     - Were there any innovative practices or strategies that could inform future digital services acquisitions?  
@@ -208,10 +199,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 10 minutes
 
-   #### Activity instructions:
+#### Activity instructions:
 
 * **Purpose:** This discussion sets the stage for understanding why this work matters.  
-* **Expected Outcomes:** Learners will gain a clear understanding of how and why user needs must be at the forefront of a project.  
+* **Expected outcomes:** Learners will gain a clear understanding of how and why user needs must be at the forefront of a project.  
 * **Materials needed**:   
   * Whiteboard & markers or digital collaboration tool (optional)  
 * **Instructions:**   
@@ -230,10 +221,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 10 min
 
-   #### Activity instructions: 
+#### Activity instructions:  
 
 * **Purpose:** Participants are required to think specifically about how to communicate the key elements that support their users’ needs.   
-* Expected Outcomes: Learners will be able to prioritize users’ needs when delivering a product or service.  
+* **Expected outcomes**: Learners will be able to prioritize users’ needs when delivering a product or service.  
 * **Materials needed:**   
   * Whiteboard and markers or digital collaboration tool (optional)   
 * **Instructions:**  
@@ -249,12 +240,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 25 min
 
-   #### Activity instructions: 
+#### Activity instructions: 
 
 * **Purpose:** To understand the benefits of Agile  
-
-* **Expected Outcomes:** Learners will be able to articulate the benefits of Agile and where it could benefit their work. 
-
+* **Expected outcomes:** Learners will be able to articulate the benefits of Agile and where it could benefit their work. 
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -274,10 +263,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 45-60 min
 
-   #### Activity instructions: 
+#### Activity instructions: 
 
 * **Purpose:** Participants think in sprints and what tasks to accomplish.  
-* **Expected Outcomes**: Participants will develop a structured backlog for each sprint.   
+* **Expected outcomes**: Participants will develop a structured backlog for each sprint.   
 * **Materials needed:**   
   * Breakout rooms   
   * Whiteboard and markers, or digital collaboration tool  
@@ -297,10 +286,10 @@ Total time allocation: 60 minutes
 ### 7. Discussion: Everyday data
    Total time allocation: 5-10 min
 
-   #### Activity instructions:  
+#### Activity instructions:  
 
 * **Purpose:** Participants can identify different types of data they use to perform their jobs.   
-* **Expected Outcomes:** Learners will be able to use data to gain insight, measure impact, and enhance performance.  
+* **Expected outcomes:** Learners will be able to use data to gain insight, measure impact, and enhance performance.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -325,11 +314,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 10 min
 
-
-   #### Activity instructions:  
+#### Activity instructions:  
 
 * **Purpose:** Learners will apply critical thinking and develop evaluative habits when reviewing technical proposals, specifically through the lens of data.  
-* **Expected Outcomes:** Learners will be able to ask informed questions based on the correct criteria.  
+* **Expected outcomes:** Learners will be able to ask informed questions based on the correct criteria.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -353,11 +341,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 5-10 min
 
-
-   #### Activity instructions:  
+#### Activity instructions:  
 
 * **Purpose:** Participants can explain the advantages and challenges of an Agile approach to contracting officers.
-* **Expected Outcomes**: Participants and contracting officers share an understanding of the pros and cons of Agile development methods.  
+* **Expected outcomes**: Participants and contracting officers share an understanding of the pros and cons of Agile development methods.  
 * **Materials needed:**   
   * None  
 * **Instructions**:   
@@ -380,10 +367,10 @@ Total time allocation: 60 minutes
 
    Total time allocation: 5-10 min
 
-   #### Activity instructions:  
+#### Activity instructions:  
 
 * **Purpose:** CI/CD is a key method for modern software deployments.  
-* **Expected Outcomes**: Learners will be able to recognize when CI/CD is an appropriate solution based on its benefits and shortcomings applied to the scope required.   
+* **Expected outcomes**: Learners will be able to recognize when CI/CD is an appropriate solution based on its benefits and shortcomings applied to the scope required.   
 * **Materials needed**:   
   * None  
 * **Instructions**:   
@@ -408,7 +395,7 @@ Total time allocation: 5-10 min
 #### Activity instructions: 
 
 * **Purpose:** Learners will deepen their understanding of how transparency in software components contributes to risk management in government acquisitions.  
-* **Expected Outcomes**: Learners will be able to explain how an SBOM supports supply chain security, identifies vulnerabilities, and improves oversight of third-party software components.  
+* **Expected outcomes**: Learners will be able to explain how an SBOM supports supply chain security, identifies vulnerabilities, and improves oversight of third-party software components.  
 * **Materials needed**:   
   * None  
 * **Instructions**:   
@@ -453,7 +440,6 @@ Total time allocation: 5-10 min
 | Security and patching |
 | Long-term maintenance and portability |
 | Avoiding vendor lock-in |
-
 
 ---
 
@@ -516,7 +502,7 @@ Total time allocation: 60-90 min
 | Cross-role thinking (tech, design, acquisition, compliance) |
 
 
-* **Debrief and Discussion (5-10 min)**  
+* **Debrief and discussion (5-10 min)**  
   **Prompts:**   
   * What stood out in how teams approached user needs?
   * What strategies did you see for managing feedback and iteration?
@@ -526,7 +512,7 @@ Total time allocation: 60-90 min
     **Encourage open reflection in chat or voice.** 
 
 * **Bonus:** ask COs/CORs what they'd need in a real contract to support what the teams proposed.  <br>
-* **Optional Extensions**  
+* **Optional extensions**  
    * Use a scoring rubric for peer voting or reflection (e.g., “most user-friendly,” “best accessibility plan,” “best integration of CO decisions”)  
    * Ask teams to submit final slides or sketches to a shared folder or LMS  
    * Invite SMEs or guest reviewers to provide light feedback or discussion points
@@ -540,7 +526,7 @@ Total time allocation: 5–10 min
 #### Activity instructions:
 
 * **Purpose:** Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient.    
-* **Expected Outcomes**: Learners will be able to discern appropriate situations for using cloud services.    
+* **Expected outcomes**: Learners will be able to discern appropriate situations for using cloud services.    
 * **Materials needed:**   
   * Whiteboard & markers or digital sharing interface  
 * **Instructions**:   
@@ -566,7 +552,7 @@ Total time allocation: 5-10 min
 #### Activity instructions:  
 
 * **Purpose:** Learners will be able to recognize where there could be misunderstandings between vendors and agencies and how to apply the shared responsibility model to prevent those misunderstandings.   
-* **Expected Outcomes**: Learners will identify common misunderstandings in shared responsibility models and propose contract strategies to clarify roles and mitigate risk.  
+* **Expected outcomes**: Learners will identify common misunderstandings in shared responsibility models and propose contract strategies to clarify roles and mitigate risk.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -583,7 +569,6 @@ Total time allocation: 5-10 min
 | Need for clearer delineation in contract language |  
 | Role of onboarding and joint governance reviews |
 
-
   **Provide talking points or examples to support these points.**
 
 ---
@@ -595,7 +580,7 @@ Total time allocation: 5–10 min
 #### Activity instructions
 
 * **Purpose:** Learners know what the priorities and potential pitfalls are when procuring cloud solutions, and how to align agency needs with vendor capabilities.  
-* **Expected Outcomes:** Learners will be able to analyze the benefits and tradeoffs of modular and hybrid cloud strategies and identify procurement approaches that promote flexibility and vendor collaboration without increasing complexity.  
+* **Expected outcomes:** Learners will be able to analyze the benefits and tradeoffs of modular and hybrid cloud strategies and identify procurement approaches that promote flexibility and vendor collaboration without increasing complexity.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -603,7 +588,6 @@ Total time allocation: 5–10 min
 
   **Prompt:**  
   How can we encourage modular or hybrid cloud strategies without overcomplicating procurement? What role should vendors play in helping agencies architect for resilience?
-
 
 | Facilitator themes to look for: |  
 | :---- |  
@@ -622,7 +606,7 @@ Total time allocation: 5–10 min
 #### Activity instructions:
 
 * **Purpose:** To understand when use of AI is appropriate or inappropriate.  
-* **Expected Outcomes:** Learners will be able to recognize tasks for which AI is not an appropriate solution.   
+* **Expected outcomes:** Learners will be able to recognize tasks for which AI is not an appropriate solution.   
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -640,8 +624,6 @@ Equity and fairness concerns
 Legal and policy compliance  
 Transparency and auditability |
 
-
-
   **Provide talking points or examples to support these points.**
 
 ---
@@ -654,7 +636,7 @@ Total time allocation: 5–10 min
 #### Activity instructions:  
 
 * **Purpose:** To be able to ask key questions that will help ensure proper application of machine learning
-* **Expected Outcomes:** Learners will be able to recognize and probe for the reasons a vendor would use machine learning for their project.  
+* **Expected outcomes:** Learners will be able to recognize and probe for the reasons a vendor would use machine learning for their project.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -675,7 +657,6 @@ Total time allocation: 5–10 min
 
 ---
 
-
 ### 19. Activity: “Procure or Pass?” game 
 
 Total time allocation: 25–30 min  
@@ -686,9 +667,7 @@ Total time allocation: 25–30 min
   * Build awareness of common AI use cases in government  
   * Explore ethical and operational considerations in AI procurement  
   * Practice applying judgment to ambiguous or emerging tech situations
-
-* **Expected Outcomes:** Learners will be able to make informed choices on whether or not to use AI. 
-
+* **Expected outcomes:** Learners will be able to make informed choices on whether or not to use AI. 
 * **Materials needed:**   
   * Slide deck with 3–5 brief AI use case prompts  
   * Optional virtual polling tool (Zoom reactions, Mentimeter, etc.)  
@@ -700,7 +679,7 @@ Total time allocation: 25–30 min
     * Explain: “You’ll see a series of short AI use cases. For each, we’ll ask: Would you procure it? What conditions or questions would you raise?”  
     * Emphasize that there’s no single correct answer, but the goal is to surface different perspectives.  
   * **Prompts:**   
-    **Present a Use Case (3-4 min each)**  
+    **Present a use case (3-4 min each)**  
     * Show 1 use case per slide (see examples below).  
     * Ask participants to vote (show of hands, emoji reactions, or polling): Procure or Pass?
 
@@ -710,7 +689,7 @@ Total time allocation: 25–30 min
     * What are your red flags?  
     * What guardrails or contract language would you want in place?
 
-    **Group Discussion (3-5 min each)**
+    **Group discussion (3-5 min each)**
 
     * Invite comments from 2–3 volunteers.  
     * Capture themes in a shared doc or whiteboard (optional)  
@@ -718,7 +697,7 @@ Total time allocation: 25–30 min
       * Would FedRAMP or bias testing be needed here?  
       * Is this a case where we’d require human-in-the-loop review?
 
-    **Debrief and Key Takeaways (5 min)**
+    **Debrief and key takeaways (5 min)**
 
     * Highlight 2–3 trends or dilemmas that surfaced.  
     * Reinforce: As contracting professionals, we don’t just buy tech—we shape how it’s used.
@@ -732,7 +711,7 @@ Total time allocation: 25–30 min
 
   #### Sample use cases
 
-**Use Case 1:**   
+**Use case 1:**   
  A vendor proposes an AI auto-scoring tool to evaluate and rank RFP responses based on pre-trained relevance criteria.
 
  **Prompt:** Would you procure or pass? What ethical questions arise around data inputs and use?
@@ -743,7 +722,7 @@ Total time allocation: 25–30 min
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-**Use Case 2:**  
+**Use case 2:**  
   A chatbot answers incoming FOIA requests by pulling from previous, public disclosures.  
   **Prompt:** Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -751,7 +730,7 @@ Total time allocation: 25–30 min
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-**Use Case 3:**  
+**Use case 3:**  
   An agency wants to use an AI résumé screener to filter job applicants before human review.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -759,7 +738,7 @@ Total time allocation: 25–30 min
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-**Use Case 4:**  
+**Use case 4:**  
   A cloud-based system uses AI to detect fraud in real-time across benefit applications, flagging anomalies for manual review.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?   
   Follow up with open questions to spark dialogue:  
@@ -767,7 +746,7 @@ Total time allocation: 25–30 min
 * What are your red flags?  
 * What guardrails or contract language would you want in place?  
     
-**Use Case 5 (Optional Stretch):**  
+**Use case 5 (optional stretch):**  
   An AI model helps predict program success rates using historical outcomes and demographic data.  
   **Prompt**: Would you procure or pass? What ethical questions arise around data inputs and use?  
   Follow up with open questions to spark dialogue:  
@@ -784,7 +763,7 @@ Total time allocation: 5-10 min
 #### Activity instructions: 
 
 * **Purpose:** Missteps where security is very risky and can be costly in terms of credibility and monetarily. Learners will know what can be done to mitigate these risks.   
-* **Expected Outcomes:** Learners will be better able to avoid unnecessary security risks when procuring vendors' services.  
+* **Expected outcomes:** Learners will be better able to avoid unnecessary security risks when procuring vendors' services.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -811,7 +790,7 @@ Total time allocation: 5–10 min
 #### Activity instructions:
  
 * **Purpose:** To apply what they've learned about security risks and procurement   
-* **Expected Outcomes:** Learners will be able to generate relevant, security-focused questions to ask during market research that help identify and mitigate risks early in the acquisition process.  
+* **Expected outcomes:** Learners will be able to generate relevant, security-focused questions to ask during market research that help identify and mitigate risks early in the acquisition process.  
 * **Materials needed:**   
   * None  
 * **Instructions:**  
@@ -819,7 +798,6 @@ Total time allocation: 5–10 min
 
   **Prompt:**   
   What’s one question a CO could ask during market research to surface security risks early?
-
 
 | Facilitator themes to look for: |
 | :---- |
@@ -829,11 +807,8 @@ Total time allocation: 5–10 min
 | What’s your incident response timeline? |
 | Do you support integration with our IAM or SIEM platforms? |
 
-
 ---
   
-
-
 ### 22. Activity: What would you ask? 
 
 Total time allocation: 15-20 min
@@ -841,7 +816,7 @@ Total time allocation: 15-20 min
 #### Activity instructions:
 
 * **Purpose:** Build confidence in procurement professionals to ask informed cybersecurity questions during pre-award planning.  
-* **Expected Outcomes:** Learners will be prepared to ask informed questions about their cybersecurity needs.  
+* **Expected outcomes:** Learners will be prepared to ask informed questions about their cybersecurity needs.  
 * **Materials needed:**   
   * Breakout rooms  
   * Whiteboard and markers or digital sharing tool  
@@ -884,13 +859,7 @@ Total time allocation: 15-20 min
 | COs considering integration requirements during solicitation planning |
 | Clear communication expectations in incident response scenarios |
 
-
-   
- 
-
-
 * **Debrief:** Each group shares their questions. Facilitator comments on alignment with best practices.
-
 
 | Optional Enhancements |
 | :---- |
@@ -898,19 +867,16 @@ Total time allocation: 15-20 min
 | Padlet/Sticky Notes: Have participants write what conditions they'd set before procuring. |
 | Team Debate: For each case, assign half the group to argue "procure" and the other "pass." |
 
-
-
   ---
  
-
 ### 23. Discussion: Cybersecurity expectations 
 
 Total time allocation: 5-10 min
 
 #### Activity instructions:  
 
-* **Purpose:** Learners will be able to include security expectations in requirements, evaluation criteria, and post-award monitoring.   
-* **Expected Outcomes:** Learners will be able to prevent weak systems being procured.  
+* **Purpose:** Learners will be able to include security expectations in requirements, evaluation criteria, and post-award monitoring.  
+* **Expected outcomes:** Learners will be able to prevent weak systems being procured.  
 * **Materials needed:**   
   * None  
 * **Instructions:**   
@@ -929,18 +895,12 @@ Total time allocation: 5-10 min
 
 ---
 
-  
-
 ## Additional resources 
 
 ### Links to relevant documents:
 
 * Link to relevant documents as needed.
 
-
 ### Contact information:
 
   * Who to contact for technical issues or content questions.  
-      
-    
-
