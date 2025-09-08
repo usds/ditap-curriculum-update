@@ -91,7 +91,7 @@ This session builds on prior learning from Module 1, and prepares learners for u
 | # | Activity                                                         | Sprint # | Duration in minutes |
 |---|------------------------------------------------------------------|----------|---------------------|
 | 1 | Activity: Match each axiom to a challenge your team has experienced         | 1        | 23-30               |
-| 2 | Activity: Self-Assessment - strategy table in practice                           | 1        | 15                  |
+| 2 | Activity: Self-Assessment - Strategy table in practice                           | 1        | 15                  |
 | 3 | Activity: Change & Innovation Readiness Survey                       | 1        | 10                  |
 | 4 | Activity: Power matrix: Stakeholder mapping & power dynamics               | 2        | 15                  |
 | 5 | Optional role play activity: Stakeholder influence challenge     | 2        | 60                  |
@@ -169,7 +169,7 @@ Total time allocation: 15 minutes
 
 - **Purpose**: To be able to think critically about stakeholders who have more potential to block or support their goals and how to plan for different scenarios:
   - Help participants identify and categorize stakeholders based on influence (power) and interest (engagement level) in a digital service initiative.
-  - Introduce the power-interest matrix
+  - Introduce the power-interest matrix.
   - How might a high-influence, low-interest stakeholder impact your project?
 - **Expected Outcomes**: Learners will have the tools to balance risk and power in a procurement scenario.
 - **Materials Needed** (specific to activity):
@@ -260,7 +260,7 @@ Total time allocation: 60 min
       - Ask Roles A and B to turn on cameras and begin.
       - Light facilitation is fine to prompt stuck participants.  
 
-- **Step 6: Facilitate the Debrief ( 5 min, led by Role C)**
+- **Step 6: Facilitate the Debrief (5 min, led by Role C)**
 
 "Thank you, Role A and B. Now it's Role C's turn to guide the debrief. You observed the full conversation—what stood out?"
 
@@ -277,8 +277,8 @@ Provide or screen-share the following prompts:
 - Encourage peer discussion. Invite others in the group to build on responses.
 
 - **Step 7: Transition (5 min):**
-      - Return to main room.
-      - Share key takeaways.
+  - Return to main room.
+  - Share key takeaways.
 
  ---   
 
@@ -297,11 +297,11 @@ Total time allocation: 23 min
       - **Facilitator introduces (2-3 min)**  
             “In the private sector, ROI means profit. But in government, the true ‘return’ is mission impact. Today we’ll practice using AI to translate a product vision into something more meaningful—a Return on Mission and metrics that help us measure real outcomes.”
       - **Activity steps (10 min)**
-        1. Split into small groups
-        2. Start with a Product Vision
-        3. Prompt the AI
-        4. Review and refine
-        5. Capture the output
+          1. Split into small groups
+          2. Start with a Product Vision
+          3. Prompt the AI
+          4. Review and Refine
+          5. Capture the Output
       - **Discuss (10 min)**
           1. What stood out to you about how the AI described the mission impact?
           2. Did the metrics it generated feel relevant and actionable for a procurement?
