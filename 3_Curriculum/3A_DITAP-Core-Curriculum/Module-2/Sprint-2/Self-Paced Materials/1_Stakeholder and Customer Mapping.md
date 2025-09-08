@@ -22,10 +22,13 @@ So how do you plan for involving your customers and engaging all stakeholders at
 
 ### Why Is Stakeholder Engagement So Critical on Digital Services Efforts?
 
-According to Agile theory and the TechFAR, it’s critical to bring together the “right” cross-functional team of high performers in order to take on the frequently evolving, rapid pace of digital projects. In addition, “Big A” acquisition methods advocate for broad inclusion of agency leaders, managers, acquisition policy, and oversight functions in the acquisition lifecycle. 
+According to Agile theory and the TechFAR, it's critical to bring together the "right" cross-functional team of high performers to tackle the frequently evolving, rapid pace of digital projects. **The new FAR Part 39 (Acquisition of Information and Communication Technology or ICT) now codifies many previously informal TechFAR approaches, legitimizing performance-based outcomes and flexible ICT acquisition strategies.** This means acquisition teams may be more receptive to digital service approaches that were once considered "unfamiliar," as they are now formally recognized in federal regulation.
 
-As a function that, in part, is responsible for reducing the risks of legal, regulatory, financial, and compliance exposure in contracting, acquisition resists the unfamiliar and uncertain. Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not common practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
+In addition, “Big A” acquisition methods advocate for broad inclusion of agency leaders, managers, acquisition policy, and oversight functions in the acquisition lifecycle. 
 
+As a function that, in part, is responsible for reducing the risks of legal, regulatory, financial, and compliance exposure in contracting, acquisition resists the unfamiliar and uncertain. **However, the recent FAR overhaul has fundamentally changed this dynamic.** The new FAR Part 39 specifically emphasizes performance-based outcomes for ICT acquisitions and removes mandatory minimum experience requirements, making them discretionary. This shift means many digital service strategies that once seemed risky to acquisition professionals are now explicitly supported by federal regulation. Additionally, the streamlined FAR Part 6 gives contracting officers greater discretion in competition decisions, potentially reducing resistance to innovative procurement approaches.
+
+Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not standard practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
 To get your stakeholders comfortable with your approaches, you should anticipate a high level of interaction between agency team members, contractors, and other stakeholders. But how do you identify who you should talk to? And, once you have identified them, how and when do you engage with them?
 
 ---
