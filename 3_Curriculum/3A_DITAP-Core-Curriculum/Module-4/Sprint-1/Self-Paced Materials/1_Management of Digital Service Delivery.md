@@ -150,6 +150,20 @@ Agile contracts necessitate distinct risk management approaches compared to trad
 
 Your job isn't to eliminate these risks but to create contracts that help teams manage them effectively.
 
+### FAR compliance in agile risk management
+
+Updated FAR requirements provide new frameworks for managing risks in agile digital service contracts:
+
+**FAR Part 39 risk management updates**:
+- Requirements for continuous risk assessment aligned with agile delivery cycles
+- New escalation procedures that account for iterative development timelines
+- Integration of cybersecurity risk management with agile delivery practices
+
+**FAR Part 6 competition risk considerations**:
+- Managing compteition risks in multi-phase agile procurements
+- Requirements for maintaining competitive integrity throughout iterative delivery
+- Risk mitigation strategies for vendor transitions in continuous competition models
+
 **Digital Collaboration in Remote and Hybrid Work**
 
 Modern digital service teams often work remotely or in hybrid arrangements. This arrangement requires different collaboration approaches than traditional on-site work.
