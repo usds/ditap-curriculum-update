@@ -1,8 +1,8 @@
 # Module 4 Sprint 3
 
-## Contract Kickoff: Launching Successful Digital Service Delivery
+# Contract Kickoff: Launching Successful Digital Service Delivery
 
-### Overview
+## Overview
 
 You've awarded the contract, assembled the team, and defined success criteria. Now, shift your focus to post-award administration and the contract kickoff. Even when detailed discussions occur during the solicitation process, you must share and align critical information between government and vendor teams before work can begin effectively.
 
@@ -10,19 +10,19 @@ Kickoff meetings prove especially important in digital service procurements. The
 
 --- 
 
-### Why Early Months Feel Different
+## Why early months feel different
 
 Agile delivery doesn't reach peak velocity immediately. The baselining period, during which teams define their rhythm, adapt to the environment, establish a shared understanding, and iterate toward efficient delivery, typically spans 3-6 months. Industry research shows that the best Scrum teams average 750% productivity gains over waterfall teams with higher customer satisfaction and better quality delivery, but these results require intentional team development.
 
 Contributing Factors:
 
-* Team Dynamics: Vendor teams enter new contexts with different Product Owners, agency processes, tools, and stakeholders, requiring adjustment time  
-* Velocity Calibration: Teams use estimation techniques like story points to forecast delivery, but initial estimates gain accuracy only after several sprints build shared understanding  
-* Environment Integration: Teams familiarize themselves with agency-specific workflows, internal rules, stakeholder coordination, and approval processes
+* Team Dynamics: Vendor teams enter new contexts with different Product Owners, agency processes, tools, and stakeholders, requiring adjustment time.  
+* Velocity Calibration: Teams use estimation techniques like story points to forecast delivery, but initial estimates gain accuracy only after several sprints build shared understanding.  
+* Environment Integration: Teams familiarize themselves with agency-specific workflows, internal rules, stakeholder coordination, and approval processes.
 
 --- 
 
-### Establishing Productive Baseline Metrics
+## Establishing productive baseline metrics
 
 **Velocity Tracking:** Calculate team velocity (in story points per sprint) after the first sprint and use the trends to forecast future delivery capacity.
 
@@ -41,13 +41,13 @@ Address these signals promptly by referring to contract scope definitions, accep
 
 --- 
 
-### Strategic Sprint 0 Management
+## Strategic Sprint 0 management
 
 **What Sprint 0 Accomplishes**
 
 Sprint 0 represents a preparatory period before formal delivery sprints begin. Rather than a traditional sprint with a full backlog and deliverables, it functions as a setup phase, laying the foundation for productive, iterative work. In federal digital service contracts, Sprint 0 proves especially critical for navigating logistical and administrative tasks that must be completed before teams begin full delivery.
 
-#### Essential Sprint 0 Activities
+### Essential Sprint 0 activities
 
 **Administrative Setup:**
 
@@ -57,36 +57,36 @@ Sprint 0 represents a preparatory period before formal delivery sprints begin. R
 
 **Project Foundation:**
 
-* Conduct comprehensive kickoff meetings and contract orientation  
-* Define initial product vision and delivery roadmap  
-* Plan and schedule agile ceremonies and team rhythms  
-* Align on the Definition of Done, backlog structure, and performance documentation standards
+* Conduct comprehensive kickoff meetings and contract orientation. 
+* Define initial product vision and delivery roadmap.
+* Plan and schedule Agile ceremonies and team rhythms.  
+* Align on the Definition of Done, backlog structure, and performance documentation standards.
 
 **Discovery and Planning:**
 
-* Run discovery or design sprints to inform backlog creation  
-* Conduct stakeholder interviews and technical environment assessment  
-* Validate assumptions about user needs, technical constraints, and integration requirements
+* Run discovery or design sprints to inform backlog creation.
+* Conduct stakeholder interviews and technical environment assessment.  
+* Validate assumptions about user needs, technical constraints, and integration requirements.
 
 ---
 
-### Minimizing Sprint 0 Duration and Maximizing Value
+### Minimizing Sprint 0 duration and maximizing value
 
 **Pre-Planning Strategies:**
 
-1. **Build Realistic Onboarding Assumptions**: Include accurate timelines for clearances, credentials, and GFE delivery in performance schedules  
+1. **Build Realistic Onboarding Assumptions**: Include accurate timelines for clearances, credentials, and GFE delivery in performance schedules.
 2. **Identify Parallel Pre-Access Work:** Determine tasks that contractors can complete without full access, such as research, documentation review under NDAs, design concepts, or setting up a development environment in the contractor's space.  
 3. **Negotiate Shadow Access Arrangements:** Allow vendor staff to observe government team meetings or tool demonstrations while awaiting full access approvals.  
 4. **Start with Discovery Sprints:** If delivery faces delays, begin with research sprints to clarify user needs, stakeholder landscape, and technical constraints, which will inform backlog creation.  
-5. **Leverage Contractor-Hosted Environments**: Allow vendors to build in secure contractor environments with transition plans to government-approved infrastructure once approvals are complete
+5. **Leverage Contractor-Hosted Environments**: Allow vendors to build in secure contractor environments with transition plans to government-approved infrastructure once approvals are complete.
 
-Sprint 0 establishes a foundation for agile success by ensuring that the right people, tools, access, and expectations are aligned before productive work begins. Strategic planning and parallel activities prevent frustration while positioning teams for faster, smoother delivery starts.
+Sprint 0 establishes a foundation for Agile success by ensuring that the right people, tools, access, and expectations are aligned before productive work begins. Strategic planning and parallel activities prevent frustration while positioning teams for faster, smoother delivery starts.
 
 ---
 
-### Dual Kickoff Framework: Contractual and Technical
+## Dual kickoff framework: Contractual and technical
 
-#### The Contract Kickoff
+### The contract kickoff
 
 The contract kickoff focuses on the business and contractual framework governing the project. The Contracting Officer and the Contracting Officer's Representative typically co-lead this session, with vendor teams providing solution overviews, and all parties reviewing the shared responsibilities and success criteria.
 
@@ -104,9 +104,9 @@ The contract kickoff focuses on the business and contractual framework governing
 **Contract Kickoff Outcomes:** Establish a shared understanding of the formal obligations, timelines, and administrative expectations outlined in the awarded contract, ensuring all parties understand the success criteria and accountability frameworks.
 
 
-#### The Technical Kickoff
+### The technical kickoff
 
-The technical kickoff shifts focus from contract mechanics to day-to-day execution of agile delivery. The Product Owner and the vendor's Technical Lead/Scrum Master typically co-lead this session with COR support and participation from the entire vendor delivery team.
+The technical kickoff shifts focus from contract mechanics to day-to-day execution of Agile delivery. The Product Owner and the vendor's Technical Lead/Scrum Master typically co-lead this session with COR support and participation from the entire vendor delivery team.
 
 **Technical Kickoff Topics:**
 
@@ -132,7 +132,7 @@ Both kickoff meetings require:
 
 --- 
 
-### Key Takeaways
+### Key takeaways
 
 1. Invest in Foundation Setting: Effective kickoff processes and Sprint 0 planning prevent downstream delivery issues and relationship problems while accelerating productive work.  
 2. Separate Business and Technical Concerns: Distinct contractual and technical kickoff meetings ensure appropriate stakeholder engagement and role clarity for complex digital service delivery.  
@@ -142,7 +142,7 @@ Both kickoff meetings require:
 
 --- 
 
-### Additional Resources
+### Additional resources
 
 Federal Guidance and Best Practices
 
@@ -158,14 +158,14 @@ Practical Tools and Templates
  
 ---
 
-## Knowledge Check
+## Knowledge check
 
 **Instructions:** For each question, select all answer(s) that apply. Some questions may have more than one correct answer.
 
 
 1\. Multiple Choice
 
-**What is the primary purpose of Sprint 0 in an agile federal contract?**
+**What is the primary purpose of Sprint 0 in an Agile federal contract?**
 
 - [ ] To get hands on keyboards and begin sprinting immediately  
 - [x] To complete onboarding, tool access, and roadmap planning  
@@ -183,7 +183,7 @@ Practical Tools and Templates
 - [ ] Sprint 0 completion without a formal code review  
 - [ ] Delays caused by waiting on final contract signatures  
 - [x] Calibration of team velocity and estimation practices  
-- [ ] Lack of experience with agile software development methods
+- [ ] Lack of experience with Agile software development methods
 
 > Correct! Teams often need time to calibrate their sprint velocity and estimation methods in the early phases of a project.
 
@@ -196,7 +196,7 @@ Practical Tools and Templates
 - [ ] In-depth backlog grooming  
 - [x] Quality Assurance Surveillance Plan (QASP) expectations  
 - [x] Contract success metrics and staffing plans  
-- [ ] Product roadmap refinement and agile rituals  
+- [ ] Product roadmap refinement and Agile rituals  
 - [x] Escalation procedures and performance management structures  
 - [x] Clarification of assumptions not addressed in the solicitation  
 - [x] Invoicing and funding checkpoints  
@@ -232,7 +232,7 @@ Practical Tools and Templates
 
 ---
 
-## Introduction to Readings: Cloud and XaaS Procurement Best Practices
+## Introduction to readings: Cloud and XaaS procurement best practices
 
 As federal agencies accelerate their adoption of cloud-based and "as-a-service" (XaaS) models, acquisition professionals must master current strategies and frameworks to keep pace with rapidly evolving technology delivery methods. The following readings provide essential guidance on navigating modern cloud procurement and managing XaaS acquisitions effectively within the federal government context.
 
@@ -240,7 +240,7 @@ These resources reflect the significant changes in federal cloud policy followin
 
 ---
 
-### Required Readings
+### Required readings
 
 #### Reading 1: [FedRAMP Modernization and Automation Strategy](https://www.fedramp.gov/2024-03-28-a-new-roadmap-for-fedramp/)
 
@@ -279,7 +279,7 @@ This reading provides essential background on the rapidly expanding XaaS market,
 **Key Takeaways to Address:**
 
 * How should acquisition professionals evaluate the proliferation of specialized XaaS offerings (AI-as-a-Service, Edge-as-a-Service, etc.) for government applications?  
-* What procurement strategies help agencies manage vendor ecosystems when multiple XaaS providers must work together?  
+* What procurement strategies help agencies manage vendor ecosystems when multiple XaaS providers must work together? 
 * How do consumption-based and outcome-based pricing models change traditional government contracting approaches?
 
 #### Reading 5: [TechFAR Hub: Cloud Procurement Best Practices and Sample Language](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)
@@ -294,11 +294,11 @@ This practical resource provides actionable guidance and sample contract languag
 
 ---
 
-### Supplementary Resources
+### Supplementary resources
 
 **Case Study Resource: [Library of Congress Agile System Development Support Services](https://www.govconwire.com/2025/02/8-vendors-library-of-congress-contract-agile-development-support/)**
 
-This recent $450 million multiple-award contract provides a real-world example of how agencies are structuring modern cloud and agile development procurements. The contract covers SaaS development, DevOps, cloud integration, and user experience design services.
+This recent $450 million multiple-award contract provides a real-world example of how agencies are structuring modern cloud and Agile development procurements. The contract covers SaaS development, DevOps, cloud integration, and user experience design services.
 
 **Policy Update: [OMB M-24-15 FedRAMP Modernization Memorandum](https://www.crowell.com/en/insights/client-alerts/fedramp-revamp-omb-publishes-memorandum-contemplating-sweeping-changes-to-federal-government-cloud-procurement-security-standards-and-strategy)**
 
@@ -310,7 +310,7 @@ The official marketplace provides current information on FedRAMP-authorized clou
 
 ---
 
-### Discussion prompt (optional)
+## Discussion prompt (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Based on the cloud and XaaS procurement readings, prepare to engage with the following questions in our discussion forum:
@@ -338,10 +338,10 @@ Based on the cloud and XaaS procurement readings, prepare to engage with the fol
 
 **Definition of Done:**
 
-* Post your initial response addressing at least two of the discussion questions above  
-* Reference specific concepts and recommendations from the required readings  
-* Respond to at least two classmates' posts with substantive analysis and additional insights  
-* Connect the reading concepts to real-world federal procurement scenarios you've encountered or researched
+* Post your initial response addressing at least two of the discussion questions above.  
+* Reference specific concepts and recommendations from the required readings.  
+* Respond to at least two classmates' posts with substantive analysis and additional insights.  
+* Connect the reading concepts to real-world federal procurement scenarios you've encountered or researched.
 
 
 
