@@ -1,23 +1,24 @@
+
 # DITAP Stakeholder Interview Assignment Playbook
 
-For Use by All Vendors
+For use by all vendors
 
 Updated: X Date
 
 ## Table of Contents
-* Assignment Overview  
-* Facilitator Guidance  
-* Evaluation Criteria  
-* Frequently Asked Questions (FAQs)
+* Assignment overview  
+* Facilitator guidance  
+* Evaluation criteria  
+* Frequently asked questions (FAQs)
 
 **Student Facing Reference Resources**:
 * Stakeholder Interview Guide  
 * Stakeholder Interest Template  
 * Navigating the Stakeholder Landscape
 
-## Assignment Overview
+## Assignment overview
 
-**What It Is**
+**What it is:**
 
 The Stakeholder Interview Assignment is a cornerstone of the DITAP learning experience. It provides participants with a structured opportunity to:
 * Engage with influential figures in their agency  
@@ -43,7 +44,7 @@ Stakeholders should meet the following criteria:
 * Module 3: Check in on progress, troubleshoot challenges  
 * By Penultimate Class: Conduct and submit two completed interviews (including summaries and reflections) via Learning Portal
 
-### Facilitator Guidance 
+### Facilitator guidance 
 
 **Facilitators are responsible for**:
 * Introducing the assignment in class  
@@ -109,7 +110,7 @@ Submissions are reviewed for completeness and alignment with the approved stakeh
 
 This assignment is often one of the most powerful experiences in the program. Encourage participants to reflect not just on *what* their stakeholders said—but how those conversations shifted their own thinking about influence, communication, and systems change.
    
-### Frequently Asked Questions (FAQs) 
+### Frequently asked questions (FAQs) 
 
 **Q1: How do I select the right stakeholders for this assignment?**  
 Choose individuals within your agency who have significant influence over digital services, procurement, or operations—especially those you don’t normally interact with. Ideal stakeholders might include CIOs, CAOs, HCAs, SPEs, CFOs, or policy leads. Aim for those whose decisions impact digital transformation efforts.
@@ -124,7 +125,6 @@ Yes. While the requirement is to complete at least two interviews, participants 
 Your summary should capture the stakeholder’s insights about innovation, digital services, and procurement in your agency. Include what you learned about their priorities, perspectives, and any challenges or opportunities they raised. Reflections and next steps are also valuable.
 
 **Q5: Do I need to follow up after the interview?**
-
 Yes. Following up is considered best practice—it shows professionalism and helps build relationships. Use the follow-up to thank them, share any takeaways, and keep the door open for future collaboration.
 
 **Q6: What if a stakeholder is unavailable or declines to participate?**  
@@ -147,4 +147,3 @@ Interviews should ideally be conducted live—via phone, video call, or in-perso
 
 **Q12: What if I learn something sensitive or surprising during the interview?**  
 Respect confidentiality. Use your summary to reflect on themes and insights, but avoid including identifying details unless they were shared in a public or professional context. When in doubt, check with your facilitator.
-

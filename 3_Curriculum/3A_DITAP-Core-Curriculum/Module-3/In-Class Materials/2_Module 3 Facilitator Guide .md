@@ -1,8 +1,7 @@
 # DITAP In-Class Facilitator Guide
 
+# Module 3 \- Acquisition Strategy
 *Updated July 2025*
-
-### Module 3 \- Acquisition Strategy
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -12,48 +11,49 @@ Facilitator(s): \[List Facilitator Names\]
 
 ## Table of Contents
 
-### Overview and Objectives
+### Overview and objectives
 
-   - Module Summary  
-   - Learning Objectives  
-   - Connection to Overall DITAP Program
+   - Module summary  
+   - Learning objectives  
+   - Connection to overall DITAP program
 
-### Materials and Preparation
+### Materials and preparation
 
-   - Required Materials  
-   - Preparation Checklist
+   - Required materials  
+   - Preparation checklist
+   - [SOO Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/In-Class%20Materials/Statement%20of%20Objectives%20Template.md)
 
-### Module Agenda 
+### Module agenda 
 
-### Module Activities
+### Module activities
 
-1. Activity: Build Your Lean Acquisition Canvas
-2. Discussion: Which Risk Has Tripped Up Your Procurements Most Often?
+1. Activity: Build your lean acquisition canvas
+2. Discussion: Which risk has tripped up your procurements most often?
 3. Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session?  
 4. Activity: Poll 
-5. Activity: Scenario Discussion
+5. Activity: Scenario discussion
 6. Activity: Poll
 7. Discussion: Improving collaboration on a multi-vendor effort
-8. Activity: Scenario Discussion
-9. Activity: Drafting a Statement of Objectives (SOO) for Agile Services  
+8. Activity: Scenario discussion
+9. Activity: Drafting a Statement of Objectives (SOO) for Agile services  
 10. Discussion: Outcome-based vs personnel \- focused criteria 
-11. Discussion: Applying AI Data Analysis to Acquisition Planning
-12. Activity: Tech Evaluation Panel Checklist
-13. Activity: Use A Trade-Off Matrix to Help Determine What Matters Most 
+11. Discussion: Applying AI data analysis to acquisition planning
+12. Activity: Tech evaluation panel checklist
+13. Activity: Use a trade-off matrix to help determine what matters most 
 14. Activity: Poll
-15. Activity: The Power of Debriefing
+15. Activity: The power of debriefing
 
-### Additional Resources
+### Additional resources
 
-   - Links to Relevant Documents  
-   - Contact Information
+   - Links to relevant documents  
+   - Contact information
 
-## Overview & Objectives
+## Overview & objectives
     
 
-### Module Summary 
+### Module summary 
 
-With Module 3, participants will learn to build a well-structured solicitation.  They’ll create strategic decisions around tradeoffs, evaluation processes, contract structure, and performance metrics which lead to the development of requirements, solicitation factors, and evaluation criteria that support user-centered outcomes and successful vendor partnerships.
+With Module 3, participants will learn to build a well-structured solicitation. They’ll create strategic decisions around tradeoffs, evaluation processes, contract structure, and performance metrics which lead to the development of requirements, solicitation factors, and evaluation criteria that support user-centered outcomes and successful vendor partnerships.
 
 In sprint one, participants gain expertise in effective acquisition strategy, getting to know methods for planning, the resources, associated risks, and exit strategies, should they be necessary. They will be equipped with the tools to know that what they are buying matches the needs of their agency. They also will be able to discern what a successful procurement looks like by establishing appropriate metrics.
 
@@ -65,7 +65,7 @@ In Sprint 2, learners will get the specifics for how to develop a solicitation, 
 
 Sprint 3 provides hands-on experience with a case study exercise in designing a solicitation strategy. They will learn the important elements of running a successful evaluation process with Agile and modern evaluation methods. 
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this module, participants will be able to:
 
@@ -73,17 +73,19 @@ By the end of this module, participants will be able to:
 * Identify how acquisition strategies vary depending on inherited contracts versus new procurements  
 * Apply key pre-award activities—such as stakeholder engagement and market research—to inform strategic decisions  
 * Describe the lean canvas approach and its role as a living document in agile acquisition environments  
-* Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions.
+* Recognize when and how to update the acquisition strategy based on new inputs and evolving conditions
 
-### Connection to Overall DITAP Program 
+### Connection to overall DITAP program 
 
 This module supports the DITAP competency of applying effective techniques for acquiring digital service solutions in a solicitation and acquisition strategy, focusing on understanding the market and developing a clear statement of objectives that shifts focus to outcomes-based acquisition. It aligns with the broader goals of the DITAP program by reinforcing the shift from traditional, process-heavy procurement toward a more adaptive, outcome-driven approach that supports digital service delivery.  
+
 This module focuses on understanding the market and developing a clear statement of objectives that emphasizes outcomes-based acquisition. It supports the DITAP competency of applying effective techniques for acquiring digital service solutions within solicitation and acquisition strategies. This approach reinforces the DITAP program's broader goal of shifting from traditional, process-heavy procurement to a more adaptive, outcome-driven method that facilitates digital service delivery.  
-This session builds on prior learning from Module 2, and prepares learners for upcoming topics such digital service delivery management and assessment.  It helps bridge the gap between theory and application by introducing the Lean Canvas as a strategic planning tool and evaluating the ethical and legal impacts of artificial intelligence at their agency. 
 
-## Materials and Preparation
+This session builds on prior learning from Module 2, and prepares learners for upcoming topics such digital service delivery management and assessment. It helps bridge the gap between theory and application by introducing the Lean Canvas as a strategic planning tool and evaluating the ethical and legal impacts of artificial intelligence at their agency. 
 
-### Required Materials:
+## Materials and preparation
+
+### Required materials:
 
 - [ ] Module 3 slide deck  
 - [ ] Tech Evaluation Panel Checklist: [Technical Skills Assessment Survey fillable form](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md)   
@@ -91,44 +93,44 @@ This session builds on prior learning from Module 2, and prepares learners for u
 - [ ] Whiteboard and markers or shared digital display  
       
 
-### Preparation Checklist:
+### Preparation checklist:
 
 - [ ] Set up Zoom Polling  
 - [ ] If meeting in person, print handouts.  
 - [ ] Set up breakout rooms or digital equivalent  
       
-## Module Agenda
+## Module agenda
 
 | #  | Activity                                                                                               | Sprint # | Duration in Minutes |
 | -- | ------------------------------------------------------------------------------------------------------ | -------- | ------------------- |
-| 1  | Activity: Build Your Lean Acquisition Canvas                                                           | 1        | 45                  |
+| 1  | Activity: Build your lean acquisition canvas                                                           | 1        | 45                  |
 | 2  | Discussion: Which risk has tripped up your past procurements most often?                               | 1        | 10                  |
 | 3  | Discussion: What’s one specific change you’ll apply to your next acquisition based on today’s session? | 1        | 10                  |
 | 4  | Activity: Poll                                                                                         | 1        | 5                   |
-| 5  | Activity: Scenario Discussion                                                                          | 1        | 20                  |
+| 5  | Activity: Scenario discussion                                                                          | 1        | 20                  |
 | 6  | Activity: Poll                                                                                         | 1        | 10                  |
 | 7  | Discussion: Improving collaboration on a multi-vendor effort                                           | 1        | 10                  |
-| 8  | Activity: Scenario Discussion                                                                          | 1        | 20-30               |
-| 9  | Activity: Drafting a Statement of Objectives (SOO) for Agile Services                                  | 2        | 30-45               |
+| 8  | Activity: Scenario discussion                                                                          | 1        | 20-30               |
+| 9  | Activity: Drafting a Statement of Objectives (SOO) for Agile services                                  | 2        | 30-45               |
 | 10 | Activity: Outcome-based vs personnel-focused criteria                                                  | 2        | 15                  |
-| 11 | Discussion: Applying AI Data Analysis to Acquisition Planning                                          | 2        | 10                  |
-| 12 | Activity: Tech Evaluation Panel Checklist                                                              | 3        | 20                  |
-| 13 | Activity: Use A Trade-Off Matrix to Help Determine What Matters Most                                   | 3        | 15                  |
+| 11 | Discussion: Applying AI data analysis to acquisition planning                                          | 2        | 10                  |
+| 12 | Activity: Tech evaluation panel checklist                                                              | 3        | 20                  |
+| 13 | Activity: Use a trade-off matrix to help determine what matters most                                   | 3        | 15                  |
 | 14 | Activity: Poll                                                                                         | 3        | 5                   |
-| 15 | Activity: The Power of Debriefing                                                                      | 3        | 35-40               |
+| 15 | Activity: The power of debriefing                                                                      | 3        | 35-40               |
 
 
    
 
-## Module Activities
+## Module activities
 
    
 
-1. ### Activity: Build Your Lean Acquisition Canvas
+1. ### Activity: Build your lean acquisition canvas
    
    Total Time Allocation: 45 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose**: Help acquisition professionals apply the Lean Canvas framework to a real or hypothetical digital acquisition problem, reinforcing its value for early strategic planning.  
 * **Expected Outcomes**: By the end of the activity, participants will:  
@@ -146,8 +148,8 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
 * **Instructions**:   
   * **Part 1: Kickoff and Framing (5 min)**  
-    * Facilitator shares slide deck with the 1-slide visual of the 9 boxes  representing the Lean Canvas  
-    * Purpose: captures key assumptions about an acquisition in one place, enabling faster iteration and alignment  
+    * Facilitator shares slide deck with the 1-slide visual of the 9 boxes  representing the Lean Canvas.  
+    * Purpose: captures key assumptions about an acquisition in one place, enabling faster iteration and alignment.  
   * **Part 2: Group Activity \- Filling out the template (25 min)**  
     * Breakouts of 3-5 people each  
     * Each group gets:  
@@ -171,7 +173,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
   * ***Wrap-Up Tip:** Reinforce that the Lean Canvas isn't about precision, it's about **shaping assumptions early** and building a shared mental model of the problem space.*
 
-  ##### Example Scenario:
+  #### Example scenario:
 
   * Launch a cloud-based veteran benefits portal needing rapid iteration.
 
@@ -181,12 +183,12 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
    Total time allocation: 10 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose**: To identify where errors have occurred in past procurements  
 * **Expected Outcomes**: Participants will be able to recognize and anticipate potential pitfalls.  
 * **Materials Needed** (specific to activity): None  
-* **Instructions**:  Full group discussion.
+* **Instructions**: Full group discussion
 
 ---
 
@@ -194,7 +196,7 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
    Total Time Allocation: 10 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose**: To apply the lessons learned in this session to real-life situations  
 * **Expected Outcomes**: Learners will be able to anticipate risk and adapt their process to avoid those problems.  
@@ -207,10 +209,10 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
    Total Time Allocation: 5 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
-* **Purpose**: This is a quick knowledge check about ownership of source code  
-* **Expected Outcomes**: Learners will demonstrate they know source code  ownership can vary according to contract terms.   
+* **Purpose**: This is a quick knowledge check about ownership of source code. 
+* **Expected Outcomes**: Learners will demonstrate they know source code ownership can vary according to contract terms.   
 * **Materials Needed** (specific to activity):   
   * Zoom polling  
 * **Instructions**: Pose question:   
@@ -219,11 +221,11 @@ This session builds on prior learning from Module 2, and prepares learners for u
 
 ---
 
-5. ### Activity: Scenario Discussion
+5. ### Activity: Scenario discussion
 
    Total Time Allocation: 20 min
    
-   #### Activity Instructions:
+   #### Activity instructions:
    
 * **Purpose:** To identify key questions about limited data rights and proprietary encryption that learners should ask when acquiring a new cloud-based platform.
 
@@ -241,20 +243,20 @@ Breakouts or whole-group discussion – 20 minutes total (10 + 10)
 * **Prompt:**
 Your agency is procuring a new cloud-based platform. The vendor offers limited data rights and proprietary encryption. What questions would you raise before award?
 
-### Facilitator Themes / Notes
+### Facilitator themes / notes
 
 | Theme to Look For | Facilitator Notes / Key Points |
 | :---- | :---------------------------- |
-| Government Access & Ownership of Data | Who owns the data, and how can the government access and use it? |
-| Licensing & Intellectual Property (IP) Risks | Are the licensing terms overly restrictive or ambiguous? |
-| Proprietary Encryption or Technology Lock-In | Is the vendor using technology that prevents interoperability or creates dependency? |
-| Data Security & Compliance Obligations | Does the vendor’s approach meet federal data security standards? |
-| Legal & Contractual Clarity | Is legal involved early enough? Are terms clearly defined? |
-| Roles & Stakeholders | Who else should be involved in risk mitigation? |
+| Government access & ownership of data | Who owns the data, and how can the government access and use it? |
+| Licensing & intellectual property (IP) risks | Are the licensing terms overly restrictive or ambiguous? |
+| Proprietary encryption or technology lock-in | Is the vendor using technology that prevents interoperability or creates dependency? |
+| Data security & compliance obligations | Does the vendor’s approach meet federal data security standards? |
+| Legal & contractual clarity | Is legal involved early enough? Are terms clearly defined? |
+| Roles & stakeholders | Who else should be involved in risk mitigation? |
 
 ---
 
-### Bonus: Stretch Thinking
+### Bonus: Stretch thinking
 
 Facilitator can encourage learners to go beyond compliance and think strategically:  
 - How can we future-proof this acquisition?  
@@ -268,14 +270,14 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
    Total Time Allocation: 10 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
-* **Purpose**: To share experiences and talk about contracts with multiple vendors.  
+* **Purpose**: To share experiences and talk about contracts with multiple vendors  
 * **Expected outcomes**: To gain more insight into key issues that may arise with multi-vendor contracts.   
 * **Materials Needed** (specific to activity):   
   * Zoom polling   
 * **Instructions**:  
-* Facilitator:  *How many of you have worked on a contract with multiple vendors before?*  
+* Facilitator: *How many of you have worked on a contract with multiple vendors before?*  
 * Whole group discussion
 
 ---
@@ -284,7 +286,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
    Total Time Allocation: 10 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose**: To share with the group ideas about improving multi-vendor procurement  
 * **Expected Outcomes**: Learners will have identified actions they can take to improve multi-vendor efforts.  
@@ -295,13 +297,13 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 ---
 
-8. ### Activity: Scenario Discussion
+8. ### Activity: Scenario discussion
 
    Total Time Allocation: 20-30 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
-* **Purpose**:  This scenario helps learners apply the fairness and equity concepts in a hypothetical situation.  
+* **Purpose**: This scenario helps learners apply the fairness and equity concepts in a hypothetical situation.  
 * **Expected Outcomes**: Learners will be able to apply these concepts more broadly in real world situations, ensuring fairness, equity, and support for matching vendors to your project.  
 * **Materials Needed** (specific to activity):   
   * Breakout spaces  
@@ -310,12 +312,12 @@ Facilitator can encourage learners to go beyond compliance and think strategical
   
 | # | Expected Participant Responses                       | Listen For                                                                                                                              | Facilitator Insight                                                                                                                                              |
 | - | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | **Overly Complex Task Order Requirements**           | - "The RFP was too long/technical/dense."<br>- "The instructions were unclear or burdensome."                                         | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
-| 2 | **Misalignment with Vendor Capabilities**            | - "The scope didn't match vendor strengths."<br>- "We required past performance in a narrow niche."                                     | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
-| 3 | **Unrealistic Timelines**                            | - "The response window was too short."<br>- "We dropped the task order around a holiday or at fiscal year-end."                         | Compressed timelines can exclude smaller vendors without dedicated proposal teams.                                                                               |
-| 4 | **Lack of Market Awareness or Engagement**           | - "We didn’t host a Q&A session or industry day."<br>- "There was no prior market research or vendor engagement."                        | Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.                                         |
-| 5 | **Overly Restrictive or Biased Evaluation Criteria** | - "The criteria required very specific past government experience."<br>- "There were hidden preferences for an incumbent solution."     | Encourage participants to reframe evaluation criteria around capability and potential, not just history.                                                         |
-| 6 | **Lack of Transparency or Trust in the Process**     | - "Some vendors felt the same vendors always win."<br>- "We never share debriefs or redacted winning proposals."                        | Transparency builds trust. Silence or opacity discourages future participation.                                                                                   |
+| 1 | **Overly complex task order requirements**           | - "The RFP was too long/technical/dense."<br>- "The instructions were unclear or burdensome."                                         | Complex formats, unclear instructions, or outdated templates can intimidate or exhaust smaller vendors. Look for awareness of readability and formatting issues. |
+| 2 | **Misalignment with vendor capabilities**            | - "The scope didn't match vendor strengths."<br>- "We required past performance in a narrow niche."                                     | Requirements may unintentionally favor incumbents. Encourage thinking about how to structure work to attract a wider range of qualified vendors.                 |
+| 3 | **Unrealistic timelines**                            | - "The response window was too short."<br>- "We dropped the task order around a holiday or at fiscal year-end."                         | Compressed timelines can exclude smaller vendors without dedicated proposal teams.                                                                               |
+| 4 | **Lack of market awareness or engagement**           | - "We didn’t host a Q&A session or industry day."<br>- "There was no prior market research or vendor engagement."                        | Agencies must actively signal upcoming opportunities and cultivate interest. Forecasting helps vendors plan and prepare.                                         |
+| 5 | **Overly restrictive or biased evaluation criteria** | - "The criteria required very specific past government experience."<br>- "There were hidden preferences for an incumbent solution."     | Encourage participants to reframe evaluation criteria around capability and potential, not just history.                                                         |
+| 6 | **Lack of transparency or trust in the process**     | - "Some vendors felt the same vendors always win."<br>- "We never share debriefs or redacted winning proposals."                        | Transparency builds trust. Silence or opacity discourages future participation.                                                                                   |
                                                                       
 
 
@@ -327,11 +329,11 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 ---
 
-9. ### Activity: Drafting a Statement of Objectives (SOO) for Agile Services
+9. ### Activity: Drafting a Statement of Objectives (SOO) for Agile services
 
-   Total Time Allocation:  30-45 min
+   Total Time Allocation: 30-45 min
 
-   #### Activity Instructions:
+   #### Activity instructions:
 
 * **Purpose:** To gain hands-on experience drafting a concise and focused SOO  
 * **Expected Outcomes:** Learners will write a tight, concise SOO that focuses on clear, measurable results that will demonstrate project outcomes. They will involve contracting early in the process to ensure alignment.  
@@ -344,12 +346,12 @@ Facilitator can encourage learners to go beyond compliance and think strategical
     
 * **Instructions**:   
 1. **Intro and Setup (5 min)**  
-   **Facilitator:** *Today, you'll work in small groups to quickly create a SOO based on a shared scenario. The goal isn’t perfection—it’s to practice shifting your mindset from prescribing how to do the work to describing what needs to be accomplished.*  
-   1. Share the SOO sections on screen or in chat.  
-   2. Divide participants into breakout groups of 3–5.  
+   **Facilitator:** *Today, you'll work in small groups to quickly create a SOO based on a shared scenario. The goal isn’t perfection—it’s to practice shifting your mindset from prescribing how to do the work to describing what needs to be accomplished.*
+   1. Share the SOO sections on screen or in chat.
+   2. Divide participants into breakout groups of 3–5.
    3. Assign one person per group to take notes and report out.
 
-2. **Group activity in breakouts (20-25 min)**
+3. **Group activity in breakouts (20-25 min)**
 
    **Scenario Prompt:**
 
@@ -380,25 +382,25 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 ---
 
-10. ### Discussion: Outcome-based vs personnel \- focused criteria
+10. ### Discussion: Outcome-based vs personnel-focused criteria
 
-    Total Time Allocation:  15 min
+    Total Time Allocation: 15 min
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose**: To apply what they have learned with respect to key personnel standards  
-* **Expected Outcomes:** Learners will be able to refine their approach to KP in real-world situations establishing outcome-based criteria  
+* **Expected Outcomes:** Learners will be able to refine their approach to KP in real-world situations establishing outcome-based criteria.  
 * **Materials Needed (specific to activity):** None  
 * **Instructions:**   
   **Facilitator:** *Let’s open it up for discussion. What have you experienced in the field? Where might outcome-based criteria have been more effective than personnel-focused ones?*
 
 ---
 
-11. ### Discussion: Applying AI Data Analysis to Acquisition Planning
+11. ### Discussion: Applying AI data analysis to acquisition planning
 
-    Total Time Allocation:  10 min
+    Total Time Allocation: 10 min
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose**: Apply what they’ve learned about using AI for data analysis  
 * **Expected Outcomes**: Learners will be able to use AI to perform better analyses or predictions in acquisition planning.  
@@ -412,9 +414,9 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 12. ### Activity: [Tech Evaluation Panel Checklist](https://github.com/usds/ditap-curriculum-update/blob/571162ad7e16a5d79b741e0fe4d0d6d3b89ed8aa/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Tech%20Evaluation%20Panel%20Checklist.md)
 
-    Total Time Allocation:  20 min 
+    Total Time Allocation: 20 min 
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose**: To create a list that will help them to determine the tech evaluation panel’s skillset  
 * **Expected Outcomes**: Learners will be able to use a checklist of standards that will assess a technical evaluation panel’s skillset relative to the digital service they will be asked to evaluate. They may also offer their ideas on other techniques they could use.  
@@ -430,11 +432,11 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 ---
 
-13. ### Activity: Use A Trade-Off Matrix to Help Determine What Matters Most
+13. ### Activity: Use a trade-off matrix to help determine what matters most
 
     Total Time Allocation: 15 min 
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose:** To practice using the trade-off matrices to help clarify priorities  
 * **Expected Outcomes**: Learners will be able to develop rationales for using either of the matrices and use that knowledge to apply a matrix to their capstone project.   
@@ -442,8 +444,8 @@ Facilitator can encourage learners to go beyond compliance and think strategical
   * Breakout rooms or digital equivalent  
 * **Instructions:**  
   * **Each group chooses a matrix**  
-    * A member of each group will report out the reasons for choosing the matrix  
-    * Groups will apply the matrix to make tradeoffs for their capstone project  
+    * A member of each group will report out the reasons for choosing the matrix.  
+    * Groups will apply the matrix to make tradeoffs for their capstone project.  
     * Learners should think about what worked: what’s on each of the axes?  
   * **Come back and discuss**: “How was the dialogue? This is important.”  
     * “Let’s go from one Capstone group to another.”  
@@ -455,7 +457,7 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
     Total Time Allocation: 5 min
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose:** To share their concerns about debriefs with the group  
 * **Expected Outcomes**: Learners will find out what their and their peers’ concerns are about debriefs at this point in the training.   
@@ -471,11 +473,11 @@ Facilitator can encourage learners to go beyond compliance and think strategical
    
 ---
 
-15. ### Activity: The Power of Debriefing
+15. ### Activity: The power of debriefing
 
     Total Time Allocation: 35-40 min
 
-    #### Activity Instructions:
+    #### Activity instructions:
 
 * **Purpose:** Conduct a sensitive and thorough debrief with stakeholders.  
 * **Expected Outcomes:** Learners will know how to skillfully conduct a debriefing session, including setting the right tone, getting vendor feedback, and sum up with a closing statement.  
@@ -506,14 +508,14 @@ Facilitator can encourage learners to go beyond compliance and think strategical
 
 
 
-## Additional Resources
+## Additional resources
 
-### Links to Relevant Documents:
+### Links to relevant documents:
 
 * Link to relevant documents as needed.
 
 
-### Contact Information:
+### Contact information:
 
 * Who to contact for technical issues or content questions.
 

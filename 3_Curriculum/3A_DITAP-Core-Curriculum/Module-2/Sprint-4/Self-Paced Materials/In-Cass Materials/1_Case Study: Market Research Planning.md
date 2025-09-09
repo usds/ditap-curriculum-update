@@ -1,3 +1,4 @@
+
 # Module 2 Sprint 4 Case Study Facilitator Guide
 
 **Session Title:** Market Research Planning
@@ -8,7 +9,7 @@
 **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & Objectives
+## I. Overview & objectives
 
 In this session, learners apply market research planning techniques to Casey’s CRM project from the Nagivating Stakeholder and Decision-Making Challenges case study. Building on their stakeholder analysis, they identify knowledge gaps and begin shaping a high-level plan to better understand user needs, constraints, and potential vendors.
 
@@ -21,7 +22,7 @@ In this session, learners apply market research planning techniques to Casey’s
 | Note: This is an extension activity designed to deepen application of the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but builds on Milestone 1 to help learners connect stakeholder insights to early market research planning and discovery strategy. |
 | :---- |
 
-## II. Materials & Preparation
+## II. Materials & preparation
 
 **Materials:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study: Milestone 1 (Stakeholder Analysis)  
@@ -33,7 +34,7 @@ In this session, learners apply market research planning techniques to Casey’s
 **Pre-Read for Participants:**
 * Read Nagivating Stakeholder and Decision-Making Challenges Case Study Milestone 1: Stakeholder Analysis
 
-## III. Session Agenda & Activities
+## III. Session agenda & activities
 
 **Sprint 4 Activity: Market Research Planning**  
 **Time:** 30-45 minutes
@@ -44,20 +45,20 @@ In this session, learners apply market research planning techniques to Casey’s
     - List information sources (e.g., user interviews, IT inventories, RFIs)
     - Choose methods to fill gaps (e.g., industry scan, stakeholder interviews)  
 - Encourage teams to tie each research idea back to a specific stakeholder concern or organizational constraint.  
-- Reinforce the link between what they learn now and decisions they’ll make in Module 3
+- Reinforce the link between what they learn now and decisions they’ll make in Module 3.
 
 **Expected Outcomes:**
 * A rough outline of a research plan addressing known gaps  
 * Clarity on how discovery work will inform next steps in design
 
 **Optional Extension Activities:**
-* **Define Success:** Ask teams to write a success statement for the CRM project based on current insights  
-* **Readiness Check:** Facilitate a brief discussion: *“Is this agency ready for cloud CRM?”* Use stakeholder data to explore readiness
+* **Define Success:** Ask teams to write a success statement for the CRM project based on current insights.  
+* **Readiness Check:** Facilitate a brief discussion: *“Is this agency ready for cloud CRM?”* Use stakeholder data to explore readiness.
 
 **Next Steps/Follow-Up:**
 * [See FAR 10 Integration Assignment](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Module%202%20FAR%2010%20Integration%20DITAP%20Facilitators%20Guide_Case%20Study.md)
 
-**IV. Additional Resources/ Appendix**
+## IV. Additional resources/Appendix
 
 * Stakeholder Map Template (Power/Interest Grid)  
 * Sample Market Research Plan Framework  
