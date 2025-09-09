@@ -1,8 +1,8 @@
 # DITAP In-Class Participant Guide
 
+# Module 1 \- Introduction to Digital Services: The Who, What, and How of Digital Service Delivery 
 *Revised August 2025*
 
-## Module 1 \- Introduction to Digital Services: The Who, What, and How of Digital Service Delivery 
 
 Date: \[Insert Date\]  
 Time: \[Insert Start and End Time\]  
@@ -14,26 +14,26 @@ Facilitator(s): \[List Facilitator Names\]
 
 ### Welcome message
 
-### Overview and Objectives
+### Overview and objectives
 
-   - Module Summary  
-   - Learning Objectives  
-   - Connection to Overall DITAP Program
+   - Module summary  
+   - Learning objectives  
+   - Connection to overall DITAP program
      
 ### Module Activities 
 1. Discussion: What digital services have you used?
-2. Activity: Who’s Who of Digital Services Teams 
+2. Activity: Who’s who of digital services teams 
 3. Discussion: Consideration of user needs  
 4. Discussion: User persona
 5. Discussion: Reflections on a past project
 6. Activity: Create a sprint backlog
 7. Discussion: Everyday data
 8. Discussion: What could you ask about data?
-9. Discussion: Benefits and challenges of agile development methods 
+9. Discussion: Benefits and challenges of Agile development methods 
 10. Discussion: Why continuous integration and continuous delivery (CI/CD)?  
 11. Discussion: What role does a Software Bill of Materials (SBOM) play in managing risk?  
 12. Discussion: Proprietary vs. Open-Source Software
-13. Activity: Build- a-Digital-Service Workshop  
+13. Activity: Build- a-Digital-Service workshop  
 14. Discussion: Deciding the best way to use (or not use) cloud
 15. Activity: Preventing misunderstandings in a shared responsibility model 
 16. Discussion: How can we encourage modular or hybrid cloud strategies?
@@ -46,7 +46,7 @@ Facilitator(s): \[List Facilitator Names\]
 23. Discussion: Cybersecurity expectations
 
 
-### Reflections on this Module
+### Reflections on this module
 
 ---
 
@@ -58,27 +58,27 @@ This guide will serve as your roadmap through the first Module of the course. Se
 
 Let’s get started\!
 
-## Overview and Objectives
+## Overview and objectives
 
-### Module Summary
+### Module summary
 
-   In this module, you will learn about digital services in the 21st century, including what they are, who provides them, how they are delivered, and why they are important. 
+In this module, you will learn about digital services in the 21st century, including what they are, who provides them, how they are delivered, and why they are important. 
 
-### Learning Objectives
+### Learning objectives
 
-   By the end of this module, you will be able to:   
+By the end of this module, you will be able to:   
 * Define digital services  
 * Identify key players in the digital services ecosystem  
 * Identify strategies to help you identify user needs  
-* Describe contemporary practices used to develop digital services.
+* Describe contemporary practices used to develop digital services
 
-### Connection to Overall DITAP Program
+### Connection to overall DITAP program
 
-  This topic introduces the foundational concepts of digital services within the federal landscape. You will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery.
+This topic introduces the foundational concepts of digital services within the federal landscape. You will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery.
 
 ## Module Activities
 
-1. ### Discussion: What digital services have you used?  (5 minutes)
+1. ### Discussion: What digital services have you used? (5 minutes)
 
 * **Purpose:** Get familiar with digital services you and your colleagues use, and why.   
 * **Expected Outcomes**: You will be able to name several digital services you and your colleagues use in the procurement process.   
@@ -89,7 +89,7 @@ Let’s get started\!
   
 ---
 
-2. ### Activity: Who’s Who of Digital Services Teams (DSTs) (60 minutes)
+2. ### Activity: Who’s who of digital services teams (DSTs) (60 minutes)
 
 * **Purpose**: To build awareness of digital service teams’ missions, work, and roles in government to help you anticipate collaboration needs.  
 * **Expected Outcomes**: You will gain familiarity with DSTs and identify connections to your own contracting work.  
@@ -120,7 +120,7 @@ Let’s get started\!
 
 4. ### Discussion: User persona (10 minutes)
 
-* **Purpose:** Think specifically about how to  communicate the key elements that support your users’ needs.   
+* **Purpose:** Think specifically about how to communicate the key elements that support your users’ needs.   
 * **Expected Outcomes**: You will be able to prioritize users’ needs when delivering a product or service.  
   **Notes:**   
   (*next steps, takeaways, questions, etc.*)   
@@ -131,8 +131,8 @@ Let’s get started\!
 
 5. ### Discussion: Reflections on a past project (25 minutes)
 
-* **Purpose:** To understand the benefits of agile  
-* **Expected Outcomes:** You will be able to articulate the benefits of agile and how it could benefit your work  
+* **Purpose:** To understand the benefits of Agile  
+* **Expected Outcomes:** You will be able to articulate the benefits of Agile and how it could benefit your work.  
   **Notes:**   
   (*next steps, takeaways, questions, etc.*)   
     
@@ -140,9 +140,9 @@ Let’s get started\!
   
 
 
-6. ### Activity: Create a Sprint Backlog (45-60 minutes)
+6. ### Activity: Create a sprint backlog (45-60 minutes)
 
-* **Purpose:** You will think in the framework of sprints and what tasks to accomplish in a sprint  
+* **Purpose:** You will think in the framework of sprints and what tasks to accomplish in a sprint.
 * **Expected Outcomes**: You will develop a structured backlog for each sprint.   
 * **Activity**:   
   * You will meet in smaller groups to create a sample sprint backlog using a fictional case study
@@ -181,10 +181,10 @@ Let’s get started\!
 
   
 
-9. ### Discussion: Benefits and challenges of agile development methods (5-10 minutes)
+9. ### Discussion: Benefits and challenges of Agile development methods (5-10 minutes)
 
-* **Purpose:** You can explain the advantages and challenges of an agile approach to contracting officers  
-* **Expected Outcomes**: You and contracting officers share an understanding of the pros and cons of agile development methods.  
+* **Purpose:** You can explain the advantages and challenges of an Agile approach to contracting officers  
+* **Expected Outcomes**: You and contracting officers share an understanding of the pros and cons of Agile development methods.  
   **Notes:**   
   (*next steps, takeaways, questions, etc.*)   
 
@@ -215,7 +215,7 @@ Let’s get started\!
 
 
 
-12. ### Discussion: Procurement Tradeoffs: Proprietary vs. Open-Source Software (5-10 minutes)
+12. ### Discussion: Procurement tradeoffs: Proprietary vs. Open-Source Software (5-10 minutes)
 
 * **Purpose**: To explore and understand the major tradeoffs between proprietary and open-source software.  
 * **Expected Outcomes**: You will be able to identify and articulate key differences, advantages and disadvantages between proprietary and open-source software for procurement, and recognize critical factors for decision-making in real-world scenarios.  
@@ -226,16 +226,16 @@ Let’s get started\!
   
 
 
-13. ### Activity: Build-a-Digital-Service Workshop (60-90 minutes)
+13. ### Activity: Build-a-Digital-Service workshop (60-90 minutes)
 
-    In a small group, you will create a new government digital service to help a specific population (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  
+In a small group, you will create a new government digital service to help a specific population (e.g., veterans seeking housing assistance, small businesses applying for permits, or students applying for federal aid).  
 * **Purpose:**    
-  You will:  
+  You will: 
   * Apply user-centered design principles to a real-world digital service challenge  
   * Integrate accessibility, feedback loops, and iterative delivery  
   * Make informed procurement decisions aligned with modern acquisition practices  
   * Practice collaborative planning in a simulated multi-role environment (e.g., tech, user, CO)  
-* **Expected Outcomes:** You will be able to apply human-centered design and agile principles to collaboratively design a government digital service that addresses the specific needs of a target user group.  
+* **Expected Outcomes:** You will be able to apply human-centered design and Agile principles to collaboratively design a government digital service that addresses the specific needs of a target user group.  
 * **Activity**  
   * You will sketch out a high-level concept for the service, addressing the points listed below.   
   * Note the specific deliverables  
@@ -260,10 +260,10 @@ Let’s get started\!
   
 
 
-14. ### Discussion:  Deciding the best way to use (or not use) cloud to support your mission? (5-10 minutes)
+14. ### Discussion: Deciding the best way to use (or not use) cloud to support your mission (5-10 minutes)
 
-* **Purpose:** Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient.    
-* **Expected Outcomes**: You will be able to discern appropriate situations for using cloud services.    
+* **Purpose:** Using the cloud improperly or unnecessarily misdirects resources, but when used appropriately can make projects faster, scalable, and more efficient. 
+* **Expected Outcomes**: You will be able to discern appropriate situations for using cloud services. 
   **Notes:**   
   (*next steps, takeaways, questions, etc.*)   
     
@@ -315,7 +315,7 @@ Let’s get started\!
   
 
 
-19. ### Activity:  “Procure or Pass?” Game (25-30 minutes)
+19. ### Activity: “Procure or Pass?” game (25-30 minutes)
 
 * **Purpose:**   
   * Build awareness of common AI use cases in government  
@@ -380,7 +380,7 @@ Let’s get started\!
 
 23. ### Discussion: Cybersecurity expectations (5-10 min)
 
-* **Purpose:** You will learn how to include security expectations in  requirements, evaluation criteria, and post-award monitoring.   
+* **Purpose:** You will learn how to include security expectations in requirements, evaluation criteria, and post-award monitoring.   
 * **Expected Outcomes:** You will prevent weak systems from being procured.  
   **Notes:**   
   (*next steps, takeaways, questions, etc.*)   
@@ -389,5 +389,5 @@ Let’s get started\!
 
 ## Reflections on this module
 
-* What challenges does your agency face for which digital IT procurement should be considered?    
+* What challenges does your agency face for which digital IT procurement should be considered? 
 * What questions would you ask of vendors for such a procurement? 
