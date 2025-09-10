@@ -24,7 +24,7 @@ To ask meaningful, strategic questions of acquisition lifecycle stakeholders tha
 
 ---
 
-## Who Should Be in the Room?
+## Who should be in the room?
 
 **Must-Haves:**
 
@@ -66,7 +66,7 @@ By the end of the event, you should have:
 
 ---
 
-## Facilitator Guidance
+## Facilitator guidance
 
 * **Kick off with purpose.** Reiterate why everyone is in the room—shared clarity leads to shared accountability.
 
@@ -80,17 +80,17 @@ By the end of the event, you should have:
 
 ---
 
-## Final Note
+## Final note
 
 Remember: Acq-A-thons are about shifting the culture of acquisition planning from documentation to collaboration. Even a half-day version of this process is better than siloed, serial discovery. Invite people in, share decision-making early, and watch your strategies—and contracts—get stronger.
 
-## Acq-A-thon Worksheets & Agenda Templates
+## Acq-A-thon worksheets & agenda templates
 
-### Editable Agenda Template
+### Editable agenda template
 
 Customize this agenda for a 1-day Acq-A-thon.
 
-| Time | Activity | Notes / Responsible Person |
+| Time | Activity | Notes / Person Responsible |
 | :---- | :---- | :---- |
 | 9:00 – 9:30 | Welcome, Framing & Objectives |  |
 | 9:30 – 10:30 | Problem Definition |  |
@@ -102,13 +102,13 @@ Customize this agenda for a 1-day Acq-A-thon.
 | 2:30 – 3:15 | Draft Acquisition Hypothesis |  |
 | 3:15 – 4:00 | Recap, Debrief & Next Steps |  |
 
-### 2-Day Acq-A-thon Schedule (9:00 AM – 4:00 PM each day)
+### 2-Day Acq-A-thon schedule (9:00 AM – 4:00 PM each day)
 
 #### Day 1
 
 | Time | Activity |  |
 | :---- | :---- | :---- |
-| **Time** | **Activity** | **Notes/Person Responsible** |
+| Time | Activity | Notes/Person Responsible |
 | 9:00 – 9:30 | Welcome, Framing & Objectives |  |
 | 9:30 – 10:30 | Problem Definition |  |
 | 10:30 – 11:15 | Return on Mission: Define Success Criteria |  |
@@ -122,7 +122,7 @@ Customize this agenda for a 1-day Acq-A-thon.
 
 | Time | Activity |  |
 | :---- | :---- | :---- |
-| Time | Notes | Notes/Person Responsible |
+| Time | Activity | Notes/Person Responsible |
 | 9:00 – 9:30 | Recap of Day 1 and Open Issues |  |
 | 9:30 – 11:00 | Draft Acquisition Hypothesis |  |
 | 11:00 – 12:00 | Define Early Market Research Plan |  |
@@ -131,7 +131,7 @@ Customize this agenda for a 1-day Acq-A-thon.
 | 2:00 – 3:00 | Review Outputs & Assign Owners |  |
 | 3:00 – 4:00 | Final Recap, Feedback, and Closeout |  |
 
-### Worksheet: Problem Definition
+### Worksheet: Problem definition
 
 Instructions: Define the real, user-centered problem to solve.
 
@@ -145,7 +145,7 @@ Instructions: Define the real, user-centered problem to solve.
 
 Example: “Field staff rely on a legacy system that crashes often, causing delays in service delivery.”
 
-### Worksheet: Product Vision
+### Worksheet: Product vision
 
 Instructions: Describe the desired future state of the product or service.
 
@@ -159,7 +159,7 @@ Instructions: Describe the desired future state of the product or service.
 
 • Who benefits the most from its success?
 
-### Worksheet: Return on Mission
+### Worksheet: Return on mission
 
 Instructions: Define public impact and mission-driven outcomes.
 
@@ -171,7 +171,7 @@ Instructions: Define public impact and mission-driven outcomes.
 
 • What are some measurable indicators or proxy metrics?
 
-### Worksheet: Constraint Discovery
+### Worksheet: Constraint discovery
 
 Instructions: Use these prompts to uncover constraints that could impact the acquisition.
 
@@ -191,7 +191,7 @@ Instructions: Use these prompts to uncover constraints that could impact the acq
 
 • **Technical Environment:** System integrations needed? Cloud migrations?
 
-### Worksheet: Acquisition Hypothesis
+### Worksheet: Acquisition hypothesis
 
 Instructions: Draft the initial strategy to guide market research and planning.
 
@@ -202,4 +202,3 @@ Instructions: Draft the initial strategy to guide market research and planning.
 • What assumptions need to be tested through market research?
 
 • What are possible risks or pivots if constraints cannot be addressed?
-

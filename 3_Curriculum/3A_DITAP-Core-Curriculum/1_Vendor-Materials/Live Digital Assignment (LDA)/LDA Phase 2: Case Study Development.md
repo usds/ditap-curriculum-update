@@ -1,10 +1,10 @@
 # LDA Phase 2: Case Study Development 
 
-Phase 2: Case Study Development (Weeks 7–12, Module 3 Sprints 1 & 4\)
+**Phase 2: Case Study Development (Weeks 7–12, Module 3 Sprints 1 & 4\)**
 
 The objective of Phase 2 is to provide participants with hands-on experience responding to an agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4\.
 
-## Facilitator Guide:
+## Facilitator guide
 
 Facilitators must guide teams on how to effectively map their independently discovered project from Phase 1 to the specific, fixed Case Study Evaluation-aligned Case Study requirements. The suitability of the initial project selection becomes paramount at this stage. Facilitators must ensure that teams understand that while their Phase 1 research provides the context and problem, Phase 2 demands a specific type of vendor response that meticulously aligns with the Case Study Evaluation framework.
 
@@ -19,10 +19,10 @@ A critical aspect for facilitators to emphasize is the "Pass/Fail" evaluation cr
 
 Teams are also informed that their submissions will be evaluated blindly by other teams in Phase 3\. This encourages them to create clear, well-organized, and easily understandable packages, making it easy for a reviewer to follow their logic, trace insights to design, and connect implementation to research.
 
-### Team Deliverables 
+### Team deliverables 
 Teams must submit a complete Case Study Package comprising all four artifacts. This deliverable is a key milestone in Module 3, Sprint 4\.
 
-### Case Study Evaluation
+### Case study evaluation
 Case Study Artifact Requirements & Evaluation Criteria
 
 **Technical Factor 1 - Case Study #1**
@@ -34,7 +34,7 @@ Case Study Artifact Requirements & Evaluation Criteria
 | Artifact 3: Screenshot | A screenshot of the live product or feature in a production environment, available for user use. Must show the implementation of a change based on the Usability Research Report insights or findings. |
 | Artifact 4: Case Study Narrative (2-page) | Describes the project context for Artifacts 1, 2, and 3\. Must include a clear explanation of the design process demonstrating the Design File was used for Usability Research, and that resulting insights were the basis for modification or addition of a design element released to production. |
 
-### Evaluation Criteria
+### Evaluation criteria
 
 **Pass**: If the Offeror’s Case Study and Artifacts conform with each of the conditions above. No credit for responses exceeding minimum requirements. No assumptions of conformance will be made.Documentation supports evaluation decisions.</br>
 
