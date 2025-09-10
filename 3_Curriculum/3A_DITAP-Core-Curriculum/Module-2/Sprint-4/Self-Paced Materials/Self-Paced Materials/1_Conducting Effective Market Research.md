@@ -6,6 +6,8 @@ Effective market research is the cornerstone of a successful digital services ac
 
 This sprint equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
 
+The recent implementation of FAR Part 39 has elevated the importance of market research for IT acquisitions, requiring acquisition professionals to develop a deeper understanding of technolgoy markets, commercial practices, and emerging trends. Similarly, enhanced FAR Part 6 requirements emphasize the critical role of market research in ensuring full and open competition while leveraging the best available solutions.
+
 ---
 ## Learning objectives
 

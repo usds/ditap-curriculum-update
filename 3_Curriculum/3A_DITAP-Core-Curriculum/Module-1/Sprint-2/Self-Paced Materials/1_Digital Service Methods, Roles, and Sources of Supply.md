@@ -732,7 +732,7 @@ Which approach should you prioritize first?
 
 ### The government ecosystem
 
-Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. Digital Service (USDS), which focuses on building human-centered, Agile digital services, often in collaboration with agency teams and external partners. 
+Many federal agencies now have internal digital service teams dedicated to transforming and modernizing digital services. One example is the U.S. DOGE Service (USDS), which focuses on building human-centered, Agile digital services, often in collaboration with agency teams and external partners. 
 
 Internal digital service teams are embedded within agencies and vary in size, mission, and approach. They bring technical expertise in-house and help ensure services are built with users in mind and delivered iteratively.
 
@@ -756,14 +756,14 @@ The private sector plays a crucial role in federal digital service delivery. A g
 
 These suppliers include:
 
-* **Large companies** (e.g., IBM, Booz Allen) offer scale and breadth of services, often as prime contractors on significant efforts.  
-* **Third-party resellers** sell products/services from another vendor, such as AWS cloud services.  
-* **Value-add resellers** package and combine services for an integrated offering.  
-* **Traditional firms** have a long history with the government.   
-* **Non-traditional firms** (often startups or commercial tech companies) bring innovative practices and tools.  
-* **Joint ventures** are where two firms combine under a legal structure to offer services as a new entity.  
-* **Shared service providers** are government entities authorized to offer services to other agencies.  
-* **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.  
+* **Large companies** (e.g., IBM, Booz Allen) offer scale and breadth of services, often as prime contractors on significant efforts.
+* **Third-party resellers** sell products/services from another vendor, such as AWS cloud services.
+* **Value-add resellers** package and combine services for an integrated offering.
+* **Traditional firms** have a long history with the government. 
+* **Non-traditional firms** (often startups or commercial tech companies) bring innovative practices and tools.
+* **Joint ventures** are where two firms combine under a legal structure to offer services as a new entity.
+* **Shared service providers** are government entities authorized to offer services to other agencies.
+* **Internal digital service teams** aren’t vendors per se, but intra-agency service providers supporting mission delivery.
 * **Public-private partnerships** are long-term collaborations between agencies and private companies to achieve defined goals.
 
 ### The growing digital service supplier community
@@ -805,7 +805,35 @@ Once the right supplier type is identified, the next step is choosing the approp
 | **Agency-Specific Contract Vehicles** | Tailored BPAs and IDIQs created to meet agency-specific digital needs. | VA SPRUCE IDIQ, SEC Digital Services BPA, OPM Digital Support Services BPA, GSA Total BPA |
 
 **Note:**  
- Agency-specific vehicles are increasingly designed to support Agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
+Agency-specific vehicles are increasingly designed to support agile, iterative delivery and human-centered design, providing a more flexible and responsive way to acquire digital services.
+
+### Competition and small business requirements (FAR Parts 6 & 39 Compliance) 
+
+**Market Research for Digital Services:**
+Under the revised FAR Part 6, agencies must conduct comprehensive market research before selecting digital service providers:
+
+- **Industry Analysis**: Research capabilities across large companies, small businesses, and emerging technology firms
+- **Small Business Assessment**: Document opportunities for small business set-asides, including 8(a), HUBZone, SDVOSB, and WOSB participation  
+- **Innovation Opportunities**: Identify emerging technologies and non-traditional vendors that could provide innovative solutions
+- **Cost Analysis**: Gather pricing information from multiple sources to establish fair and reasonable expectations
+
+**Competition Strategy Requirements:**
+- **Full and Open Competition**: Default approach unless exception criteria are met and documented
+- **Set-Aside Analysis**: Evaluate all opportunities for small business participation before proceeding with unrestricted competition
+- **Bundling Restrictions**: Avoid unnecessary bundling that would exclude small business participation
+- **Multiple Award Opportunities**: Consider IDIQ contracts and other vehicles that provide ongoing competitive opportunities
+
+**Technology-Specific Requirements (FAR Part 39):**
+- **Cloud Services**: All cloud acquisitions must include FedRAMP authorization requirements and supply chain risk assessments
+- **AI/ML Systems**: Mandatory bias assessment and explainability requirements for artificial intelligence acquisitions
+- **Open Source Software**: Legal review and security assessment requirements for open source solutions
+- **Cybersecurity**: Current federal cybersecurity standards must be incorporated into all IT acquisitions
+
+**Pre-Solicitation Requirements:**
+- Conduct industry days to gather market feedback
+- Issue Requests for Information (RFIs) when market capabilities are unclear
+- Document all vendor communications in accordance with FAR transparency requirements
+- Ensure equal access to information for all potential offerors
 
 ---
 
@@ -833,7 +861,6 @@ Common models include:
 * A small vendor handles user research and prototyping, while the agency maintains backend integration.  
 * A large integrator leads DevSecOps operations while a digital consultancy handles UX/UI and front-end development.  
 * A digital services company partners with an internal federal team to co-develop a modular CMS platform, sharing sprint planning and product ownership duties.
-
 
 ---
 ## Recommended readings
