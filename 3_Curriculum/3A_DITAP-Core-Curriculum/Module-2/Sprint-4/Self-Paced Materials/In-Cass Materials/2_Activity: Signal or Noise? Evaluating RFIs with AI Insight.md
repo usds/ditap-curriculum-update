@@ -1,4 +1,4 @@
-#Activity: RFI Reality Check — Using AI to Strengthen Industry Engagement
+# Activity: RFI Reality Check — Using AI to Strengthen Industry Engagement
 
 **Purpose**
 
@@ -31,8 +31,8 @@ This activity helps you practice evaluating a real-world Request for Information
 
 With your group:
 
-* Discuss how your analysis compares with Lumen’s insights  
-* Decide what *you* would change if you were the Contracting Officer  
+* Discuss how your analysis compares with Lumen’s insights.  
+* Decide what *you* would change if you were the Contracting Officer.  
 * Identify at least three concrete edits that would:  
   * Improve clarity  
   * Align the RFI with digital service delivery  
