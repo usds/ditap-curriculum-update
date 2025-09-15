@@ -114,7 +114,6 @@ Learners role-play responding to a FOIA or audit request related to an AI decisi
 3. Each team presents findings and suggests contract language, FAR clauses (e.g., FAR 52.204-21 or 52.239-1), or evaluation criteria to mitigate risks.  
 4. Debrief as a group to discuss best practices and lessons learned.  
 
----
 
 ### Activity – "Cyber Clause Combat": Interactive Policy Matching Game
 **Objective:** Reinforce knowledge of key cybersecurity clauses, policies, and frameworks in procurement.  
