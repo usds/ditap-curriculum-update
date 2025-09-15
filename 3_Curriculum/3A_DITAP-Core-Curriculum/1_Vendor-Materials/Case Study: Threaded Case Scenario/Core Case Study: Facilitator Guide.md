@@ -105,7 +105,7 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
 
 **For Students:**
 * [**Federal Cloud Computing Strategy (Cloud Smart)**](https://cloud.cio.gov/strategy/)  
-* [**USDS TechFAR Hub Primer**](https://techfarhub.cio.gov/handbook/)  
+* [**USDS TechFAR Hub Primer**](https://techfarhub.cio.gov/handbook/) (archived [September 15, 2025](https://web.archive.org/save/https://techfarhub.usds.gov/get-started/))  
 * [**18F De-risking Guide**](https://digitalgovernmenthub.org/wp-content/uploads/2022/07/18f-derisking-guide.pdf) \- especially relevant for Casey's situation  
 * [**Federal CRM Success**](https://fedtechmagazine.com/article/2009/12/why-gsa-implementing-crm-process) from GSA
 
