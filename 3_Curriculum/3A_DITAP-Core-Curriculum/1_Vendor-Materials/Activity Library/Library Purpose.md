@@ -7,4 +7,4 @@ The purpose of this library is to give facilitators flexibility and choice. You 
 - Encourage discussion, reflection, and application of ideas to real-world contexts.  
 - Provide variety in session formats and learner engagement strategies.  
 
-Feel free to modify, combine, or build on these activities to best suit your learners and context.
+Feel free to modify, combine, or build on these activities to best suit your learners and context. 
