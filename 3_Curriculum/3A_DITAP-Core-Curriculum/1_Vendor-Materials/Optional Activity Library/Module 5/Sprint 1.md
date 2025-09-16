@@ -11,7 +11,7 @@ Use an AI chatbot to practice preparing for a challenging conversation. Share yo
 
 ## Content Topic: Cultivating Your Growth Mindset  
 
-### Activity – AI Coaching on Growth Mindset  
+### Activity – AI Coaching on Growth Mindset (Individual)
 Try using an AI chatbot as a practice coach to explore how a growth mindset applies to your work. You can provide it with a scenario and see what insights it offers. For example, you might use a prompt like this:  
 
 > Act as a coach specializing in developing a growth mindset for professionals in government and digital services. I will describe a situation where I feel hesitant to take a risk, challenge the status quo, or learn from a setback. Help me reframe the situation to see the opportunity for growth, suggest strategies to embrace calculated risks, and outline steps to turn any potential failure into a learning experience. My situation is: [insert scenario here].
