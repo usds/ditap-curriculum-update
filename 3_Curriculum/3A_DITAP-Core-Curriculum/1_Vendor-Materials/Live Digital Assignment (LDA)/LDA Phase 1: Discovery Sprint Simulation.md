@@ -39,3 +39,10 @@ Teams must also conduct structured market research to understand the vendor land
 
 _Facilitator Guidance:_ <br>
 Emphasize that market research should inform problem scoping, not just validate pre-conceived solutions. Guide teams to identify where the market is mature vs. emerging, and how this affects procurement strategy.
+
+### Socioeconomic Program Integration:
+
+**Small Business Considerations**
+* Identify potential small business vendors in the market research
+* Consider how requirements could be structured to enable small business participation
+* Assess whether the solution could be broken into smaller, more accessible opportunities
