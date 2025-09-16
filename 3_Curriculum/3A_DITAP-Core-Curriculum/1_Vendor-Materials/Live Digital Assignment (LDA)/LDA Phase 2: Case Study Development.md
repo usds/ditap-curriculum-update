@@ -26,7 +26,10 @@ Facilitators must guide teams on how to effectively map their independently disc
   * Define sprint length, delivery cadence, and key performance indicators (KPIs).
   * Outline how user feedback would be integrated into ongoing development.
   * Specify acceptance criteria for deliverables.
-
+* **Artifact 6:** Security & Compliance Summary (1 page) - Document key security controls, compliance considerations, and how security testing was integrated into the user research and development process.
+  * _Facilitator Guidance:_
+Emphasize that security is not an afterthought but integral to user experience. Guide teams to consider how security requirements affect user research design and implementation decisions.
+  
 A critical aspect for facilitators to emphasize is the "Pass/Fail" evaluation criteria for Round 1, as explicitly outlined in the Case Study Evaluation requirements. This evaluation is not comparative; it simply assesses whether the submission meets the bar. Any missing component, lack of detail, or unclear connection will result in a "Fail". This strict gate serves as a powerful pedagogical tool, simulating the harsh realities of initial government procurement stages where meticulous proposal writing and strict adherence to solicitation requirements are paramount. The "no assumptions" clause in the Case Study Evaluation framework is particularly impactful, mirroring actual government evaluation practices where ambiguity or omission leads to disqualification. This high-stakes environment directly contributes to cultivating empathy for vendors, as participants experience the pressure of meeting stringent, non-negotiable criteria. Facilitators must consistently remind teams of this "pass/fail" reality, emphasizing precision, clarity, and the explicit connection between artifacts.
 
 Teams are also informed that their submissions will be evaluated blindly by other teams in Phase 3\. This encourages them to create clear, well-organized, and easily understandable packages, making it easy for a reviewer to follow their logic, trace insights to design, and connect implementation to research.
@@ -51,4 +54,15 @@ Case Study Artifact Requirements & Evaluation Criteria
 **Pass**: If the Offeror’s Case Study and Artifacts conform with each of the conditions above. No credit for responses exceeding minimum requirements. No assumptions of conformance will be made.Documentation supports evaluation decisions.</br>
 
 **Fail**: If any responses are not confirmed to conform with each of the conditions above. Documentation supports evaluation decisions.
+
+
+## Security and compliance integration:
+
+**Mandatory security considerations:**
+
+All case study submissions must address:
+* Security by Design: How security requirements were integrated from the start
+* Compliance Framework: Relevant federal compliance requirements (FedRAMP, FISMA, etc.)
+* DevSecOps Integration: How security testing and monitoring would be continuous
+* Data Protection: Approach to protecting sensitive user data and PII
 
