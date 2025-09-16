@@ -57,7 +57,7 @@ Case Study Artifact Requirements & Evaluation Criteria
 
 
 
-## Security and compliance integration:
+### Security and compliance integration:
 
 **Mandatory security considerations:**
 
@@ -67,3 +67,16 @@ All case study submissions must address:
 * **DevSecOps Integration:** How security testing and monitoring would be continuous
 * **Data Protection:** Approach to protecting sensitive user data and PII
 
+### Performance-based contracting framework:
+
+**Outcome-focused metrics:** 
+
+Case studies must define success in terms of user outcomes, not technical outputs:
+* User Impact Metrics: How success would be measured from the user's perspective
+* Business Value Metrics: Quantifiable benefits to the agency mission
+* Performance Standards: Specific, measurable criteria for acceptable performance
+* Incentive Structure: How vendor performance would be rewarded or penalized
+
+**Enhanced Evaluation Criteria:**
+
+Submissions must demonstrate clear linkage between user research insights and measurable performance outcomes.
