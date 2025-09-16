@@ -1,3 +1,4 @@
+
 # Stakeholder Interview Guide Template
 
 ## Instructions
@@ -8,7 +9,7 @@ We’ve populated a few sample interviews and questions to help you get started.
 
 As you continue to grow and learn more about digital services acquisition, you can use your experiences to add to and refine these resources so they remain useful in future projects.
 
-### Sample Interview 1
+### Sample interview 1
 
 - **Stakeholder group**: Digital Services Acquisition Partnership
 - **Stakeholder positions**: Product Owner, COR, Digital Services Team
@@ -40,7 +41,7 @@ As you continue to grow and learn more about digital services acquisition, you c
 |     |
 | --- |
 
-### Sample Interview 2
+### Sample interview 2
 
 - **Stakeholder group**: Acquisition stakeholders
 - **Stakeholder positions**: Acquisition Policy Office, Senior Procurement Executive (SPE), Head Contracting Authority (HCA). Procurement Operations
@@ -70,7 +71,7 @@ As you continue to grow and learn more about digital services acquisition, you c
 |     |
 | --- |
 
-### Sample Interview 3
+### Sample interview 3
 
 - **Stakeholder group**: Advocates, Influencers
 - **Stakeholder positions**: Related category managers, other agency leaders

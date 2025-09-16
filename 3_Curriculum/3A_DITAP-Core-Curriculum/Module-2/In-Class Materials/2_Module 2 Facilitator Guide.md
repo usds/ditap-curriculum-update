@@ -29,7 +29,7 @@ Facilitator(s): \[List Facilitator Names\]
 1. Match each axiom to a challenge your team has experienced
 2. Self-Assessment - Strategy table in practice
 3. Change & Innovation Readiness Survey
-4. Power Matrix: Stakeholder mapping & power dynamics
+4. Power matrix: Stakeholder mapping & power dynamics
 5. Optional role play activity: Stakeholder influence challenge
 6. Using AI to translate vision into return on mission
 
@@ -238,7 +238,7 @@ Total time allocation: 60 min
 - **Role B:** A key stakeholder with decision-making authority who may resist the request (e.g., OGC Attorney, Procurement Executive, IT Governance Lead). Ideally played by a facilitator or guest actor.
 - **Role C:** Observers and debrief leaders who evaluate the scenario and provide feedback on the influencing strategies used.
 
-**Start the activity**
+**Start the activity:**
 
 - **Step 1: Break into groups**, 3-6 participants each.  
 
@@ -302,13 +302,11 @@ Total time allocation: 23 min
           3. Prompt the AI
           4. Review and Refine
           5. Capture the Output
-      
       - **Discuss (10 min)**
           1. What stood out to you about how the AI described the mission impact?
           2. Did the metrics it generated feel relevant and actionable for a procurement?
           3. How might you improve the prompt to get better results?
           4. How can you use this type of exercise to accelerate collaboration with CORs or Program teams?
-    
       - **Closing remark**  
             "When we center acquisition strategies around Return on Mission, we not only build better contracts—we build better outcomes for the people we serve."
 

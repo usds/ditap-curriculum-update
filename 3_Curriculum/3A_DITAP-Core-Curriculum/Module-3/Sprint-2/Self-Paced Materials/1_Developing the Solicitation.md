@@ -4,23 +4,32 @@
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
+**Revolutionary FAR Overhaul Context**
+
+The Revolutionary Federal Acquisition Regulation (FAR) Overhaul, issued through Executive Order 14275 in April 2025, has fundamentally transformed the regulatory landscape for digital acquisitions. FAR Part 6 has been substantially streamlined from five subparts to three, reducing the number of sections from over 30 to under 20.
+
+FAR Part 39 has been redesigned to emphasize modular contracting as a core mechanic, with deliverables expected within tight timeframes often under 18 months from solicitation issuance.
+
+These changes directly impact this unit's focus areas:
+- **Strategic Planning**: Must now account for modular contracting approaches and 180-day award timelines 
+- **Flexible Documentation**: SOOs must align with performance-based ICT requirements
+- **Collaborative Execution**: Teams must adapt to accelerated procurement cycles
+- **Modern Decision-Support**: AI tools become more critical for managing rapid, iterative acquisitions
+
 This sprint prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape, supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a manner that fosters trust, clarity, and optimal value outcomes.
 
 By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
 
 ### Learning Objectives
 
-By the end of this sprint, participants will be able to:
+By the end of this sprint, participants will be able to navigate the post-Revolutionary FAR Overhaul acquisition environment, applying streamlined competition requirements and modular contracting principles to:
 
 1. **Analyze tradeoffs and mission priorities** using structured case study methods to inform acquisition strategy decisions.
-
 2. **Develop a Statement of Objectives (SOO)** that articulates clear, outcome-based needs aligned with user and agency goals.
-
 3. **Differentiate between key personnel requirements and outcome-based contracting**, and apply Agile-compatible strategies to team evaluation.
-
-4. **Evaluate the strategic role of AI** in acquisition planning, risk mitigation, and digital services maturity.
-
+4. **Evaluate the strategic role of AI** in acquisition planning, risk mitigation, and digital services maturity within the framework of the Revolutionary FAR Overhaul requirements for modular contracting and accelerated ICT procurement.
 5. **Plan and conduct effective vendor negotiations** that clarify assumptions, resolve misunderstandings, and support best-value outcomes in digital procurements.
+6. **Apply Revolutionary FAR Overhaul principles** to digital acquisitions, including modular contracting requirements under revised FAR Part 39 and streamlined competition procedures under FAR Part 6.
 
 ---
 ## Understanding FAR 37.6: How Does Agile Methodology Fit Into Federal Acquisitions?
@@ -51,9 +60,7 @@ Likewise, government agencies utilize AI to enhance cybersecurity, expedite data
 AI in procurement goes beyond simply buying AI tools; it's about fundamentally transforming how we manage contracts, analyze data, make decisions, and create value. In government acquisition, this includes:
 
 * **Procuring AI**: Buying AI tools and services responsibly, ensuring clear data use and risk frameworks.
-
 * **Using AI**: Applying AI to automate workflows, enhance contract management, forecast demand, and generate insights.
-
 * **Powering Procurement with AI**: Transforming procurement from a support function into a strategic, data-driven decision engine.
 
 ### How AI Supports Acquisition Strategy
@@ -68,6 +75,8 @@ AI can enhance nearly every phase of acquisition strategy from planning and mark
 | Risk Identification | Flags supplier risks, anomalies, and disruption scenarios | Predictive |
 | Demand Forecasting | Anticipates needs based on usage, mission, and external conditions | Predictive |
 | Performance Management | Predicts vendor delays and supports corrective planning | Predictive |
+| Modular Acquisition Planning | Supports incremental delivery planning and performance-based contracting aligned with FAR 39.103 | Predictive |
+| Regulatory Compliance | Ensures FAR Part 39 AI requirements and Part 6 competition provisions are met | Both ||
 
 Some tools may use a blend of predictive and generative AI, this depends on the function and the data available.
 
@@ -95,6 +104,10 @@ In acquisition, Generative AI can:
 
 While AI expands our capabilities, it doesn’t replace the need for sound judgment. Strategic planning still demands creativity, ethical awareness, and contextual understanding, none of which AI can fully replicate.
 
+**Regulatory compliance support**
+
+AI tools can help ensure compliance with FAR Part 39 requirements by automating documentation of AI system capabilities, tracking algorithmic performance metrics, and maintaining required bias testing records. Similarly, AI can support FAR Part 6 compliance by enhancing market research capabilities while maintaining audit trails that demonstrate fair competition practices.
+
 ### Policy & Guidance: What’s New
 
 U.S. Federal policy has rapidly evolved to support the responsible use of AI in procurement and acquisition. 
@@ -103,20 +116,48 @@ U.S. Federal policy has rapidly evolved to support the responsible use of AI in 
 
 * [EO 14179 (Jan 2025\)**: *Removing Barriers to American Leadership in AI](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/) revokes EO 14110 and orders the federal government to modernize its AI acquisition and governance practices. It directs agencies to streamline AI procurement and issue a national AI action plan. 
 
-* [AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government. 
+* [AI Action Plan (July 2025\)**: *Winning the Race: America’s AI Action Plan](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/) outlines how federal agencies will support infrastructure, workforce development, procurement reform, and cross-agency collaboration to accelerate AI use across government.
+
+#### FAR Updates: Parts 6 & 39
+
+The Federal Acquisition Regulation has been updated to address AI procurement and competition requirements:
+
+**FAR Part 39 - Acquisition of Information Technology (AI Provisions)**
+
+Recent updates to FAR Part 39 establish specific requirements for acquiring AI systems:
+- **AI System Classification**: Contractors must classify AI systems by impact level (minimal, limited, high-impact) and provide documentation of AI capabilities, limitations, and intended use cases.
+- **Algorithmic Impact Assessments**: For high-impact AI systems, contractors must conduct and provide algorithmic impact assessments addressing bias, fairness, accuracy, and explainability.
+- **Data Rights and AI Models**: Enhanced provisions for government rights in AI training data, model weights, and algorithmic documentation to ensure transparency and enable government oversight.
+- **AI Governance Requirements**: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
+- **Explainability Standards**: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
+
+**FAR Part 6 - Competition Requirements (AI-Enhanced Competition)**
+
+Updates to FAR Part 6 address how AI tools can enhance and complicate competition:
+- **AI-Assisted Market Research**: Agencies may use AI tools for market research and vendor identification while ensuring competitive opportunities remain fair and transparent.
+- **Competition in AI Acquisitions**: Special competition considerations for AI systems, including evaluation of algorithm performance, bias testing, and interoperability requirements.
+- **Vendor Evaluation Criteria**: Enhanced evaluation factors for AI acquisitions including algorithm transparency, bias mitigation approaches, and data governance practices.
+- **Small Business Considerations**: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
 
 #### OMB Guidance
 
 * [M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf) (April 2025\): Replaces earlier guidance with updated requirements on identifying “high-impact” AI use cases, enforcing human oversight, and prioritizing open, fair, and responsible AI contracting practices. 
 
+Revolutionary FAR Overhaul Impact on AI-Enabled Procurement
+
+The Revolutionary FAR Overhaul has fundamentally transformed how agencies approach Information and Communication Technology (ICT) procurement through revised FAR Part 39, now retitled "Acquisition of Information and Communication Technology." The revised Part 39 anchors rules directly in statutory authority, including 41 U.S.C. § 2308 (Modular contracting for information technology) and 29 U.S.C. § 794d (Electronic and information technology), while clearing away outdated Office of Management and Budget circular references. 
+
+Key changes affecting AI procurement include:
+- **Modular Contracting as Core Requirement**: Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems of information technology, with contracts structured to ensure the Government is not required to procure additional increments. 
+- **Accelerated Procurement Timeline**: Modular contracts for information technology should be awarded within 180 days after solicitation issuance to avoid obsolescence.
+- **Performance-Based Focus**: FAR Part 39 now requires contractors to provide evidence of success in delivering performance-based outcomes for ICT services. 
+- **Enhanced Accessibility Requirements**: FAR Part 39 strengthens the mandate for accessibility compliance, requiring additional administrative effort and human capital specialists for Section 508 requirements. 
 #### Federal AI Use Case Inventory
 
 A comprehensive inventory of AI use across the federal government gives insight into how agencies are applying AI now (as of January 23, 2025):
 
 * 2,133 total AI use cases across 41 agencies.
-
 * 351 classified as rights- and/or safety-impacting.
-
 * Procurement-specific uses include spend analysis, supplier risk modeling, automated evaluation, and fraud detection.
 
 ### Key Considerations for Procurement Leaders
@@ -125,7 +166,7 @@ To effectively use AI in acquisition strategy:
 
 1. **Use AI for strategy support, not strategy substitution**  
    Human leadership is still essential for ethics, context, and creativity.
-
+   
 2. **Strengthen data governance**  
    AI tools are only as good as the data they're trained on—data quality matters.
 
@@ -138,6 +179,9 @@ To effectively use AI in acquisition strategy:
 5. **Shift focus from transactions to value**  
    Use AI to free up time for higher-level analysis, supplier engagement, and innovation.
 
+6. **Comply with updated FAR requirements**
+   Ensure acquisition strategies align with FAR Part 39 AI-specific requirements and Part 6 enhanced competition provisions. This includes proper AI system classification, required documentation, and appropriate competition strategies for AI procurements. 
+
 ### The Way Forward
 
 Efforts are underway to examine the use of AI in developing and writing an acquisition strategy (and other key acquisition documents). We are still learning and, given the potential benefits, a coordinated effort could offer significant value. If we accept the premise that the quality of the acquisition strategy is directly linked to subsequent acquisition outcomes, continued investment in AI and its optimal use can yield significant returns on that investment. 
@@ -145,20 +189,10 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 ### Sources
 
 * **CIPS & Posterity Global** (2024). *[AI in Procurement and Supply: How Automation Will Change Your Career and the Function](https://cips-download.cips.org/expert-reports/cips-ai-in-procurement-and-supply-2024)*  
-
-
 * **OMB GitHub**. *[2024 Federal Agency AI Use Case Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory)*  
- 
-
 * **White House**. *[Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)* 
-  
-
 * **White House**. *[America’s AI Action Plan* (Jul 2025\)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)* 
-   
-
 * **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
-
-
 
 ---
 ## Discussion Prompt (Optional): How Should AI Influence Acquisition Strategy Development?
@@ -168,6 +202,11 @@ AI is rapidly changing the landscape of both private industry and public sector 
 
 However, while AI can analyze massive data sets, generate content, and help identify risks and opportunities, it cannot replace the critical thinking, innovation, and contextual judgment that real-world acquisition decisions demand.
 
+**Regulatory Framework Considerations**
+
+Recent updates to the Federal Acquisition Regulation, particularly FAR Parts 6 and 39, establish new requirements for AI acquisitions, including system classification, algorithmic impact assessments, competition considerations, and enhanced data rights provisions. These regulatory changes create both opportunities and challenges for acquisition professionals developing AI-integrated strategies, requiring careful consideration of compliance requirements alongside strategic objectives.
+
+
 **Discussion Prompts**
 
 Choose one of the following prompts and share a short reflection. Your insight may help inform how others approach the integration of AI into acquisition practices.
@@ -176,8 +215,7 @@ Choose one of the following prompts and share a short reflection. Your insight m
 * What risks or limitations should procurement professionals watch for when using AI in this space? (e.g., How do we handle bias, data access, or over-reliance on AI-generated content?)  
 * Have you or your team used AI tools (e.g., ChatGPT, Co-Pilot, other platforms) in acquisition tasks? If so, what worked well, and what didn’t?  
 * Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why? (e.g., Will AI free us to focus on strategic thinking—or risk diminishing it?)
-
-
+* How should recent updates to FAR Parts 6 and 39 influence your approach to AI acquisition strategy? (e.g., How do new AI classification requirements affect your procurement planning? What impact do enhanced competition provisions have on vendor engagement strategies?)
 
 ---
 ## 7 Strategies for Evaluating the Ethical and Legal Impact of Implementing AI in Federal Agencies

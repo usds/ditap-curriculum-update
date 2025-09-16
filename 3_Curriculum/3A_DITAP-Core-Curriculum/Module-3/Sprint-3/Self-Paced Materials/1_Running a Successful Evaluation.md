@@ -10,8 +10,8 @@ Agile acquisitions, like traditional federal procurement approaches, begin with 
 
 Agile acquisition prioritizes objective-level requirements, focusing on the “what” over the “how.” It values working products over exhaustive documentation, aligning with agile delivery principles and user-centered outcomes. Selection methodologies emphasize a “show, don’t tell” model. Consequently, solicitations often include past experience as a technical evaluation factor distinct from past performance:
 
-* **Past Performance** evaluates a vendor’s ability to meet contract requirements, based on size, scope, and duration.  
-* **Past Experience** focuses on *what* was delivered and *how*, reflecting technical capabilities and innovation in execution.
+* **Past Performance** evaluates a vendor's ability to meet contract requirements, based on size, scope, and duration – focusing on reliability and contract compliance.
+* **Past Experience** focuses on what was delivered and how, reflecting technical capabilities and innovation in execution. Under the Revolutionary FAR Overhaul's updated FAR Part 39, this includes demonstrable success in delivering performance-based outcomes for Information and Communication Technology (ICT) services, encompassing information technology, Internet of Things devices, emerging technology, and operational technology solutions.
 
 ---
     
@@ -130,6 +130,30 @@ Evaluation criteria are the cornerstone of any well-structured source selection 
    Properly structured evaluation criteria that align with the FAR and applicable policies reduce the risk of procedural challenges or post-award protests.
 
 In short, evaluation criteria are not a formality; they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
+
+**ICT-specific evaluation considerations under FAR Part 39**
+
+The Revolutionary FAR Overhaul's updated FAR Part 39 introduces specific evaluation requirements for Information and Communication Technology acquisitions:
+
+**Performance-Based Evaluation Requirements**:
+- Vendors must provide verifiable evidence of success in delivering performance-based outcomes, not just individual qualifications or capabilities statements
+- Evaluation criteria should assess demonstrated results from similar ICT implementations
+- Focus on measurable outcomes such as system performance improvements, user adoption rates, or operational efficiency gains
+
+**Expanded ICT Scope Evaluation**:
+- Assess vendor experience across the full ICT spectrum: traditional IT, Internet of Things devices, emerging technologies, and operational technology
+- Evaluate vendor adaptability to integrate multiple technology domains within a single solution
+- Consider vendor approaches to technology convergence and cross-domain security
+
+**Personnel Qualification Assessment**:
+- Unlike previous restrictions, agencies may now evaluate specific educational and experience requirements for proposed contractor personnel
+- Assess the adequacy of proposed team qualifications against minimum requirements specified in the solicitation
+- Evaluate vendor ability to maintain qualified personnel throughout contract performance
+
+**Security and Compliance Evaluation**:
+- Assess vendor compliance capabilities under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems
+- Evaluate vendor experience with Controlled Unclassified Information (CUI) handling requirements
+- Consider vendor security frameworks for Internet of Things and operational technology environments
 
 ---
 ### III. Selecting Appropriate Evaluation Criteria
@@ -338,6 +362,23 @@ In this lesson, we will use the term “negotiations” to apply to both situati
 
 The primary purpose of the source selection process is to allow the Government to choose the offer that represents the best value, to select the offer that best meets the Government’s needs at a fair and reasonable price. Contract negotiations are a way to maximize the ability to obtain the best value. 
 
+**Impact of the Revolutionary FAR Overhaul on digital services neogtiations**
+
+The Revolutionary FAR Overhaul (RFO) has significantly updated both FAR Part 6 (Competition Requirements) and FAR Part 39, now titled "Acquisition of Information and Communication Technology" (ICT), which directly impacts digital services negotiations:
+
+**Key FAR Part 39 Changes Affecting Negotiations**:
+
+- **Expanded Scope**: ICT now encompasses information technology, Internet of Things devices, emerging technology, and operational technology, requiring broader technical discussions during negotiations.
+- **Performance-Based Focus**: Vendors must now provide evidence of success in delivering performance-based outcomes for ICT services. Merely stating individual qualifications is considered non-compliant.
+- **Personnel Requirements**: Agencies may now specify minimum educational or experience requirements for proposed contractor personnel in ICT solicitations (previously prohibited under old FAR 39.104).
+- **Updated Security Requirements**: FAR 39.105 and FAR 52.239-1 have been eliminated; negotiations must now address requirements under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems.
+
+**Key FAR Part 6 Changes Affecting Negotiations**:
+
+- **Streamlined Competition Procedures**: While maintaining statutory competition requirements, procedural guidelines have been simplified, allowing for more flexible negotiation approaches.
+- **Enhanced Competition Advocacy**: Competition advocates retain their role in promoting full and open competition, which may influence negotiation strategies and documentation requirements.
+
+
 ### Best Practices for Digital Service Procurements 
 
 * **Negotiate Early, Especially at Down-Selects:** Use advisory notices as a structured opportunity to open meaningful, time-boxed negotiations.
@@ -394,8 +435,6 @@ Rather than letting price drive the decision, it should be used to assess whethe
 
 To support this, the government can use a price range in the Independent Government Cost Estimate (IGCE) that reflects market rates for experienced digital teams. This helps identify proposals that are either unrealistically low or disproportionately high in relation to the expected value.
 
-
-
 ### Applicable Requirements and Guidance 
 
 Negotiations are subject to a number of formal rules based on regulations, laws, and policies.  
@@ -416,6 +455,20 @@ When entering negotiations in a digital services context, teams should actively 
 * **Scalability and Future Flexibility:** Ensure vendors understand future growth expectations even if immediate scope is small.
 * **Data Rights and IP Terms:** Negotiate critical terms about custom code ownership, licensing, and portability up front.
 * **Transparency and Team Dynamics:** Observe how vendors handle feedback — a strong predictor of how collaborative they will be during delivery.
+
+The Revolutionary FAR Overhaul has also modernized how the Government approaches digital services acquisitions, requiring updated negotiation strategies. When entering negotiations in an ICT context under the new FAR Part 39, teams should actively focus on:
+
+- **Performance-Based Outcomes**: Under the new FAR Part 39, vendors must demonstrate measurable success in delivering ICT solutions, not just technical capabilities. Negotiate specific performance metrics and success criteria rather than accepting generic qualifications.
+- **Technical Assumptions for ICT**: Identify assumptions embedded in vendor proposals around hosting, security, scaling, Internet of Things integration, emerging technologies, and operational technology systems. The expanded ICT scope requires more comprehensive technical discussions.
+- **Personnel Qualifications**: Unlike previous FAR 39.104 restrictions, agencies may now negotiate specific minimum educational or experience requirements for contractor personnel. Use this flexibility to ensure appropriate expertise for complex ICT projects.
+- **Security and Safeguarding Requirements**: With the elimination of FAR 39.105 and FAR 52.239-1, negotiate compliance with FAR subpart 4.19 and FAR 52.204-21 requirements for safeguarding contractor information systems and Controlled Unclassified Information (CUI).
+- **Modular Contracting Approach**: Retain focus on modular contracting principles (41 U.S.C. § 2308) during negotiations, ensuring vendors understand iterative delivery expectations and can demonstrate experience with modular implementations.
+- **Emerging Technology Integration**: Address how vendors will incorporate and adapt to emerging technologies throughout the contract performance period, including their approach to technology refresh and innovation adoption.
+- **Data Rights and Intellectual Property**: With the expanded ICT scope, negotiate comprehensive terms about custom code ownership, data portability, and intellectual property rights for Internet of Things devices and operational technology systems.
+- **Accessibility Compliance**: Discuss vendor approaches to accessibility requirements and document any alternative access methods, exemptions, or exceptions that may create additional but allowable costs.
+
+The streamlined competition procedures under the updated FAR Part 6 provide more flexibility in negotiation approaches while maintaining core competition requirements, allowing for more agile and mission-focused discussions.
+
 
 ### Key Strategies for Successful Negotiations with Vendors
 

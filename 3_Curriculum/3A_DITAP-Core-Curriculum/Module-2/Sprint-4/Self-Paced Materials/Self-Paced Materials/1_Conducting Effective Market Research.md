@@ -1,12 +1,15 @@
+
 # Module 2 Sprint 4
-## Introduction to Conducting Effective Market Research
+# Introduction to Conducting Effective Market Research
 
 Effective market research is the cornerstone of a successful digital services acquisition. It provides the critical insights needed to align government needs with real-world capabilities and ensures the resulting solicitations are grounded in an understanding of current technologies, vendor landscapes, and user expectations. In today’s fast-paced digital environment, traditional approaches to research often fall short, requiring a shift toward more agile, creative, and user-informed techniques.
 
 This sprint equips acquisition professionals with the tools, methods, and mindset needed to conduct meaningful market research. Learners will explore resources like the Gartner Magic Quadrant, discover unconventional data sources such as open GitHub repositories and Reddit communities, and develop a personalized Acquisition Toolkit to capture ideas, tools, and strategies for future use. By blending structured analysis with flexible exploration, participants will learn to generate actionable intelligence that supports smart, user-centered procurement decisions.
 
+The recent implementation of FAR Part 39 has elevated the importance of market research for IT acquisitions, requiring acquisition professionals to develop a deeper understanding of technolgoy markets, commercial practices, and emerging trends. Similarly, enhanced FAR Part 6 requirements emphasize the critical role of market research in ensuring full and open competition while leveraging the best available solutions.
+
 ---
-### Learning Objectives
+## Learning objectives
 
 By the end of this sprint, participants will be able to:
 
@@ -19,9 +22,9 @@ By the end of this sprint, participants will be able to:
 
 ---
 
-## Building Your Market Research Toolkit
+## Building your market research toolkit
 
-### Build Your Personalized Acquisition Toolkit
+### Build your personalized acquisition toolkit
 
 As you move through this course, you’ll be exposed to a wide range of market research tools, strategies, and resources. But not everything will resonate with everyone. That’s why you’ll create your own Acquisition Toolkit—a living, personal resource that helps you capture what works for *you*, what you want to explore more, and what might help you in real-world procurement work.
 
@@ -35,7 +38,7 @@ This Toolkit is yours to build and shape. Use it to document:
 
 By the end of the course, this toolkit becomes a go-to reference guide, a record of your learning journey, and a cheat sheet for future procurements.
 
-**Example Resources You Might Include:**
+**Example resources you might include:**
 
 * A Medium blog post that helped you understand the Software as a Service (SaaS) marketplace  
 * A link to [Reddit’s r/sysadmin](https://www.reddit.com/r/sysadmin/) for understanding IT culture  
@@ -46,29 +49,29 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 * A quote or idea from a guest speaker you want to remember  
 * A visualization tool or AI prompt that saved you time
 
-#### Concepts I Want to Try:
+#### Concepts I want to try:
 
-* Use a short video in future RFIs to explain context  
-* Send a Google Form instead of a 5-page RFI  
-* Try drafting a “challenge brief” instead of a traditional Statement of Objectives (SOO)
+* Use a short video in future RFIs to explain context.  
+* Send a Google Form instead of a 5-page RFI.  
+* Try drafting a “challenge brief” instead of a traditional Statement of Objectives (SOO).
 
-#### Helpful Articles, Blogs, or Posts:
+#### Helpful articles, blogs, or posts:
 
 * *“How Startups Read Your RFI” – Medium post* → Gave me a new perspective on industry’s point of viewPOV  
 * *DSC’s Guide to AI in Procurement* → Helped clarify what’s hype vs helpful
 
-#### Data Sources & Reports:
+#### Data sources & reports:
 
 * [Data.gov](https://data.gov) → For understanding digital inclusion metrics  
 * Government Accountability Office (GAO) Reports on Agile Contracts → Reference for senior leadership buy-in
 
-#### Ongoing Questions:
+#### Ongoing questions:
 
 * How do I figure out if I’m asking too much in my RFI?  
 * When is it okay to skip an RFI entirely?  
 * How do small businesses *actually* find out about opportunities?
 
-### Assignment Instructions:
+### Assignment instructions:
 
 1. Start your Toolkit in the first week of the course and organize it however makes sense for you! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
@@ -76,15 +79,15 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 
 ---
 
-## Acquisition Toolkit Worksheet
+### Acquisition toolkit worksheet
 
 This toolkit is your personal space to capture ideas, tools, articles, and reflections throughout the course. Use it to build a custom resource that helps you navigate real-world market research and acquisition work.
 
-### Useful Links & Tools
+#### Useful links & tools
 
 List any tools, websites, or platforms that you find valuable.
 
-| Name/Link | Description | Why It’s Useful to Me |
+| Name/Link | Description | Why it’s useful to me |
 | :---- | :---- | :---- |
 | <br><br> | <br><br> | <br><br> |
 | <br><br> | <br><br> | <br><br> |
@@ -92,25 +95,25 @@ List any tools, websites, or platforms that you find valuable.
 
 
 
-### Concepts I Want to Try:
+#### Concepts I want to try:
 
 Use bullet points to list acquisition or market research ideas you want to experiment with.
 
 ·        \-
 
-### Helpful Articles, Blogs, or Posts:
+#### Helpful articles, blogs, or posts:
 
 Track readings or content that helped shape your thinking. Include links or key takeaways.
 
 ·        \-
 
-### Data Sources & Reports:
+#### Data sources & reports:
 
 Add links or titles to datasets, market reports, or other sources you want to revisit.
 
 ·        \-
 
-### Ongoing Questions:
+#### Ongoing questions:
 
 Jot down any questions that come up during the course you want to revisit or discuss later.
 
@@ -131,20 +134,20 @@ Using a tool like this can help you further segment the market and make market r
 
 **How can you use this tool in your own work?**
 
-As a federal contracting professional, you’ll often need to explore different types of solutions like commercial off-the-shelf (COTS), open source and proprietary software, to meet your agency’s digital service needs. One way to organize what you learn is by creating a simple comparison chart, like the Gartner Magic Quadrant. You can use it to quickly show how different options stack up based on what matters most to your customer. Try adapting the chart by changing up the labels on each axis relative to your customer’s needs.  Here’s how to get started:
+As a federal contracting professional, you’ll often need to explore different types of solutions like commercial off-the-shelf (COTS), open source and proprietary software, to meet your agency’s digital service needs. One way to organize what you learn is by creating a simple comparison chart, like the Gartner Magic Quadrant. You can use it to quickly show how different options stack up based on what matters most to your customer. Try adapting the chart by changing up the labels on each axis relative to your customer’s needs. Here’s how to get started:
 
 1. First, identify the characteristics of your customer’s needs. Who is the end user and what are their main concerns? Is it security, ease of use, cost, or another factor?  
 2. Next, select the two most important characteristics and plot them on your own quadrant on each axis. For example, are your customer’s largest priorities security and price?  
-3. Once you determine what your magic quadrant looks like, then begin to place vendors in each quadrant as they best fit.  Plotting providers in the quadrants is a quick way to determine which companies deserve the most of your limited time and attention. Focus on those vendors in the section of your quadrant that is most important to your customer.  
+3. Once you determine what your magic quadrant looks like, then begin to place vendors in each quadrant as they best fit. Plotting providers in the quadrants is a quick way to determine which companies deserve the most of your limited time and attention. Focus on those vendors in the section of your quadrant that is most important to your customer.  
 4. As a final step, look at those vendors that are in the quadrant you are targeting. Narrow your follow-on research to that quadrant and focus on those characteristics. Determine if you need to do more market research to define your acquisition strategy and approach. You may want to discuss your findings with your team and be prepared to share them in class during the case study review and application activities.
 
-### Market Intelligence vs. Market Research
+### Market intelligence vs. market research
 
 Market research is the process of gathering and analyzing information about capabilities within the commercial marketplace to benefit from its technologies and competitive forces in meeting an agency need. In contrast, market intelligence focuses on specific classes of customers, including demographic and geographic information and what they buy, all of which can help inform an analysis of business intelligence. [Read this short article](https://www.businessnewsdaily.com/4697-market-intelligence.html) and consider how market intelligence might help your agency in framing out an understanding of the commercial market.
 
 
 
-## Responsible Pre-Solicitation Communication
+## Responsible pre-solicitation communication
 
 ### Introduction
 
@@ -153,27 +156,27 @@ The Federal government spends over $500 billion yearly on goods and services. As
 There are two goals to this interaction: 
 
 1. To improve procurement outcomes by obtaining as much information as possible regarding potential solutions from vendors before preparing a solicitation  
-2.  To better communicate government needs to vendors, so they will provide better-informed offers. 
+2. To better communicate government needs to vendors, so they will provide better-informed offers 
 
 ![The White House and a city connected by an arrow reading, "Information"](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Govt%20Vendor%20Information%20Sharing.png?raw=true)
 
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
 
-#### Module Overview
+#### Module overview
 
 After completing this module, you should be able to: 
 
-* Discuss why pre-solicitation communication with offerors is essential in acquiring digital services.  
-* Describe ways you can communicate effectively with potential vendors before solicitation of digital services.  
-* Identify best practices for responsible pre-solicitation communication when procuring digital services.
+* Discuss why pre-solicitation communication with offerors is essential in acquiring digital services  
+* Describe ways you can communicate effectively with potential vendors before solicitation of digital services  
+* Identify best practices for responsible pre-solicitation communication when procuring digital services
  
 ---
-## Acquisition Process Myths 
+## Acquisition process myths 
 
 To alleviate some of these concerns and encourage agencies to pursue all legitimate avenues of communication, the Office of Federal Procurement Policy (OFPP) developed two memoranda addressing 10 government and eight vendor “myths” regarding the acquisition process. Review these lists before you dig into this module, and then keep them in mind as you move forward. Many of the myths deal with responsible pre-solicitation (the focus of this module), but others apply to other phases in the acquisition lifecycle. Do your part as an acquisition myth-buster!
 
-### Government Myths
+### Government myths
 
 |   | Government Myth | Fact |
 | :---- | ----- | ----- |
@@ -189,7 +192,7 @@ To alleviate some of these concerns and encourage agencies to pursue all legitim
 | 10\. | “Getting broad participation by many different vendors is too difficult; we’re better off dealing with the established companies we know.” | The government loses when we limit ourselves to the companies we already work with. Instead, we must look for opportunities to increase competition and ensure that all vendors, including small businesses, are considered fairly. |
 
 
-### Vendor Myths
+### Vendor myths
 
 |  | Vendor Myth | Fact |
 | :---- | ----- | ----- |
@@ -212,7 +215,7 @@ We will refer to these memos again later in the module.
 
 ---
 
-## Why Pre-Solicitation Communication Matters 
+## Why pre-solicitation communication matters 
 
 Now that we’ve established it’s acceptable to engage with vendors and potential end-users beyond just a Request for Information (RFI) as pre-solicitation communication, let’s explore why doing so is beneficial.  
 
@@ -246,7 +249,7 @@ By engaging vendors in discussion and information sharing before issuing a solic
 
 * Prepare for pursuit, including finding teaming partners  
 * Decrease the overall business costs by allowing them to plan and forecast more accurately  
-* Find labor and other resources in advance rather than during the proposal.
+* Find labor and other resources in advance rather than during the proposal
 
 Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
 
@@ -256,7 +259,7 @@ You may be operating on outdated or inappropriate standards for a particular dig
 
 On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
 
-## Knowledge Check
+## Knowledge check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
 - [[ ]] A. Delays and extensions to the due date
@@ -265,7 +268,7 @@ Answering questions about a potential acquisition from vendors before a solicita
 - [[X]] D. Lower costs (correct)
 
 ---
-## How to Communicate Effectively 
+## How to communicate effectively 
 
 By now, you can explain why pre-solicitation communication is important. Let’s take a few minutes to look at how to do it most effectively. Here are a few tips:
 
@@ -280,13 +283,13 @@ Read about each building block of the pyramid above.
 
 **1\. Background and Mission:** All agency programs and acquisitions must be tied to supporting and accomplishing the agency’s mission. The more your potential vendors know about your mission and related background information, the more likely they are to propose appropriate solutions and provide proper support for that mission. Be sure to include the end users of the system, their specific problems, and any attempts to meet those needs in previous acquisitions. Are there lessons learned or retrospectives of those efforts that would help the industry not repeat previous approaches? 
 
-**2\. Desired outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
+**2\. Desired Outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
 
 **3\. Constraints:** These are operating conditions, environments, or circumstances that limit the possibilities that vendors can propose to provide your desired outcomes. Examples include cybersecurity regulations, agency policies, and server environments. Because constraints impose limits on innovation and can introduce unnecessary costs to potential vendor solutions, every effort should be made to avoid unnecessary constraints or allow flexibility in complying with those constraints. 
 
 Some constraints are absolutely necessary, and potential vendors should be aware of them to propose compliant solutions. While it may not be appropriate to communicate all timelines and resource constraints, consider the benefits of being as transparent as possible.
 
-**4\. Timelines and resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
+**4\. Timelines and Resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
 
 * Will software development and/or testing be done on government or vendor servers?  
 * How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
@@ -301,7 +304,7 @@ A vendor can’t and won’t propose a premier solution on a shoestring budget. 
 
 As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
 
-**Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors.  Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. These techniques include but are not limited to the following:
+**Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors. Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. These techniques include but are not limited to the following:
 
 **MVPs & challenges.** MVPs and challenges help test acquisition hypotheses to determine how best to conduct a full solicitation for a product. They allow for a lightweight way to determine if a particular platform, service, or tool can be implemented in an agency or solve an agency problem before making a significant investment. These approaches prove that the platform, service, or tool works or doesn’t work via actual delivery; they get a functioning solution from end users to see how well they respond. This reduces overall risk and lets an agency try before it buys. Contrast this with long-term market analysis reports that provide helpful information but don’t allow you to try and test with end users.
 
@@ -332,16 +335,16 @@ As you’ve learned throughout this module, engaging early with industry is crit
 
 **Key characteristics:**
 
-* Surveys are short and specific (often 10–20 questions).  
+* Surveys are short and specific (often 10–20 questions) 
 * They are sent via email, Google Forms, SurveyMonkey, etc.  
-* They gauge vendor capabilities, interest, experience, business size, or appropriate NAICS codes.  
-* Surveys can be anonymous or low-commitment.  
-* They’re easy to analyze and compare responses.  
-* They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI.
+* They gauge vendor capabilities, interest, experience, business size, or appropriate NAICS codes  
+* Surveys can be anonymous or low-commitment  
+* They’re easy to analyze and compare responses 
+* They allow you to test evaluation criteria, maturity models, or service needs before writing an RFI
 
 **Summary comparison**
 
-| Feature | Market research survey | Request for Information (RFI) |
+| Feature | Market Research Survey | Request for Information (RFI) |
 | ----- | ----- | ----- |
 | **Formality** | Informal | Formal, part of the acquisition record |
 | **Length** | Short survey (10–20 questions) | Longer with attachments or drafts |
@@ -387,39 +390,26 @@ When the government needs to make a strategic technology choice, such as selecti
 **1\. Product and platform evaluation**
 
 * Feature/functionality analysis
-
 * Licensing and cost models
-
 * Security posture (FedRAMP, SOC2, etc.)
-
 * Performance and scalability
-
 * Extensibility and vendor lock-in risks
 
 **2\. Real-life scenario testing**
 
 * Use your agency’s real workflows or data (where possible).
-
 * Simulate mission-critical use cases.
-
 * Collect user feedback on the interface or performance.
-
 * Conduct short pilots, sandboxes, or demos.
 
 **3\. Integrator ecosystem maturity**
 
 * Assess the maturity of the services community around each product/platform.
-
 * Consider:
-
   * How many qualified integrators exist?
-
   * What delivery models do they use?
-
   * What is their experience in government contexts?
-
   * Are they aligned to agile, modular delivery?
-
   * Are they familiar with Section 508, FedRAMP, and the 21st Century IDEA Act?  
   * If Open Source, how involved is their community in the continual development of the tool? 
 
@@ -429,7 +419,7 @@ When the government needs to make a strategic technology choice, such as selecti
 The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
 
 * **Requests for Information (RFIs):** Issue an RFI to ensure the government understands the industry's capabilities and can develop or improve its acquisition strategy regarding contract type, performance requirements, performance work statements/statements of work, and performance metrics. Although not required, sometimes releasing a draft Request for Proposal (RFP), including sections L and M, ensures clear solicitation instructions. Get feedback from the industry on whether the evaluation instructions are clear or what could make them better performance indicators.  
-*  **Industry days:** Industry days are hosted by government agencies and offer a forum where vendors can learn more about pending procurements, identify potential partners and competitors, and interact and build relationships with government personnel. Such events can encourage competition and create a level playing field for all potential offerors. See the [ACT-IAC Report: Industry Day Best Practices for more guidelines on conducting an Industry Day](https://www.actiac.org/groups/document/industry-day-best-practices-white-paper-122014).
+* **Industry days:** Industry days are hosted by government agencies and offer a forum where vendors can learn more about pending procurements, identify potential partners and competitors, and interact and build relationships with government personnel. Such events can encourage competition and create a level playing field for all potential offerors. See the [ACT-IAC Report: Industry Day Best Practices for more guidelines on conducting an Industry Day](https://www.actiac.org/groups/document/industry-day-best-practices-white-paper-122014).
  
 ![A group of people in business attire viewing a presentation](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Government%20employees%20attending%20an%20industry%20day.jpg?raw=true) 
 
@@ -486,24 +476,24 @@ While large firms may absorb these costs as part of doing business, for small bu
 
 So how can we streamline? Start by asking:
 
-* Am I requesting anything duplicative?  
+* **Am I requesting anything duplicative?**
    Check if another agency has already done similar market research. Collaborate or borrow instead of duplicating effort. This helps reduce the government-wide burden on industry.
 
-* Can I learn what I need in a lighter-touch way?  
+* **Can I learn what I need in a lighter-touch way?**  
    Instead of complex narratives or long-form white papers, use tools like brief surveys (even Google Forms), short video submissions, or structured Q\&A sessions.
 
-* Am I making the timeline clear?  
+* **Am I making the timeline clear?**
    Many companies leave when they realize that a procurement might take 12–18 months before contract award. Use your market research to set expectations and provide transparency around the process and timeline.
 
-* Does this question need to be answered by the vendor community?  
+* **Does this question need to be answered by the vendor community?** 
    Sometimes, the data you seek already exists—in past awards, case studies, or government dashboards. Or it might be better answered by talking to a few experts rather than releasing a public RFI.
 
-* Can I reduce response friction?  
+* **Can I reduce response friction?** 
    Keep submission instructions simple. Avoid requiring specialized formats, excessive page limits, or hard-to-follow templates. Be human-centered in how you request input.
 
 Ultimately, every RFI or engagement comes at a cost to industry, especially for the small, diverse, and mission-driven companies we want to encourage. Being intentional and efficient with your approach isn't just good stewardship, it’s smart acquisition.
 
-###  Scenario 1: The 60-Page RFI that no one could answer
+###  Scenario 1: The 60-page RFI that no one could answer
 
 **Background**:  
  In 2023, the Department of Homeland Security (DHS) issued [a Request for Information (RFI) for an Investigative Case Management (ICM) system](https://sam.gov/opp/7e20d6751a0e4a97be276139b8bcecad/view). The RFI was comprehensive, requesting detailed technical narratives, staffing plans, past performance examples, and pricing breakdowns—all within a tight 10-day turnaround. ​
@@ -511,9 +501,7 @@ Ultimately, every RFI or engagement comes at a cost to industry, especially for 
 Impact on industry:
 
 * Small businesses and non-traditional vendors found it challenging to allocate resources to respond adequately within the given timeframe.​
-
 * Several innovative companies unfamiliar with federal procurement processes were deterred by the complexity and depth of the information requested.​
-
 * Only a few large integrators responded, many of whom repurposed content from previous submissions, offering limited innovation tailored to DHS's specific needs.​
 
 Student Reflection Questions:
@@ -532,11 +520,11 @@ Student Reflection Questions:
 
 7. What would a more human-centered or tech-aware version of this RFI look like?
 
-Result:  
- The agency received generic responses that didn't reflect the current state of the market or modern solutions. They missed out on input from more agile, cost-effective vendors. Moreover, the time and resources expended by vendors were eventually passed back to the government in the form of higher prices.​
+**Result:**  
+The agency received generic responses that didn't reflect the current state of the market or modern solutions. They missed out on input from more agile, cost-effective vendors. Moreover, the time and resources expended by vendors were eventually passed back to the government in the form of higher prices.​
 
-Lesson:  
- Instead of requesting extensive narratives and detailed pricing for undefined work, the agency could have hosted a focused industry listening session, followed by a simplified survey or form to gather essential information. This approach would have widened participation and provided a more accurate picture of market capabilities, reducing costs for all parties involved.
+**Lesson:**  
+Instead of requesting extensive narratives and detailed pricing for undefined work, the agency could have hosted a focused industry listening session, followed by a simplified survey or form to gather essential information. This approach would have widened participation and provided a more accurate picture of market capabilities, reducing costs for all parties involved.
 
 ---
 
@@ -548,9 +536,7 @@ Background:
 Impact on industry:
 
 * Numerous small and non-traditional vendors participated, including civic tech nonprofits and small commercial SaaS firms.​
-
 * Companies invested in building real, working prototypes because the timeline was clear, and the cost of entry was low.​
-
 * Without requiring formal submissions or GSA schedules, NARA gained direct insight into user experience, technical feasibility, and potential partners.​
 
 Student Reflection Questions: 
@@ -569,11 +555,11 @@ Student Reflection Questions:
 
 * What lessons from this approach could you bring into your next market research planning session?
 
-Result:  
- The winning concept came from a vendor who had never worked with the federal government before but offered a more modern and intuitive solution than legacy vendors. NARA was able to move quickly to refine its scope and run a targeted follow-on procurement that saved time and money.​
+**Result:**  
+The winning concept came from a vendor who had never worked with the federal government before but offered a more modern and intuitive solution than legacy vendors. NARA was able to move quickly to refine its scope and run a targeted follow-on procurement that saved time and money.​
 
-Lesson:  
- By designing the market research around demonstration rather than documentation, NARA engaged a broader market and avoided the overhead costs (for both government and vendors) of traditional RFIs. They didn't just find vendors—they built relationships and trust in the process.​
+**Lesson:**  
+By designing the market research around demonstration rather than documentation, NARA engaged a broader market and avoided the overhead costs (for both government and vendors) of traditional RFIs. They didn't just find vendors—they built relationships and trust in the process.​
 
 ---
 
@@ -600,15 +586,15 @@ Here’s how:
 
 After every significant market research activity, bring your team together for a 15–30 minute retrospective using a simple "traffic light" format:
 
-**Keep doing**: What worked well that we should repeat?
+Keep doing: What worked well that we should repeat?
 
-**Change or improve**: What felt clunky or unclear?
+Change or improve: What felt clunky or unclear?
 
-**Stop doing**: What created friction or added unnecessary burden?
+Stop doing: What created friction or added unnecessary burden?
 
 This format helps normalize reflection and ensures everyone, contracting, program, and technical, can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
 
-### Leveraging AI to Enhance Productivity in Federal Market Research
+### Leveraging AI to enhance productivity in federal market research
 
 #### Introduction: The challenge
 
@@ -622,7 +608,7 @@ Importantly, AI isn’t here to steal your job but to help you keep your sanity.
 
 #### Key areas where AI enhances market research
 
-**1\. Drafting and reviewing documents**
+1\. Drafting and reviewing documents
 
 Traditional approach:
 
@@ -636,7 +622,7 @@ Time savings:
 
 * Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks.
 
-**2\. Analyzing vendor responses**
+2\. Analyzing vendor responses
 
 Traditional approach:
 
@@ -650,7 +636,7 @@ Time savings:
 
 * AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews.
 
-**3\. Conducting market research**
+3\. Conducting market research
 
 Traditional approach:
 
@@ -741,5 +727,3 @@ OMB has outlined [specific steps for obtaining and utilizing](https://obamawhite
 Finally, join the discussion below by responding to the following question (optional):
 
 How do you see pre-solicitation communication as essential to acquiring digital services? Provide an example of a situation in which communicating with vendors before solicitation significantly impacted the outcome.  
-
-

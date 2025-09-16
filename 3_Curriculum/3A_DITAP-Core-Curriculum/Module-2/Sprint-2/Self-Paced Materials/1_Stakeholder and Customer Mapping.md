@@ -1,8 +1,9 @@
+
 # Module 2 Sprint 2
 
-## Navigating the Stakeholder Landscape 
+# Navigating the Stakeholder Landscape 
 
-### Introduction
+## Introduction
 
 When it comes to digital services, success isn't just about technology. It's about people, *your stakeholders*. Some are obvious, like program owners or end users. Others might only become visible once you're deep into the work. By then, their feedback can slow things down or force major changes.
 
@@ -20,24 +21,26 @@ Consider the following two situations:
 
 So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in!
 
-### Why Is Stakeholder Engagement So Critical on Digital Services Efforts?
+## Why is stakeholder engagement so critical on digital services efforts?
 
-According to Agile theory and the TechFAR, it’s critical to bring together the “right” cross-functional team of high performers in order to take on the frequently evolving, rapid pace of digital projects. In addition, “Big A” acquisition methods advocate for broad inclusion of agency leaders, managers, acquisition policy, and oversight functions in the acquisition lifecycle. 
+According to Agile theory and the TechFAR, it's critical to bring together the "right" cross-functional team of high performers to tackle the frequently evolving, rapid pace of digital projects. **The new FAR Part 39 (Acquisition of Information and Communication Technology or ICT) now codifies many previously informal TechFAR approaches, legitimizing performance-based outcomes and flexible ICT acquisition strategies.** This means acquisition teams may be more receptive to digital service approaches that were once considered "unfamiliar," as they are now formally recognized in federal regulation.
 
-As a function that, in part, is responsible for reducing the risks of legal, regulatory, financial, and compliance exposure in contracting, acquisition resists the unfamiliar and uncertain. Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not common practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
+In addition, “Big A” acquisition methods advocate for broad inclusion of agency leaders, managers, acquisition policy, and oversight functions in the acquisition lifecycle. 
 
+As a function that, in part, is responsible for reducing the risks of legal, regulatory, financial, and compliance exposure in contracting, acquisition resists the unfamiliar and uncertain. **However, the recent FAR overhaul has fundamentally changed this dynamic.** The new FAR Part 39 specifically emphasizes performance-based outcomes for ICT acquisitions and removes mandatory minimum experience requirements, making them discretionary. This shift means many digital service strategies that once seemed risky to acquisition professionals are now explicitly supported by federal regulation. Additionally, the streamlined FAR Part 6 gives contracting officers greater discretion in competition decisions, potentially reducing resistance to innovative procurement approaches.
+
+Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not standard practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
 To get your stakeholders comfortable with your approaches, you should anticipate a high level of interaction between agency team members, contractors, and other stakeholders. But how do you identify who you should talk to? And, once you have identified them, how and when do you engage with them?
 
 ---
-## Navigating the Stakeholder Landscape Cont'd
 
-### So, Is This Really That Different From How You’ve Engaged Stakeholders Before?
+### So, is this really that different from how you’ve engaged stakeholders before?
 
 In some ways, no. You’ll likely see many of the same roles, program owners, legal, contracting, and policy. But digital services work demands a more intentional and flexible approach to stakeholder engagement.
 
 Why? Because you’re often introducing new methods, tools, or expectations that can feel unfamiliar, or even risky, to others. You’re aiming for faster delivery, more collaboration, and outcomes rooted in user needs. That changes when, how, and with whom you engage.
 
-### Why the Landscape Looks Different
+### Why the landscape looks different
 
 The Stakeholder Landscape Map you’ll explore in this activity offers a big-picture view of the many individuals and groups who may shape your acquisition.
 
@@ -49,7 +52,7 @@ It’s not a checklist, it’s a prompt to think strategically about:
 
 Just remember: people don’t fit neatly into one category. For example, your Head of Contracting Activity (HCA) might be a key acquisition leader, provide oversight, and serve as an internal influencer—all at once.
 
-### Why Tailored Engagement Matters
+### Why tailored engagement matters
 
 You won’t engage a compliance officer the same way you would a product owner or a community outreach lead. Each stakeholder has different priorities, power, and concerns.
 
@@ -59,7 +62,7 @@ That’s why thoughtful engagement, early and tailored to their role, is key. It
 
 
 
-### Zooming Out: Who’s in the Landscape?
+### Zooming out: Who’s in the landscape?
 
 Here’s a quick look at the six main stakeholder groups you might encounter in a digital services acquisition:
 
@@ -70,7 +73,7 @@ Here’s a quick look at the six main stakeholder groups you might encounter in 
 * **Oversight and Governance:** Legal, Office of General Counsel (OGC), Inspector General (IG), and other bodies ensuring compliance and regulatory alignment.  
 * **Advocates and Influencers:** Senior champions who can open doors, build buy-in, and smooth the path forward.
 
-### Reflection Prompt (Optional)
+### Reflection prompt (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Think about a recent or upcoming digital services acquisition you’re working on.
@@ -81,7 +84,7 @@ Think about a recent or upcoming digital services acquisition you’re working o
 
 
 ---
-## Activity: Stakeholder Selection & Interview Assignment 
+## Activity: Stakeholder selection & interview assignment 
 
 ### Introduction
 
@@ -95,7 +98,7 @@ By completing this activity, you will:
 2. Practice influence conversations, and  
 3. Build your digital services network.
 
-#### **Instructions – Part 1: Prepare**
+#### Instructions – Part 1: Prepare
 
 For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage.  This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
 
@@ -124,7 +127,7 @@ Practice your conversation with a cohort member and enlist their feedback. Use t
  
 ---
 
-#### **Instructions \- Part 2: Engage**
+#### Instructions \- Part 2: Engage
 
 These interviews will test your hypotheses about the sphere of influence for your stakeholder selections and give you experience conducting influencing conversations.
 
