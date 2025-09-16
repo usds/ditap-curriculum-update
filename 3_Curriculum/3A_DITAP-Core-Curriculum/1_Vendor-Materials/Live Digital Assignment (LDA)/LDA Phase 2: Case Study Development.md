@@ -15,6 +15,18 @@ Facilitators must guide teams on how to effectively map their independently disc
 * **Artifact 3**: Screenshot of Implemented Change: A screenshot of the live product or feature in a production environment is required. This screenshot must visually demonstrate the implementation of a change that is directly based on the insights or findings from the Usability Research Report. This causal link between research and implementation is a critical element for evaluation.  
 * **Artifact 4**: 2-Page Narrative Case Study \- This concise document should describe the project context for the other three artifacts. It must include a clear explanation of the design process, demonstrating that the Design File was used for Usability Research, and that the resulting insights formed the basis for modifying or adding a design element subsequently released to production. Teams are prompted to ensure their narrative walks the reviewer through this story without requiring assumptions.
 
+  **Enhanced Artifact 4 requirements:** <br>
+   The 2-page case study must also include:
+  * **Modular Approach:** How the solution could be broken into discrete, independently valuable modules
+  * **Performance Metrics:** Specific, measurable outcomes (not just outputs) that demonstrate user value
+  * **Risk Mitigation:** Key technical and programmatic risks and proposed mitigation strategies
+  * **Continuous Delivery:** How the solution would support ongoing iteration and improvement
+* **Artifact 5:** Agile Contracting Approach
+  * Describe how the work would be structured using agile contracting methods.
+  * Define sprint length, delivery cadence, and key performance indicators (KPIs).
+  * Outline how user feedback would be integrated into ongoing development.
+  * Specify acceptance criteria for deliverables.
+
 A critical aspect for facilitators to emphasize is the "Pass/Fail" evaluation criteria for Round 1, as explicitly outlined in the Case Study Evaluation requirements. This evaluation is not comparative; it simply assesses whether the submission meets the bar. Any missing component, lack of detail, or unclear connection will result in a "Fail". This strict gate serves as a powerful pedagogical tool, simulating the harsh realities of initial government procurement stages where meticulous proposal writing and strict adherence to solicitation requirements are paramount. The "no assumptions" clause in the Case Study Evaluation framework is particularly impactful, mirroring actual government evaluation practices where ambiguity or omission leads to disqualification. This high-stakes environment directly contributes to cultivating empathy for vendors, as participants experience the pressure of meeting stringent, non-negotiable criteria. Facilitators must consistently remind teams of this "pass/fail" reality, emphasizing precision, clarity, and the explicit connection between artifacts.
 
 Teams are also informed that their submissions will be evaluated blindly by other teams in Phase 3\. This encourages them to create clear, well-organized, and easily understandable packages, making it easy for a reviewer to follow their logic, trace insights to design, and connect implementation to research.
