@@ -1,6 +1,5 @@
-# Module 4 Sprint 1
-
 # Managing Digital Service Delivery
+**Module 4 Sprint 1**
 
 We awarded the contract. Now what?
 
