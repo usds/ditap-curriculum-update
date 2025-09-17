@@ -1,6 +1,5 @@
-# Module 4 Sprint 3
-
 # Contract Kickoff: Launching Successful Digital Service Delivery
+**Module 4 Sprint 3**
 
 ## Overview
 
