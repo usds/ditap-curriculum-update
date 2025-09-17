@@ -38,7 +38,7 @@ Facilitators are responsible for applying this assessment breakdown consistently
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
 | Communication | Proposal writing, presentations, peer review |
-| Agile & HCD Literacy | Aligns with agile & user-centered methods |
+| Agile & HCD Literacy | Aligns with Agile & user-centered methods |
 | Technical Evaluation | Rubric-based peer evaluations |
 | Readiness | Mirrors real government procurement cycles |
 
@@ -62,4 +62,4 @@ Reflection Questions:
 
 ### Conclusion
 
-The Vendor Evaluation Live Digital Assignment for the DITAP training course represents a significant evolution in experiential learning for government acquisition professionals. By integrating independent acquisition discovery with a rigorous, fixed Case Study requirement aligned with the Case Study Evaluation framework, the program provides an unparalleled simulation of the digital services procurement lifecycle. This comprehensive approach not only builds essential technical skills in agile procurement and evaluation but also cultivates a profound sense of empathy for vendors, a critical attribute for fostering more collaborative and successful government-industry partnerships. The structured, phase-based progression, coupled with the emphasis on self-directed learning and peer feedback, ensures that DITAP graduates are not merely knowledgeable but are truly ready to lead the transformation of digital service acquisition within their respective agencies.
+The Vendor Evaluation Live Digital Assignment for the DITAP training course represents a significant evolution in experiential learning for government acquisition professionals. By integrating independent acquisition discovery with a rigorous, fixed Case Study requirement aligned with the Case Study Evaluation framework, the program provides an unparalleled simulation of the digital services procurement lifecycle. This comprehensive approach not only builds essential technical skills in Agile procurement and evaluation but also cultivates a profound sense of empathy for vendors, a critical attribute for fostering more collaborative and successful government-industry partnerships. The structured, phase-based progression, coupled with the emphasis on self-directed learning and peer feedback, ensures that DITAP graduates are not merely knowledgeable but are truly ready to lead the transformation of digital service acquisition within their respective agencies.
