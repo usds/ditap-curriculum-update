@@ -1,6 +1,5 @@
-# Module 5 Sprint 1 
-
-## Introduction: Leading Change
+# Introduction: Leading Change
+**Module 4 Sprint 4**
 
 In today’s fast-moving government environment, you are uniquely positioned to lead and influence positive change, from refining everyday procurement practices to scaling innovations across agencies. This module is designed to help you understand your personal role in driving change, strengthen your influence and collaboration skills, and develop strategies for continuous improvement and organizational growth.
 
@@ -271,30 +270,30 @@ In most cases, the conversation will be difficult because the parties involved a
 
 ### Making Assumptions 
 
-* You can’t know what the other person’s intentions are. They also don’t know what your intentions are.   
-* Don’t assume the other person has bad intentions.   
+* You can’t know what the other person’s intentions are. They also don’t know what your intentions are. 
+* Don’t assume the other person has bad intentions. 
 * Don’t assume that because you have good intentions, the other person sees it that way. 
 
 ### Blame
 
-* If people think they’re going to be blamed, they’ll be less likely to cooperate and share information.   
+* If people think they’re going to be blamed, they’ll be less likely to cooperate and share information. 
 * Instead of trying to assign blame, explore how each person contributed to the situation. This will help develop a clearer picture of what happened and aid in making improvements. 
 
 ### The other person’s point of view
 
-* Instead of listing all of the reasons why the other person is wrong, imagine what they might be thinking and why.   
+* Instead of listing all of the reasons why the other person is wrong, imagine what they might be thinking and why. 
 * You don’t have to completely accept the other person’s point of view, but you should be interested in learning about it. As Wharton professor and social psychologist Adam Grant explores in his book The Originals: How Non-Conformists Move the World, asking people with extreme political views how their preferred policies work (i.e., showing interest in learning about their position) actually helps them become more moderate. Asking why they believe a certain way can make them hold onto their beliefs more strongly. However, when asked to reflect, there's evidence to suggest that they are more likely to then realize the complexity of the issues and that there may be middle ground. Consider how to apply this principle with those in your organization with extreme views. 
 
 ### Feelings
 
-* Ask yourself why you feel the way you do. This will help you take a more reasonable approach to the situation.   
+* Ask yourself why you feel the way you do. This will help you take a more reasonable approach to the situation. 
 * Imagine how the other person might feel about things to be prepared for his/her reactions. 
 
 ### Self-identity 
 
-* When people’s self-identities are threatened, they usually react strongly. This can make problems hard to resolve.   
-* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self identity.   
-* Being aware of your vulnerabilities is key to maintaining your balance during a conversation. You don’t want to be surprised by your reactions.   
+* When people’s self-identities are threatened, they usually react strongly. This can make problems hard to resolve. 
+* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self identity. 
+* Being aware of your vulnerabilities is key to maintaining your balance during a conversation. You don’t want to be surprised by your reactions. 
 * Be aware of the role hierarchy plays in people’s self-identities. 
 
    
@@ -302,14 +301,14 @@ In most cases, the conversation will be difficult because the parties involved a
 
 As you mentally prepare for a conversation, here are some tips that can help you: 
 
-* Clarify the problem for yourself first.   
-* Prepare references to support your recommended solution (e.g. the [FAR](https://www.acquisition.gov/browse/index/far) and [TechFAR](https://playbook.usds.gov/techfar/), [Defense Acquisition System Instruction 5000.02](http://acqnotes.com/wp-content/uploads/2014/09/DoD-Instruction-5000.02-Operations-of-the-Defense-Acquisition-System-7-Jan-2015.pdf)).   
-* Plan to approach the discussion with a sense of exploration and the potential need to bridge understandings from different points of view.   
-* Focus on the objective and desired outcome.   
-* Practice how to begin the conversation.   
-* Present your assessment of the problem, and ask any questions you might have.   
-* Listen quietly to the other person, summarize what they’ve said, and validate their reasoning even if you have a different interpretation.   
-* Engage in negotiation to resolve how to solve the problem together.   
+* Clarify the problem for yourself first. 
+* Prepare references to support your recommended solution (e.g. the [FAR](https://www.acquisition.gov/browse/index/far) and [TechFAR](https://playbook.usds.gov/techfar/), [Defense Acquisition System Instruction 5000.02](http://acqnotes.com/wp-content/uploads/2014/09/DoD-Instruction-5000.02-Operations-of-the-Defense-Acquisition-System-7-Jan-2015.pdf)). 
+* Plan to approach the discussion with a sense of exploration and the potential need to bridge understandings from different points of view. 
+* Focus on the objective and desired outcome. 
+* Practice how to begin the conversation. 
+* Present your assessment of the problem, and ask any questions you might have. 
+* Listen quietly to the other person, summarize what they’ve said, and validate their reasoning even if you have a different interpretation. 
+* Engage in negotiation to resolve how to solve the problem together. 
 * Formalize an agreement into a series of commitments and next step action items. 
 
 
@@ -336,11 +335,11 @@ Agile methods have been developed and used most extensively in the non governmen
 
 **Observation:** All government and contractor personnel need to spend the time necessary before contract award to understand what it means to use Agile from all perspectives. The following are examples of such considerations. 
 
-* Which contractual phases can employ Agile?   
-* What are the milestone and deliverable details for each phase when using Agile?   
-* What contract changes would be needed?   
-* What changes to the approach of monitoring development progress will be needed?   
-* What type of staff members are needed on both sides (government and contractor)?   
+* Which contractual phases can employ Agile? 
+* What are the milestone and deliverable details for each phase when using Agile? 
+* What contract changes would be needed? 
+* What changes to the approach of monitoring development progress will be needed? 
+* What type of staff members are needed on both sides (government and contractor)? 
 * Which of the FAR, TechFAR, or 5000.02 process formalities will be tailored?
   
 Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN 002 pgs. 12-22   
@@ -350,12 +349,12 @@ Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights
 
 Culture is the customary knowledge, beliefs, behaviors, and traits displayed by an organization. The government is heavily invested in the use of waterfall for acquisition of all equipment and systems, whether they are software intensive or not. As a result, a large segment of the government/DoD acquisition community (and that of long-time contractors, as well) is more comfortable with waterfall and skeptical about using Agile. Review the write-up below for additional context on this issue.
 
-**Context:** The government is heavily invested in the use of waterfall for acquisition in general, and this has been applied to software acquisition as well. While other methods have been used, waterfall and its accompanying precepts are most familiar to most PMOs.   
+**Context:** The government is heavily invested in the use of waterfall for acquisition in general, and this has been applied to software acquisition as well. While other methods have been used, waterfall and its accompanying precepts are most familiar to most PMOs. 
 
 **Observation:** Moving to Agile is difficult, many of the “old ways” and paradigms need to be modified using a fundamental culture change. Not long ago, the training in the interpretation of software acquisition requirements is skewed toward the waterfall approach. Thus, a PMO employing Agile will need to be trained in Agile concepts.   
 
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22   
-    
+Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
+ 
 ## Common Topic for Difficult Conversations: Organizational Oversight
 
 Tracking and measuring progress while using Agile in a way that is clear to and trusted by the government is a particular challenge. The metrics applied on past software acquisitions, including the use of the Earned Value Method System (EVMS), do not provide the same benefit compared to the effort collecting for Agile as they do for Waterfall. Agile also does not support the kind of granularity of estimates and task detail that is typically shown across the entire project in an Integrated Master Schedule (IMS). Rather, Agile provides delivered working code so the need for estimates is diminished. 
@@ -373,7 +372,7 @@ The close involvement of end users in the development process, reviews, and demo
 
 **Context:** One of the fundamental principles cited in the [Agile Manifesto](https://agilealliance.org/agile101/the-agile-manifesto/) is customer collaboration. In other words, Agile believes close interaction between the developers and end users is important. A basic Agile principle is “business people (users) and developers work together daily,” but in the government acquisition environment, this is rarely easy and may sometimes not even be possible. Government acquisitions involve many stakeholders with inherently conflicting needs. It is hard to get a single viewpoint from the customer because no one person truly represents the users. Plus, it is hard to get all the stakeholders involved in development decisions. 
 
-**Observation:** From program interviews, it was found:   A single voice for the user/customer is essential. This could be accomplished through an input-filtering steering committee that documents decisions, insists that the user community speaks with one voice to the Agile developer (through requirements definition), and receives input from and gives direction to a single person representing the Agile developer. True users (not just PMO representatives) must attend demonstrations that are given specifically to get user information and feedback. A hybrid approach (something between “pure Agile” and FAR/DoD 5000 traditional methods) is needed for large systems to assure that agreements with multiple users are documented, external interfaces are documented and agreed to, and multiple contractual and programmatic constraints are honored. A strong emphasis on government/user participation in reviews and demonstrations is essential. These reviews and demonstrations will be of shorter duration and have a tighter focus with Agile, and this will result in more frequent reviews that reflect the nature of Agile development. For example, having eight two hour reviews spread over time, as opposed to a single two-day event to cover the same material, would be one way to handle this.   
+**Observation:** From program interviews, it was found: A single voice for the user/customer is essential. This could be accomplished through an input-filtering steering committee that documents decisions, insists that the user community speaks with one voice to the Agile developer (through requirements definition), and receives input from and gives direction to a single person representing the Agile developer. True users (not just PMO representatives) must attend demonstrations that are given specifically to get user information and feedback. A hybrid approach (something between “pure Agile” and FAR/DoD 5000 traditional methods) is needed for large systems to assure that agreements with multiple users are documented, external interfaces are documented and agreed to, and multiple contractual and programmatic constraints are honored. A strong emphasis on government/user participation in reviews and demonstrations is essential. These reviews and demonstrations will be of shorter duration and have a tighter focus with Agile, and this will result in more frequent reviews that reflect the nature of Agile development. For example, having eight two hour reviews spread over time, as opposed to a single two-day event to cover the same material, would be one way to handle this.   
 
 Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
 
@@ -414,7 +413,7 @@ Large programs with multiple Agile teams had several more ideas:
 * Planning for iterations was difficult with multiple Agile teams running in parallel and working on the same source tree. It was difficult to track feature predecessors. For example, if story A is needed before story B can be implemented, and story A was scheduled to be completed during the last iteration by another team, the development team needs to know if story A actually made it into that iteration before scheduling story B. This problem is made more difficult if both A and B are scheduled for the same iteration because each team can decide for itself which stories get bumped from a particular iteration. In order to preclude this type of behavior, one group made this particular topic part of their daily team lead standups.   
 * Dependencies across multiple Agile teams working on a common source tree need frequent coordination. The interviewees pointed out that one possible way of doing this would be to have the Agile team leader scrum (the “scrum of scrums”) meet in a daily standup to track the interdependencies.
     
-Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22   
+Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
   
 ---
 ## Knowledge Check
@@ -449,7 +448,7 @@ You have a good working relationship with the team lead. She responds to your su
 
 
 ---
-## Introduction -  Building Your Resilience
+## Introduction - Building Your Resilience
 
 >As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."
 
