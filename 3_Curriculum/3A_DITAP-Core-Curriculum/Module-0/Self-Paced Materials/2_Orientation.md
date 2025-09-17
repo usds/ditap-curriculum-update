@@ -1,4 +1,5 @@
 # DITAP Course: What to Expect, How to Navigate
+**Module 0 Sprint 0**
 
 ## Introduction to DITAP
 
