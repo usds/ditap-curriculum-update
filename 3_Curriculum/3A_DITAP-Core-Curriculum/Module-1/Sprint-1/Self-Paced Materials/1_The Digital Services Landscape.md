@@ -1,8 +1,7 @@
-# Module 1 Sprint 1
-
 # Digital Services – The Who and The What
+**Module 1 Sprint 1**
 
-Welcome to Digital Services – The Who and The What. 
+Welcome to digital services – The who and the what. 
 
 At the conclusion of this module, you will be able to:
 
@@ -21,7 +20,6 @@ Below you will find the Digital Service Wheel.  Each part of this wheel lists mo
 
 
 
-
 The following definition provided by the [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) captures most of what this wheel displays:
 
 _“Digital services” refers to “the delivery of digital information (data or content) and transactional services (e.g., online forms, benefits applications) across a variety of platforms, devices, and delivery mechanisms (e.g., websites, mobile applications, and social media).” Digital services may be delivered to internal customers, external customers, or both._
@@ -36,11 +34,9 @@ Take a quick look at the [https://my.uscis.gov/](https://my.uscis.gov/) website.
 
 The Department of Homeland Security U.S. Citizenship and Immigration Services (USCIS), wants to provide a digital service for its customers: individuals filing for immigration status in the United States. In a sense, who benefits from or is affected by implementing the digital service?
 
-
 **What?**
 
 The end user can access information about the process and content, like downloadable forms. The end user can also complete transactions online, like checking case status or scheduling appointments. Those working in USCIS can process the information less burdensomely.
-
 
 **Why?**
 
@@ -53,11 +49,9 @@ Because the site is responsive, users can access it from their computers and mob
 
 ![screenshot of My USCIS website on a mobile device](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/My%20USCIS%20screenshot%20on%20mobile%20device.jpg)
 
-
 **How?**
 
 In our online learning module, Digital Services – The How (in Module 1, Sprint 2), you’ll learn how the digital service was developed, including development methodologies, technologies, etc.
-
 
 ## Defining digital services: Another take
 
@@ -67,7 +61,7 @@ Let’s consider the definition of digital services differently. Imagine it as a
 
 We’ve taken some important information from [Digital Government Strategy](https://obamawhitehouse.archives.gov/sites/default/files/omb/egov/digital-government/digital-government.html) which explains each layer in a concise manner.
 
-### What is included in the Information Layer? 
+### What's included in the Information Layer? 
 
 - Content: any unstructured material that agencies or organizations provide online, including written materials like fact sheets, press releases, and compliance guidance
 - Online transactions: benefits applications, purchases, job applications
@@ -76,10 +70,9 @@ We’ve taken some important information from [Digital Government Strategy](http
 
 End users consume a slice of the information layer daily when they look up information and images or complete forms online or on a mobile device.
 
-### What is included in the Presentation Layer?
+### What's included in the Presentation Layer?
 
 Delivery mechanisms:
-
 - Web browsers on any device (desktop, laptop, tablet, phone)
 - Native mobile apps
 - Social media
@@ -87,15 +80,12 @@ Delivery mechanisms:
 The presentation layer is a lot like the “Where.” This is where the end user accesses the information and needs to be present to support the information layer.
 
 
-### What is included in the Platform Layer? 
+### What's included in the Platform Layer? 
 
 This is the technical ingredients for the cake. The platform layer is the place where business logic is performed. It makes it all possible and is the foundation for delivering digital services. Some examples are:
-
-
 - Application Programming Interfaces (APIs)
 - Web Services
 - Web Content Management Systems
-
 
 When the digital services “cake” is served to end users, it’s put on a sturdy and stable plate. What does this mean? 
 
@@ -116,14 +106,12 @@ Let’s check your knowledge on the what, or the definition of digital services,
 
  
 1. There is no WiFi where I am. That means I cannot access any digital services.
-
 - [[ ]] True
 - [[X]] False
 
 Explanation: Digital services can be deployed on a mobile phone using your data plan.
 
 2. It sounds like only adults can be end users of digital services since it's for finding important information or filling out forms. 
-
 - [[ ]] True
 - [[X]] False
 
