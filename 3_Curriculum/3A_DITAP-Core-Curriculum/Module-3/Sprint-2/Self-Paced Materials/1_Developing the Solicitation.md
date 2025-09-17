@@ -3,23 +3,23 @@
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
-## Revolutionary FAR Overhaul Context
+## Revolutionary FAR Overhaul context
 
 The Revolutionary Federal Acquisition Regulation (FAR) Overhaul, issued through Executive Order 14275 in April 2025, has fundamentally transformed the regulatory landscape for digital acquisitions. FAR Part 6 has been substantially streamlined from five subparts to three, reducing the number of sections from over 30 to under 20.
 
 FAR Part 39 has been redesigned to emphasize modular contracting as a core mechanic, with deliverables expected within tight timeframes often under 18 months from solicitation issuance.
 
 These changes directly impact this unit's focus areas:
-- **Strategic Planning**: Must now account for modular contracting approaches and 180-day award timelines 
-- **Flexible Documentation**: SOOs must align with performance-based ICT requirements
-- **Collaborative Execution**: Teams must adapt to accelerated procurement cycles
-- **Modern Decision-Support**: AI tools become more critical for managing rapid, iterative acquisitions
+- **Strategic planning**: Must now account for modular contracting approaches and 180-day award timelines 
+- **Flexible documentation**: SOOs must align with performance-based ICT requirements
+- **Collaborative execution**: Teams must adapt to accelerated procurement cycles
+- **Modern decision-support**: AI tools become more critical for managing rapid, iterative acquisitions
 
 This sprint prepares learners to navigate and lead digital acquisitions by focusing on strategic planning, flexible documentation, collaborative execution, and modern decision-support tools. The learning journey begins with a case-based exploration of tradeoffs and mission alignment, then moves into crafting outcome-oriented Statements of Objectives (SOOs) and rethinking staffing through the lens of Agile. Learners will also explore how **artificial intelligence (AI)** is reshaping the acquisition landscape, supporting faster analysis, enhancing decision-making, and aligning procurement with agency maturity models. The unit concludes by equipping participants with practical strategies for negotiating with vendors in a manner that fosters trust, clarity, and optimal value outcomes.
 
 By weaving together foundational practices with forward-leaning technologies, this unit empowers acquisition professionals to lead with both strategy and innovation.
 
-### Learning Objectives
+### Learning objectives
 
 By the end of this sprint, participants will be able to navigate the post-Revolutionary FAR Overhaul acquisition environment, applying streamlined competition requirements and modular contracting principles to:
 
