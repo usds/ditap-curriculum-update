@@ -312,9 +312,19 @@ As you mentally prepare for a conversation, here are some tips that can help you
 * Formalize an agreement into a series of commitments and next step action items. 
 
 
-## Common Topic for Difficult Conversations: Acquisition
+## Common Topics for Difficult Conversations
 
-So far, the information presented in this course is great in theory, but what does it look like when it’s applied to your unique digital service acquisition situation? Well, below, you’ll find some common digital service acquisition scenarios where difficult conversations are required. Review each scenario and consider similar situations you’ve encountered or that you expect to encounter as you move into your change ambassador role. 
+| Topic | Challenge / Context | Observation / Solution | Reference |
+|-------|-------------------|----------------------|-----------|
+| Acquisition | Agencies may think regulations prevent Agile, Lean, or DevOps approaches. | FAR and DoD 5000 series allow flexibility. Large waterfall CDRs can be replaced with smaller, iterative IDRs. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Knowledge of Agile | Few acquisition professionals are familiar with Agile, risking misalignment. | Consider contractual phases, milestones, monitoring approach, required staff, and tailoring FAR/TechFAR/5000.02 requirements before award. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Organizational Culture | PMOs are accustomed to waterfall; resistance to Agile is common. | Culture change and Agile training are essential for adoption. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Organizational Oversight | Traditional metrics (EVMS, IMS) do not map well to Agile. | Use frequent deliverables and working code to provide iterative insight; oversight comes from within Agile teams. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| End User Involvement | Multiple stakeholders make close user collaboration difficult. | Use a single end-user voice via steering committees; conduct frequent, short demonstrations to gather feedback. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Integration & Test | Agile integrates/testing continuously; waterfall waits until end of cycle. | Involve government testing teams early; provide access to target environments to reduce integration risk. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Infrastructure | Large Agile programs require shared assets and coordination. | Plan shared models, data, and logging; embed Agile experts; coordinate multiple teams with "scrum of scrums"; track iteration dependencies. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+
+
 
 When considering an iterative development approach, program offices and contracting may believe that acquisition regulations and agency guidance limits the government’s ability to use an Agile, Lean, or DevOps approach. 
 
@@ -361,7 +371,7 @@ Tracking and measuring progress while using Agile in a way that is clear to and 
 
 **Context:** Traditional waterfall provides significant oversight and insight into the implementation details of the program; this method is very structured so that it provides predictability, stability, and high assurance. The execution of Agile is distinctly different from what the Program Management Office (PMO) has seen in the past on programs using waterfall. The control and discipline comes from the Agile team itself rather than from control external to the team, that is project and higher management. As a result, the PMO will see a different way that the development is controlled, executed, and viewed.  
 
-**Observation:** In Agile, a system of program metrics that allows the PMO to have insight into the developer’s priorities and the development progress being made on a day-to day basis will allow the PMO to achieve an optimal balance between insight and oversight.   
+**Observation:** In Agile, a system of program metrics that allows the PMO to have insight into the developer’s priorities and the development progress being made on a day-to-day basis will allow the PMO to achieve an optimal balance between insight and oversight.   
 
 Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
 
@@ -414,6 +424,7 @@ Large programs with multiple Agile teams had several more ideas:
 * Dependencies across multiple Agile teams working on a common source tree need frequent coordination. The interviewees pointed out that one possible way of doing this would be to have the Agile team leader scrum (the “scrum of scrums”) meet in a daily standup to track the interdependencies.
     
 Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
+
   
 ---
 ## Knowledge Check
@@ -489,25 +500,16 @@ For you and your work in digital services acquisition, two characteristics are p
 ---
 ## Wellness Rituals to Support You in Times of Transition
 
-As our discussion of the growth mindset indicates, failure is going to be part of your journey. It is normal. If you aren’t failing along the way, then you likely aren’t taking enough risks. As you’ve learned, the key is to take calculated, small risks over time (remember the buy small, miss small principle, this applies in all aspects of work), but learning to accept failure may not come naturally for you. Even if it does, there may be times where the stress gets to you. What do you do to support yourself through the change? We've provided some strategies to help you answer that question.
+Failure is a natural part of growth, if you’re not failing, you’re likely not taking enough risks. The key is to take small, calculated risks over time (the “buy small, miss small” principle) and develop strategies to support yourself through change.
 
-First, interesting research has been done around treating performance in the workplace much like we treat word-class athletes, in that we consider all components of performance. As performance psychologist Jim Loehr and executive vice president of LGE Tony Schwartz explore in their research (explored in the [“The Making of a Corporate Athlete,” Harvard Business Review, 2001](https://hbr.org/2001/01/the-making-of-a-corporate-athlete)):
+Research by Jim Loehr and Tony Schwartz [(“The Making of a Corporate Athlete,” Harvard Business Review, 2001)](https://hbr.org/2001/01/the-making-of-a-corporate-athlete) shows that sustained high performance requires engaging four capacities—body, emotions, mind, and spirit—treating individuals as a whole. Small, daily rituals can strengthen these areas and help maintain performance even under stress.
 
->*“Some executives thrive under pressure. Others wilt. Is the reason all in their heads? Hardly. Sustained high achievement demands physical and emotional strength as well as a sharp intellect. To bring mind, body, and spirit to peak condition, executives need to learn what world-class athletes already know: recovering energy is as important as expending.”*
+During times of hardship or rejection, routines often slip. Maintaining physical, emotional, mental, and spiritual health improves resilience, focus, and creativity. Steven Snyder notes in Harvard Business Review (“Why is resilience so hard?”) that returning to healthy routines, stepping back for reflection, and exercising can strengthen each capacity.
 
-Loehr and Schwartz’s used two decades of work at LGE with world-class athletes to create what they termed “The High Performance Pyramid.” They translated its techniques with athletes into high performance in the workplace. Achieving the “Ideal Performance State” requires engagement of all four capacities: the body, the emotions, the mind, and the spirit by treating the individual as a whole being. (Note “spirit” refers to the energy unleashed by tapping into one’s deepest values and defining a strong sense of purpose, for some, that’s religion; for others, that may be the outdoors, connections with family, etc.) The High Performance Period is shown below.
-
-Research has shown that small rituals, repeated over time, can be used to enhance performance in these four areas. “Rituals” refer to the small, relatively low-effort activities you can do every day that can have a big difference.
-
-In times of hardship or transition, it can become easy for healthy routines to slip to the back of your mind. However, your **physical capacity** is important for mental and emotional recovery. It’s easy to get stressed out, angry, or resentful when you’re facing rejection. It’s important to think about ways that you can enhance your **emotional capacity** during these times. Additionally, your **mental capacity** can become hindered, and it may be difficult to stay focused. When your **spiritual capacity** is compromised, you may lack motivation, determination, or endurance. If you want to perform at your best, just like a star athlete, you must pay attention to all four performance areas.
-
-All that said, the reality is there’s a difference between *knowing* you should pay attention to these areas, and then actually *doing* it. As explored in *“Why is resilience so hard?” by Steven Snyder in* Harvard Business Review, if you notice that in times of stress you break from routines that are part of a healthy lifestyle, taking the time to get back on track can have positive outcomes. By exercising and stepping back from your work for self-reflection, you can strengthen each of your capacities. Positive effects from these minor changes include increased clarity and inspired creativity.
-
-When dealing with rejection in the workplace, it’s easy to isolate yourself to avoid facing hardships. Instead of allowing yourself to fall into a rut, try falling back on your support system. Those who are close to you can provide you with motivating encouragement, and can serve as a source for new ideas and inspiration.
-
-Start by thinking about small rituals you can incorporate into your everyday now. Try incorporating one ritual each week to tap into each performance area. Over time, those small rituals become [habits](http://www.npr.org/2012/02/27/147296743/how-you-can-harness-the-power-of-habit)—and habits are a powerful thing. When things become hard or you’re faced with rejection, you’ve already built these behaviors into your everyday, which increases your resilience and keeps you at your “Ideal Performance State.”
+Support systems are essential; connecting with others provides encouragement and inspiration. Start by introducing one small ritual per week for each performance area. Over time, these habits increase resilience and help you maintain your Ideal Performance State even in challenging moments.
 
 ---
+
 ## Analyze Where the “No” Came From
 
 So, you’ve been told no. You’ve been cultivating your growth mindset and using wellness techniques to keep you in the right frame of mind. Now it’s time to think through why you were told “no” and determine how to move forward from there.
@@ -605,96 +607,67 @@ Remember our discussion of wellness rituals and performance areas from our earli
 
 **Why Your Story Matters**
 
-Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work, what went right, what went sideways, and what you’d do differently, is such a powerful contribution to the community.
+Digital service procurement is always evolving. What works today might help someone else tomorrow. Sharing your procurement experiences, what went well, what didn’t, and what you’d do differently, is a powerful way to help the community.
 
-You don’t have to be a professional writer. You just have to be willing to reflect, be honest, and share. Storytelling helps you communicate complex decisions, lessons, and context that others might not find in a policy memo or contract clause. By putting your real-world experiences into words, you help others learn faster and navigate similar challenges with more confidence.
+You don’t need to be a professional writer. Honest reflection and storytelling make complex decisions and lessons easier for others to understand, helping them navigate similar challenges with more confidence.
 
-As a DITAP graduate, you’ve learned a lot about designing smarter, more flexible procurements. Now, you’re in a great position to pay it forward by documenting what worked (and what didn’t) and sharing your experience with others. Think of it as contributing to the larger body of knowledge, one story at a time.
+As a DITAP graduate, you can pay it forward by documenting your successes and lessons learned, contributing to the larger body of knowledge, one story at a time.
 
 ### Why Sharing Matters in Government Procurement
 
-#### When You Share, Everyone Gets Smarter
 
-We all know procurement can be messy, especially when you’re dealing with new technologies, tight timelines, or unexpected curveballs. But every procurement teaches you something, about collaboration, process, communication, risk, or innovation. When you share those lessons, it helps the whole ecosystem work better.
+#### When You Share, Everyone Benefits
+Procurement can be messy, new tech, tight timelines, unexpected challenges, but every project teaches lessons about collaboration, process, communication, risk, and innovation. Sharing those lessons strengthens the whole ecosystem by:
 
-Knowledge sharing helps:
+- Avoiding repeat mistakes  
+- Highlighting how challenges were overcome  
+- Spreading good ideas across agencies  
+- Creating a record of lessons for others to build on  
 
-* Make future procurements stronger by avoiding repeat mistakes.
+#### Stories Make Work Understandable
+Acquisition isn’t linear. Stories explain the “why” and “how” behind decisions, making lessons memorable and applicable in different contexts.  
 
-* Build resilience by highlighting how you adapted to challenges.
+#### What to Share
+- **Explicit knowledge:** Policies, templates, rules  
+- **Tacit knowledge:** Gut instincts, relationship strategies, workarounds  
 
-* Spread good ideas across agencies.
+Sharing your procurement story turns tacit knowledge into practical guidance for others.  
 
-* Create a record of lessons learned that others can build on.
+#### Building a Sharing Culture
+Normalize knowledge sharing by:  
 
-Whether it’s a quick blog post, a deeper case study, or a hallway chat, these conversations add up to a smarter, more connected acquisition workforce.
+- Learning from mistakes openly  
+- Encouraging honest, judgment-free conversations  
+- Recognizing and rewarding reflection and sharing  
 
-#### Stories Help Make Sense of the Work
+Psychological safety is key. Supportive leadership, public recognition, or incorporating sharing into performance goals can foster lasting change.
 
-Let’s be real: most acquisition work isn’t linear. You make trade-offs, adapt plans, and build relationships that shape the outcome. A story gives you the space to explain the “why” and “how” behind the decisions, not just the end result. That kind of nuance is hard to capture in checklists or templates, but stories bring it to life.
-
-They also help others *feel* the experience. A good story isn’t just informative, it’s memorable. That emotional connection helps others remember the lesson and apply it later, even in totally different situations.
-
-#### What’s Worth Sharing?
-
-There are two types of knowledge to think about when telling your story:
-
-* Explicit knowledge is easy to document, things like policies, templates, and rules.
-
-* Tacit knowledge is harder to explain, it’s the gut instincts, relationship strategies, and workarounds you develop through experience.
-
-Your procurement story is a great way to turn that tacit knowledge into something useful for others. Talk about the decisions you made, the questions you asked, the conversations that helped move things forward. These details are gold for other acquisition professionals who might face similar situations.
-
-#### Building a Culture of Sharing Starts With Us
-
-For knowledge sharing to really take root, we need to normalize it, and that starts with leadership and culture. That means:
-
-* Creating space for learning from mistakes, not hiding them.
-
-* Encouraging open, judgment-free conversations.
-
-* Recognizing and rewarding people who take time to reflect and share.
-
-Psychological safety plays a big part in this. People need to feel safe being honest, even when things didn’t go perfectly. And while financial rewards aren’t always feasible, small things like public shout-outs, leadership support, or adding knowledge sharing to performance goals can go a long way.
 
 ### Blogging Your Procurement Journey
 
-#### Why Blog?
+#### Why Blog?  
+Blogging is an easy way to share what you know. Keep it honest, helpful, and clear, like explaining to a colleague who wasn’t in the room. Sharing experiences helps others learn, builds community, and makes your work visible.
 
-Blogging is one of the easiest ways to start sharing what you know. It doesn’t have to be fancy or long, just honest, helpful, and clear. Think of it as talking to a colleague who wasn’t in the room but wants to understand how you approached something tricky or how a particular strategy played out. Check out [TTS’s Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/) for more guidance and other ways to get started.
+#### Blogs Can:  
+- Break down what worked and why  
+- Highlight tools, templates, or techniques  
+- Share lessons learned  
+- Serve as starting points for case studies  
 
-Sharing your experiences helps others feel less alone, speeds up learning across teams, and builds a sense of community. Plus, it reinforces your own thinking and makes your work visible, both inside and outside your agency.
+#### Good Blogging is User-Centered  
+- Who are you writing for?  
+- What should they learn?  
+- How can it help them do their work better?  
 
-Blogs can:
+#### Blog Structure (Problem-Solution-Impact)  
+- **Problem:** What were you trying to solve?  
+- **Solution:** What did you try?  
+- **Impact:** What happened? What would you do differently?  
 
-* Break down what worked and why.  
-* Highlight tools, templates, or techniques others can borrow.  
-* Help you process challenges and share lessons learned.  
-* Serve as starting points for bigger case studies.
+Keep posts short (500–800 words), use plain language, clear headers, links/visuals, and ensure accessibility. End with a call to action: invite feedback, encourage others to try it, or connect for more info.  
 
-The act of blogging is also a form of "working in the open." It models the user-centered, iterative approach we push for in digital services.
+Reference: [TTS Blogging Guide](https://www.gsa.gov/tts/blogging-guide)
 
-#### Good Blogging is User-Centered Too
-
-Sound familiar? Just like our digital service work, good blogging puts the user (in this case, the reader) first.
-
-Ask yourself:
-
-* Who am I writing for?  
-* What do I want them to learn?  
-* What will help them do their work better?
-
-A blog post doesn’t have to be long, 500 to 800 words is often enough. Use plain language. Break things into sections with clear headers. Add links or visuals if it helps. Be specific. Be real. And make sure it’s accessible (use good contrast, alt text, and readable fonts).
-
-#### Blog Structure: Keep it Simple
-
-Use a basic "problem-solution-impact" structure:
-
-* Problem: What were you trying to solve?  
-* Solution: What did you try? How did you approach it?  
-* Impact: What happened? What changed? What would you do differently?
-
-End with a small call to action, like inviting others to try the approach, share feedback, or connect for more info.
 
 ### Writing a Procurement Case Study
 
@@ -708,15 +681,19 @@ They're not just stories to read; they're tools for learning. Whether someone is
 
 A good case study balances narrative and analysis. It provides the big picture and zooms in on key moments that changed the direction or tone of the work. Here's how you might break it down:
 
-* **Title:** Choose something short but specific that gives a sense of the outcome or topic (e.g., "Improving Vendor Feedback with a Two-Week Sprint Review").  
-* **Summary:** Write a short paragraph at the top that covers the key points: what the problem was, how you approached it, and what changed as a result.  
-* **Context:** Set the stage. What agency or program is this? What was the mission or objective of the project? Include timelines, user populations, or anything that helps ground the reader.  
-* **Problem:** Be honest and clear about the challenge. Was it a tight timeline? A policy hurdle? A team that had never done agile before? The more specific you are, the easier it is for others to relate and learn.  
-* **Solution:** What did you actually do? Talk about the procurement method you chose, the design of the solicitation, how you built the team, or any new processes you tested. Include rationale: why did you take that approach?  
-* **Journey:** This is the meat of the story. What surprises came up? What needed to shift along the way? Share both the high points and the friction—team dynamics, evaluation challenges, collaboration with vendors. Show your work and describe how you responded.  
-* **Results:** What was the outcome? Use data when you can (number of vendors, user satisfaction scores, cost savings, etc.), but also describe qualitative impact. What changed for the team, the agency, or the end users?  
-* **Takeaways:** Reflect on what you learned. What would you do again? What would you change? These are the parts that help others skip the guesswork.  
-* **Call to Action:** Invite others to try the method, borrow a tool you used, or reach out for more context. This turns your story into an ongoing conversation.
+
+| Element | Description | Tips / Examples |
+|---------|-------------|----------------|
+| **Title** | Short but specific; hints at the outcome or topic | e.g., "Improving Vendor Feedback with a Two-Week Sprint Review" |
+| **Summary** | Brief paragraph covering key points: problem, approach, outcome | Keep it concise; highlight the impact |
+| **Context** | Background info: agency, program, mission, timeline, users | Helps readers understand the environment and constraints |
+| **Problem** | Clear description of the challenge | Be specific: tight timeline, policy hurdles, first-time agile team |
+| **Solution** | Actions taken, procurement method, solicitation design, team setup | Include rationale: why this approach was chosen |
+| **Journey** | Story of the process: surprises, shifts, friction, collaboration | Share high points and challenges; show how you responded |
+| **Results** | Outcomes and impact | Include data if possible: vendors, satisfaction scores, cost savings |
+| **Takeaways** | Lessons learned and recommendations | What worked, what would you change, advice for others |
+| **Call to Action** | Invite others to try your method or reach out | Encourages ongoing conversation and knowledge sharing |
+
 
 #### Tips for Writing a Strong Case Study
 
@@ -744,13 +721,18 @@ Publishing your procurement story often means getting approval from your agency�
 
 Tips to navigate approvals:
 
-* Start early: Mention your intention to publish while the project is still active. This helps stakeholders feel looped in from the beginning.  
-* Use plain language: Draft your blog or case study using non-technical, non-promotional language. This helps reviewers see the value in knowledge sharing, not PR.  
-* Focus on the facts: Stick to lessons learned, tools used, approaches tested, and measurable impact. Avoid vendor endorsements or sensitive details.  
-* Frame it as value to the public: Emphasize how this story contributes to government transparency, shared learning, and better service delivery.  
-* Ask about templates or prior examples: Your agency may have a preferred format or clearance checklist. Starting from one makes things easier.  
-* Engage OGC early: Legal reviews can take time. Share your intent with them, highlight any sensitive areas, and be open to redactions if needed.  
-* Offer informal briefings: Sometimes, a quick conversation with comms or legal teams can speed up understanding and buy-in.
+#### Tips to Navigate Approvals
+
+| Tip | Description |
+|-----|-------------|
+| **Start early** | Mention your intention to publish while the project is still active. This helps stakeholders feel looped in from the beginning. |
+| **Use plain language** | Draft your blog or case study using non-technical, non-promotional language. This helps reviewers see the value in knowledge sharing, not PR. |
+| **Focus on the facts** | Stick to lessons learned, tools used, approaches tested, and measurable impact. Avoid vendor endorsements or sensitive details. |
+| **Frame it as value to the public** | Emphasize how this story contributes to government transparency, shared learning, and better service delivery. |
+| **Ask about templates or prior examples** | Your agency may have a preferred format or clearance checklist. Starting from one makes things easier. |
+| **Engage OGC early** | Legal reviews can take time. Share your intent with them, highlight any sensitive areas, and be open to redactions if needed. |
+| **Offer informal briefings** | Sometimes, a quick conversation with comms or legal teams can speed up understanding and buy-in. |
+
 
 Framing your story as a contribution to professional development and government-wide learning often shifts the tone from "risk" to "value." The more you position yourself as a thoughtful steward of your agency’s mission, the more likely you are to get support.
 
@@ -888,6 +870,7 @@ Attach or link to any of the following if available:
 ---
 
 *Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+
 
 
 
