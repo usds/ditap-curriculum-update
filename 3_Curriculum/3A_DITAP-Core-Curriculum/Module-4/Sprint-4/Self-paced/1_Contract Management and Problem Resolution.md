@@ -37,6 +37,7 @@ Federal acquisitions frequently rely on waterfall methodologies, comprehensive u
 Agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes.
 
 --- 
+>Note for vendors: the case study below can be used for the activity that follows.
 
 ## Case study analysis: The FAFSA system modernization
 
@@ -207,19 +208,19 @@ Choose ONE of the following federal IT challenges for your analysis:
 
 **Option 1: FAFSA System Modernization**
 
-Use the detailed case study from this module, focusing on the $121.7 million General Dynamics contract and the systemic acquisition failures that led to student impact and operational disruption.
+>Use the detailed case study from this module, focusing on the $121.7 million General Dynamics contract and the systemic acquisition failures that led to student impact and operational disruption.
 
 **Option 2: IRS Business Systems Modernization**
 
-Examine the ongoing challenges with IRS tax processing system modernization, including the decades-long effort to replace legacy systems and the impact on taxpayer services.
+>Examine the ongoing challenges with IRS tax processing system modernization, including the decades-long effort to replace legacy systems and the impact on taxpayer services.
 
 **Option 3: SBA Unified Certification Platform**
 
-Analyze the Small Business Administration's recent attempt to modernize its certification systems, including the deployment challenges and remaining functionality gaps identified by GAO.
+>Analyze the Small Business Administration's recent attempt to modernize its certification systems, including the deployment challenges and remaining functionality gaps identified by GAO.
 
 **Option 4: Your Agency's Current IT Challenge**
 
-Select a significant IT modernization or acquisition challenge from your own agency experience, applying the same analytical framework used in the FAFSA case study.
+>Select a significant IT modernization or acquisition challenge from your own agency experience, applying the same analytical framework used in the FAFSA case study.
 
 ---
 
@@ -240,7 +241,7 @@ Specific Analysis Required:
 
 **Learning Note:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
 
- 
+ ---
 
 **Question 2: Building government technical capacity**
 
@@ -256,6 +257,8 @@ Specific Analysis Required:
 **Practical Application:** Using your threaded case study scenario, design a comprehensive approach for building your agency's internal technical capacity through strategic acquisition planning.
 
 **Learning Note:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
+
+---
 
 **Question 3: Performance measurement and continuous improvement**
 
