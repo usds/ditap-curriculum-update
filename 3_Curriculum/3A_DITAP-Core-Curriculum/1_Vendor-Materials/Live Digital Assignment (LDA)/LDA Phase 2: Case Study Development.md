@@ -2,7 +2,7 @@
 
 ## Phase 2: Case Study Development (Weeks 7–12, Module 3 Sprints 1 & 4\)
 
-The objective of Phase 2 is to provide participants with hands-on experience responding to an agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4\.
+The objective of Phase 2 is to provide participants with hands-on experience responding to an Agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include Agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4\.
 
 ### Facilitator guide
 
@@ -22,7 +22,7 @@ Facilitators must guide teams on how to effectively map their independently disc
   * **Risk Mitigation:** Key technical and programmatic risks and proposed mitigation strategies
   * **Continuous Delivery:** How the solution would support ongoing iteration and improvement
 * **Artifact 5:** Agile Contracting Approach
-  * Describe how the work would be structured using agile contracting methods.
+  * Describe how the work would be structured using Agile contracting methods.
   * Define sprint length, delivery cadence, and key performance indicators (KPIs).
   * Outline how user feedback would be integrated into ongoing development.
   * Specify acceptance criteria for deliverables.
