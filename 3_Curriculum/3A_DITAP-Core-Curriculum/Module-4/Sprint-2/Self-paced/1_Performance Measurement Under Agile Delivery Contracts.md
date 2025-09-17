@@ -1,8 +1,7 @@
-# Module 4 Sprint 2
+# Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
+**Module 4 Sprint 1**
 
-## Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
-
-### Why Modern Metrics Matter More Than Ever
+## Why Modern Metrics Matter More Than Ever
 
 Federal agencies now deliver digital services at unprecedented scale and speed. Citizens expect government services to work as well as commercial apps they use daily. Traditional procurement metrics, focused on requirements compliance and schedule adherence, don't capture whether we're delivering value to users.
 
@@ -100,7 +99,7 @@ Choose tools that meet federal security requirements:
 
 **Recommended for Federal Use:**
 
-* **Jira Government Cloud** (most common for agile tracking)  
+* **Jira Government Cloud** (most common for Agile tracking)  
 * **Microsoft 365 Government** (integrated project management)  
 * **Slack for Government** (team communication)  
 * **Zoom for Government** (meetings and demos)
@@ -195,7 +194,7 @@ Designing incentives is a team effort. The program office, product manager, and 
 
 **Selecting the Right Metrics**
 
-When selecting metrics for your agile contract:
+When selecting metrics for your Agile contract:
 
 1. Focus on a small number of high-impact metrics (5-7 maximum).  
 2. Ensure metrics are objective and measurable.  
@@ -220,7 +219,7 @@ When designing incentives:
 1. Establish clear processes for metrics collection and verification.  
 2. Define the cadence for metrics review (typically aligned with sprint or release cycles).  
 3. Document how metrics will inform contract decisions.  
-4. Train CORs specifically on agile metrics evaluation.  
+4. Train CORs specifically on Agile metrics evaluation.  
 5. Create feedback mechanisms to share performance insights with contractors.
 
 ---
@@ -301,7 +300,7 @@ Choose a digital service your agency currently uses or is developing. This servi
 
 **Due Date:** Your discussion post is due by the end of the current module.
 
-**Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
+**Definition of Done:** Your post should address all four elements above in sufficient detail to demonstrate your understanding of modern metrics and incentives in Agile procurement. Additionally, respond to at least two classmates' posts with substantive feedback or additional insights.
 
 ---
 
@@ -797,9 +796,9 @@ When you see these signs, step back and assess whether your coordination structu
 ---
 ## Warranties in Agile Development Readings 
 
-As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
+As you wrap up Sprint 2, we’re shifting focus to warranties, an important but often overlooked tool in managing performance under Agile contracts. The sections below will help you understand how warranties work in federal acquisitions and how they can be used in Agile software projects. You’ll learn about the rules in the FAR and explore ways to make sure each part of an iterative product works together. 
 
-Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
+Warranties serve as critical risk management tools in federal digital service acquisitions, but traditional warranty approaches often clash with Agile development practices. This section teaches you how to structure warranties that protect the government while enabling iterative delivery and continuous improvement.
 
 ### Federal Acquisition Regulation Framework
 
@@ -902,7 +901,7 @@ Traditional warranty models don't apply to SaaS offerings. Modern approaches inc
 
 "Working Software Over Comprehensive Documentation"
 
-While agile emphasizes working software, warranties require sufficient documentation:
+While Agile emphasizes working software, warranties require sufficient documentation:
 
 **Minimal Viable Documentation:**
 
@@ -1025,7 +1024,7 @@ The following readings discuss using warranties in Agile development projects. W
 
 **Article:** [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
 
-This article discusses contracting challenges in agile development and recommends including warranties that specify "each iteration will work with all other iterations" and "the final product will conform to expectations set out in each SOW" It addresses the unique challenges of warranties in iterative development.
+This article discusses contracting challenges in Agile development and recommends including warranties that specify "each iteration will work with all other iterations" and "the final product will conform to expectations set out in each SOW" It addresses the unique challenges of warranties in iterative development.
 
 **Key Takeaways to Address:** 
 
@@ -1035,14 +1034,14 @@ This article discusses contracting challenges in agile development and recommend
 
 **Article:** [Warranties and Liabilities](https://drive.google.com/file/d/1pQOLsXcKAQfmRI5tcMwyitfc_JncM1Zi/view?usp=drive_link) (excerpt from Contracts in Agile Software Development)
 
-In this reading, warranties and liability are compared in traditional contracting to agile contracting. Think about the differences and considerations for each type. 
+In this reading, warranties and liability are compared in traditional contracting to Agile contracting. Think about the differences and considerations for each type. 
 
 **Key Takeaways to Address:** 
 
-* Since agile projects typically don't develop comprehensive specifications upfront, what alternative documentation should be used to define warranty scope?  
+* Since Agile projects typically don't develop comprehensive specifications upfront, what alternative documentation should be used to define warranty scope?  
 * Should warranties start after each iteration/sprint, after final acceptance, or use a hybrid approach?  
 * How do you define "good enough" software that can be accepted and moved to warranty coverage?  
-* What minimal documentation is needed despite the agile principle of "working software over comprehensive documentation"?
+* What minimal documentation is needed despite the Agile principle of "working software over comprehensive documentation"?
 
 ---
 
@@ -1051,8 +1050,8 @@ In this reading, warranties and liability are compared in traditional contractin
 
 **Based on the warranty readings, post your response to the following questions:**
 
-* In agile development, when features are created iteratively, what type of language can you use in the warranty to ensure that the vendor is responsible for the outcome of the entire project?  
-* Warranties for agile development can be difficult to establish due to the iterative nature. What can you do in both the acquisition strategy phase and the contract administration phase to ensure that you are fully protected by warranty?
+* In Agile development, when features are created iteratively, what type of language can you use in the warranty to ensure that the vendor is responsible for the outcome of the entire project?  
+* Warranties for Agile development can be difficult to establish due to the iterative nature. What can you do in both the acquisition strategy phase and the contract administration phase to ensure that you are fully protected by warranty?
 
 
 
