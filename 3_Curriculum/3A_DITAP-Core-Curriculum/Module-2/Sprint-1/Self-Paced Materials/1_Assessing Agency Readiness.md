@@ -1,7 +1,5 @@
-
-# Module 2 Sprint 1
-
 # Introduction to Assessing Agency Readiness
+**Module 2 Sprint 1**
 
 Before an agency embarks on a digital service acquisition, it must first understand its own readiness to support the demands of modern, agile procurement. In today’s rapidly evolving digital landscape, success isn't just about selecting the right technology or vendor, it’s about aligning acquisition strategies with an agency’s internal capabilities, culture, governance, and tolerance for change. This learning unit focuses on helping participants assess and understand these internal factors so they can make strategic decisions that reduce risk and enhance outcomes.
 
@@ -12,23 +10,16 @@ Drawing from real-world case studies and frameworks, including maturity models a
 By the end of this module, participants will be able to:
 
 * Define what agency maturity means in the context of digital services acquisition.
-
 * Explain how organizational readiness impacts procurement strategy and risk.
-
 * Use change and innovation readiness tools to evaluate internal capabilities.
-
 * Identify common gaps in digital service maturity and find strategies to address them.
-
 * Assess when and how to incorporate commercial off-the-shelf (COTS), open source or proprietary solutions, based on agency context.
-
 * Engage stakeholders effectively based on agency culture, governance, and decision-making dynamics.
-
 * Apply a maturity-aligned framework to shape acquisition strategies that are executable, adaptable, and mission-focused.
 
----
 ## Change and innovation readiness survey
 
-### Purpose of the activity: 
+**Purpose of the activity:** 
 
 To effectively lead innovation, you must first know your agency’s current stance and how ready it is for change. This activity will help you tailor your efforts to productively lead change. The survey is intended to help you take a “pulse check” of your agency; it is not intended to be a comprehensive or formal evaluation of change. However, take time to complete it and gather data to inform your answers where appropriate.
 
