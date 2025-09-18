@@ -6,6 +6,21 @@ Q. Will pre- and post-assessments use the same questions for comparative measure
 
 ---
 
+Q. Are you recommending a threshold above which you've passed or below which you've failed? 
+>A. DITAP’s pass/fail approach represents a major mindset shift for participants, vendors, and facilitators. Many colleges, graduate programs, and professional schools are moving away from point-based grading because adult learning research shows that numerical scores don’t necessarily reflect whether someone can competently do the work. This model reduces performance anxiety, fosters collaboration, and shifts the focus from chasing points to building real capability. 
+>
+>But the mindset shift is very real.
+>
+>Instead of a single cutoff score like 70% or 80%, this refreshed grading perspective for DITAP uses multiple checkpoints and clear criteria so participants always know where they stand:
+>* **Participation:** Measured using a shared rubric (Fully Engaged, Progressing, Needs Attention). Two consecutive “Needs Attention” ratings in the same dimension or three total across any dimension trigger a facilitator check-in and support plan.
+>* **Conceptual Fluency:** Reviewed bi-weekly and at the end of each module using a standardized rubric. If gaps appear consistently — e.g., misunderstanding key frameworks — participants receive targeted feedback and support to get back on track.
+>* **Live Digital Assignment (LDA):** Designed with gating so each phase (Discovery Sprint, Case Study Development, Peer Review, and Presentation) must be completed successfully before moving to the next. If revisions are needed, participants have the opportunity to resubmit.
+>
+>This approach ensures there are no surprises. Participants get feedback early and often, and they know exactly what actions to take to stay on track.
+Remember, numerical scores don’t always equate to job readiness. Whether it's medicine or government procurement, what matters most is whether professionals can perform competently in real scenarios. DITAP’s approach gives participants every chance to demonstrate that they can do the work, not just pass a test.
+
+---
+
 Q. Will module-level (formerly release-level) assessments be updated?  
 >A. End-of-module assessments are at vendor discretion, but knowledge checks and applied assignments embedded in modules are a required part of assessing conceptual fluency (See: Vendor Playbook \- Assessments \- Vendor Assessment Requirements Summary). Vendors may update or supplement these as long as they reinforce module objectives and align with the core assessment areas.
 
@@ -21,6 +36,33 @@ Q. How will the approach to assessments affect vendor tracking of learner perfor
 
 ---
 
+Q. Does the pre and post assessments count towards the final pass/fail system for the program?
+>A. **Pre-Assessment: Informational & Diagnostic**
+The pre-assessment is informational only for both learners and vendors. Participants receive a score, but they can continue to the course regardless of their score. The goal is to surface baseline understanding, build learner awareness of what’s ahead, and allow vendors to identify trends that might signal where additional instructional emphasis or support will be helpful.
+>
+>**Post-Assessment: Part of Pass/Fail Determination**
+The post-assessment is a required component of the pass/fail system. It confirms that participants have reached the minimum level of conceptual fluency necessary to demonstrate mastery of DITAP frameworks.
+>
+>Best practice recommendations:
+>* Learners should be allowed more than one attempt to pass.
+>* After a failed attempt, redirect the learner to the sections or modules where they struggled, or schedule a quick facilitator check-in to review key concepts.
+>* After multiple unsuccessful attempts, vendors should consider additional interventions (peer coaching, office hours, targeted practice) to ensure the learner isn’t just passing the test but can apply the concepts in a real-world setting.
+
+---
+
+Q. Will we be able to get to Level 8 in the Learning-Transfer Evaluation Model (LTEM)?
+>A. Level 8 is really the gold standard for measuring learning impact — it asks the ultimate question: _Did this training actually improve mission outcomes?_
+>
+>That’s a very high bar. To get there, we’d have to separate the impact of DITAP from everything else happening inside an agency — leadership changes, policy shifts, budget fluctuations, and other initiatives that may have run at the same time. There’s also a time lag: by the time results show up, learners may have switched roles or priorities may have shifted, making it hard to draw a straight line back to this course.
+>
+>Think about trying to prove that one leadership course caused a measurable change in procurement cycle time. It’s possible, but it’s complex, and it requires a lot of data we may not have access to.
+>
+>For single-agency cohorts, Level 8 is more achievable because we can get a clearer picture of that agency’s environment and sometimes access metrics on procurement outcomes or delivery improvements.
+>
+>We focus on getting as close as possible — ensuring learners demonstrate task competence in realistic settings (Level 6). And the consortium will be focused on assessing the transfer of those skills back on the job in a post survey (Level 7). If we can measure those reliably, we know we’re setting the stage for Level 8 outcomes, even if we can’t always capture organizational results.
+
+---
+
 Q. How will program duration (3 vs. 6 months) affect CLP eligibility (e.g., 60 vs. 80 CLPs)?
 >A. Participants in the full 6-month program continue to be eligible for 80 CLPs, the same as in the previous program. For shorter or adapted versions, training providers must work with USDS to determine the appropriate CLP allocation. Clear criteria should be communicated in course materials to ensure learners understand the difference.
 
@@ -33,4 +75,3 @@ Q. Should curriculum materials be publicly available if vendor eligibility is li
 
 Q. Could students access assessments or answers through GitHub, compromising instructional integrity?  
 >A. DITAP assessments are experiential in nature, focusing on applied learning, case-based assignments, and real-world decision-making rather than rote memorization; the risk of compromising instructional integrity is lower than in traditional assessment models. Knowledge checks and capstone assignments are designed to reinforce practice and application, not to be memorized. Still, vendors should protect assessment materials where possible to preserve fairness and instructional value.
-
