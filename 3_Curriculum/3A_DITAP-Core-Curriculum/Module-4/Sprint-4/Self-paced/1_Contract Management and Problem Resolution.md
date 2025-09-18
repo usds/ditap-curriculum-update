@@ -1,6 +1,5 @@
-# Module 4 Sprint 4
-
-# Federal IT Acquisition, Management, and Software Engineering Practices 
+# Federal IT Acquisition, Management, and Software Engineering Practices
+**Module 4 Sprint 4**
 
 ## Introduction
 

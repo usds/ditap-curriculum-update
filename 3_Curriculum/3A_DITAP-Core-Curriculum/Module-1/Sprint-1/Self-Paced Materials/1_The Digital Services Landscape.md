@@ -14,7 +14,7 @@ Let’s start with the what. What is meant by digital services? That is, in fact
 
 ## Digital Service Wheel
 
-Below you will find the Digital Service Wheel.  Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
+Below you will find the Digital Service Wheel. Each part of this wheel lists more than one answer to each question above, and the answers shown here are just the beginning. This is why defining digital services can be a complex task. 
 
 ![Digital Services Wheel with sections for who, what, where, why and how](https://raw.githubusercontent.com/usds/ditap-curriculum-update/dc9a42db159a23ea3d43f7f931c9d1f30cb3685d/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/digital%20service%20wheel.jpg)
 
@@ -204,7 +204,7 @@ _Order new TV services online._
 
 ---
 
-These examples are from the perspective of the end user. The Digital Services Ecosystem involves additional roles that support the delivery of services to the end user.  You can learn about the Digital Service Ecosystem through the [Digital Services Playbook](https://playbook.usds.gov/). 
+These examples are from the perspective of the end user. The Digital Services Ecosystem involves additional roles that support the delivery of services to the end user. You can learn about the Digital Service Ecosystem through the [Digital Services Playbook](https://playbook.usds.gov/). 
 
 ## Knowledge check
 
@@ -243,7 +243,7 @@ As government agencies embrace modern technology and user-centered practices, it
 ### Non-government entities
 
 * [Code for America](https://codeforamerica.org/)  
-  * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.  
+  * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies Agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.  
     * Check out Code for America’s work on [GetCalFresh](https://codeforamerica.org/success-stories/simplifying-californias-online-application-for-food-benefits/), a simplified, mobile-friendly platform that helps Californians apply for food assistance in under 10 minutes. By reducing friction in the application process, GetCalFresh has helped millions of people more easily access critical benefits.  
 * [U.S. Digital Response](https://www.usdigitalresponse.org/)  
   * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.  

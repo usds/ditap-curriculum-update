@@ -22,7 +22,7 @@ The recent overhaul of Federal Acquisition Regulation (FAR) Parts 6 and 39 signi
 **Key changes include**:
 - Enhanced requirements for IT acquisition planning under FAR Part 39, including mandatory consideration of open source alternatives and Software Bills of Materials (SBOMs)
 - Updated competition procedures in FAR Part 6 that recognize the unique characteristics of digital services and emerging technologies
-- New emphasis on modular contracting approaches that support agile development methodologies
+- New emphasis on modular contracting approaches that support Agile development methodologies
 - Strengthened cybersecurity baseline requirements that must be addressed in all IT acquisitions
 - Requirements for accessibility compliance verification throughout the acquisition lifecycle
 

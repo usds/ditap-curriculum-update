@@ -16,7 +16,7 @@ Facilitators and program managers play a vital role in helping participants appl
 
 **Learning Objectives Reinforced**:
 * Scoping problems using Human-Centered Design and Discovery Sprint methods  
-* Applying modern, agile-friendly acquisition practices  
+* Applying modern, Agile-friendly acquisition practices  
 * Conducting market research and engaging vendors empathetically  
 * Evaluating digital service proposals based on artifact-first approaches  
 * Delivering constructive feedback and collaborating cross-functionally
@@ -94,7 +94,7 @@ Your team’s job right now is to submit a case study that passes the bar.
 
 ### Phase 2: Case Study Development
 
-Objective: Give participants experience responding to an agile-focused RFQ using real-world digital service evaluation criteria. Teams simulate vendors by creating a case study package that highlights design thinking, usability testing, and implementation.
+Objective: Give participants experience responding to an Agile-focused RFQ using real-world digital service evaluation criteria. Teams simulate vendors by creating a case study package that highlights design thinking, usability testing, and implementation.
 
 **Instructions to Facilitators**:
 * Introduce the SPRUCE-aligned RFQ Case Study:  
@@ -181,7 +181,7 @@ Objective: The goal of Phase 4 is to create space for teams to reflect on their 
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
 | Communication | Proposal writing, presentations, peer review |
-| Agile & HCD Literacy | Aligns with agile & user-centered methods |
+| Agile & HCD Literacy | Aligns with Agile & user-centered methods |
 | Technical Evaluation | Rubric-based peer evaluations |
 | Readiness | Mirrors real government procurement cycles |
 
@@ -228,7 +228,7 @@ Each team is required to submit a 3-page Discovery Summary. This document must i
 
 ## Phase 2: Case Study Development (Weeks 7–12, Module 3 Sprints 1 & 4\)
 
-The objective of Phase 2 is to provide participants with hands-on experience responding to an agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4\.
+The objective of Phase 2 is to provide participants with hands-on experience responding to an Agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include Agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4\.
 
 ### Facilitator Guide:
 
@@ -342,11 +342,11 @@ Facilitators are responsible for applying this assessment breakdown consistently
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
 | Communication | Proposal writing, presentations, peer review |
-| Agile & HCD Literacy | Aligns with agile & user-centered methods |
+| Agile & HCD Literacy | Aligns with Agile & user-centered methods |
 | Technical Evaluation | Rubric-based peer evaluations |
 | Readiness | Mirrors real government procurement cycles |
 
 ## Conclusion
 
-The Vendor Evaluation Live Digital Assignment for the DITAP training course represents a significant evolution in experiential learning for government acquisition professionals. By integrating independent acquisition discovery with a rigorous, fixed Case Study requirement aligned with the Case Study Evaluation framework, the program provides an unparalleled simulation of the digital services procurement lifecycle. This comprehensive approach not only builds essential technical skills in agile procurement and evaluation but also cultivates a profound sense of empathy for vendors, a critical attribute for fostering more collaborative and successful government-industry partnerships. The structured, phase-based progression, coupled with the emphasis on self-directed learning and peer feedback, ensures that DITAP graduates are not merely knowledgeable but are truly ready to lead the transformation of digital service acquisition within their respective agencies. 
+The Vendor Evaluation Live Digital Assignment for the DITAP training course represents a significant evolution in experiential learning for government acquisition professionals. By integrating independent acquisition discovery with a rigorous, fixed Case Study requirement aligned with the Case Study Evaluation framework, the program provides an unparalleled simulation of the digital services procurement lifecycle. This comprehensive approach not only builds essential technical skills in Agile procurement and evaluation but also cultivates a profound sense of empathy for vendors, a critical attribute for fostering more collaborative and successful government-industry partnerships. The structured, phase-based progression, coupled with the emphasis on self-directed learning and peer feedback, ensures that DITAP graduates are not merely knowledgeable but are truly ready to lead the transformation of digital service acquisition within their respective agencies. 
 
