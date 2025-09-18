@@ -1,5 +1,6 @@
 # Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement
 **Module 4 Sprint 1**
+> _Average completion time: 90 minutes - 2 hours_
 
 ## Why Modern Metrics Matter More Than Ever
 
