@@ -180,26 +180,13 @@ By grounding incentive structures in thoughtful metrics, collaborative design, a
 
 **Setting Up Your Metrics Program**
 
-**Week 1: Establish Baseline**
+| Week 1: Establish Baseline | Month 1: Refine and Adjust | Quarterly: Strategic Review |
+|----------------------------|----------------------------|-----------------------------|
+| Meet with the contractor to review available data | Review initial data collection | Assess overall trends and patterns |
+| Select 5-7 key metrics that align with mission goals | Adjust metrics based on what's valuable | Adjust targets based on team maturity |
+| Set up data collection and reporting processes | Train COR on metrics interpretation | Consider adding or removing metrics |
+| Establish realistic initial targets | Establish a regular review schedule | Plan incentive payments or adjustments |
 
-* Meet with the contractor to review available data  
-* Select 5-7 key metrics that align with mission goals  
-* Set up data collection and reporting processes  
-* Establish realistic initial targets
-
-**Month 1: Refine and Adjust**
-
-* Review initial data collection  
-* Adjust metrics based on what's valuable  
-* Train COR on metrics interpretation  
-* Establish a regular review schedule
-
-**Quarterly: Strategic Review**
-
-* Assess overall trends and patterns  
-* Adjust targets based on team maturity  
-* Consider adding or removing metrics  
-* Plan incentive payments or adjustments
 
 **Common Implementation Mistakes to Avoid**
 
@@ -410,7 +397,7 @@ Here's a list of additional elements that would strengthen your multi-vendor man
 
 **Performance Management Across Vendors**
 
-Consistent Standards Apply the same quality, security, and performance standards across all vendors:
+Consistent Standards: Apply the same quality, security, and performance standards across all vendors:
 
 * Code quality and testing requirements  
 * Security scanning and compliance procedures  
@@ -451,26 +438,13 @@ Consistent Standards Apply the same quality, security, and performance standards
 
 **Setting Up Multi-Vendor Coordination**
 
-**First 30 Days:**
+| First 30 Days | First 90 Days | Ongoing |
+|---------------|---------------|---------|
+| Establish governance structure and meeting cadences | Conduct initial cross-vendor coordination sessions | Monitor coordination effectiveness and vendor satisfaction |
+| Set up shared communication tools and documentation | Identify and address initial integration challenges | Adjust processes based on lessons learned |
+| Define technical standards and integration requirements | Refine coordination processes based on early experience | Celebrate successful collaborations and shared wins |
+| Create performance measurement and reporting processes | Establish vendor feedback and improvement mechanisms | Continuously improve based on vendor and stakeholder feedback |
 
-* Establish governance structure and meeting cadences  
-* Set up shared communication tools and documentation  
-* Define technical standards and integration requirements  
-* Create performance measurement and reporting processes
-
-**First 90 Days:**
-
-* Conduct initial cross-vendor coordination sessions  
-* Identify and address initial integration challenges  
-* Refine coordination processes based on early experience  
-* Establish vendor feedback and improvement mechanisms
-
-**Ongoing:**
-
-* Monitor coordination effectiveness and vendor satisfaction  
-* Adjust processes based on lessons learned  
-* Celebrate successful collaborations and shared wins  
-* Continuously improve based on vendor and stakeholder feedback
 
 **Success Metrics for Multi-Vendor Programs**
 
@@ -617,7 +591,7 @@ A typical warranty period is 30 days from sprint acceptance, with cumulative cov
 
 ---
 
-### System Integration Warranties
+#### System Integration Warranties
 Integration across multiple sprints presents a unique challenge. Modern strategies include continuous integration warranties that cover the entire system, require automated testing suites, and include regression testing for each new release. Warranties are increasingly structured around user journey completion rather than individual features, ensuring that the system functions cohesively for end users.  
 
 ---
@@ -699,6 +673,8 @@ These measures ensure that the government retains recourse if deliverables fail 
 - Escalation procedures designed to preserve positive vendor relationships  
 
 This ensures that risk is managed proactively without stifling innovation or slowing delivery.  
+
+---
 
 ### Warranty Readings
 
