@@ -21,7 +21,7 @@ Remember, numerical scores don’t always equate to job readiness. Whether it's 
 
 ---
 
-Q. Will module-level (formerly release-level) assessments be updated?  
+Q. Will module-level (formerly release-level) assessments be updated? 
 >A. End-of-module assessments are at vendor discretion, but knowledge checks and applied assignments embedded in modules are a required part of assessing conceptual fluency (See: Vendor Playbook \- Assessments \- Vendor Assessment Requirements Summary). Vendors may update or supplement these as long as they reinforce module objectives and align with the core assessment areas.
 
 ---
@@ -32,11 +32,11 @@ Q. Will there be a consistent point system (e.g., \~1000 total points, 70% passi
 ---
 
 Q. How will the approach to assessments affect vendor tracking of learner performance and outcome equivalency?
->A. Vendors must track participation, conceptual fluency, and capstone performance using the rubrics and formative/summative assessments outlined in the Assessments section of the Vendor Playbook. While implementation details may vary, the use of consistent rubrics (See: Vendor Playbook \- Assessments \- Participation and Conceptual Fluency) and structured capstone deliverables ensures outcome equivalency across cohorts, in accordance with the Vendor Assessment Requirements Summary outlined in the Vendor Playbook.  
+>A. Vendors must track participation, conceptual fluency, and capstone performance using the rubrics and formative/summative assessments outlined in the Assessments section of the Vendor Playbook. While implementation details may vary, the use of consistent rubrics (See: Vendor Playbook \- Assessments \- Participation and Conceptual Fluency) and structured capstone deliverables ensures outcome equivalency across cohorts, in accordance with the Vendor Assessment Requirements Summary outlined in the Vendor Playbook. 
 
 ---
 
-Q. Does the pre and post assessments count towards the final pass/fail system for the program?
+Q. Do the pre and post assessments count towards the final pass/fail system for the program?
 >A. **Pre-Assessment: Informational & Diagnostic**
 The pre-assessment is informational only for both learners and vendors. Participants receive a score, but they can continue to the course regardless of their score. The goal is to surface baseline understanding, build learner awareness of what’s ahead, and allow vendors to identify trends that might signal where additional instructional emphasis or support will be helpful.
 >
@@ -73,5 +73,5 @@ Q. Should curriculum materials be publicly available if vendor eligibility is li
 
 ---
 
-Q. Could students access assessments or answers through GitHub, compromising instructional integrity?  
+Q. Could students access assessments or answers through GitHub, compromising instructional integrity? 
 >A. DITAP assessments are experiential in nature, focusing on applied learning, case-based assignments, and real-world decision-making rather than rote memorization; the risk of compromising instructional integrity is lower than in traditional assessment models. Knowledge checks and capstone assignments are designed to reinforce practice and application, not to be memorized. Still, vendors should protect assessment materials where possible to preserve fairness and instructional value.
