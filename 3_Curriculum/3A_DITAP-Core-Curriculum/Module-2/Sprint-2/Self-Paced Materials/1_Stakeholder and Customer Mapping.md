@@ -1,7 +1,5 @@
-
-# Module 2 Sprint 2
-
 # Navigating the Stakeholder Landscape 
+**Module 2 Sprint 2**
 
 ## Introduction
 
@@ -21,7 +19,7 @@ Consider the following two situations:
 
 So how do you plan for involving your customers and engaging all stakeholders at the right time in the right way? That’s where this activity comes in!
 
-## Why is stakeholder engagement so critical on digital services efforts?
+### Why is stakeholder engagement so critical on digital services efforts?
 
 According to Agile theory and the TechFAR, it's critical to bring together the "right" cross-functional team of high performers to tackle the frequently evolving, rapid pace of digital projects. **The new FAR Part 39 (Acquisition of Information and Communication Technology or ICT) now codifies many previously informal TechFAR approaches, legitimizing performance-based outcomes and flexible ICT acquisition strategies.** This means acquisition teams may be more receptive to digital service approaches that were once considered "unfamiliar," as they are now formally recognized in federal regulation.
 
@@ -31,8 +29,6 @@ As a function that, in part, is responsible for reducing the risks of legal, reg
 
 Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not standard practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
 To get your stakeholders comfortable with your approaches, you should anticipate a high level of interaction between agency team members, contractors, and other stakeholders. But how do you identify who you should talk to? And, once you have identified them, how and when do you engage with them?
-
----
 
 ### So, is this really that different from how you’ve engaged stakeholders before?
 
@@ -60,8 +56,6 @@ That’s why thoughtful engagement, early and tailored to their role, is key. It
 
 ![A circular stakeholder map for digital services acquisition, showing categories like Acquisition Stakeholders, Oversight/Governance, Advocates/Influencers, and Partners/Suppliers/Co-Creators, with 'Digital Services Acquisition Partnership' at the center.](https://github.com/usds/ditap-curriculum-update/blob/515f52cbc3993aea1fb81c238135baa644f52256/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/StakeholderMap_Small.jpg?raw=true)
 
-
-
 ### Zooming out: Who’s in the landscape?
 
 Here’s a quick look at the six main stakeholder groups you might encounter in a digital services acquisition:
@@ -81,16 +75,13 @@ Think about a recent or upcoming digital services acquisition you’re working o
 * Who are three stakeholders you haven’t traditionally engaged early, but probably should?  
 * What would be the benefit of involving them sooner?
 
-
-
----
 ## Activity: Stakeholder selection & interview assignment 
 
 ### Introduction
 
 In this two-part activity, you’ll identify the individuals within your agency who are major influencers or gatekeepers in digital services acquisition and develop your strategy for engaging with them. You’ll use your experiences with this program as a springboard for the conversation.
 
-**Activity Goal:** 
+**Activity goal:** 
 
 By completing this activity, you will: 
 
@@ -98,7 +89,7 @@ By completing this activity, you will:
 2. Practice influence conversations, and  
 3. Build your digital services network.
 
-#### Instructions – Part 1: Prepare
+### Instructions – Part 1: Prepare
 
 For Part 1 of this activity, you’ll identify 2-4 people within your agency that you don’t usually have a chance to interact with but who you see as a significant influencer or gatekeeper (e.g., CIO, HCA, CAO, SPE, CFO, Policy Office leader). You may want to create a map (in Visio, PowerPoint, or another mind mapping software) like the sample Stakeholder Landscape graphic, but refine it to mirror the specific stakeholders you need to engage.  This will help you see the potential pool of stakeholders and aid you in narrowing your selection.
 
@@ -120,14 +111,12 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 
 Practice your conversation with a cohort member and enlist their feedback. Use their feedback to polish your engagement strategy. This is optional.
 
-**Definition of Done & Deadline for Completion:** Part 1 must be completed in Module 2\. By the end of Module 2, you will need to provide a document for approval that includes: 
+**Definition of done and deadline for completion:** Part 1 must be completed in Module 2\. By the end of Module 2, you will need to provide a document for approval that includes: 
 
 * The four stakeholders you intend to interview  
 * Your list of questions you plan to ask for feedback (Optional).
  
----
-
-#### Instructions \- Part 2: Engage
+### Instructions \- Part 2: Engage
 
 These interviews will test your hypotheses about the sphere of influence for your stakeholder selections and give you experience conducting influencing conversations.
 
@@ -142,8 +131,6 @@ Document your interviews and reflect on the conversation and your strategy for f
 
 Please include the date of your interview and an overview of what you discussed. You should also share your insights from the interview with your classmates.   
 
-#### **Definition of Done** 
+### **Definition of Done** 
 
 To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted to the Team.
-
----

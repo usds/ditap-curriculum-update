@@ -6,6 +6,21 @@ Q. Will pre- and post-assessments use the same questions for comparative measure
 
 ---
 
+Q. Are you recommending a threshold above which you've passed or below which you've failed? 
+>A. DITAP’s pass/fail approach represents a major mindset shift for participants, vendors, and facilitators. Many colleges, graduate programs, and professional schools are moving away from point-based grading because adult learning research shows that numerical scores don’t necessarily reflect whether someone can competently do the work. This model reduces performance anxiety, fosters collaboration, and shifts the focus from chasing points to building real capability. 
+>
+>But the mindset shift is very real.
+>
+>Instead of a single cutoff score like 70% or 80%, this refreshed grading perspective for DITAP uses multiple checkpoints and clear criteria so participants always know where they stand:
+>* **Participation:** Measured using a shared rubric (Fully Engaged, Progressing, Needs Attention). Two consecutive “Needs Attention” ratings in the same dimension or three total across any dimension trigger a facilitator check-in and support plan.
+>* **Conceptual Fluency:** Reviewed bi-weekly and at the end of each module using a standardized rubric. If gaps appear consistently — e.g., misunderstanding key frameworks — participants receive targeted feedback and support to get back on track.
+>* **Live Digital Assignment (LDA):** Designed with gating so each phase (Discovery Sprint, Case Study Development, Peer Review, and Presentation) must be completed successfully before moving to the next. If revisions are needed, participants have the opportunity to resubmit.
+>
+>This approach ensures there are no surprises. Participants get feedback early and often, and they know exactly what actions to take to stay on track.
+Remember, numerical scores don’t always equate to job readiness. Whether it's medicine or government procurement, what matters most is whether professionals can perform competently in real scenarios. DITAP’s approach gives participants every chance to demonstrate that they can do the work, not just pass a test.
+
+---
+
 Q. Will module-level (formerly release-level) assessments be updated?  
 >A. End-of-module assessments are at vendor discretion, but knowledge checks and applied assignments embedded in modules are a required part of assessing conceptual fluency (See: Vendor Playbook \- Assessments \- Vendor Assessment Requirements Summary). Vendors may update or supplement these as long as they reinforce module objectives and align with the core assessment areas.
 
@@ -18,6 +33,19 @@ Q. Will there be a consistent point system (e.g., \~1000 total points, 70% passi
 
 Q. How will the approach to assessments affect vendor tracking of learner performance and outcome equivalency?
 >A. Vendors must track participation, conceptual fluency, and capstone performance using the rubrics and formative/summative assessments outlined in the Assessments section of the Vendor Playbook. While implementation details may vary, the use of consistent rubrics (See: Vendor Playbook \- Assessments \- Participation and Conceptual Fluency) and structured capstone deliverables ensures outcome equivalency across cohorts, in accordance with the Vendor Assessment Requirements Summary outlined in the Vendor Playbook.  
+
+---
+
+Q. Will we be able to get to Level 8 in the Learning-Transfer Evaluation Model (LTEM)?
+>A. Level 8 is really the gold standard for measuring learning impact — it asks the ultimate question: _Did this training actually improve mission outcomes?_
+>
+>That’s a very high bar. To get there, we’d have to separate the impact of DITAP from everything else happening inside an agency — leadership changes, policy shifts, budget fluctuations, and other initiatives that may have run at the same time. There’s also a time lag: by the time results show up, learners may have switched roles or priorities may have shifted, making it hard to draw a straight line back to this course.
+>
+>Think about trying to prove that one leadership course caused a measurable change in procurement cycle time. It’s possible, but it’s complex, and it requires a lot of data we may not have access to.
+>
+>For single-agency cohorts, Level 8 is more achievable because we can get a clearer picture of that agency’s environment and sometimes access metrics on procurement outcomes or delivery improvements.
+>
+>We focus on getting as close as possible — ensuring learners demonstrate task competence in realistic settings (Level 6). And the consortium will be focused on assessing the transfer of those skills back on the job in a post survey (Level 7). If we can measure those reliably, we know we’re setting the stage for Level 8 outcomes, even if we can’t always capture organizational results.
 
 ---
 

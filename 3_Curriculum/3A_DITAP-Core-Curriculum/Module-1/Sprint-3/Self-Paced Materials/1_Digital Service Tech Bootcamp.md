@@ -1,6 +1,5 @@
-# Module 1 Sprint 3
-
-## Introduction to the Digital Service Tech Bootcamp
+# Introduction to the Digital Service Tech Bootcamp
+**Module 1 Sprint 3**
 
 Modern government acquisition professionals operate in a rapidly evolving digital environment. Whether you're evaluating a cloud-based platform, reviewing a data-sharing agreement, or procuring custom software development, your work increasingly intersects with key technology concepts that shape how agencies deliver public services.
 
@@ -23,11 +22,10 @@ The recent overhaul of Federal Acquisition Regulation (FAR) Parts 6 and 39 signi
 **Key changes include**:
 - Enhanced requirements for IT acquisition planning under FAR Part 39, including mandatory consideration of open source alternatives and Software Bills of Materials (SBOMs)
 - Updated competition procedures in FAR Part 6 that recognize the unique characteristics of digital services and emerging technologies
-- New emphasis on modular contracting approaches that support agile development methodologies
+- New emphasis on modular contracting approaches that support Agile development methodologies
 - Strengthened cybersecurity baseline requirements that must be addressed in all IT acquisitions
 - Requirements for accessibility compliance verification throughout the acquisition lifecycle
 
----
 
 By the end of this module, you will be able to:
 * Describe the differences between structured, unstructured, and semi-structured data, and explain why those distinctions matter for procurement and contract oversight.
@@ -42,8 +40,6 @@ By the end of this module, you will be able to:
 * Understand the basics of cybersecurity as it applies to acquisitions, including compliance frameworks (e.g., National Institute of Standards and Technology \[NIST\]), identity and access management (IAM), vulnerability management, and Security Incident and Event Management (SIEM).
 * Apply updated FAR Part 39 requirements for IT acquisition planning, including digital service delivery standards and security baseline assessments.
 * Navigate FAR Part 6 competition procedures as they apply to specialized IT procurements and emerging technology acquisitions.
-
----
 
 ## Digital service tech topic: Data
 
@@ -64,7 +60,7 @@ There are three main types:
 
 Think of a contracting file that includes emails, PDFs, performance reviews, and a payment history—that’s a mix of structured and unstructured data.
 
-### Key considerations for government systems
+**Key considerations for government systems**
 
 As data grows in size and complexity, there are more challenges related to data storage, data transfer, and data processing:
 
@@ -79,9 +75,7 @@ Learn more about data analysis by visiting [15 Data Analysis Tools and When to U
 These are some of the key challenges that are driving agency modernization efforts today, and are likely to come across your desk as an acquisition professional. 
 
 * Modern systems need to move data across clouds, networks, and apps. That creates bottlenecks unless you’ve planned for it.
-
 * Old databases weren’t built for the amount of data we use today. That’s like trying to run modern apps on a flip phone— the hardware would struggle to work correctly.
-
 * You may want to change data or delete it over time, but there may be practical or legal reasons not to. (E.g., System for Award Management (SAM.gov) “Federal Procurement Reports” from 2007… useful? Not really. But should it be *deleted?* Probably not.) 
 
 As a contracting officer, you will likely encounter a variety of “buzz words”/topics related to data in your work, here are a few that are particularly relevant today: 
@@ -93,21 +87,20 @@ As a contracting officer, you will likely encounter a variety of “buzz words�
 * **ETL (Extract, Transform, Load)**: A data integration process that combines, cleans, and organizes data from multiple sources into a single, consistent dataset for storage in a data warehouse or other target system.   
 * **Data Provenance**: The historical record of data that details data’s origins by capturing its metadata as it moves through various processes and transformations. Data provenance is primarily concerned with authenticity, providing details such as who created the data, the history of modifications, and who made those changes.
 
+### Open data
 
-### Open Data
-
-Open Data is information that anyone can access, use, and share. In the context of government, this has two dimensions: 
+Open data is information that anyone can access, use, and share. In the context of government, this has two dimensions: 
 
 1. The ability for someone to *access* the data  
 2. The legal right for the user to use the data
 
-Generally, Open Data also refers to non-sensitive public information made available in data *formats* that are easy to use, reuse, and republish.
+Generally, Open data also refers to non-sensitive public information made available in data *formats* that are easy to use, reuse, and republish.
 
 Many government entities, from local to federal to international, provide data sets to data.gov and/or operate their own open data websites so that information generated may be shared and utilized by the public. There are many open data sets, ranging from government operations data (e.g., Federal Procurement Data System (FPDS)) to data “products” (e.g., Census survey data tables).
 
 Outside of government, open data can also refer to a movement to provide open access and use of the massive amounts of projects and data being developed every day in commerce, science, and technology in order to promote progress and innovation, and improve the accountability of both private and public institutions.
 
-Why It Matters to Procurement Officers:
+**Why it matters to procurement officers:**
 
 1. **Licensing**: Procurements that potentially involve open data require consideration of the relative intellectual property / data rights.  
 2. **Privacy**: Open data can—in some cases—implicate privacy concerns, particularly when combined with other open data sets. Understanding how data is published and ensuring that contracts have adequate remedies for privacy violations is important for contracting officers.  
@@ -117,15 +110,15 @@ Why It Matters to Procurement Officers:
 
 Data privacy means protecting personal or sensitive information so that only people who are supposed to see it can access it. This includes things like social security numbers, health records, or confidential contract data.
 
-Why It Matters to Procurement Officers:
+**Why it matters to procurement officers:**
 
-1. **Legal Compliance**: You must follow privacy laws like the Privacy Act of 1974 and agency-specific policies to protect personal information collected during procurement processes.  
-2. **Risk Management**: Mishandling private data could lead to security breaches, legal penalties, and loss of public trust.  
-3. **Contract Integrity**: Some procurement data may contain sensitive vendor information. Protecting this data ensures fair competition and integrity of the procurement process.
+1. **Legal compliance**: You must follow privacy laws like the Privacy Act of 1974 and agency-specific policies to protect personal information collected during procurement processes.  
+2. **Risk management**: Mishandling private data could lead to security breaches, legal penalties, and loss of public trust.  
+3. **Contract integrity**: Some procurement data may contain sensitive vendor information. Protecting this data ensures fair competition and integrity of the procurement process.
 
 For example, if your office is collecting contractor tax IDs or employee background checks, that data must be stored and shared securely to prevent unauthorized access.
 
-### What contracting officers should keep in mind:
+**What contracting officers should keep in mind**
 
 * Understand what data your systems hold and how it’s organized.  
 * Ask vendors how they handle data—especially if Artificial Intelligence (AI) or analytics are part of the service.  
@@ -137,7 +130,6 @@ As a contracting officer, you are both a data user and a data steward. You shoul
 * What data must be **protected** (e.g., personally identifiable information or confidential business information)  
 * The **laws and best practices** that guide both
 
----
 ## Digital service tech topic: Software
 
 ### What is software?
@@ -180,13 +172,13 @@ Before updates reach the end users, the software usually moves through several *
 
 Teams also use techniques like **canary testing** and **feature flags** to manage risk. Canary testing means rolling out a new software version to a small group of users first. If it works well, the update is released more broadly. Feature flags allow developers to turn specific features on or off without changing the code. This helps teams test features gradually or run A/B tests to compare performance.
 
-#### Why updates matter—and how they stay safe
+### Why updates matter—and how they stay safe
 
 Frequent updates help agencies respond quickly to user needs and changing requirements. But they also come with tradeoffs. Updates can introduce new problems or confuse users if not communicated well. That’s why finding the right balance between moving fast and keeping systems stable is essential.
 
 Security is another key reason software needs regular updates. Updates often include patches for known vulnerabilities and help systems comply with federal security policies, like FedRAMP or NIST standards. Agencies should plan for ongoing updates as part of the delivery process, not as an afterthought.
 
-#### How teams monitor and respond to problems
+### How teams monitor and respond to problems
 
 After software is deployed, teams don’t just walk away—they monitor its performance in real time. They use monitoring tools to track uptime, response time, and error rates. Standard tools include Datadog, Prometheus, and AWS CloudWatch. These insights help teams decide when to update or improve the system.
 
@@ -212,7 +204,7 @@ Finally, agencies should consider the risk of **vendor lock-in,** when switching
 
 By considering these factors, 1102s can make better-informed decisions that reduce risk, support flexibility, and help agencies maintain control over their software assets.
 
-### Service design and delivery standards (21st Century IDEA & USDS Playbook)
+## Service design and delivery standards (21st Century IDEA & USDS Playbook)
 
 Modern software isn’t just about code, it’s about delivering effective services that meet user needs, comply with the law, and adapt over time. The 21st Century Integrated Digital Experience Act (IDEA) and the U.S. Digital Services Playbook set specific expectations for how software supporting government services should be designed and delivered.
 
@@ -231,9 +223,6 @@ Strong **performance and usability standards** are also essential. Systems shoul
 Finally, **continuous improvement** should be part of any technology investment. This means monitoring systems for performance and problems, collecting data on how users interact with the service, and using that data to guide future updates. Combining **quantitative** **analytics** (like page views or error rates) with **qualitative research** (like interviews and surveys) gives a fuller picture of how well a system works and how to improve it.
 
 By prioritizing user needs, accessibility, and flexibility, agencies can deliver effective and inclusive digital tools. Acquisition professionals play a key role in this process.
-
-
----
 
 ## Digital service tech topic: Cloud
 
@@ -284,7 +273,7 @@ Not all cloud vendors are the same, each has strengths and weaknesses. Agencies 
 
 Using Federal Risk and Authorization Management Program (FedRAMP), authorized services can streamline security approvals and ensure compliance with federal standards. Lastly, agencies must ensure that cloud solutions follow vendor-recommended best practices for architecture, deployment, and emerging technologies like AI/ML. Poor implementations by contractors using outdated approaches often result in high costs and technical debt. Getting it right from the start helps ensure secure, efficient, and scalable cloud operations.
 
-### Why understanding cloud computing is critical for government contracting officers
+**Why understanding cloud computing is critical for government contracting officers**
 
 **1\. Cloud procurement is fundamentally different**
 
@@ -356,7 +345,7 @@ Contracting officers should encourage:
 
 These practices help protect agency investments and maximize flexibility and resilience.
 
-#### 5\. Training is not optional
+**5\. Training is not optional**
 
 Cloud vendors offer robust training resources. Yet without proper contracting:
 
@@ -368,13 +357,12 @@ Contracting officers must build training access into contracts and verify that:
 * Personnel certifications or training milestones are clearly required  
 * Cloud operation best practices are embedded in performance expectations
 
-### Bottom line for contracting officers
+**Bottom line for contracting officers**
 
 If you don't adapt your acquisition strategies for cloud, your agency risks financial waste, security breaches, failed missions, and poor technology outcomes.
 
 By understanding the cloud's unique characteristics and adjusting procurement approaches accordingly, contracting officers become key enablers of efficient, secure, and future-proof government operations.
 
----
 ## Digital service tech topic: Artificial intelligence
 
 ### What is artificial intelligence?
@@ -394,66 +382,45 @@ Just like automation helped streamline paper-based processes, AI helps automate 
 
 There are different types of AI you might hear about:
 
-**Rule-Based Systems**: Follow clearly defined “if-this-then-that” instructions. Think of it as a very advanced flowchart.
-
-**Machine Learning (ML)**: A type of AI that learns patterns from data and improves over time without being explicitly programmed. For example, if you feed it thousands of past solicitations, it might learn to predict which vendors are most likely to submit bids.
-
-**Natural Language Processing (NLP)**: Allows machines to understand and process human language. For instance, it can summarize a long acquisition strategy or analyze sentiment in contractor feedback.
-
-**Generative AI (like ChatGPT)**: Creates new content (like text or images) based on patterns learned from existing data. It might help draft performance work statements, justifications, or market research summaries.
+- **Rule-based systems**: Follow clearly defined “if-this-then-that” instructions. Think of it as a very advanced flowchart.
+- **Machine Learning (ML)**: A type of AI that learns patterns from data and improves over time without being explicitly programmed. For example, if you feed it thousands of past solicitations, it might learn to predict which vendors are most likely to submit bids.
+- **Natural Language Processing (NLP)**: Allows machines to understand and process human language. For instance, it can summarize a long acquisition strategy or analyze sentiment in contractor feedback.
+- **Generative AI (like ChatGPT)**: Creates new content (like text or images) based on patterns learned from existing data. It might help draft performance work statements, justifications, or market research summaries.
 
 ### Key considerations for government systems
 
 Bringing AI into government systems requires careful consideration of several challenges:
 
 * **Transparency**: Can the AI explain how it reached a decision? This is important for accountability and legal defensibility.
-
 * **Bias**: If AI systems are trained on biased data, they can perpetuate or amplify those biases. Procurement teams must ask about training data and fairness.
-
-* **Security and Privacy**: AI may process sensitive data, so it must comply with data protection laws and agency security standards.
-
-* **Change Management**: AI may impact workflows or job responsibilities. Agencies must prepare for this shift with proper communication and training.
-
+* **Security and privacy**: AI may process sensitive data, so it must comply with data protection laws and agency security standards.
+* **Change management**: AI may impact workflows or job responsibilities. Agencies must prepare for this shift with proper communication and training.
 * **Vendor Oversight**: If an AI-enabled solution is being procured, COs should ask how models are trained, tested, and updated.
 
 ### Common AI terms you may encounter
 
-**Model training**: The process of feeding an AI system significant amounts of data to learn how to perform a task.
+- **Model training**: The process of feeding an AI system significant amounts of data to learn how to perform a task.
+- **Algorithm**: A set of rules or instructions the AI follows to make decisions or predictions.
+- **Inference**: When the AI applies what it has learned to new data, e.g., recommending vendors or flagging anomalies.
+- **Explainability**: The degree to which a human can understand why an AI system made a specific decision. Necessary for audits and legal review.
+- **Human-in-the-loop**: A setup where an AI system supports human decision-making rather than replacing it outright.
 
-**Algorithm**: A set of rules or instructions the AI follows to make decisions or predictions.
+**Why it matters to procurement officers**
 
-**Inference**: When the AI applies what it has learned to new data, e.g., recommending vendors or flagging anomalies.
+- **Market research**: AI tools can help summarize vendor capabilities or detect patterns in procurement history, making the early stages of procurement more efficient.
+- **Performance monitoring**: AI can quickly analyze contractor performance data to flag trends or anomalies.
+- **Drafting support**: Generative AI tools may help create first drafts of solicitation language or evaluation criteria, but humans must always review these drafts.
+- **Risk management**: Using AI in procurement systems introduces new risks—bias, transparency, and compliance—that COs must account for in contracts and performance oversight.
+- **Evaluation criteria**: When procuring AI solutions, COs should ensure that solicitations require vendors to describe data sources, bias mitigation strategies, and how their models can be audited or explained.
 
-**Explainability**: The degree to which a human can understand why an AI system made a specific decision. Necessary for audits and legal review.
-
-**Human-in-the-loop**: A setup where an AI system supports human decision-making rather than replacing it outright.
-
-### Why it matters to procurement officers
-
-**Market research**: AI tools can help summarize vendor capabilities or detect patterns in procurement history, making the early stages of procurement more efficient.
-
-**Performance monitoring**: AI can quickly analyze contractor performance data to flag trends or anomalies.
-
-**Drafting support**: Generative AI tools may help create first drafts of solicitation language or evaluation criteria, but humans must always review these drafts.
-
-**Risk management**: Using AI in procurement systems introduces new risks—bias, transparency, and compliance—that COs must account for in contracts and performance oversight.
-
-**Evaluation criteria**: When procuring AI solutions, COs should ensure that solicitations require vendors to describe data sources, bias mitigation strategies, and how their models can be audited or explained.
-
-### What contracting officers should keep in mind
+**What contracting officers should keep in mind**
 
 * **Ask questions**: If AI is mentioned in a proposal, ask vendors how it works, how it was trained, and how it will be monitored.
-
 * **Understand the use case**: Not all tasks need AI—be skeptical of buzzwords and ensure a clear benefit.
-
 * **Balance innovation with oversight**: AI may be new, but government procurement still requires precise requirements, measurable outcomes, and accountability.
-
 * **Support responsible use**: Like with data, you are a steward of responsible AI use. Advocate for ethical practices and transparency in the tools your agency adopts.
-
 * **Post-award monitoring and model drift**: Even if the AI works at the time of contract award, there is a chance that the AI model doesn’t match changing behaviors. Ensuring that AIs are updated to keep up with changing needs is essential.
 
-
----
 ## Digital service tech topic: Cybersecurity
 
 ### Why is cybersecurity important?
@@ -469,11 +436,8 @@ Understanding key concepts like security compliance, identity and access managem
 Several federal initiatives define how agencies must secure digital systems and software:
 
 * [Executive Order 14028](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity/executive-order-14028) mandates using secure software development practices and Zero Trust architectures.
-
 * [OMB M-22-09](https://www.whitehouse.gov/wp-content/uploads/2022/01/M-22-09.pdf) outlines a federal Zero Trust strategy to modernize access control, network segmentation, and device visibility.
-
 * [OMB M-22-18](https://www.whitehouse.gov/wp-content/uploads/2022/09/M-22-18.pdf) provides software supply chain security guidance, including secure development attestations.
-
 * [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) and [NIST SP 800-218 (SSDF)](https://csrc.nist.gov/publications/detail/sp/800-218/final) provide frameworks for implementing security and privacy controls in systems and software.
 
 ### Four key areas of cybersecurity for digital services
@@ -483,7 +447,6 @@ Several federal initiatives define how agencies must secure digital systems and 
 All federal digital systems must meet agency-defined security standards. These standards are typically based on federal frameworks such as [NIST SP 800-53](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final), [NIST Cybersecurity Framework (CSF)](https://www.nist.gov/cyberframework), and potentially industry-specific standards (e.g., FISMA, HIPAA, FedRAMP).
 
 * **CO/COR role**: Understand which frameworks apply to a given acquisition and confirm that the system’s design and implementation can meet compliance expectations.
-
 * **Technical advisory**: The technical and security teams are responsible for advising whether full compliance is feasible. If not, acceptable exceptions may be allowed through documented **compensating controls**, subject to the discretion of the agency’s Office of the Chief Information Security Officer (OCISO).
 
 **2\. Identity and Access Management (IAM)**
@@ -491,7 +454,6 @@ All federal digital systems must meet agency-defined security standards. These s
 All federal digital services must integrate with the agency’s Identity and Access Management (IAM) systems. IAM ensures that only authorized users can access protected systems and data.
 
 * **CO/COR role**: Confirm that the digital system can be integrated with the agency’s approved IAM platform
-
 * **Integration requirement**: Vendors should be asked to demonstrate technical compatibility with the agency’s IAM approach as part of their response or during early planning.
 
 **3\. Vulnerability management**
@@ -499,9 +461,8 @@ All federal digital services must integrate with the agency’s Identity and Acc
 Every digital system has security vulnerabilities. The goal of vulnerability management is not just patching, it is the comprehensive identification, analysis, remediation, and reporting of vulnerabilities across a digital service's lifecycle.
 
 * **CO/COR role**: Ensure the vendor or technical team has tools, training, and processes to manage vulnerabilities to agency-defined standards.
-
 * **Key activities**: Vulnerability management includes continuous monitoring, security scanning, patching (where applicable), exception tracking, compliance reporting, and incident response coordination.
-
+  
 **Note**: Patching is a tool, not a solution. Not all vulnerabilities can be addressed with patches, and some require configuration changes, compensating controls, or architectural adjustments.
 
 **4\. Security Incident and Event Management (SIEM)**
@@ -509,7 +470,6 @@ Every digital system has security vulnerabilities. The goal of vulnerability man
 SIEM systems detect, analyze, and respond to security events automatically. Agencies rely on centralized SIEM platforms to maintain situational awareness and act quickly on emerging threats.
 
 * **CO/COR role**: Verify that any procured system can fully integrate with the agency’s existing SIEM platform (e.g., Splunk, Elastic, Microsoft Sentinel).
-
 * **Orphaned tools**: If a system cannot be integrated into the existing SIEM infrastructure, the operational overhead for separate monitoring is high and introduces risk.
 
 ### Conclusion
@@ -517,8 +477,6 @@ SIEM systems detect, analyze, and respond to security events automatically. Agen
 Cybersecurity is not an afterthought, it must be designed into digital services from the start. Contracting officers and CORs must be able to ask the right questions and ensure security compliance, IAM integration, vulnerability management practices, and SIEM readiness are built into the acquisition process.
 
 Through innovative, security-conscious procurement, COs help ensure that government services are trustworthy, resilient, and aligned with federal cybersecurity mandates.
-
----
 
 ## Digital service tech topic: Accessibility
 
@@ -559,8 +517,6 @@ In a major update to the standards in 2017, Section 508 now aligns with the [Web
 ### How to measure accessibility
 
 Federal agencies commonly evaluate information and communication technology (ICT) products for accessibility using an Accessibility Conformance Report (ACR). An ACR is a document that measures how well ICT products comply with Section 508 Standards. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested. The most well known ACR is the [Voluntary Product Accessibility Template (VPAT).](https://www.section508.gov/buy/understand-claims/)
-
-
 
 ### How to procure accessible products and services 
 
@@ -613,7 +569,6 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 ---
 ## Digital service tech topic: Open source software
 
-
 ### Understanding open source software
 
 Open source software (OSS) is a type of software whose source code is legally available for anyone to view, modify, and distribute. This means users can see how the software works and make changes to their copy of it. To ensure the software remains open, its use and distribution are governed by various open source licenses. These licenses (MIT, BSD, GPL, AGPL, etc.) often define how the updated code must be shared with others, typically requiring that it also be made freely available. A community of developers maintains and improves OSS using collaborative tools to manage changes and address issues like bugs and feature requests. Today, OSS is fundamental to almost all modern digital services, providing benefits like cost reduction, increased innovation, and enhanced security.
@@ -624,7 +579,7 @@ Procurement officers need to understand how OSS fits within federal procurement 
 
 If you’ve used the internet, you’ve used OSS. It has become an essential part of modern digital services, with its uses and influence growing rapidly. In fact, the vast majority of commercial codebases [contain open source](https://www.blackduck.com/content/dam/black-duck/en-us/reports/rep-ossra.pdf), and four out of five Fortune 500 companies use OSS for mission-critical functions. A more practical example is that an open source project called [Curl that runs in the world’s top 47 car brands](https://ostechnix.com/curl-runs-in-top-car-brands/). This widespread adoption is projected to continue its high growth rate for the foreseeable future.
 
-#### Examples of open source in action
+### Examples of open source in action
 
 Many of the technologies you interact with daily are built on OSS. 
 
@@ -632,7 +587,7 @@ Many of the technologies you interact with daily are built on OSS.
 * Streaming services like Netflix rely on open source technologies to deliver content efficiently. Netflix streams over 170 million gigabytes of data every day using FreeBSD. This includes the majority of the web-based technology used to interact with their site and the databases where they store data.  
 * The Linux operating system is the foundation for countless servers, supercomputers, and embedded devices around the world. First released as an open source product 30 years ago, it’s the basis of Android OS, Apple iOS, and macOS. It’s also used in security cameras, smartwatches and voice assistants like Alexa. 
 
-#### GitHub
+**GitHub**
 
 GitHub is a key player in the open source ecosystem, serving as the world's largest repository for software development. It's more than just a place to store code; it's a collaborative platform for version control, bug tracking, managing feature requests, and creating documentation. The reach of GitHub is immense, with users spanning from individual developers to major organizations. Its user base includes 67 national governments, [164 US federal agencies](https://government.github.com/community/), 52 US state and territory governments, almost [20,000 USA businesses](https://theirstack.com/en/technology/github/us) and over [25 million software developers in the USA alone](https://innovationgraph.github.com/global-metrics/developers), highlighting just how integral open source has become to both public and private sectors. In 2018, GitHub was purchased by Microsoft for $7.5 billion, and has continued to define what is expected in modern software development. 
 
@@ -650,7 +605,7 @@ Building on these policies, the [SHARE IT Act (Public Law 118-187)](https://dsac
 
 All software, including OSS, faces increasing security risks due to advances in hacking tools and techniques. However, open source often has a distinct advantage: a robust community of developers dedicated to its security. Unlike proprietary software, where security audits are limited to a single company's internal team, OSS code can be inspected and tested by anyone. This collaborative approach allows for vulnerabilities to be identified and fixed much more rapidly than legacy approaches, often within days of discovery.
 
-#### Mitigating security risks
+### Mitigating security risks
 
 Properly maintained OSS is just as secure as, and often more secure than, its proprietary counterparts. If it were less secure, organizations wouldn't be able to tolerate the risk, and it wouldn't be able to compete in the market. Securing OSS involves following the **same best practices as securing proprietary software**. This includes:
 
@@ -660,16 +615,15 @@ Properly maintained OSS is just as secure as, and often more secure than, its pr
 * Applying regular updates, especially for critical vulnerabilities  
 * Periodically auditing activity within the application
 
-#### Government initiatives 
+### Government initiatives 
 
 The U.S. government is actively involved in strengthening the security of OSS. Several federal agencies contribute to the [Open Source Security Foundation](https://openssf.org/), a collaborative effort to improve security for both open source and private developers. As an example, the Department of Defense’s [Platform One](https://p1.dso.mil/) is heavily leveraging open source to improve security and overcome common barriers. Their [Iron Bank](https://p1.dso.mil/ironbank) project distributes pre-configured, containerized versions of OSS which speeds up the process of getting the required [Authorization to Operate (ATO)](https://csrc.nist.gov/glossary/term/authorization_to_operate). This process ensures that no new vulnerabilities are introduced when the software is reused. These are just a few of the many government-led initiatives which enhance overall security and reduce costs through the use of open source software.
-
 
 ### The cost of "free" open source software
 
 While the initial cost of OSS is often free, its implementation and maintenance are not. When OSS is acquired, the software itself is without charge, but the associated services carry a cost. This model shifts the financial burden from licensing fees to expenses for support and development. These costs are market-driven and can include customization, ongoing monitoring, hosting, support, training, and updates.
 
-#### Avoiding vendor lock-in
+### Avoiding vendor lock-in
 
 Vendor lock-in is a risk with any software, but with OSS it is considerably reduced. Vendors should be motivated to provide better value for the client, without making clients dependent on their specific offerings. It is critical that government agencies retain control of their data and ensure it remains portable to other platforms, if necessary. If a project is using OSS, it should be straightforward to move data to a new host and continue using the software. It is always wise to keep a list of alternate vendors and their services, even simply to be aware of changes in the market. It also ensures you have a clear plan for migration if the need arises.
 
@@ -707,13 +661,6 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 | [Open Source Initiative Licenses](https://opensource.org/licenses) | Licenses that comply with the Open Source Definition, meaning they allow software to be freely used, modified, and shared. |
 | [Open Source Procurement Checklist](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_checklist.md) | A guide to help procurement officers evaluate OSS solutions during digital government acquisitions. |
 | [Open Source Procurement FAQ](https://github.com/usds/ditap-curriculum-update/blob/95198b65bbf6cd698ad649f590d7d8f287635bba/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/Module-1-Media/open_source_procurement_faq.md) | FAQ addressing common concerns procurement officers may encounter when evaluating or acquiring OSS as part of digital government projects. |
-
-
-
-
-
-
-
 
 
 

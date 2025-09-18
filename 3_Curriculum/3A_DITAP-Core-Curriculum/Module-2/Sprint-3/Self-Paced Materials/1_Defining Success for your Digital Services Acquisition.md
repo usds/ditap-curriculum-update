@@ -1,11 +1,9 @@
-
-# Module 2 Sprint 3
-
 # Defining Success for Your Digital Services Acquisition
+**Module 2 Sprint 3**
 
 ## Overview
 
-Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From** **Discovery to Strategy”** equips acquisition professionals to make that critical shift.
+Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From Discovery to Strategy”** equips acquisition professionals to make that critical shift.
 
 By leveraging early research, user interviews, and process mapping, contracting and program teams can co-create acquisition strategies that are flexible, user-centered, and outcome-driven. Rather than repeating legacy approaches or writing rigid contracts to avoid risk, this module encourages a mindset of adaptability, collaboration, and alignment, core principles of modern digital service delivery.
 
@@ -13,7 +11,7 @@ Success in digital services doesn’t start with a delivery milestone, it starts
 
 This module emphasizes the strategic role of the acquisition professional in shaping not just the contract, but the success of the entire digital service. By applying these concepts, learners will gain the tools and language to build acquisitions that are not only compliant but truly impactful.
 
-### Learning objectives
+## Learning objectives
 
 By the end of this sprint, you will be able to: 
 
@@ -27,7 +25,6 @@ By the end of this sprint, you will be able to:
 * Apply identified constraints to shape acquisition strategies, contract types, timelines, and evaluation methods  
 * Use discovery data and documented tradeoffs to defend and adapt acquisition decisions throughout the lifecycle
 
----
 ## From discovery to strategy
 
 Before defining success or mapping out your constraints, take a moment to reflect on the body of discovery work already completed. When we apply the concept of discovery to the acquisition process, the goal is to create a flexible and mission-aligned plan for buying services or supplies that solve real problems and achieve a positive acquisition outcome. A good digital services acquisition strategy draws from:
@@ -79,7 +76,7 @@ We recommend conducting an “Acq-A-thon” to bring all of this together in a o
 
 An *Acq-A-thon* is a collaborative workshop-style event designed to gather key stakeholders across the acquisition lifecycle to conduct discovery sessions that lead to more innovative, better-informed acquisition strategies. Inspired by the concept of a *hackathon*—an event in which a group of people come together to solve problems collaboratively, often through intense focus and teamwork (typically in coding or software design)—an Acq-A-thon emphasizes acquisition planning.
 
-## Define the problem, vision statement, & objectives
+## Define the problem, vision statement, and objectives
 
 ### What is the problem? 
 
@@ -95,7 +92,7 @@ This disconnect frustrates everyone and takes time away from finding a real solu
   It promotes alignment across leadership, end users, and contracting staff.  
 * It sets the stage for outcome-based acquisition.
 
-### Facilitate a problem & product visioning session
+### Facilitate a problem and product visioning session
 
 One of the most effective ways to uncover the problem and define meaningful objectives is to facilitate a structured stakeholder session. This session brings together program staff, CORs, end users (if possible), and other key voices to explore the underlying challenges and desired outcomes collaboratively.
 
@@ -123,7 +120,7 @@ Prompt for the Contracting Officer:
 
 Now that we’ve agreed on the problem, our next step is to describe the future state we want to create and what it looks like if this procurement is successful. This is called the product vision, and it will help us focus on outcomes instead of jumping to specific features or systems. 
 
-### Start by asking these types of questions:
+**Start by asking these types of questions:**
 
 **Product vision facilitation guide – Vision Questions**
 
@@ -154,11 +151,9 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 
 **Example:**
 
-**Product vision:** “Enable families to easily apply for childcare assistance online, without requiring in-person visits or paperwork.”
-
-**Procurement objective:** “Deliver an accessible, mobile-first benefits application experience within 6 months of award.”
-
-**Return on Mission:** “The public value created when more eligible families can successfully access childcare assistance faster, with fewer barriers, leading to improved family economic stability and child wellbeing.” 
+- **Product vision:** “Enable families to easily apply for childcare assistance online, without requiring in-person visits or paperwork.”
+- **Procurement objective:** “Deliver an accessible, mobile-first benefits application experience within 6 months of award.”
+- **Return on Mission:** “The public value created when more eligible families can successfully access childcare assistance faster, with fewer barriers, leading to improved family economic stability and child wellbeing.” 
 
 ### How to recognize Return on Mission in this case
 
@@ -170,7 +165,7 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Greater program uptake** | Easier access leads to more eligible families enrolling, which supports the program’s mission. |
 | **Cost savings to the government and applicants** | Less staff burden, fewer application errors, and reduced in-office foot traffic. |
 
-## Linking product vision → procurement objective → metrics → Return on Mission
+### Linking product vision → procurement objective → metrics → Return on Mission
 
 | Phase | Purpose | Key Output |
 | :---- | :---- | :---- |
@@ -198,7 +193,7 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 * Setting vague goals like “improve user experience” without measurable criteria
 * Confusing features with outcomes (e.g., “have a dashboard” vs. “help staff track performance in real time”)
 
-## Checklist for Step 1 completion
+### Checklist for Step 1 completion
 
 Before moving to acquisition strategy development, ensure you can answer:
 
@@ -207,8 +202,7 @@ Before moving to acquisition strategy development, ensure you can answer:
 - [ ]  What does success look like?  
 - [ ]  What measurable objectives will we use to guide and evaluate this acquisition?
 
----
-## Defining constraints before acquisition strategy begins
+### Defining constraints before acquisition strategy begins
 
 Before you begin building the acquisition strategy, it's essential to identify constraints that could shape or limit what’s possible in the procurement. 
 
@@ -231,7 +225,7 @@ By identifying constraints during the discovery phase, you can prepare to make f
 
 **Implementation Tip:** It’s easy to treat these questions like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
 
-## Suggested questions for constraint discovery sessions
+### Suggested questions for constraint discovery sessions
 
 
 | Topic                      | Questions to Ask |
@@ -246,7 +240,7 @@ By identifying constraints during the discovery phase, you can prepare to make f
 | Technology environment    | Will the solution integrate with legacy systems or require cloud migration? Are there existing development platforms or data environments it must align with? |
 
 
-## Why defining constraints early pays off
+### Why defining constraints early pays off
 
 Once constraints are identified and documented during the discovery phase, they stop being unknown risks and become powerful decision-making tools. They give you the full context needed to shape a realistic, achievable procurement aligned with your agency’s mission, not just a paper strategy that collapses under real-world pressure.
 
@@ -291,7 +285,7 @@ Without early constraint discovery, you risk hitting critical issues during acqu
 * Confused vendors submitting non-responsive proposals  
 * Award protests due to unclear or conflicting evaluation criteria
 
-## Using data to defend your decisions
+### Using data to defend your decisions
 
 Defining constraints early helps you build a **mission-aligned, defensible acquisition strategy** that drives **real results**, not just contract execution.
 
@@ -317,11 +311,10 @@ A well-informed team that communicates openly and documents early decisions will
 * Equips the team to adapt if the work shifts or performance issues arise  
 * Supports realistic exit strategies before you're in crisis
 
-## Bottom line
+**Bottom line**
 
 Constraint discovery is not just a planning step; it’s a practice of risk management and collaborative alignment that supports more confident, mission-focused decision-making from start to finish.
 
----
 ## Knowledge check 
 
 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
@@ -333,16 +326,12 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 
 > Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
 
----
-
 2. True or False? Constraints should only be identified for high-risk or large-scale procurements.
 
 - [x] False
 - [ ] True
 
 > Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
-
----
 
 3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
 
@@ -354,8 +343,6 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 
 > Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
 
----
-
 4. Why is treating constraint discovery like a checklist instead of a conversation risky?
 
 - [ ] A. It wastes too much time  
@@ -364,8 +351,6 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 - [ ] D. It only works if legal is in the room
 
 > Collaborative conversations surface practical insights and build alignment across stakeholders.
-
----
 
 5. Scenario
 
@@ -383,8 +368,6 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 > A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
 
----
-
 6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
 
 - [x] Ability to shape a realistic, achievable strategy  
@@ -394,8 +377,6 @@ You’re planning a new digital services procurement. During early discovery, yo
 - [x] Strengthen relationships with policy, legal, and IT teams
 
 > Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
-
----
 
 ## Recommended reading
 

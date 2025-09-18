@@ -1,6 +1,5 @@
-
-# Module 2 Sprint 4
 # Introduction to Conducting Effective Market Research
+**Module 2 Sprint 4**
 
 Effective market research is the cornerstone of a successful digital services acquisition. It provides the critical insights needed to align government needs with real-world capabilities and ensures the resulting solicitations are grounded in an understanding of current technologies, vendor landscapes, and user expectations. In today’s fast-paced digital environment, traditional approaches to research often fall short, requiring a shift toward more agile, creative, and user-informed techniques.
 
@@ -8,7 +7,6 @@ This sprint equips acquisition professionals with the tools, methods, and mindse
 
 The recent implementation of FAR Part 39 has elevated the importance of market research for IT acquisitions, requiring acquisition professionals to develop a deeper understanding of technolgoy markets, commercial practices, and emerging trends. Similarly, enhanced FAR Part 6 requirements emphasize the critical role of market research in ensuring full and open competition while leveraging the best available solutions.
 
----
 ## Learning objectives
 
 By the end of this sprint, participants will be able to:
@@ -20,15 +18,11 @@ By the end of this sprint, participants will be able to:
 * Build a personalized **Acquisition Toolkit** to document useful research methods, resources, and lessons learned
 * Assess how data-driven insights from market research can improve requirements definition and vendor engagement
 
----
-
-## Building your market research toolkit
-
-### Build your personalized acquisition toolkit
+## Build your personalized acquisition toolkit
 
 As you move through this course, you’ll be exposed to a wide range of market research tools, strategies, and resources. But not everything will resonate with everyone. That’s why you’ll create your own Acquisition Toolkit—a living, personal resource that helps you capture what works for *you*, what you want to explore more, and what might help you in real-world procurement work.
 
-This Toolkit is yours to build and shape. Use it to document:
+This toolkit is yours to build and shape. Use it to document:
 
 * New tools or websites you discover  
 * Blogs, articles, or guides you found helpful  
@@ -49,23 +43,23 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 * A quote or idea from a guest speaker you want to remember  
 * A visualization tool or AI prompt that saved you time
 
-#### Concepts I want to try:
+**Concepts you might want to try:**
 
 * Use a short video in future RFIs to explain context.  
 * Send a Google Form instead of a 5-page RFI.  
 * Try drafting a “challenge brief” instead of a traditional Statement of Objectives (SOO).
 
-#### Helpful articles, blogs, or posts:
+**Helpful articles, blogs, or posts:**
 
 * *“How Startups Read Your RFI” – Medium post* → Gave me a new perspective on industry’s point of viewPOV  
 * *DSC’s Guide to AI in Procurement* → Helped clarify what’s hype vs helpful
 
-#### Data sources & reports:
+**Data sources and reports:**
 
 * [Data.gov](https://data.gov) → For understanding digital inclusion metrics  
 * Government Accountability Office (GAO) Reports on Agile Contracts → Reference for senior leadership buy-in
 
-#### Ongoing questions:
+**Ongoing questions:**
 
 * How do I figure out if I’m asking too much in my RFI?  
 * When is it okay to skip an RFI entirely?  
@@ -77,13 +71,11 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
 3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
 
----
-
-### Acquisition toolkit worksheet
+**Acquisition toolkit worksheet**
 
 This toolkit is your personal space to capture ideas, tools, articles, and reflections throughout the course. Use it to build a custom resource that helps you navigate real-world market research and acquisition work.
 
-#### Useful links & tools
+**Useful links & tools**
 
 List any tools, websites, or platforms that you find valuable.
 
@@ -93,33 +85,30 @@ List any tools, websites, or platforms that you find valuable.
 | <br><br> | <br><br> | <br><br> |
 | <br><br> | <br><br> | <br><br> |
 
-
-
-#### Concepts I want to try:
+**Concepts you might want to try:**
 
 Use bullet points to list acquisition or market research ideas you want to experiment with.
 
 ·        \-
 
-#### Helpful articles, blogs, or posts:
+**Helpful articles, blogs, or posts:**
 
 Track readings or content that helped shape your thinking. Include links or key takeaways.
 
 ·        \-
 
-#### Data sources & reports:
+**Data sources and reports:**
 
 Add links or titles to datasets, market reports, or other sources you want to revisit.
 
 ·        \-
 
-#### Ongoing questions:
+**Ongoing questions:**
 
 Jot down any questions that come up during the course you want to revisit or discuss later.
 
 ·        \-
 
----
 ## The Magic Quadrant
 
 The Magic Quadrant is a market research tool used by the market research firm Gartner. The Magic Quadrant tool helps you think about the market through the lens of your customer’s needs. As Gartner explains in its discussion of the Magic Quadrant, you can generally segment a market four ways as depicted in the Magic Quadrant below:
@@ -141,11 +130,9 @@ As a federal contracting professional, you’ll often need to explore different 
 3. Once you determine what your magic quadrant looks like, then begin to place vendors in each quadrant as they best fit. Plotting providers in the quadrants is a quick way to determine which companies deserve the most of your limited time and attention. Focus on those vendors in the section of your quadrant that is most important to your customer.  
 4. As a final step, look at those vendors that are in the quadrant you are targeting. Narrow your follow-on research to that quadrant and focus on those characteristics. Determine if you need to do more market research to define your acquisition strategy and approach. You may want to discuss your findings with your team and be prepared to share them in class during the case study review and application activities.
 
-### Market intelligence vs. market research
+## Market intelligence vs. market research
 
 Market research is the process of gathering and analyzing information about capabilities within the commercial marketplace to benefit from its technologies and competitive forces in meeting an agency need. In contrast, market intelligence focuses on specific classes of customers, including demographic and geographic information and what they buy, all of which can help inform an analysis of business intelligence. [Read this short article](https://www.businessnewsdaily.com/4697-market-intelligence.html) and consider how market intelligence might help your agency in framing out an understanding of the commercial market.
-
-
 
 ## Responsible pre-solicitation communication
 
@@ -163,7 +150,7 @@ There are two goals to this interaction:
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
 
-#### Module overview
+### Module overview
 
 After completing this module, you should be able to: 
 
@@ -171,7 +158,6 @@ After completing this module, you should be able to:
 * Describe ways you can communicate effectively with potential vendors before solicitation of digital services  
 * Identify best practices for responsible pre-solicitation communication when procuring digital services
  
----
 ## Acquisition process myths 
 
 To alleviate some of these concerns and encourage agencies to pursue all legitimate avenues of communication, the Office of Federal Procurement Policy (OFPP) developed two memoranda addressing 10 government and eight vendor “myths” regarding the acquisition process. Review these lists before you dig into this module, and then keep them in mind as you move forward. Many of the myths deal with responsible pre-solicitation (the focus of this module), but others apply to other phases in the acquisition lifecycle. Do your part as an acquisition myth-buster!
@@ -191,7 +177,6 @@ To alleviate some of these concerns and encourage agencies to pursue all legitim
 | 9\. | “Giving industry only a few days to respond to an RFP is OK since the government has been talking to industry about this procurement for over a year.” | Providing short response times may result in the government receiving fewer proposals, and the ones received may not be as well-developed, which can lead to a flawed contract. This approach signals that the government isn’t interested in competition. |
 | 10\. | “Getting broad participation by many different vendors is too difficult; we’re better off dealing with the established companies we know.” | The government loses when we limit ourselves to the companies we already work with. Instead, we must look for opportunities to increase competition and ensure that all vendors, including small businesses, are considered fairly. |
 
-
 ### Vendor myths
 
 |  | Vendor Myth | Fact |
@@ -209,11 +194,7 @@ If you would like to read the original Myth-Busting memos, which offer more deta
 
 * [“Myth-Busting”: Addressing Misconceptions to Improve Communication with Industry during the Acquisition Process](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/Myth-Busting.pdf)
 
-We will refer to these memos again later in the module. 
-
-
-
----
+We will refer to these memos again later in the module.
 
 ## Why pre-solicitation communication matters 
 
@@ -259,7 +240,7 @@ You may be operating on outdated or inappropriate standards for a particular dig
 
 On the other hand, if you know of a standard or requirement (e.g., Federal Risk and Authorization Management Program (FedRAMP)) for an upcoming acquisition, why not publish it ahead of time rather than only include it in solicitations? Make the standards known to industry as far in advance as possible so they may incorporate them into their commercial products and other offerings.
 
-## Knowledge check
+### Knowledge check
 Answering questions about a potential acquisition from vendors before a solicitation is released may result in:  
 
 - [[ ]] A. Delays and extensions to the due date
@@ -267,7 +248,6 @@ Answering questions about a potential acquisition from vendors before a solicita
 - [[ ]] C. Charges of unethical behavior
 - [[X]] D. Lower costs (correct)
 
----
 ## How to communicate effectively 
 
 By now, you can explain why pre-solicitation communication is important. Let’s take a few minutes to look at how to do it most effectively. Here are a few tips:
@@ -290,7 +270,6 @@ Read about each building block of the pyramid above.
 Some constraints are absolutely necessary, and potential vendors should be aware of them to propose compliant solutions. While it may not be appropriate to communicate all timelines and resource constraints, consider the benefits of being as transparent as possible.
 
 **4\. Timelines and Resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
-
 * Will software development and/or testing be done on government or vendor servers?  
 * How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
 * How much is the government willing to invest? What the government is willing to budget impacts the proposed resulting system's quality, acceptability, and functionality.
@@ -299,7 +278,6 @@ A vendor can’t and won’t propose a premier solution on a shoestring budget. 
 
 **5\. Requirements:** Requirements are the result of considering your mission, desired outcomes, constraints, timelines, and resources, along with what you learned from your market research, including industry communications, and establishing the scope of your acquisition. Your statement of those requirements describes what needs to be realistically provided or accomplished by the impending contract or contracts. These requirements may be communicated to industry as a Statement of Work (SOW), but they may also take other, more open-ended forms such as a Statement of Objectives (SOO). It may be helpful to draft these documents, but depending on where you are in market research, it’s okay to not yet have the requirements defined. The knowledge of the technical staff supporting the project and how familiar they are with the market should be considered. 
 
----
 ### 2\. Engage early with industry regarding opportunities
 
 As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
@@ -317,11 +295,9 @@ As you’ve learned throughout this module, engaging early with industry is crit
 
 ![Challenges](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Challenges.jpg?raw=true)
 
-
 **Challenges:** Challenges are a great way to test out pilots or prototypes – get small MVPs created without going through the formal acquisition process. Also, it is potentially a way to encourage the open-source community to interact with the government. It does not require that individuals or companies be registered with a DUNS number, unless the challenge rules call for that specifically. [Challenge.gov](https://www.challenge.gov/) has a complete list of current challenges and how to use them.
 
 ![Reverse Industry Days](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/IndustryDays.jpg?raw=true)
-
 
 **Reverse industry days:** When determining where to take market research and how to understand what is available in a certain technology sector, a reverse industry day is a great market research tool. Short presentations allow the industry to tell the government what existing solutions can meet the problem. There is no specific FAR reference to these. Still, they are becoming more common and in the digital service sector could be very beneficial to finding and getting companies interested in telling the government what kind of products or services exist that can meet our needs without a formal “RFI” process having to be completed first. Here are a few recent examples:
 
@@ -363,7 +339,6 @@ NOTE: [If Google Forms can’t be accessed, alternative tools can be found](http
 
 ![Webinars](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
 
-
 **Virtual industry day webinar or videos:**   
 ​In the wake of the COVID-19 pandemic, virtual industry days have become a prevalent method for government agencies to engage with industry partners. Hosting a virtual industry day allows for broader participation, enabling companies from various locations to access critical information without traveling. Recording these sessions ensures that those unable to attend live can view the presentations conveniently. An added advantage of virtual platforms is the ability for participants to submit questions anonymously, fostering more open discussions around requirements and reducing the reticence often observed in traditional in-person industry days.
 
@@ -374,8 +349,7 @@ Examples of virtual industry days:
 
 ![Blog](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Blog.jpg?raw=true)
 
-
-**Blogs \+ social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
+**Blogs and social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
 
 ![Industry experts](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Industry_Experts.jpg?raw=true)
 
@@ -413,7 +387,6 @@ When the government needs to make a strategic technology choice, such as selecti
   * Are they familiar with Section 508, FedRAMP, and the 21st Century IDEA Act?  
   * If Open Source, how involved is their community in the continual development of the tool? 
 
----
 ## Engaging the industry traditionally
 
 The more “traditional” ways to engage with industry also have a place. These include pre-solicitation notices, draft RFPs, RFIs, pre-solicitation or pre-proposal conferences, and site visits. The Myth-Busting memo referred to at the beginning of this module offers the following suggestions on these topics:
@@ -424,8 +397,8 @@ The more “traditional” ways to engage with industry also have a place. These
 ![A group of people in business attire viewing a presentation](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Government%20employees%20attending%20an%20industry%20day.jpg?raw=true) 
 
 
-  * **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.  
-  * **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to understand better the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
+* **One-on-one communications:** As valuable as industry days can be, there are times when one-on-one communication may be more valuable. Vendors may be reluctant to expose their techniques or approaches to competitors. In private oral or written communications, the government can protect proprietary information and thus encourage vendors to share more.
+* **Agency opportunity forecast:** Many agencies post advanced procurement plans and upcoming opportunities on their websites. Often, this includes a variety of background documents and information that the industry can use to understand better the agency's mission and specific acquisition needs well before specific individual actions. The industry can be given opportunities to respond and provide valuable feedback in crafting and refining requirements.
 
 ### Evolving market research for digital services
 
@@ -450,23 +423,19 @@ While they can still be used and are often required by acquisition strategy, tra
 **Bottom Line:**  
 Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
 
----
-
 ### 3\. Explore other promising alternatives and approaches 
 
 As the **Federal Acquisition Regulation (FAR)** continues to evolve, driven partly by new Executive Orders from the White House, procurement guidance is shifting toward a more flexible, modular approach. In this new era, we can expect to see more “ordering guides” and implementation policies that exist alongside, but are distinct from, the core statutes that must be followed. This creates a critical opportunity for acquisition professionals to think beyond rigid templates and embrace creative, compliant ways to conduct market research and shape solicitations. One powerful approach is to bring the vendor community into the early stages of requirement development and evaluation design. This method, used widely by other governments and increasingly piloted in the U.S., includes tools like open contracting workshops, prototype competitions via Challenge.gov, and collaborative drafting through platforms like GitHub. These practices help ensure solicitations are grounded in real-world capability and modern delivery approaches—before they’re even released.
 
-### Open contracting standards in Canada and Europe
+**Open contracting standards in Canada and Europe**
 
 Canada has been a pioneer in adopting open contracting principles. In 2014, it incorporated open contracting into its national action plan, leading to the publication of pilot datasets using the Open Contracting Data Standard (OCDS). The Treasury Board Secretariat (TBS) is working towards implementing a Proactive Disclosure policy to provide timely and standardized open data on public contracting. Cities like Montreal have also begun publishing open contracting data, enhancing transparency and civic engagement.​
 
 Europe, particularly the European Union (EU), has integrated open contracting into its procurement processes. The EU has aligned its eForms for public procurement notices with the OCDS to standardize data publication. Member states like Italy and Finland have received funding to implement OCDS in their contract registers, promoting transparency and efficiency in public procurement.​
 
-### Smithsonian’s National Museum of African American History and Culture (NMAAHC) open contracting approach
+**Smithsonian’s National Museum of African American History and Culture (NMAAHC) open contracting approach**
 
 The NMAAHC has embraced open contracting methods to enhance transparency and collaboration. For instance, in 2021, it issued a Request for Quote (RFQ) for Digital Archives Specialist services, detailing the scope of work, evaluation criteria, and performance periods. Additionally, the museum maintains a GitHub repository, promoting open access to its digital assets and encouraging community engagement in its projects. The NMAAHC sets a precedent for transparent and collaborative procurement processes in cultural institutions by leveraging platforms like GitHub and adhering to open contracting standards.
-
----
 
 ## Understand the cost-benefit and tradeoffs
 
@@ -478,16 +447,12 @@ So how can we streamline? Start by asking:
 
 * **Am I requesting anything duplicative?**
    Check if another agency has already done similar market research. Collaborate or borrow instead of duplicating effort. This helps reduce the government-wide burden on industry.
-
 * **Can I learn what I need in a lighter-touch way?**  
    Instead of complex narratives or long-form white papers, use tools like brief surveys (even Google Forms), short video submissions, or structured Q\&A sessions.
-
 * **Am I making the timeline clear?**
    Many companies leave when they realize that a procurement might take 12–18 months before contract award. Use your market research to set expectations and provide transparency around the process and timeline.
-
 * **Does this question need to be answered by the vendor community?** 
    Sometimes, the data you seek already exists—in past awards, case studies, or government dashboards. Or it might be better answered by talking to a few experts rather than releasing a public RFI.
-
 * **Can I reduce response friction?** 
    Keep submission instructions simple. Avoid requiring specialized formats, excessive page limits, or hard-to-follow templates. Be human-centered in how you request input.
 
@@ -506,27 +471,19 @@ Impact on industry:
 
 Student Reflection Questions:
 
-1. Who is likely to respond to an RFI like this, and who is likely to opt out? Why?
-
-2. What assumptions did the agency make about vendor capacity and procurement timelines?
-
-3. How would this RFI affect your engagement decision if you were a small business?
-
-4. What information in this RFI might the agency have gathered more efficiently through other means (e.g., website reviews, past procurements, short vendor meetings)?
-
-5. What changes could have made this RFI more accessible while still gathering meaningful data?
-
-6. What downstream impacts could this RFI have on pricing, quality, and diversity of competition?
-
-7. What would a more human-centered or tech-aware version of this RFI look like?
+- Who is likely to respond to an RFI like this, and who is likely to opt out? Why?
+- What assumptions did the agency make about vendor capacity and procurement timelines?
+- How would this RFI affect your engagement decision if you were a small business?
+- What information in this RFI might the agency have gathered more efficiently through other means (e.g., website reviews, past procurements, short vendor meetings)?
+- What changes could have made this RFI more accessible while still gathering meaningful data?
+- What downstream impacts could this RFI have on pricing, quality, and diversity of competition?
+- What would a more human-centered or tech-aware version of this RFI look like?
 
 **Result:**  
 The agency received generic responses that didn't reflect the current state of the market or modern solutions. They missed out on input from more agile, cost-effective vendors. Moreover, the time and resources expended by vendors were eventually passed back to the government in the form of higher prices.​
 
 **Lesson:**  
 Instead of requesting extensive narratives and detailed pricing for undefined work, the agency could have hosted a focused industry listening session, followed by a simplified survey or form to gather essential information. This approach would have widened participation and provided a more accurate picture of market capabilities, reducing costs for all parties involved.
-
----
 
 ### Scenario 2: Open tech challenge yields better results
 
@@ -542,17 +499,11 @@ Impact on industry:
 Student Reflection Questions: 
 
 * What barriers to entry were removed using an open challenge instead of a traditional RFI?
-
 * How did the format of the engagement help uncover actual capability instead of marketing language?
-
 * What risks did NARA take using this approach, and how were those risks managed or mitigated?
-
 * How could this model be adapted for other types of federal procurements? What wouldn’t work in every context?
-
 * How might non-traditional vendors perceive this process compared to a typical SAM.gov posting?
-
 * What mechanisms allowed NARA to build trust with the vendor community before formal procurement began?
-
 * What lessons from this approach could you bring into your next market research planning session?
 
 **Result:**  
@@ -561,11 +512,8 @@ The winning concept came from a vendor who had never worked with the federal gov
 **Lesson:**  
 By designing the market research around demonstration rather than documentation, NARA engaged a broader market and avoided the overhead costs (for both government and vendors) of traditional RFIs. They didn't just find vendors—they built relationships and trust in the process.​
 
----
-
 These scenarios underscore the importance of thoughtful market research design. By considering the burdens placed on vendors, especially small and non-traditional ones, agencies can foster greater participation, encourage innovation, and ultimately procure more effective solutions.
 
----
 ## Conclusion 
 
 ### Applying human-centered design to market research in federal acquisition
@@ -582,84 +530,73 @@ Here’s how:
 * Reach out to companies you expected but didn’t hear from. Ask: Why didn’t they respond? Was it the timeline, format, unclear objectives, or something else?  
 * These simple feedback loops help you understand what the market can do and how your processes shape who chooses to participate.
 
-#### Hold a retrospective with your procurement team
+### Hold a retrospective with your procurement team
 
 After every significant market research activity, bring your team together for a 15–30 minute retrospective using a simple "traffic light" format:
-
-Keep doing: What worked well that we should repeat?
-
-Change or improve: What felt clunky or unclear?
-
-Stop doing: What created friction or added unnecessary burden?
+- Keep doing:
+    - What worked well that we should repeat?
+- Change or improve:
+    - What felt clunky or unclear?
+- Stop doing:
+    - What created friction or added unnecessary burden?
 
 This format helps normalize reflection and ensures everyone, contracting, program, and technical, can speak a common language. Applying digital service thinking to your acquisition approach builds internal trust, improves communication, and leads to better, more actionable outcomes.
 
-### Leveraging AI to enhance productivity in federal market research
+## Leveraging AI to enhance productivity in federal market research
 
-#### Introduction: The challenge
+### Introduction: The challenge
 
 As discussed, Federal acquisition professionals often face tight deadlines, complex regulations, and limited resources. Traditional market research methods, such as drafting RFIs, analyzing vendor responses, and preparing documentation, are time-consuming and labor-intensive. These processes can lead to delays in procurement cycles and increased workloads for already overburdened staff.​
 
-#### The solution: Integrating AI tools
+### The solution: Integrating AI tools
 
 Artificial Intelligence (AI) tools offer a transformative solution to streamline market research activities. By automating routine tasks, AI can free up valuable time, reduce errors, and enhance the quality of procurement decisions. 
 
 Importantly, AI isn’t here to steal your job but to help you keep your sanity. Think of it as the junior contract specialist you’re training up: eager, fast, sometimes a little too confident, but ultimately helpful in handling the busy work you don’t have time for. You’re still the decision-maker, with the judgment, experience, and authority to guide the acquisition. The checks and balances of the procurement process still apply, and no AI tool is signing anything on your behalf. But if you need help sorting responses, drafting first-pass documents, or chasing down that one clause you can never remember, AI’s your overenthusiastic intern who *never* takes a lunch break.
 
-#### Key areas where AI enhances market research
+**Key areas where AI enhances market research**
 
 1\. Drafting and reviewing documents
 
 Traditional approach:
-
 * Depending on their complexity, manually drafting RFIs, market research reports, and other procurement documents can take several hours to days.​
 
 AI-enhanced approach:
-
 * AI tools like ChatGPT, Co-Pilot, Gemini, or Claude can generate initial drafts of documents in minutes, which professionals can then review and customize.​
 
 Time savings:
-
 * Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks.
 
 2\. Analyzing vendor responses
 
 Traditional approach:
-
 * Reviewing and synthesizing responses from multiple vendors is a manual process that can take days, especially for large procurements.​
 
 AI-enhanced approach:
-
 * AI can quickly analyze large volumes of text, identify key themes, and summarize vendor capabilities, facilitating, but not replacing, faster decision-making.​
 
 Time savings:
-
 * AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews.
 
 3\. Conducting market research
 
 Traditional approach:
-
 * Gathering information on potential vendors and market capabilities often involves extensive manual research.​
 
 AI-enhanced approach:
-
 * AI tools can aggregate and analyze data from various sources, providing insights into vendor performance, market trends, and potential risks.​
 
 Time savings:
-
 * Implementing AI in market research can improve productivity by up to 40%, enabling faster and more informed procurement decisions.
 
 ### Top AI security \+ integrity considerations for acquisition professionals
 
 **1\. Sensitive data can be exposed in public AI tools**
 
-**DO NOT** input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
+**Don't** input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
  Why? Some platforms use what you type to train their models, meaning your info could live on beyond your session.
 
 Use AI tools approved by your agency or ensure your tool has a “no data retention” policy or private model settings.
-
----
 
 **2\. Hallucinations are real (and annoying)**
 
@@ -668,23 +605,17 @@ What’s a hallucination? It’s when an AI confidently makes something up and p
 
 Always verify AI-generated content, especially concerning regulations, law, or pricing. AI is a helpful co-pilot, not a final authority.
 
----
-
 **3\. Model biases can skew results**
 
 AI tools reflect the data they’re trained on, and that data might carry biases, such as favoring certain vendors, tech solutions, or assumptions about what “good performance” looks like.
 
 Be mindful of potential bias in AI outputs, especially when comparing vendors or analyzing performance data. Use AI for synthesis, but maintain human judgment for fairness.
 
----
-
 **4\. Version drift and inconsistent output**
 
 AI tools change frequently, what you get today may be slightly different tomorrow. Model updates can affect tone, structure, and even the accuracy of responses.
 
 Save outputs you plan to use. Don’t assume you’ll get the same response twice, AI doesn’t have a memory unless you give it one.
-
----
 
 **5\. AI can reinforce bad inputs**
 
@@ -694,15 +625,11 @@ If your prompt is vague, incorrect, or biased, the AI will roll with it and migh
 
 Prompt engineering matters, how you ask a question influences what you get back. Be clear, specific, and ask for sources when needed.
 
----
-
 **6\. Output may not be audit-ready**
 
 AI can help you draft documents, summaries, and reports but you’re still responsible for accuracy, compliance, and traceability.
 
 Always double-check final outputs, and don’t submit AI-generated work as-is. Think of AI as a strong first draft machine, not a compliance tool.
-
----
 
 **7\. Follow your agency’s IT and privacy policies**
 
@@ -710,13 +637,9 @@ Some agencies are adopting AI use policies that govern what tools can be used, w
 
 Check your agency's policy before using any AI tool or talk to your IT/security lead.
 
----
-
 ### Final thought:
 
 AI can be like the world’s fastest intern, helpful but unreliable. You’re still the Contracting Officer, COR, or Specialist in charge. Use AI to speed up your work, but never let it replace your judgment.
-
----
 
 Agencies need to understand what the market can provide to acquire the best digital service solutions they can afford. Appropriate communication with potential vendors is key to gaining this understanding. 
 

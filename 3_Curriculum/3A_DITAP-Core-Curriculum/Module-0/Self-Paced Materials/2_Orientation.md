@@ -1,6 +1,5 @@
-# Module 0 Sprint 0
-
 # DITAP Course: What to Expect, How to Navigate
+**Module 0 Sprint 0**
 
 ## Introduction to DITAP
 
@@ -12,8 +11,8 @@
   * Recommended  
     * FAC-COR Level II/III and FAC-P/PM Level II/III holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are encouraged to attend DITAP training to create a cohesive team that fully understands how to buy digital services.
 
-    * Course Structure  
-      * **Course Modules:** The program is divided into five modules, each with multiple sprints:  
+    * Course structure  
+      * **Course modules:** The program is divided into five modules, each with multiple sprints:  
         * **Module 1: Describe:** Focuses on understanding what digital services are, who provides them, how they are delivered, and why they are important. This includes topics like the digital services landscape, delivery methods (Agile, Design/User Centered Design/DevSecOps), and a 'Tech Bootcamp' covering data, software, cloud, AI, security, accessibility, and open source.  
         * **Module 2: Discover:** Emphasizes engaging in a discovery process to inform acquisition strategy decisions. This involves assessing agency readiness, stakeholder and customer mapping, defining success for digital service acquisitions, and conducting effective market research.  
         * **Module 3: Design:** Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations.  
@@ -22,7 +21,7 @@
       * **Case Study Integration:** The program utilizes a threaded case study, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving scenario for applied learning across the modules. The case study is integrated in the curriculum to align with learning objectives and reinforce key principles.  
       * **Live Digital Assignment (LDA):** This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.  
 
-    * Grading Policy  
+    * Grading policy  
       * This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.  
       * Assignments  
         * Stakeholder Research  
@@ -42,7 +41,7 @@
 
 ---
 
-### Orientation to LMS
+### Orientation to the LMS
 
 **Orientation to the LMS (for course providers)**
 
@@ -65,7 +64,7 @@ At a minimum, please cover:
 The goal is to make sure learners can confidently access and navigate your course from the very beginning. This helps set them up for success and reduces frustration.
 
 ---
-## Discussion \- Introduction
+## Discussion \- introduction
 
 To help us kick off the course and start building a sense of community, we’ll begin our first live session with brief introductions. 
 

@@ -25,3 +25,24 @@ Team Deliverables: Each team is required to submit a 3-page Discovery Summary. T
 | Facilitate Interviews | Guide teams on conducting effective interviews and provide simulated scenarios as needed. |
 | Review Discovery Summary | "Is the Discovery Summary clearly articulating a problem that a digital service solution could address?" Assess clarity, completeness, and alignment with HCD principles. |
 
+### Market Research & Vendor Engagement Component:
+
+Teams must also conduct structured market research to understand the vendor landscape for their chosen digital service problem. This includes:
+
+* **Vendor Landscape Analysis:** Identify 3-5 potential vendors who could address the problem, including at least one small business
+* **Capability Assessment:** Research vendors' past performance, technical capabilities, and relevant experience
+* **RFI Simulation:** Draft 3-5 strategic questions you would ask vendors in a Request for Information (RFI)
+* **Industry Day Planning:** Outline key topics and questions for a hypothetical industry day, or Listening Session with the Requirements office. 
+
+#### Additional Deliverable for Phase 1:
+* 2-page Market Research Summary including vendor landscape, capability gaps, and recommended engagement strategy.
+
+_Facilitator Guidance:_ <br>
+Emphasize that market research should inform problem scoping, not just validate pre-conceived solutions. Guide teams to identify where the market is mature vs. emerging, and how this affects procurement strategy.
+
+### Socioeconomic Program Integration:
+
+**Small Business Considerations**
+* Identify potential small business vendors in the market research
+* Consider how requirements could be structured to enable small business participation
+* Assess whether the solution could be broken into smaller, more accessible opportunities
