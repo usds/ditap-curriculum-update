@@ -1,5 +1,6 @@
 # Introduction: Leading Change
 **Module 4 Sprint 4**
+> _Average completion time: 60 - 90 minutes_
 
 In today’s fast-moving government environment, you are uniquely positioned to lead and influence positive change, from refining everyday procurement practices to scaling innovations across agencies. This module is designed to help you understand your personal role in driving change, strengthen your influence and collaboration skills, and develop strategies for continuous improvement and organizational growth.
 

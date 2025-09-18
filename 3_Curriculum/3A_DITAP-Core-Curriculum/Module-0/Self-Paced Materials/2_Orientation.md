@@ -1,5 +1,6 @@
 # DITAP Course: What to Expect, How to Navigate
 **Module 0 Sprint 0**
+> _Average completion time: 15 - 20 minutes_
 
 ## Introduction to DITAP
 

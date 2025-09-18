@@ -1,8 +1,8 @@
 # Digital Services - The How
 **Module 1 Sprint 2**
+>_Average completion time: 90 minutes - 2 hours_
 
 The rapid pace of change in the digital industry, shifting consumer expectations, and budget pressures of doing more with less drive the U.S. Government to adopt new approaches for designing, developing, and delivering digital services.  
-  
 
 Just as defining the digital services landscape can seem complex, so can trying to explain how they are developed. While there is no one-size-fits-all process for how digital services should be developed, there are contemporary practices that can help the government build more effective digital services. 
 
@@ -46,7 +46,6 @@ __Prioritize development tasks based on user needs__
 - Create a prioritized list of tasks the user is trying to accomplish, also known as user stories.
 
 Next, let's examine a few techniques that can help you implement the strategies listed in Play 1. 
-
 
 **Learn about your users’ needs**
 
@@ -345,15 +344,11 @@ Transparency builds trust between contractors and federal stakeholders and impro
 
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, Agile-friendly procurement decisions.
 
----
-
 ## Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS. 
 
 Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
-
----
 ## Knowledge check
 
 Question 1
@@ -367,8 +362,6 @@ Question 1
 >Correct! Agile supports evolving needs through iteration and user feedback.
 >Not quite. Since the project scope is evolving, Agile is best for delivering in stages while gathering input.
 
----
-
 Question 2
 
 **You’re managing a software development contract with multiple vendor teams. Which Agile practice will help ensure visibility into progress and performance?**
@@ -379,8 +372,6 @@ Question 2
 
 >Correct! Sprint reviews create regular opportunities to share progress with stakeholders.
 > Close, but email updates and final demos don’t offer the same transparency and collaboration as sprint reviews.
-
----
 
 Question 3
 
@@ -393,7 +384,6 @@ Question 3
 >That’s right! MVPs focus on delivering core value quickly, then improving based on feedback.
 >Not quite. MVPs aren’t prototypes or final products—they’re a smart way to test value early.
 
----
 Question 4
 
 **Which role primarily manages the product backlog and prioritizes user needs?**
@@ -404,8 +394,6 @@ Question 4
 
 >Yes! The Product Owner owns the backlog and ensures the team focuses on what matters most.
 >Not quite. While Scrum Masters support team flow, the Product Owner sets priorities and gathers requirements.
-
-------
 
 ## Digital service delivery methods: HCD and DevSecOps
 
@@ -590,7 +578,6 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps Enables VA’s Digital Transformation](https://govciomedia.com/devsecops-enables-vas-digital-transformation/)  
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
----
 ### Discussion (optional)
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
@@ -599,8 +586,6 @@ How can DevSecOps improve the security of government digital services?
 Think about recent challenges in federal cybersecurity. Consider the impact of automation, early testing, and collaboration.
 
 Share one example or idea in the discussion forum section.
-
----
 
 ## Design \+ DevSecOps: The power combo
 
@@ -634,8 +619,6 @@ Which approach should you prioritize first?
 **Feedback (incorrect):**
 
 ❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
-
------
 
 ## Digital service delivery providers - Sources of supply  
 
@@ -775,8 +758,3 @@ Hybrid delivery models are increasingly common in digital service work. These mo
 [18F Guides](https://guides.18f.org/)
 
 * The 18F Guides website is a comprehensive collection of best practices, tools, and methodologies designed to help government teams and their partners build effective, user-centered digital services. It covers topics such as Agile development, accessibility, open source, and design systems, aiming to improve public service delivery through modern technology practices. 
-
-
-
-
-

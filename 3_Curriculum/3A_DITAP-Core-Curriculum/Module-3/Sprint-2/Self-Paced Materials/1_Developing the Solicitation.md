@@ -1,5 +1,6 @@
 # Strategic Planning and Execution in Digital Acquisitions
 **Module 3 Sprint 2**
+> _Average completion time: 60 - 90 minutes_
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
 
@@ -35,8 +36,11 @@ By the end of this sprint, participants will be able to navigate the post-Revolu
 While **FAR 37.6** does not specifically mention Agile methodologies, it aligns with the principles and practices that underpin Agile development approaches. Here’s how FAR 37.6 can be linked to Agile software development:
 
 1\. **Outcome-Focused Approach:** FAR 37.6 emphasizes the importance of focusing on outcomes rather than prescribing specific methods or processes. Similarly, Agile software development emphasizes delivering value and achieving desired outcomes through iterative development and frequent feedback loops.
+
 2\. **Flexibility and Adaptability:** Agile methodologies prioritize flexibility and adaptability in responding to changing requirements and stakeholder feedback. FAR 37.6 encourages agencies to structure contracts that provide flexibility and allow for adjustments based on evolving needs, aligning with Agile’s adaptive approach.
+
 3\. **Collaboration and Communication:** Agile development emphasizes frequent collaboration and communication among stakeholders, including government agencies and contractors. FAR 37.6 promotes early engagement and collaboration between the government and industry partners to ensure a shared understanding of requirements and foster effective communication throughout the procurement process.
+
 4\. **Iterative Delivery and Continuous Improvement:** Agile software development promotes iterative delivery, allowing for the early release of functional software components. FAR 37.6 supports the concept of progressive acquisition, where contracts are structured to enable incremental deliveries and continuous improvement, aligning with the iterative nature of Agile development.
 
 By leveraging the flexibility, collaboration, iterative delivery, and outcome-focused approach of both FAR 37.6 and Agile, government agencies can foster more efficient and effective software development processes that deliver value to stakeholders.

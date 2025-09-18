@@ -1,5 +1,6 @@
 # Contract Kickoff: Launching Successful Digital Service Delivery
 **Module 4 Sprint 3**
+> _Average completion time: 45 - 60 minutes_
 
 ## Overview
 
