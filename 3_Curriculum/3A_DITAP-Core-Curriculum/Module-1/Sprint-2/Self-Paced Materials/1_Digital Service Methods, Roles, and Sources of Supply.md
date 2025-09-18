@@ -1,6 +1,6 @@
 # Digital Services - The How
 **Module 1 Sprint 2**
->_Average completion time: 90-120 minutes_
+>_Average completion time: 90 minutes - 2 hours_
 
 The rapid pace of change in the digital industry, shifting consumer expectations, and budget pressures of doing more with less drive the U.S. Government to adopt new approaches for designing, developing, and delivering digital services.  
 
