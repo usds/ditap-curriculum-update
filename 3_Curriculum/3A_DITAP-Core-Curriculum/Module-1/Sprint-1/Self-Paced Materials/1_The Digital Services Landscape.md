@@ -1,6 +1,6 @@
 # Digital Services – The Who and The What
 **Module 1 Sprint 1**
-> _Average completion time: 45-60 minutes_
+> _Average completion time: 45 - 60 minutes_
 
 ## Welcome to digital services – The who and the what 
 
