@@ -111,30 +111,13 @@ Encourage keeping strong, consistent teams on the project:
 
 Monetary rewards aren’t the only way to motivate teams. Non-monetary incentives can also drive engagement and performance:
 
-**1. Increased Autonomy**
-High-performing teams earn more flexibility:
+| Category | Details |
+|----------|---------|
+| 1. Increased Autonomy | - Streamlined approval processes for routine changes<br>- Greater technical decision-making authority<br>- Reduced reporting requirements |
+| 2. Recognition and Growth | - Opportunities to present at government conferences<br>- Case studies highlighting successful practices<br>- Participation in government-wide communities of practice |
+| 3. Future Partnership Opportunities | - Consideration for follow-on work or contract expansions<br>- Eligibility for innovative contract vehicles<br>- Partnership on pilot programs or new initiatives |
+| 4. Professional Development | - Access to government training and resources<br>- Opportunities to contribute to agency standards<br>- Participation in cross-agency working groups |
 
-- Streamlined approval processes for routine changes  
-- Greater technical decision-making authority  
-- Reduced reporting requirements  
-
-**2. Recognition and Growth**
-
-- Opportunities to present at government conferences  
-- Case studies highlighting successful practices  
-- Participation in government-wide communities of practice  
-
-**3. Future Partnership Opportunities**
-
-- Consideration for follow-on work or contract expansions  
-- Eligibility for innovative contract vehicles  
-- Partnership on pilot programs or new initiatives  
-
-**4. Professional Development**
-
-- Access to government training and resources  
-- Opportunities to contribute to agency standards  
-- Participation in cross-agency working groups
 
 ---
 
@@ -173,6 +156,21 @@ Strong contract administration ensures that incentives remain fair, transparent,
 - Feedback loops to share performance insights with contractors, enabling continuous improvement  
 
 By grounding incentive structures in thoughtful metrics, collaborative design, and disciplined administration, agencies can ensure that incentives serve their intended purpose: reinforcing behaviors that deliver real value to end users and support mission outcomes.
+
+**Alignment with Updated FAR Requirements**
+
+The updated FAR Parts 39 and 6 establish new requirements for performance measurement and incentive structures in IT acquisitions:
+
+**FAR Part 39 Metrics Requirements**:
+- Mandatory user outcome metrics for digital service contracts
+- Requirements for continuous performance monitoring aligned with DORA metrics
+- Integration of accessibility and user experience measurements into contract performance evaluation
+
+**FAR Part 6 Competition and Incentive Alignment**:
+- How performance incentives must be structured to maintain fair competition
+- Requirements for transparent metrics in competitive digital service procurements
+- Evaluation criteria that support both competition and agile delivery goals
+
 
 ---
 
@@ -565,6 +563,20 @@ The 2024 establishment of FAR Part 40 (Information Security and Supply Chain Sec
 * Software composition analysis and vulnerability management  
 * Continuous monitoring and incident response capabilities  
 * Third-party component security assurances
+
+**Integration with Updated FAR Parts 39 and 6**
+
+The recent overhauls of FAR Parts 39 and 6 introduce warranty considerations specific to modern IT acquisitions:
+
+**FAR Part 39 Warranty Provisions**:
+- New requirements for performance-based warranties in agile development contexts
+- Updated guidance on warranty periods for iterative delivery models
+- Integration requirements with continuous monitoring and DevSecOps practices
+
+**FAR Part 6 Competition and Warranty Interactions**:
+- How warranty requirements must be addressed in streamlined competition procedures
+- Evaluation criteria for warranty provisions in digital service competitions
+- Requirements for warranty continuity across multiple competing vendors in phased approaches
 
 ---
 
