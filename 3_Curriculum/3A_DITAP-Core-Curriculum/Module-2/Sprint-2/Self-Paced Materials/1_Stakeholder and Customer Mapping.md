@@ -1,5 +1,6 @@
 # Navigating the Stakeholder Landscape 
 **Module 2 Sprint 2**
+> _Average completion time: 45 - 60 minutes_ / _2 - 4 hours with interviews_
 
 ## Introduction
 

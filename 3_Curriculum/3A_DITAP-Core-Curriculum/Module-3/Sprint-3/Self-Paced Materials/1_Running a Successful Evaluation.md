@@ -1,5 +1,6 @@
 # Evaluation Criteria Overview 
 **Module 3 Sprint 3**
+> _Average completion time: 90 minutes - 2 hours_
 
 ## I. Phases of agile acquisition
 

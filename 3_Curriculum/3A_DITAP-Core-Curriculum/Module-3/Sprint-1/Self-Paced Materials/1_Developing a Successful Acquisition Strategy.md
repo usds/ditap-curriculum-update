@@ -1,5 +1,6 @@
 # Introduction: Developing an Acquisition Strategy
 **Module 3 Sprint 1**
+> _Average completion time: 90 minutes_
 
 Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
 

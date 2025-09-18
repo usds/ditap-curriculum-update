@@ -1,5 +1,6 @@
 # Staying Current and Driving Change: Your Role in Continuous Improvement
 **Module 5 Sprint 2**
+> _Average completion time: 60 - 75 minutes_
 
 ## Why Continuous Learning Matters in Federal Acquisition
 
