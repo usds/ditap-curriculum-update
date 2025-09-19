@@ -32,7 +32,7 @@ The recent overhaul of **Federal Acquisition Regulation (FAR) Parts 6 and 39** s
 - Strengthened cybersecurity baseline requirements that must be addressed in all IT acquisitions
 - Requirements for accessibility compliance verification throughout the acquisition lifecycle
 
-
+---
 
 By the end of this module, you will be able to:
 
