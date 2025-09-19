@@ -205,7 +205,7 @@ Finally, agencies should consider the risk of **vendor lock-in,** when switching
 
 By considering these factors, 1102s can make better-informed decisions that reduce risk, support flexibility, and help agencies maintain control over their software assets.
 
-## Service design and delivery standards (21st Century IDEA & USDS Playbook)
+### Service design and delivery standards (21st Century IDEA & USDS Playbook)
 
 Modern software isn’t just about code, it’s about delivering effective services that meet user needs, comply with the law, and adapt over time. The 21st Century Integrated Digital Experience Act (IDEA) and the U.S. Digital Services Playbook set specific expectations for how software supporting government services should be designed and delivered.
 
@@ -509,7 +509,7 @@ Building on these policies, the [SHARE IT Act (Public Law 118-187)](https://dsac
 
 All software, including OSS, faces increasing security risks due to advances in hacking tools and techniques. However, open source often has a distinct advantage: a robust community of developers dedicated to its security. Unlike proprietary software, where security audits are limited to a single company's internal team, OSS code can be inspected and tested by anyone. This collaborative approach allows for vulnerabilities to be identified and fixed much more rapidly than legacy approaches, often within days of discovery.
 
-### Mitigating security risks
+#### Mitigating security risks
 
 Properly maintained OSS is just as secure as, and often more secure than, its proprietary counterparts. If it were less secure, organizations wouldn't be able to tolerate the risk, and it wouldn't be able to compete in the market. Securing OSS involves following the **same best practices as securing proprietary software**. This includes:
 
@@ -544,7 +544,7 @@ The first step is to thoroughly understand the specific need the procurement is 
 | **Proposal Review** | Check the vendor's implementation plan to ensure that all software licenses are compatible with your agency's needs. Confirm they contribute to the open-source community and are not simply users. |
 | **Post-Award Oversight** | Continuously track software maintenance and compliance. If a product with an OSS license was selected, ensure that the software will remain OSS beyond the length of the contract. |
 
-### Do your due diligence
+#### Do your due diligence
 
 Make sure you’re asking the right questions and learning about the OSS solution.
 
@@ -555,7 +555,7 @@ Make sure you’re asking the right questions and learning about the OSS solutio
 * Include compliance as a recurring cost.
 * Consider independently sponsoring open source projects used.
 
-### Tools & resources
+### Resources and tools
 
 | Resource | Purpose |
 | ----- | ----- |
