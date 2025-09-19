@@ -45,6 +45,8 @@ By the end of this module, you will be able to:
 * Apply updated FAR Part 39 requirements for IT acquisition planning, including digital service delivery standards and security baseline assessments.
 * Navigate FAR Part 6 competition procedures as they apply to specialized IT procurements and emerging technology acquisitions.
 
+---
+
 ## Digital service tech topic: Data
 
 ### What is data?
@@ -77,7 +79,7 @@ As data grows in size and complexity, there are more challenges related to data 
 * New data processing techniques or tradeoffs may be needed as data volumes increase.  
 * Ensuring data accuracy and forward/backward compatibility for different use cases can become complex.
 
-Learn more about data analysis by visiting [15 Data Analysis Tools and When to Use Them](https://www.coursera.org/articles/data-analysis-tools). 
+>Learn more about data analysis by visiting [15 Data Analysis Tools and When to Use Them](https://www.coursera.org/articles/data-analysis-tools). 
 
 These are some of the key challenges that are driving agency modernization efforts today, and are likely to come across your desk as an acquisition professional. 
 
@@ -122,7 +124,7 @@ Data privacy means protecting personal or sensitive information so that only peo
 | **Why it matters** | - **Legal compliance:** Follow privacy laws like the Privacy Act of 1974 and agency-specific policies to protect personal information collected during procurement.<br>- **Risk management:** Mishandling private data can lead to security breaches, legal penalties, and loss of public trust.<br>- **Contract integrity:** Some procurement data may contain sensitive vendor information; protecting it ensures fair competition and integrity of the process.<br>- **Example:** Contractor tax IDs or employee background checks must be stored and shared securely to prevent unauthorized access. |
 | **What to keep in mind** | - Understand what data your systems hold and how it’s organized.<br>- Ask vendors how they handle data, especially if AI or analytics are part of the service.<br>- Support modernization efforts that improve how data is stored and accessed across departments.<br>- As a contracting officer, you are both a data user and a data steward. <br>Know:<br>  - What data can and should be shared openly (e.g., awarded contracts).<br>  - What data must be protected (e.g., PII or confidential business info).<br>  - The laws and best practices that guide both. |
 
-
+---
 
 ## Digital service tech topic: Software
 
@@ -218,6 +220,8 @@ Finally, **continuous improvement** should be part of any technology investment.
 
 By prioritizing user needs, accessibility, and flexibility, agencies can deliver effective and inclusive digital tools. Acquisition professionals play a key role in this process.
 
+---
+
 ## Digital service tech topic: Cloud
 
 ### Basics
@@ -284,6 +288,8 @@ If you don't adapt your acquisition strategies for cloud, your agency risks fina
 
 By understanding the cloud's unique characteristics and adjusting procurement approaches accordingly, contracting officers become key enablers of efficient, secure, and future-proof government operations.
 
+---
+
 ## Digital service tech topic: Artificial intelligence
 
 ### What is artificial intelligence?
@@ -331,6 +337,7 @@ Bringing AI into government systems requires careful consideration of several ch
 | **Why it matters to procurement officers** | - **Market research:** AI tools can help summarize vendor capabilities or detect patterns in procurement history, making the early stages of procurement more efficient.<br>- **Performance monitoring:** AI can quickly analyze contractor performance data to flag trends or anomalies.<br>- **Drafting support:** Generative AI tools may help create first drafts of solicitation language or evaluation criteria, but humans must always review these drafts.<br>- **Risk management:** Using AI in procurement systems introduces new risks, bias, transparency, and compliance that COs must account for in contracts and performance oversight.<br>- **Evaluation criteria:** When procuring AI solutions, COs should ensure that solicitations require vendors to describe data sources, bias mitigation strategies, and how their models can be audited or explained. |
 | **What contracting officers should keep in mind** | - **Ask questions:** If AI is mentioned in a proposal, ask vendors how it works, how it was trained, and how it will be monitored.<br>- **Understand the use case:** Not all tasks need AI, be skeptical of buzzwords, and ensure a clear benefit.<br>- **Balance innovation with oversight:** AI may be new, but government procurement still requires precise requirements, measurable outcomes, and accountability.<br>- **Support responsible use:** Like with data, you are a steward of responsible AI use. Advocate for ethical practices and transparency in the tools your agency adopts.<br>- **Post-award monitoring and model drift:** Even if the AI works at the time of contract award, there is a chance that the AI model doesn’t match changing behaviors. Ensuring that AIs are updated to keep up with changing needs is essential. |
 
+---
 
 ## Digital service tech topic: Cybersecurity
 
@@ -366,6 +373,8 @@ Several federal initiatives define how agencies must secure digital systems and 
 Cybersecurity is not an afterthought, it must be designed into digital services from the start. Contracting officers and CORs must be able to ask the right questions and ensure security compliance, IAM integration, vulnerability management practices, and SIEM readiness are built into the acquisition process.
 
 Through innovative, security-conscious procurement, COs help ensure that government services are trustworthy, resilient, and aligned with federal cybersecurity mandates.
+
+---
 
 ## Digital service tech topic: Accessibility
 
@@ -456,6 +465,7 @@ Accessibility isn’t just a compliance requirement; it’s a core part of deliv
 | [WGAC 2.2 Understanding Docs](https://www.w3.org/WAI/WCAG22/Understanding/) | Provides detailed explanations for WCAG guidelines and success criteria |
 
 ---
+
 ## Digital service tech topic: Open source software
 
 ### Understanding open source software
