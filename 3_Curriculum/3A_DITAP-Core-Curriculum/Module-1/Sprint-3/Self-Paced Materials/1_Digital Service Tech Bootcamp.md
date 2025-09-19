@@ -22,7 +22,7 @@ You don't need to be a technical expert, but understanding the fundamentals will
 
 The lessons ahead will explain terminology, describe modern delivery models, and highlight practical implications for acquisition planning, vendor engagement, and contract oversight.
 
-The recent overhaul of Federal Acquisition Regulation (FAR) Parts 6 and 39 significantly impacts how acquisition professionals approach digital service procurements. These changes emphasize human-centered design, iterative development, and strategic competition considerations specific to information technology acquisitions.
+The recent overhaul of **Federal Acquisition Regulation (FAR) Parts 6 and 39** significantly impacts how acquisition professionals approach digital service procurements. These changes emphasize human-centered design, iterative development, and strategic competition considerations specific to information technology acquisitions.
 
 **Key changes include**:
 - Enhanced requirements for IT acquisition planning under FAR Part 39, including mandatory consideration of open source alternatives and Software Bills of Materials (SBOMs)
@@ -33,18 +33,20 @@ The recent overhaul of Federal Acquisition Regulation (FAR) Parts 6 and 39 signi
 
 
 By the end of this module, you will be able to:
-* Describe the differences between structured, unstructured, and semi-structured data, and explain why those distinctions matter for procurement and contract oversight.
-* Identify key challenges and modernization needs related to data storage, migration, analytics, and privacy in federal systems.
-* Explain the importance of Section 508 and other accessibility standards in digital services, and assess how accessibility requirements impact acquisition planning and contract oversight.
-* Explain the software development lifecycle (SDLC) and modern practices like Agile, DevOps (development and operations), and Continuous Integration and Continuous Delivery (CI/CD), and recognize their relevance in acquisition strategies.
-* Differentiate between proprietary and open-source software licenses, and understand the implications of software supply chain security.
-* Define Artificial Intelligence (AI) and explain its strategic role in acquisition, including key considerations like algorithmic bias, data governance, and ethical use.
-* Define cloud computing and distinguish between public, private, community, and hybrid cloud deployment models.
-* Explain the differences between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and assess what kind of cloud service model a contract may require.
-* Recognize cloud-specific procurement considerations, including pricing models, shared security responsibilities, vendor lock-in risks, and Federal Risk and Authorization Management Program (FedRAMP) compliance.
-* Understand the basics of cybersecurity as it applies to acquisitions, including compliance frameworks (e.g., National Institute of Standards and Technology \[NIST\]), identity and access management (IAM), vulnerability management, and Security Incident and Event Management (SIEM).
-* Apply updated FAR Part 39 requirements for IT acquisition planning, including digital service delivery standards and security baseline assessments.
-* Navigate FAR Part 6 competition procedures as they apply to specialized IT procurements and emerging technology acquisitions.
+
+- Describe the differences between structured, unstructured, and semi-structured data, and explain why those distinctions matter for procurement and contract oversight.
+- Identify key challenges and modernization needs related to data storage, migration, analytics, and privacy in federal systems.
+- Explain the importance of Section 508 and other accessibility standards in digital services, and assess how accessibility requirements impact acquisition planning and contract oversight.
+- Explain the software development lifecycle (SDLC) and modern practices like Agile, DevOps (development and operations), and Continuous Integration and Continuous Delivery (CI/CD), and recognize their relevance in acquisition strategies.
+- Differentiate between proprietary and open-source software licenses, and understand the implications of software supply chain security.
+- Define Artificial Intelligence (AI) and explain its strategic role in acquisition, including key considerations like algorithmic bias, data governance, and ethical use.
+- Define cloud computing and distinguish between public, private, community, and hybrid cloud deployment models.
+- Explain the differences between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS), and assess what kind of cloud service model a contract may require.
+- Recognize cloud-specific procurement considerations, including pricing models, shared security responsibilities, vendor lock-in risks, and Federal Risk and Authorization Management Program (FedRAMP) compliance.
+- Understand the basics of cybersecurity as it applies to acquisitions, including compliance frameworks (e.g., National Institute of Standards and Technology \[NIST\]), identity and access management (IAM), vulnerability management, and Security Incident and Event Management (SIEM).
+- Apply updated FAR Part 39 requirements for IT acquisition planning, including digital service delivery standards and security baseline assessments.
+- Navigate FAR Part 6 competition procedures as they apply to specialized IT procurements and emerging technology acquisitions.
+
 
 ---
 
