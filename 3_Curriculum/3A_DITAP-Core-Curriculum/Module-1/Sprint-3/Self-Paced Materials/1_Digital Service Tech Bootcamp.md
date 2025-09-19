@@ -195,8 +195,6 @@ One way to manage this risk is through a **Software Bill of Materials (SBOM)**. 
 
 Contracting officers and acquisition professionals should also ask vendors about **risk management practices.** Are they scanning for vulnerabilities? Do they patch or replace risky components? Do they follow secure development practices? These questions are essential to ensure that the software delivered is safe and dependable.
 
----
-
 Licensing is another key consideration. Software licenses set the rules for how software can be used, shared, or changed. There are two main types: **proprietary licenses** and **open-source licenses.**
 
 **Proprietary licenses** usually come with restrictions and fees. Agencies don’t get access to the source code and must rely on the vendor for support and updates. Common examples include Microsoft Office or Salesforce. In contrast, **open-source licenses** generally allow for more flexibility. They let agencies use, change, and distribute software freely, though some licenses require that changes be shared publicly. For instance, the Apache 2.0 license is relatively permissive, while the GNU General Public License (GPL) has stricter conditions.
