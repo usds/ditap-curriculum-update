@@ -1,5 +1,6 @@
 # Introduction to the Digital Service Tech Bootcamp
 **Module 1 Sprint 3**
+
 > _Average completion time: 2.5 - 3 hours_
 
 Modern government acquisition professionals operate in a rapidly evolving digital environment. Whether you're evaluating a cloud-based platform, reviewing a data-sharing agreement, or procuring custom software development, your work increasingly intersects with key technology concepts that shape how agencies deliver public services.
