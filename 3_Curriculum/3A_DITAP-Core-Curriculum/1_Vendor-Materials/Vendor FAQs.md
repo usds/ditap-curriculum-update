@@ -63,6 +63,19 @@ Q. Will we be able to get to Level 8 in the Learning-Transfer Evaluation Model (
 
 ---
 
+Q. Will we be able to get to Level 8 in the Learning-Transfer Evaluation Model (LTEM)?
+>A. Level 8 is really the gold standard for measuring learning impact — it asks the ultimate question: _Did this training actually improve mission outcomes?_
+>
+>That’s a very high bar. To get there, we’d have to separate the impact of DITAP from everything else happening inside an agency — leadership changes, policy shifts, budget fluctuations, and other initiatives that may have run at the same time. There’s also a time lag: by the time results show up, learners may have switched roles or priorities may have shifted, making it hard to draw a straight line back to this course.
+>
+>Think about trying to prove that one leadership course caused a measurable change in procurement cycle time. It’s possible, but it’s complex, and it requires a lot of data we may not have access to.
+>
+>For single-agency cohorts, Level 8 is more achievable because we can get a clearer picture of that agency’s environment and sometimes access metrics on procurement outcomes or delivery improvements.
+>
+>We focus on getting as close as possible — ensuring learners demonstrate task competence in realistic settings (Level 6). And the consortium will be focused on assessing the transfer of those skills back on the job in a post survey (Level 7). If we can measure those reliably, we know we’re setting the stage for Level 8 outcomes, even if we can’t always capture organizational results.
+
+---
+
 Q. How will program duration (3 vs. 6 months) affect CLP eligibility (e.g., 60 vs. 80 CLPs)?
 >A. Participants in the full 6-month program continue to be eligible for 80 CLPs, the same as in the previous program. For shorter or adapted versions, training providers must work with USDS to determine the appropriate CLP allocation. Clear criteria should be communicated in course materials to ensure learners understand the difference.
 

@@ -1,8 +1,8 @@
-# Module 5 Sprint 2
+# Staying Current and Driving Change: Your Role in Continuous Improvement
+**Module 5 Sprint 2**
+> _Average completion time: 60 - 75 minutes_
 
-## Staying Current and Driving Change: Your Role in Continuous Improvement
-
-### Why Continuous Learning Matters in Federal Acquisition
+## Why Continuous Learning Matters in Federal Acquisition
 
 Technology and policy in the federal space are evolving faster than ever. From emerging tools like artificial intelligence to policy shifts that emphasize modernization, acquisition professionals must stay ahead of change, not react to it.
 
@@ -87,7 +87,7 @@ Staying current isn’t about keeping up with every trend, it’s about staying 
 
 Take a few minutes to reflect on the following questions. You can jot down your responses or simply pause to think them through:
 
-1. **How do I currently stay informed about changes in technology or acquisition practices?**  *(e.g., newsletters, team discussions, events, personal reading)*  
+1. **How do I currently stay informed about changes in technology or acquisition practices?** *(e.g., newsletters, team discussions, events, personal reading)*  
 2. **What challenges have I faced in keeping up with emerging trends?**  
     *(e.g., time constraints, information overload, lack of relevance)*  
 3. **What’s one small habit I could start to stay more current?**  
@@ -171,7 +171,7 @@ Use the template below to guide your Procurement Retrospective and reflect on wh
 
 5\. Lessons Learned Summary
 
-*(Summarize the top 1–3 takeaways in 1–2 sentences.)*  <br> <br>
+*(Summarize the top 1–3 takeaways in 1–2 sentences.)* <br> <br>
 
 ---
 
@@ -226,13 +226,13 @@ From playbooks and field guides to toolkits and checklists, these documents help
 
 The concept of a playbook, with its roots in ancient military strategies and sports tactics, has transcended its original domains, organically spreading into a wide array of fields. This includes politics, where they inform campaign strategies; the military, with standard operating procedures; healthcare, through treatment protocols; education, via curriculum guides; marketing, in the form of communication strategies; and law enforcement, with procedural guidelines. In each of these contexts, a playbook functions as a metaphor for an organized, strategic approach to navigating complex tasks or situations. It represents a curated collection of tried-and-tested methods, often compiled from accumulated experience and best practices, all aimed at achieving specific outcomes.
 
-The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy.  Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
+The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy. Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
 
 Within the fast-paced tech industry, business playbooks have become indispensable tools, addressing critical operational challenges and fostering a culture of efficiency and innovation. For instance, a playbook can meticulously detail the steps for handling customer complaints or executing a marketing campaign, guaranteeing consistent outcomes across all interactions.
 
 High-performance product teams in the tech industry leverage playbooks to:
 
-* **Cultivate a Learning Mindset**: They encourage the development and deployment of Minimum Viable Products (MVPs) to maximize learning opportunities and minimize waste in the development cycle.  
+* **Cultivate a Learning Mindset**: They encourage the development and deployment of Minimum Viable Products (MVPs) to maximize learning opportunities and minimize waste in the development cycle. 
 * **Establish Continuous Feedback Loops**: Through practices like feature walkthroughs, story kickoffs, product demos, and bug bashes, these teams ensure a constant flow of feedback, which drives rapid and valuable product development.  
 * **Conduct Action-Oriented Retrospectives**: Playbooks guide teams to ensure that retrospective meetings translate discussions into specific, actionable items, assign clear ownership, and include follow-up mechanisms, thereby empowering teams to drive tangible positive outcomes.  
 * **Promote Knowledge Sharing**: They advocate for creating psychologically safe spaces where all team members feel comfortable sharing their knowledge, fostering a "teacher-learner culture" that reinforces mastery and collective growth.

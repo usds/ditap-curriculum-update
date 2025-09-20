@@ -1,6 +1,6 @@
-# Module 4 Sprint 1
-
 # Managing Digital Service Delivery
+**Module 4 Sprint 1**
+> _Average completion time: 60 - 75 minutes_
 
 We awarded the contract. Now what?
 

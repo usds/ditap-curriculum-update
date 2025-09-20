@@ -1,31 +1,27 @@
-# Module 3 Sprint 3
+# Evaluation Criteria Overview 
+**Module 3 Sprint 3**
+> _Average completion time: 90 minutes - 2 hours_
 
-## Evaluation Criteria Overview 
-
-### I. Phases of Agile Acquisition
+## I. Phases of agile acquisition
 
 Agile acquisitions, like traditional federal procurement approaches, begin with a clearly defined need, market research, and an analysis of alternatives. However, once an acquisition strategy is selected, the agile approach diverges sharply, favoring flexibility, collaboration, and iterative validation.
 
-**1. Show Don’t Tell**
+**1. Show, don’t tell**
 
 Agile acquisition prioritizes objective-level requirements, focusing on the “what” over the “how.” It values working products over exhaustive documentation, aligning with agile delivery principles and user-centered outcomes. Selection methodologies emphasize a “show, don’t tell” model. Consequently, solicitations often include past experience as a technical evaluation factor distinct from past performance:
 
-* **Past Performance** evaluates a vendor's ability to meet contract requirements, based on size, scope, and duration – focusing on reliability and contract compliance.
-* **Past Experience** focuses on what was delivered and how, reflecting technical capabilities and innovation in execution. Under the Revolutionary FAR Overhaul's updated FAR Part 39, this includes demonstrable success in delivering performance-based outcomes for Information and Communication Technology (ICT) services, encompassing information technology, Internet of Things devices, emerging technology, and operational technology solutions.
+* **Past performance** evaluates a vendor's ability to meet contract requirements, based on size, scope, and duration – focusing on reliability and contract compliance.
+* **Past experience** focuses on what was delivered and how, reflecting technical capabilities and innovation in execution. Under the Revolutionary FAR Overhaul's updated FAR Part 39, this includes demonstrable success in delivering performance-based outcomes for Information and Communication Technology (ICT) services, encompassing information technology, Internet of Things devices, emerging technology, and operational technology solutions.
 
----
-    
-**2\. Down-Select Process**
+**2\. Down-select process**
 
 Agile acquisitions commonly use a multi-phased evaluation approach, or down-select, to streamline the source selection process:
 
 * Offerors submit minimal, early-phase deliverables (e.g., white papers).  
 * Government teams assess basic qualifications and alignment.  
 * Uncompetitive vendors are released early, minimizing industry bid and proposal costs while reducing the likelihood of protest.
-
----
    
-**3\. Interactive Evaluation**  
+**3\. Interactive evaluation**  
 
 Subsequent phases involve interactive exchanges with shortlisted vendors. These may include:  
 
@@ -35,8 +31,7 @@ Subsequent phases involve interactive exchanges with shortlisted vendors. These 
 
 This interaction provides evaluators with real-time insight into the offeror’s solution maturity, team culture, and collaboration capabilities, departing from the static, written-only approaches of traditional source selection.
 
----
-**4\. Collaborative Negotiation**
+**4\. Collaborative negotiation**
 
 Once a preferred vendor is identified, the government may conduct alpha contracting or collaborative negotiations. Together, the government and vendor co-develop:
 
@@ -44,12 +39,11 @@ Once a preferred vendor is identified, the government may conduct alpha contract
 * Implementation plan  
 * Quality assurance metrics
 
---- 
-**5\. Type of Evaluation: Comparative Evaluation vs. Best-Value Trade-Off**
+**5\. Types of evaluation: Comparative evaluation vs. Best-value trade-off**
 
 Selecting the appropriate evaluation approach is crucial for ensuring alignment with the acquisition’s goals, the complexity of the solution space, and the nature of the risk being managed. Two common approaches in federal procurement are comparative evaluation and best-value trade-off.
 
-**Comparative Evaluation Approach**
+**Comparative evaluation approach**
 
 Comparative evaluation focuses on assessing the relative merits of each proposal. It enables flexibility and adaptability, making it especially suitable for streamlined acquisitions under **FAR Parts 8.4, 12, and 13.5**.
 
@@ -59,13 +53,13 @@ Comparative evaluation focuses on assessing the relative merits of each proposal
   * Supports flexibility and efficiency  
   * Aligns well with oral presentations, technical demonstrations, and down-select phases
 
-* Use Cases:
+* Use cases:
 
   * Agile software development  
   * Commercial solutions under schedules or simplified acquisition  
   * Rapid prototyping with evolving technical requirements  
       
-**Best-Value Trade-Off**
+**Best-value trade-off**
 
 The best-value trade-off method is used to balance price and non-price evaluation factors, particularly in complex acquisitions under **FAR Parts 15 and 16**.
 
@@ -75,12 +69,12 @@ The best-value trade-off method is used to balance price and non-price evaluatio
   * Justifies award to higher-rated but higher-priced proposals  
   * Suitable for high-risk or mission-critical programs
  
-* Use Cases:
+* Use cases:
   
   * Complex product/service acquisitions  
   * Situations where value-added differentiation justifies cost
 
-Example Adjectival Evaluation Scale:
+Example adjectival evaluation scale:
 
 | Rating | Definition |
 | ----- | ----- |
@@ -90,43 +84,34 @@ Example Adjectival Evaluation Scale:
 | **Marginal** | **Proposal has deficiencies; high risk if award is made** |
 | **Unacceptable** | **Proposal fails to meet minimum requirements; ineligible for award** |
 
-
-
-**Selecting the Right Approach**
+**Selecting the right approach**
 
 Comparative evaluation is well-suited for agile and innovative procurements that require flexibility and iterative engagement. Best-value trade-offs are most effective in structured, high-value acquisitions where traceability and documentation are crucial. Hybrid models may be used to apply comparative methods during early phases (e.g., white papers or demos) and best-value during final evaluations.
 
 ---
-### II. Evaluation Criteria: Purpose and Best Practices
+## II. Evaluation criteria: purpose and best practices
 
-**Purpose of Evaluation Criteria**
+**Purpose of evaluation criteria**
 
 Evaluation criteria are the cornerstone of any well-structured source selection process. They define what the government values most in a solution and shape how proposals are assessed in a fair, transparent, and mission-aligned manner, particularly in agile acquisitions, where adaptability, team dynamics, and iterative delivery are crucial. In such cases criteria must go beyond traditional compliance checks and instead reflect real-world performance and user outcomes.
 
 **Well-designed criteria serve multiple purposes:**
 
-1. **Ensure Transparency and Fairness**  
+1. **Ensure transparency and fairness**  
    Clear, pre-established criteria promote a level playing field, reducing ambiguity for vendors and minimizing the risk of disputes or protests.
-
-2. **Drive Objectivity in Evaluation**  
+2. **Drive objectivity in evaluation**  
    By focusing on observable behaviors, demonstrable capabilities, and measurable outcomes, criteria reduce bias and promote consistent scoring across evaluation teams.
-
-3. **Support Efficient Decision-Making**  
+3. **Support efficient decision-making**  
    Thoughtful criteria streamline proposal reviews, helping acquisition teams quickly differentiate between high-value and lower-value proposals—especially important in down-select processes.
-
-4. **Enable Accountability and Auditability**  
+4. **Enable accountability and auditability**  
    Traceable evaluation decisions reinforce the integrity of the procurement process and support post-award justification and oversight.
-
-5. **Maximize Value for Money**  
+5. **Maximize value for money**  
    Criteria that reflect mission priorities—such as usability, speed to value, or innovation—help ensure award decisions result in the best return on investment, not just the lowest cost.
-
-6. **Facilitate Risk Management**  
+6. **Facilitate risk management**  
    Evaluation categories can directly assess a vendor’s ability to manage delivery risk, such as their approach to continuous integration, agile planning, or incident response.
-
-7. **Reinforce Public Confidence**  
+7. **Reinforce public confidence**  
    A well-documented and defensible evaluation process builds trust among vendors and the broader public in the integrity of federal acquisitions.
-
-8. **Mitigate Legal and Procedural Risk**  
+8. **Mitigate legal and procedural risk**  
    Properly structured evaluation criteria that align with the FAR and applicable policies reduce the risk of procedural challenges or post-award protests.
 
 In short, evaluation criteria are not a formality; they are a strategic tool for ensuring that the selected solution and vendor are best positioned to deliver on the government’s objectives under real-world conditions.
@@ -135,94 +120,77 @@ In short, evaluation criteria are not a formality; they are a strategic tool for
 
 The Revolutionary FAR Overhaul's updated FAR Part 39 introduces specific evaluation requirements for Information and Communication Technology acquisitions:
 
-**Performance-Based Evaluation Requirements**:
+**Performance-based evaluation requirements**:
 - Vendors must provide verifiable evidence of success in delivering performance-based outcomes, not just individual qualifications or capabilities statements
 - Evaluation criteria should assess demonstrated results from similar ICT implementations
 - Focus on measurable outcomes such as system performance improvements, user adoption rates, or operational efficiency gains
 
-**Expanded ICT Scope Evaluation**:
+**Expanded ICT scope evaluation**:
 - Assess vendor experience across the full ICT spectrum: traditional IT, Internet of Things devices, emerging technologies, and operational technology
 - Evaluate vendor adaptability to integrate multiple technology domains within a single solution
 - Consider vendor approaches to technology convergence and cross-domain security
 
-**Personnel Qualification Assessment**:
+**Personnel qualification assessment**:
 - Unlike previous restrictions, agencies may now evaluate specific educational and experience requirements for proposed contractor personnel
 - Assess the adequacy of proposed team qualifications against minimum requirements specified in the solicitation
 - Evaluate vendor ability to maintain qualified personnel throughout contract performance
 
-**Security and Compliance Evaluation**:
+**Security and compliance evaluation**:
 - Assess vendor compliance capabilities under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems
 - Evaluate vendor experience with Controlled Unclassified Information (CUI) handling requirements
 - Consider vendor security frameworks for Internet of Things and operational technology environments
 
----
-### III. Selecting Appropriate Evaluation Criteria
+## III. Selecting appropriate evaluation criteria
 
 Selecting the right evaluation criteria is both a technical and strategic task. It requires balancing regulatory compliance, mission needs, and market realities while supporting a fair and defensible acquisition outcome. The following best practices can guide that process:
 
-1. **Understand the Requirement Deeply**  
-   Begin with a clear, user-centered understanding of the problem space. What outcomes are desired? Who will use the solution? What does success look like? Translate these into criteria that evaluate whether a proposed solution can achieve the desired outcomes.
-
-2. **Align with Procurement Objectives**  
+1. **Understand the requirement deeply**  
+   Begin with a clear, user-centered understanding of the problem space. What outcomes are desired? Who will use the solution? What does success look like? Translate these into criteria that evaluate whether a proposed solution can achieve the desired outcomes
+2. **Align with procurement objectives**  
    Ensure that the criteria reflect the procurement’s most important dimensions, whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight.
-
-3. **Engage Cross-Functional Stakeholders Early**  
+3. **Engage cross-functional stakeholders early**  
    Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive,  and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
-
-4. **Categorize and Prioritize Criteria**  
+4. **Categorize and prioritize criteria**  
    Group evaluation factors into logical categories, such as Technical, Management, Past Performance, and Cost. Within these, distinguish between:
-
-   * **Mandatory Requirements:** Non-negotiables the solution must meet.
-
-   * **Desirable Attributes:** Value-added capabilities that enhance the solution but aren’t strictly required.
-
-5. **Assign Weights Based on Mission Impact**  
+   * **Mandatory requirements:** Non-negotiables the solution must meet.
+   * **Desirable attributes:** Value-added capabilities that enhance the solution but aren’t strictly required.
+5. **Assign weights based on mission impact**  
    Use a weighted scoring system to reflect the relative importance of each criterion. A solution's intuitive user experience might warrant more weight than a marginal cost difference, for example.
-
-6. **Make Criteria Specific and Measurable**  
+6. **Make criteria specific and measurable**  
    Avoid vague language. Use measurable thresholds or examples. Instead of "has relevant experience," say "has implemented three or more similar solutions for federal clients in the past five years."
-
-7. **Ensure Regulatory Alignment**  
+7. **Ensure regulatory alignment**  
    Validate all criteria against applicable sections of the FAR, especially those governing competitive procedures, evaluation factors for award, and past performance assessments.
-
-8. **Distinguish Past Performance from Past Experience**
-
-   * **Past Performance** assesses a vendor’s track record of meeting contractual obligations—i.e., were they reliable?
-
-   * **Past Experience** evaluates their actual technical work—what did they build, and how well did it meet the need?
-
-9. **Choose the Right Evaluation Methodology**  
-    Match the methodology to the acquisition’s complexity and goals. Use:
-
+8. **Distinguish past performance from past experience**
+   * **Past performance** assesses a vendor’s track record of meeting contractual obligations—i.e., were they reliable?
+   * **Past experience** evaluates their actual technical work—what did they build, and how well did it meet the need?
+9. **Choose the right evaluation methodology**
+   Match the methodology to the acquisition’s complexity and goals. Use:
    * Pass/Fail for threshold requirements,  
    * Point Scales for nuanced scoring,  
    * Comparative Evaluation for streamlined, side-by-side judgments, or  
    * Best-Value Trade-Offs when balancing cost and quality in complex procurements.
-
-10. **Pilot and Calibrate Your Criteria**  
-     Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives.
-
+10. **Pilot and calibrate your criteria**  
+  Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives.
 11. **Refine Criteria Based on Feedback**  
-     After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair?
+  After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair?
 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
 
----
 >Note to Vendors: The following two appendices may also be shared as optional in-class handouts to support continued learning and student reference beyond the session.
 
-## APPENDIX A: Comparative Evaluation Model for RFPs
+### APPENDIX A: Comparative evaluation model for RFPs
 
-I. Introduction: A model for comparative evaluation of vendor proposals.
+**I. Introduction: A model for comparative evaluation of vendor proposals.**
 
-II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.
+**II. Evaluation Methodology: Use comparative assessments across multiple stages to determine best fit.**
 
-III. Evaluation Characteristics
+**III. Evaluation Characteristics**
 
 * No scoring required  
 * Focuses on relative merit  
 * Narrative-based justifications
 
-IV. Evaluation Stages & Criteria
+**IV. Evaluation Stages & Criteria**
 
 1\. White Paper Evaluation
 
@@ -243,13 +211,13 @@ IV. Evaluation Stages & Criteria
 * QA Processes  
 * Cost-Effectiveness
 
-V. Evaluation Flow
+**V. Evaluation Flow**
 
 * Use white paper to screen vendors  
 * Compare solutions during oral presentations  
 * Select the final vendor based on relative merit and alignment with goals
 
-VI. Additional Considerations
+**VI. Additional Considerations**
 
 * Require verifiable data  
 * Allow narrative rationale for selections  
@@ -257,17 +225,17 @@ VI. Additional Considerations
 
 ---
 
-## APPENDIX B: Best-Value Trade-Off Evaluation Model for RFPs
+### APPENDIX B: Best-value trade-off evaluation model for RFPs
 
-I. Introduction
+**I. Introduction**
 
 A model for best-value (adjectival) evaluation of vendor proposals, used to assess proposal merit based on how well offerors meet predefined criteria and requirements.
 
-II. Evaluation Methodology
+**II. Evaluation methodology**
 
 Apply adjectival ratings to each evaluation factor based on proposal quality, alignment with requirements, and risk. Use narrative justifications to support ratings and facilitate trade-off decisions.
 
-III. Adjectival Ratings
+**III. Adjectival ratings**
 
 * Excellent – Exceeds requirements with significant strengths and low risk  
 * Good – Meets requirements with some strengths and low to moderate risk  
@@ -275,7 +243,7 @@ III. Adjectival Ratings
 * Marginal – Fails to clearly meet requirements or contains weaknesses; high risk  
 * Unacceptable – Fails to meet one or more key requirements; not eligible for award
 
-IV. Evaluation Stages & Criteria
+**IV. Evaluation stages and criteria**
 
 1\. White Paper Evaluation
 
@@ -296,24 +264,22 @@ IV. Evaluation Stages & Criteria
 * QA Processes  
 * Cost-Effectiveness
 
-V. Evaluation Flow
+**V. Evaluation Flow**
 
 * Evaluate white papers using adjectival ratings  
 * Conduct oral presentations or technical challenges  
 * Review Draft PWS and pricing for realism and value  
 * Select vendor offering the best combination of ratings, strengths, and overall value
 
-VI. Additional Considerations
+**VI. Additional Considerations**
 
 * Use clearly defined rating definitions and evaluation criteria  
 * Require narrative rationale for all ratings  
 * Calibrate evaluators to ensure consistency  
 * Ratings may be adjusted based on new information or clarification  
 * Maintain focus on measurable value and mission impact
-
-
----
-## Negotiating with Vendors
+  
+## Negotiating with vendors
 
 ### Introduction
 
@@ -366,20 +332,19 @@ The primary purpose of the source selection process is to allow the Government t
 
 The Revolutionary FAR Overhaul (RFO) has significantly updated both FAR Part 6 (Competition Requirements) and FAR Part 39, now titled "Acquisition of Information and Communication Technology" (ICT), which directly impacts digital services negotiations:
 
-**Key FAR Part 39 Changes Affecting Negotiations**:
+**Key FAR Part 39 changes affecting negotiations**:
 
 - **Expanded Scope**: ICT now encompasses information technology, Internet of Things devices, emerging technology, and operational technology, requiring broader technical discussions during negotiations.
 - **Performance-Based Focus**: Vendors must now provide evidence of success in delivering performance-based outcomes for ICT services. Merely stating individual qualifications is considered non-compliant.
 - **Personnel Requirements**: Agencies may now specify minimum educational or experience requirements for proposed contractor personnel in ICT solicitations (previously prohibited under old FAR 39.104).
 - **Updated Security Requirements**: FAR 39.105 and FAR 52.239-1 have been eliminated; negotiations must now address requirements under FAR subpart 4.19 and FAR 52.204-21 for safeguarding contractor information systems.
 
-**Key FAR Part 6 Changes Affecting Negotiations**:
+**Key FAR Part 6 changes affecting negotiations**:
 
 - **Streamlined Competition Procedures**: While maintaining statutory competition requirements, procedural guidelines have been simplified, allowing for more flexible negotiation approaches.
 - **Enhanced Competition Advocacy**: Competition advocates retain their role in promoting full and open competition, which may influence negotiation strategies and documentation requirements.
 
-
-### Best Practices for Digital Service Procurements 
+### Best practices for digital service procurements 
 
 * **Negotiate Early, Especially at Down-Selects:** Use advisory notices as a structured opportunity to open meaningful, time-boxed negotiations.
 * **Focus Negotiations on Top Candidates:** Don't waste time trying to negotiate with every vendor — invest effort where there's a real potential for improvement.
@@ -387,7 +352,7 @@ The Revolutionary FAR Overhaul (RFO) has significantly updated both FAR Part 6 (
 * **Resolve Misaligned Assumptions:** Address gaps and misunderstandings now. It's exponentially harder to fix after a contract award.
 * **Prepare Vendors for Iterative/Agile Contracts:** Many vendors are still transitioning to truly iterative delivery. Discuss expectations for backlog ownership, minimum viable products (MVPs), and iterative releases.
 
-### Negotiation Opportunities During Challenges
+### Negotiation opportunities during challenges
 
 In today's digital services procurements, solicitations increasingly involve **multi-phase evaluations,** such as:
 
@@ -403,7 +368,7 @@ At advisory or other down-select points, negotiations can be included at multipl
 
 This mirrors how agile development itself works, an iterative process of improvement based on feedback. It also builds vendor-government trust before award, aligning expectations and reducing post-award friction.
 
-#### Example: Negotiation Opportunity During Code Challenge Phase
+#### Example: Negotiation opportunity during code challenge phase
 
 An agency issues an RFQ for an Agile web development team. After evaluating initial written submissions:
 
@@ -417,7 +382,7 @@ Rather than eliminating them immediately, the agency opens brief discussions:
 
 As a result, one vendor substantially improves their design and security posture, becoming a strong finalist for award, and both the vendor and the Government avoid a potential costly misstep.
 
-### Negotiations and Best Value 
+### Negotiations and best value 
 
 It is important to note that negotiations are not necessarily about obtaining the lowest possible price. The goal of negotiations is to achieve best value, the most advantageous offer consistent with the acquisition’s needs and evaluation factors. Areas under negotiation may vary considerably based on the specifics of the acquisition; in addition to price, the government may negotiate technical requirements, schedule, contract type, or terms of a proposed contract. 
 
@@ -425,7 +390,7 @@ It is important to note that negotiations are not necessarily about obtaining th
 
 An agency requires a sensor that uses new, cutting-edge technology. The agency anticipates a high level of performance risk; therefore, while price is an important factor, the focus of negotiations will be on technical factors and expertise. The negotiations may involve tradeoffs among price, reducing performance risk, or achieving a higher level of performance. 
 
-**A Note About Using Price Effectively in Proposal Evaluations**
+> **A note about using price effectively in proposal evaluations**
 
 In digital service acquisitions, price should be evaluated as part of a broader assessment, not in isolation. The lowest price does not always represent the best value, especially when high-quality talent and iterative problem-solving are essential. Instead, price should serve as a check on the vendor's understanding of the work and their ability to deliver effectively.
 
@@ -435,7 +400,7 @@ Rather than letting price drive the decision, it should be used to assess whethe
 
 To support this, the government can use a price range in the Independent Government Cost Estimate (IGCE) that reflects market rates for experienced digital teams. This helps identify proposals that are either unrealistically low or disproportionately high in relation to the expected value.
 
-### Applicable Requirements and Guidance 
+### Applicable requirements and guidance 
 
 Negotiations are subject to a number of formal rules based on regulations, laws, and policies.  
 
@@ -443,7 +408,7 @@ The FAR states that the Contracting Officer (CO), at a minimum, must conduct neg
 
 Because of differences in proposals, negotiations may result in an extensive dialog with one offeror and a much briefer one with another. In either case, however, you must treat each offeror equitably.
 
-###  Unique Aspects of Negotiations for Digital Services
+###  Unique aspects of negotiations for digital services
 
 When acquiring digital services, the Government needs to think and buy differently. As an example: The traditional model in which the Government owns or manages capital resources doesn’t apply with cloud services. Rather, cloud contracting is based on a consumption model, on paying for resources used on-demand.  In digital services, a number of acquisition issues have emerged, and obviously, these can impact negotiations.  
 
@@ -470,17 +435,17 @@ The Revolutionary FAR Overhaul has also modernized how the Government approaches
 The streamlined competition procedures under the updated FAR Part 6 provide more flexibility in negotiation approaches while maintaining core competition requirements, allowing for more agile and mission-focused discussions.
 
 
-### Key Strategies for Successful Negotiations with Vendors
+### Key strategies for successful negotiations with vendors
 
 Here are some key strategies for successfully negotiating with vendors during the solicitation process.
 
-#### Success Strategy \#1: Use a Team Approach
+#### Success strategy \#1: Use a team approach
 
 Acquisition is a team-based process. From the earliest stages, acquisition personnel work as a team to develop the initial requirement, conduct market research, and identify criteria and processes that will be used to select the most favorable solution. To achieve the best value for the Government, this team-based approach should continue in contract negotiations. 
 
 The negotiation team should include key members who were involved in defining requirements, developing the source selection process, and performing the evaluation. To ensure the necessary expertise, there should be representation of all key functional disciplines, including program and contracting staff, cost/price and other financial analysts, legal counsel, and technical experts.
 
-#### Success Strategy \#2: Establish Negotiation Objectives
+#### Success strategy \#2: Establish negotiation objectives
 
 Negotiation objectives establish the Government’s initial negotiation position. The specific objectives are based on results of the team’s analysis of proposals, taking into consideration all pertinent information from the technical evaluation. With respect to cost/price proposals, objectives consider the Independent Government Cost Estimate, price history, fact finding, and audit reports. 
 
@@ -509,7 +474,7 @@ Identifying must-haves, tradeoffs, deficiencies, and significant weaknesses posi
 
 Once negotiation objectives are established, the team should review and reach a consensus on them. The CO then prepares the pre-negotiation memorandum and obtains any approvals consistent with agency policy.
 
-#### Success Strategy \#3: Arrange for Logistics
+#### Success strategy \#3: Arrange for logistics
 
 It is important to address logistical considerations prior to conducting negotiation sessions.
 
@@ -520,9 +485,7 @@ It is important to address logistical considerations prior to conducting negotia
 |![invite participants](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/invite%20participants.gif?raw=true)  | **Invite Appropriate Participants**  <br>It is extremely important that the Government have experienced, qualified people in attendance. Offerors will ask questions about revisions and their impacts, and the Government must have the right people to field these questions. Secure the support of the experts you think you may need, and avoid inviting people only because they are available. It is generally advisable to ask the offeror in advance who will be attending from its firm. This allows the Government to match expertise. For example, if the offeror is bringing legal experts to discuss intellectual property issues and licensing, the Government can ensure it has its counterparts at the meeting. In addition, if necessary/appropriate, the Government can place limits on the number of participants. |
 | ![draft materials](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/draft%20materials.gif?raw=true) | **Draft and Distribute Read-Ahead Materials**  <br>The Government should prepare and distribute a written agenda to all participants. The agenda should include items to be discussed and background information substantiating the Government’s position, if available.  In most instances, the agenda and any other read-ahead materials should be provided so the offeror has time to review them and be prepared to respond. |
 
-
-
-#### Success Strategy \#4: Prepare the Team for the Negotiation Sessions
+#### Success strategy \#4: Prepare the team for the negotiation sessions
 
 Prior to conducting negotiations, the team should prepare thoroughly. Each member should have a clear understanding of:
 
@@ -537,7 +500,7 @@ In preparation for the negotiation session(s), the CO should ensure that at leas
 
 A best practice is … to practice. Rehearse with dry runs and mock negotiations so the entire team is well prepared and confident.
 
-#### Success Strategy \#5: Adopt a Win-Win Attitude
+#### Success strategy \#5: Adopt a win-win attitude
 
 The primary objective of negotiations is to maximize the Government’s ability to obtain best value. Keep this objective in mind.  
 
@@ -547,7 +510,7 @@ When negotiating for commercial services or products, keep in mind that any cust
 
 Other tips for conducting effective negotiations:  
 
-**DO**
+**Do**
 
 * Acknowledge the positive aspects of the proposal.  
 * Ensure the discussions are “meaningful” — that you identify deficiencies and significant weaknesses and discuss the specific areas that require revision or modification. Make sure the offeror fully understands the Government’s concerns.   
@@ -556,14 +519,14 @@ Other tips for conducting effective negotiations:
 *  Follow the agenda. Make sure every item has been adequately addressed.  
 *  Be fair, rational, and professional. 
 
-**DON'T** 
+**Don't** 
 
 * Play power games. This does not make the Government look good or promote goodwill with industry.  
 * Allow the offeror to take control of discussions.  
 *  Reveal the Government’s position on price.  
 *  Disclose any information about another offeror and/or another offeror's proposal. 
 
-#### Success Strategy \#6: Follow Up as Appropriate
+#### Success strategy \#6: Follow up as appropriate
 
 Once negotiations have concluded, several follow-up actions may occur:  
 
@@ -586,7 +549,7 @@ Here are several readings to help further your understanding of this process, as
 
 
 ---
-## Knowledge Check: Negotiating with Vendors
+## Knowledge check: Neogtiating with vendors
 
 1\. True or False
 
@@ -597,8 +560,6 @@ In digital service acquisitions, it’s usually a waste of time to open negotiat
 - [x] False
 
 > Correct! Early negotiations help clarify assumptions, build trust, and shape stronger outcomes.
-
----
 
 2\. Scenario-Based Multiple Choice
 
@@ -611,8 +572,6 @@ During a code challenge, a top vendor assumed and proposed the use of a commerci
 - [ ] Ignore it and continue
 
 > Correct! Clarifying assumptions and offering revision opportunities supports a fair and informed evaluation process.
-
----
 
 3\. Match the Terms 
 
@@ -629,11 +588,8 @@ Match each term to its correct definition by writing the matching letter next to
 **Definitions:**
 
 A. Discussions that allow vendors to revise proposals
-
 B. Limited exchanges to fix minor errors (no proposal changes)
-
 C. Offer that provides the greatest advantage based on price and technical merit
-
 D. Exchanges to determine competitive range (no proposal changes)
 
 
@@ -657,8 +613,6 @@ Correct Answers:
 
 4. C
 
----
-
 4\. Reflection Prompt
 
 **Think of a time when expectations weren’t clear during a collaboration:**
@@ -667,9 +621,6 @@ Correct Answers:
 - How might early communication or negotiation have helped?
 
 *Your response:*  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
-
-
----
 
 5\. Select All That Apply
 
@@ -683,8 +634,6 @@ Correct Answers:
 
 > Correct! Early negotiation builds shared understanding and helps align expectations.
 
----
-
 6\. Short Answer – Reflection
 
 **Prompt:**  
@@ -696,15 +645,13 @@ Your Response:
 
 2\.  *\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_*
 
----
-
-## The Art of the Post-Evaluation Feedback in Digital Services Procurements
+## The art of the post-evaluation feedback in digital services procurements
 
 Generally, offerors spend a considerable amount of time and money to bid on a contract. When they are unsuccessful, they deserve to know why. Post-evaluation feedback is a critical part of this process.
 
 Quality feedback, whether through a formal debrief or informal explanation, helps companies learn, improve future bids, and strengthens trust between government and industry, especially in digital service acquisitions.
 
-**Learning Objectives**
+**Learning objectives**
 
 By the end of this section, you will be able to:
 
@@ -712,7 +659,7 @@ By the end of this section, you will be able to:
 * Recognize the benefits of effective feedback  
 * Describe tools and techniques used to prepare for and deliver feedback
 
-## Why It Matters
+## Why it matters
 
 In modern acquisitions, especially digital services, post-evaluation feedback is essential.
 
@@ -740,7 +687,7 @@ Done well, a post-evaluation feedback can:
 
 ## Debriefing vs other forms of post-evaluation feedback
 
-### Key Rules for Formal Debriefings (FAR Part 15)
+### Key rules for formal debriefings (FAR Part 15)
 
 Debriefings Are Required when using **FAR Part 15** (Negotiated Procurement):
 
@@ -750,7 +697,7 @@ Debriefings Are Required when using **FAR Part 15** (Negotiated Procurement):
 | Required Info | Summary of evaluation, reason for exclusion, procedures followed | Strengths/weaknesses of proposal, past performance info, award rationale |
 | What’s Prohibited | Other offerors’ scores, rankings, proposals | Point-by-point comparisons, trade secrets, confidential info |
 
-### Debriefing Expectations Outside FAR 15
+### Debriefing expectations outside FAR 15
 
 Other acquisition methods handle debriefs differently:
 
@@ -768,7 +715,7 @@ Generally, the Contracting Officer schedules and organizes the feedback session 
 
 Other technical specialists participate as needed to address the contractor’s specific concerns. For example, if an acquisition involves complex pricing issues, a cost/pricing analyst may be needed. It is also advisable to include Legal Counsel if contentious issues are involved or if the contractor has an attorney participating.
 
-## The Benefits of Effective Post-Evaluation Exchanges
+## The benefits of effective post-evaluation exchanges
 
 One of the biggest misconceptions in government procurement is that sharing less information with unsuccessful offerors lowers protest risk.
 
@@ -782,7 +729,7 @@ When done well, feedback shows the Government:
 * Carefully reviewed each proposal  
 * Has nothing to hide
 
-## What Companies Are Really Looking For
+## What companies are really looking for
 
 When companies request feedback, they are trying to understand a few critical things, such as:
 
@@ -803,7 +750,7 @@ You can also ask them:
 
 Making it a two-way conversation can increase both parties' awareness of what can be done to make future acquisition more successful. 
 
-## **What High Quality Post-Evalutation Feedback Should Include:** 
+## What high quality post-evaluation feedback should include
 
 When possible, agencies should provide feedback that connects the what (requirement), the where (proposal page), and the how (evaluation result).
 
@@ -823,17 +770,17 @@ Digital solutions are often modular, iterative, and designed for change, meaning
 * Understand modern practices (agile, human-centered design, devops, cloud-native architectures)
 * Avoid traditional biases against non-traditional approaches
 
-**A Model for Setting up Feedback using Slides:** 
+**A model for setting up feedback using slides:** 
 
 Preparing for an evaluation conversation is good to do even if you are only giving a verbal explanation. Setting up slides is a valuable tool in preparing for and conducting effective feedback sessions. The slides included should be tailored to the duration and complexity of the debriefing as well as the specific issues that need to be addressed. Here are some ideas for key points to bring up in any format: 
 
-**Ground Rules**
+**Ground rules**
 
 * The most important ground rule to communicate is that the CO leads the process.   
 * The Government is prohibited from doing a point-by-point comparison of the offeror’s proposal with the proposals of others, including the selected company.  
 * The Government cannot disclose proprietary information or trade secrets or information exempt from the Freedom of Information Act (FOIA), including confidential business or manufacturing processes, commercial or financial information, or the identities of individuals who have provided past performance information.
 
-**Summary Slides**
+**Summary slides**
 
 The Summary slides should provide meaningful information that facilitates the contractor’s ability to enhance their future competitiveness. For example, one Summary slide or a set of slides might contrast the debriefed contractor’s ratings and cost with that of the successful offeror.
 
@@ -847,15 +794,15 @@ As part of the Summary slides, the team might also include their consensus ratin
 
 ![A document titled 'Example Caucus Rating Format' for 'Source Selection For OCIO IT Services.' It details an evaluation for 'Offeror: A' on 'Factor: Management Approach (Factor ranking: 3rd most important).' The ratings are 'Outstanding' for Merit and 'Low' for Risk. The document lists bullet points under 'Strengths' describing the offeror's excellent proposed team, outstanding recruiting, existing processes, employee retention, and documented communication processes, each with a page number reference. It also lists 'Weaknesses' focusing on ad-hoc skills refresher/improvement training. Finally, 'Merit and Risk Ratings Support' provides a summary explaining why the offeror warrants the outstanding merit rating with low risk. ](https://github.com/usds/ditap-curriculum-update/blob/cb6995227d64174cc8a298dad2a8dfb41b7c1171/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Example%20Caucus%20Rating%20Format.png?raw=true)
 
-**Final Slide(s):**
+**Final slide(s):**
 
 The final slide(s) should provide a high-level summary. It should indicate that the evaluation is considered complete and closed. The slide might state, for example:
 
 “In summary, the Government’s selection decision was based on a comparative assessment of all offers consistent with the criteria set forth in Section M of the RFP. As the debriefing showed, the selection represents the most advantageous offer to the Government, price and other factors considered. This concludes the debriefing, and it is considered complete and closed.”
 
-## Checklist: Do’s and Don’ts
+## Checklist: do’s and don’ts
 
-During the post-evaluation feedback sessions, DO:
+During the post-evaluation feedback sessions:
 
 * Set expectations up front  
 * Start with strengths  
@@ -865,7 +812,7 @@ During the post-evaluation feedback sessions, DO:
 * Stay flexible with time  
 * Invite feedback to improve future solicitations
 
-During the debriefing, DON’T:
+During the debriefing:
 
 * Apologize  
 * Argue or negotiate  
@@ -878,12 +825,3 @@ Debriefings can really help shape the way vendors bid on future procurements, as
 * [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Debriefing_Agendas.pdf)   
 * [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Template_Proposed_Debriefing_Agenda.pdf)   
 * [Sample Debriefing](https://github.com/usds/ditap-curriculum-update/blob/fd6dd1f69b160b79d637a71b91e564dd3cd8569e/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Sample_Debriefing.pdf)
-
-
-
-
-
-
-
-
-
