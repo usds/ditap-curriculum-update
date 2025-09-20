@@ -4,7 +4,7 @@ This FAQ addresses common concerns procurement officers may encounter when evalu
 
 ---
 
-## Why does Open Source Software Matter for Procurement?
+## Why does Open Source Software matter for procurement?
 
 Open source software provides procurement and contracting officers with greater flexibility, cost control, and long-term sustainability. It allows agencies to:
 
