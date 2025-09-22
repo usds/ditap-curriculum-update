@@ -8,7 +8,7 @@
 - **Scenario 3:** Contract administration & performance – 2 questions + 1 optional  
 - **Scenario 4:** Leading change & continuous improvement – 2 questions + 1 optional  
 
-**Estimated time:** 20 to 25 minutes  
+**Estimated time:** 20 to 25 minutes  <br>
 **Recommended # of questions:** 6 to 8 
 
 ---
@@ -81,7 +81,7 @@ Your agency needs a new online portal that will serve a dynamic user base. Both 
 
 ---
 
-### Optional Question 3
+### Optional - Question 3
 **How should Contracting Officers address data rights and intellectual property (IP) in digital acquisitions to ensure long-term flexibility and reuse of solutions?**
 
 | Option | Description | Correct/Incorrect | Feedback |
