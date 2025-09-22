@@ -207,7 +207,7 @@ Working closely with program staff, especially on **iterative requirement develo
 
 ### Document and Share What Works
 
-Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+Sharing what worked—and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
 ### Final Thoughts
 
