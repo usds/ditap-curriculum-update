@@ -13,33 +13,33 @@
 - Recommended  
   - FAC-COR Level II/III and FAC-P/PM Level II/III holders with at least two years of experience and assigned to acquisitions consisting primarily of digital services over FAR 13.500(c) thresholds are encouraged to attend DITAP training to create a cohesive team that fully understands how to buy digital services.
 
-  - Course structure  
-    - **Course modules:** The program is divided into five modules, each with multiple sprints:  
-      - **Module 1: Describe:** Focuses on understanding what digital services are, who provides them, how they are delivered, and why they are important. This includes topics like the digital services landscape, delivery methods (Agile, Design/User Centered Design/DevSecOps), and a 'Tech Bootcamp' covering data, software, cloud, AI, security, accessibility, and open source.  
-      - **Module 2: Discover:** Emphasizes engaging in a discovery process to inform acquisition strategy decisions. This involves assessing agency readiness, stakeholder and customer mapping, defining success for digital service acquisitions, and conducting effective market research.  
-      - **Module 3: Design:** Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations.  
-      - **Module 4: Build:** Focuses on managing vendor partnerships and supporting delivery through contract administration practices, grounded in agile and lean methodologies. Topics include management of digital service delivery, performance measurement, contract kickoff, and contract management/problem resolution.  
-      - **Module 5: Grow:** Aims to apply techniques to create a culture of innovation, enabling participants to lead and influence customers towards optimal solutions. This includes leading change as an individual and leading organizational change through continuous improvement and scalable practices.  
-    - **Case Study Integration:** The program utilizes a threaded case study, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving scenario for applied learning across the modules. The case study is integrated in the curriculum to align with learning objectives and reinforce key principles.  
-    - **Live Digital Assignment (LDA):** This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.  
+- Course structure  
+    - **Course modules:** The program is divided into five modules, each with multiple sprints:  <br>
+      - **Module 1: Describe:** Focuses on understanding what digital services are, who provides them, how they are delivered, and why they are important. This includes topics like the digital services landscape, delivery methods (Agile, Design/User Centered Design/DevSecOps), and a 'Tech Bootcamp' covering data, software, cloud, AI, security, accessibility, and open source.  <br>
+      - **Module 2: Discover:** Emphasizes engaging in a discovery process to inform acquisition strategy decisions. This involves assessing agency readiness, stakeholder and customer mapping, defining success for digital service acquisitions, and conducting effective market research.  <br>
+      - **Module 3: Design:** Concentrates on translating discovery findings into a structured solicitation. It covers developing acquisition strategies, creating solicitations, and running successful evaluations.  <br>
+      - **Module 4: Build:** Focuses on managing vendor partnerships and supporting delivery through contract administration practices, grounded in agile and lean methodologies. Topics include management of digital service delivery, performance measurement, contract kickoff, and contract management/problem resolution.  <br>
+      - **Module 5: Grow:** Aims to apply techniques to create a culture of innovation, enabling participants to lead and influence customers towards optimal solutions. This includes leading change as an individual and leading organizational change through continuous improvement and scalable practices.  <br>
+    - **Case Study Integration:** The program utilizes a threaded case study, "Cynuria: Navigating Stakeholder and Decision-Making Challenges," to provide a realistic, evolving scenario for applied learning across the modules. The case study is integrated in the curriculum to align with learning objectives and reinforce key principles.  <br>
+    - **Live Digital Assignment (LDA):** This group capstone project simulates the end-to-end lifecycle of a modern digital service acquisition, reinforcing core DITAP objectives. It involves four phases: Discovery Sprint, Case Study Development, Evaluation & Feedback, and Final Presentations. Participants identify their own real-world digital service procurement challenge and apply Agile and Human-Centered Design principles.  <br>
 
-  - Grading policy  
-    - This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.  
-    - Assignments  
-      - Stakeholder Research  
-      - Shadowing Assignment  
-      - Live Digital Assignment  
-    - Assessments  
-      - Pre-assessment  
-      - Post-assessment  
+- Grading policy  
+    - This course uses a pass/fail grading system, and all assignments are assessed on a pass/fail basis.  <br>
+    - Assignments  <br>
+      - Stakeholder Research  <br>
+      - Shadowing Assignment  <br>
+      - Live Digital Assignment  <br>
+    - Assessments  <br>
+      - Pre-assessment  <br>
+      - Post-assessment  <br>
 
-  - Expectations  
-    - Actively participate  
-    - Share what you’ve learned  
-    - Advocate for your development  
-    - Take risks  
-    - Involve others in your development  
-    - Hold yourself accountable
+- Expectations  
+    - Actively participate  <br>
+    - Share what you’ve learned  <br>
+    - Advocate for your development  <br>
+    - Take risks  <br>
+    - Involve others in your development  <br>
+    - Hold yourself accountable <br>
 
 
 ---
