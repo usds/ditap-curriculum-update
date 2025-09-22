@@ -263,7 +263,7 @@ As government agencies embrace modern technology and user-centered practices, it
   
   * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.
     
-  * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
+   * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
 
 * [Government Digital Service Team Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)
   
