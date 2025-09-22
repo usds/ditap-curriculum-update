@@ -1,5 +1,6 @@
 # Digital Services – The Who and The What
 **Module 1 Sprint 1**
+
 > _Average completion time: 45 - 60 minutes_
 
 ## Welcome to digital services – The who and the what 
@@ -74,6 +75,7 @@ End users consume a slice of the information layer daily when they look up infor
 ### What's included in the Presentation Layer?
 
 Delivery mechanisms:
+
 - Web browsers on any device (desktop, laptop, tablet, phone)
 - Native mobile apps
 - Social media
