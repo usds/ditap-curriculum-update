@@ -244,7 +244,7 @@ As government agencies embrace modern technology and user-centered practices, it
 ### Government entities
 
 * [Technology Transformation Services](https://tts.gsa.gov/) \- GSA   
-* [United States DOGE Service (USDS)](https://www.usds.gov/)   
+* [USDS](https://www.usds.gov/)   
 * [Digital Service at CMS](https://www.cms.gov/digital-service)  
 * [Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil/) \- DoD   
 * [Customer Experience (CX) at DHS](https://www.dhs.gov/cx)
