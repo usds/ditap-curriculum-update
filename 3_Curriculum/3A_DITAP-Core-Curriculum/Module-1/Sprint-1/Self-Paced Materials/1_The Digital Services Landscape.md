@@ -94,6 +94,11 @@ When the digital services “cake” is served to end users, it’s put on a stu
 
 Security, privacy, and data protection must be built into the technology's life cycle to ensure the safe and secure delivery and use. Thus, the layers of digital services rest on a platform of security and privacy.
 
+### Ways of Understanding
+
+Thinking of technology as a three-layered cake, is one way to understand the how digital works. This is just one effort to define the technology stack. Play 8 of the CIO Playbook — [Choose a modern technology stack](https://playbook.usds.gov/#play8) - has a more specific, technical definition. There are many others, which a quick search will highlight. 
+
+Another metaphor for understanding technology is that of building blocks, such as Lego. [GovStack](https://govstack.global/) is a global initiative to define specifications for [reusable blocks of technology](https://specs.govstack.global/) which can be reused to build more robust and cost-effective government services. By taking an approach of building standardized, modular software building blocks, complex projects can be deployed to create very complex systems. These would need to be designed to be interoperable, using standards-based, preferably open-source, technology. Common APIs enable these building blocks to be easily integrated with others, serving a wide range of use cases and scaling efficiently.
 
 ## Knowledge check
 
