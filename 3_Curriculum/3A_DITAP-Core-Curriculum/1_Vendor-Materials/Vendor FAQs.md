@@ -14,18 +14,18 @@ Q. For pass/fail, are you recommending a threshold above which you've passed or 
 >Instead of a single cutoff score like 70% or 80%, this refreshed grading perspective for DITAP uses multiple checkpoints and clear criteria so participants always know where they stand on the road to passing:
 >* **Participation:** Measured using a shared rubric (Fully Engaged, Progressing, Needs Attention). Two consecutive “Needs Attention” ratings in the same dimension or three total across any dimension trigger a facilitator check-in and support plan.
 >* **Conceptual Fluency:**
->  * Knowledge checks: Ungraded (not part of pass fail criteria), participants get a sense of their learning and vendors use to tailor content and support.
->  * Stakeholder research
->    * Stage 1: Approval
->    * Stage 2: Pass/Fail on reflection depth
->  * Shadowing
->    * Stage 1: Approval
->    * Stage 2: Pass/Fail on reflection depth
->  * Live Digital Assignment
->    * Case study package is gated pass/ fail (high stakes)
->  * Post Assessment
->    * 80% correct to pass
->    * Multiple attempts allowed with vendor support
+>   * Knowledge checks: Ungraded (not part of pass fail criteria), participants get a sense of their learning and vendors use to tailor content and support.
+>   * Stakeholder research
+>      * Stage 1: Approval
+>      * Stage 2: Pass/Fail on reflection depth
+>   * Shadowing
+>   *   * Stage 1: Approval
+>       * Stage 2: Pass/Fail on reflection depth
+>   * Live Digital Assignment
+>     * Case study package is gated pass/ fail (high stakes)
+>   * Post Assessment
+>     * 80% correct to pass
+>     * Multiple attempts allowed with vendor support
 >
 > This approach ensures there are no surprises. Participants get feedback early and often, and they know exactly what actions to take to stay on track.
 > <br>
