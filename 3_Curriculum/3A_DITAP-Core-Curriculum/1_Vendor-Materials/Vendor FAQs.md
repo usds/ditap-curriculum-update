@@ -6,18 +6,31 @@ Q. Will pre- and post-assessments use the same questions for comparative measure
 
 ---
 
-Q. Are you recommending a threshold above which you've passed or below which you've failed? 
+Q. For pass/fail, are you recommending a threshold above which you've passed or below which you've failed? 
 >A. DITAP’s pass/fail approach represents a major mindset shift for participants, vendors, and facilitators. Many colleges, graduate programs, and professional schools are moving away from point-based grading because adult learning research shows that numerical scores don’t necessarily reflect whether someone can competently do the work. This model reduces performance anxiety, fosters collaboration, and shifts the focus from chasing points to building real capability. 
 >
 >But the mindset shift is very real.
 >
->Instead of a single cutoff score like 70% or 80%, this refreshed grading perspective for DITAP uses multiple checkpoints and clear criteria so participants always know where they stand:
+>Instead of a single cutoff score like 70% or 80%, this refreshed grading perspective for DITAP uses multiple checkpoints and clear criteria so participants always know where they stand on the road to passing:
 >* **Participation:** Measured using a shared rubric (Fully Engaged, Progressing, Needs Attention). Two consecutive “Needs Attention” ratings in the same dimension or three total across any dimension trigger a facilitator check-in and support plan.
->* **Conceptual Fluency:** Reviewed bi-weekly and at the end of each module using a standardized rubric. If gaps appear consistently — e.g., misunderstanding key frameworks — participants receive targeted feedback and support to get back on track.
->* **Live Digital Assignment (LDA):** Designed with gating so each phase (Discovery Sprint, Case Study Development, Peer Review, and Presentation) must be completed successfully before moving to the next. If revisions are needed, participants have the opportunity to resubmit.
+>* **Conceptual Fluency:**
+>  * Knowledge checks: Ungraded (not part of pass fail criteria), participants get a sense of their learning and vendors use to tailor content and support.
+>  * Stakeholder research
+>    * Stage 1: Approval
+>    * Stage 2: Pass/Fail on reflection depth
+>  * Shadowing
+>    * Stage 1: Approval
+>    * Stage 2: Pass/Fail on reflection depth
+>  * Live Digital Assignment
+>    * Case study package is gated pass/ fail (high stakes)
+>  * Post Assessment
+>    * 80% correct to pass
+>    * Multiple attempts allowed with vendor support
 >
->This approach ensures there are no surprises. Participants get feedback early and often, and they know exactly what actions to take to stay on track.
-Remember, numerical scores don’t always equate to job readiness. Whether it's medicine or government procurement, what matters most is whether professionals can perform competently in real scenarios. DITAP’s approach gives participants every chance to demonstrate that they can do the work, not just pass a test.
+> This approach ensures there are no surprises. Participants get feedback early and often, and they know exactly what actions to take to stay on track.
+> <br>
+> 
+> Remember, numerical scores don’t always equate to job readiness. Whether it's medicine or government procurement, what matters most is whether professionals can perform competently in real scenarios. DITAP’s approach gives participants every chance to demonstrate that they can do the work, not just pass a test.
 
 ---
 
