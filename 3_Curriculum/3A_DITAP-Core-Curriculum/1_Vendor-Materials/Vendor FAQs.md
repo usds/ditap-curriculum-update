@@ -44,7 +44,7 @@ The pre-assessment is informational only for both learners and vendors. Particip
 The post-assessment is a required component of the pass/fail system. It confirms that participants have reached the minimum level of conceptual fluency necessary to demonstrate mastery of DITAP frameworks.
 >
 >Best practice recommendations:
->* Learners should be allowed more than one attempt to pass.
+>* Learners should be allowed more than one attempt to pass (80% or above).
 >* After a failed attempt, redirect the learner to the sections or modules where they struggled, or schedule a quick facilitator check-in to review key concepts.
 >* After multiple unsuccessful attempts, vendors should consider additional interventions (peer coaching, office hours, targeted practice) to ensure the learner isn’t just passing the test but can apply the concepts in a real-world setting.
 
