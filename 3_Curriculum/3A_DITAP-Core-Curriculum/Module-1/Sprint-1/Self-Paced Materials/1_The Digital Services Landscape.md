@@ -86,6 +86,7 @@ The presentation layer is a lot like the “Where.” This is where the end user
 ### What's included in the Platform Layer? 
 
 This is the technical ingredients for the cake. The platform layer is the place where business logic is performed. It makes it all possible and is the foundation for delivering digital services. Some examples are:
+
 - Application Programming Interfaces (APIs)
 - Web Services
 - Web Content Management Systems
@@ -98,9 +99,11 @@ Security, privacy, and data protection must be built into the technology's life 
 
 ### Ways of Understanding
 
-Thinking of technology as a three-layered cake, is one way to understand the how digital works. This is just one effort to define the technology stack. Play 8 of the CIO Playbook — [Choose a modern technology stack](https://playbook.usds.gov/#play8) - has a more specific, technical definition. There are many others, which a quick search will highlight. 
+Thinking of technology as a three-layered cake, is one way to understand the how digital works. This is just one effort to define the technology stack. Play 8 of the CIO Playbook - [Choose a modern technology stack](https://playbook.usds.gov/#play8) - has a more specific, technical definition. There are many others, which a quick search will highlight. 
 
-Another metaphor for understanding technology is that of building blocks, such as Lego. [GovStack](https://govstack.global/) is a global initiative to define specifications for [reusable blocks of technology](https://specs.govstack.global/) which can be reused to build more robust and cost-effective government services. By taking an approach of building standardized, modular software building blocks, complex projects can be deployed to create very complex systems. These would need to be designed to be interoperable, using standards-based, preferably open-source, technology. Common APIs enable these building blocks to be easily integrated with others, serving a wide range of use cases and scaling efficiently.
+Another metaphor for understanding technology is that of building blocks, such as Lego. [GovStack](https://govstack.global/) is a global initiative to define specifications for [reusable blocks of technology](https://specs.govstack.global/) which can be reused to build more robust and cost-effective government services. 
+
+By taking an approach of building standardized, modular software building blocks, complex projects can be deployed to create very complex systems. These would need to be designed to be interoperable, using standards-based, preferably open-source, technology. Common APIs enable these building blocks to be easily integrated with others, serving a wide range of use cases and scaling efficiently.
 
 ## Knowledge check
 
@@ -250,14 +253,20 @@ As government agencies embrace modern technology and user-centered practices, it
 
 ### Non-government entities
 
-* [Code for America](https://codeforamerica.org/)  
-  * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies Agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.  
-    * Check out Code for America’s work on [GetCalFresh](https://codeforamerica.org/success-stories/simplifying-californias-online-application-for-food-benefits/), a simplified, mobile-friendly platform that helps Californians apply for food assistance in under 10 minutes. By reducing friction in the application process, GetCalFresh has helped millions of people more easily access critical benefits.  
-* [U.S. Digital Response](https://www.usdigitalresponse.org/)  
-  * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.  
+* [Code for America](https://codeforamerica.org/)
+  
+  * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies Agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.
+    
+    * Check out Code for America’s work on [GetCalFresh](https://codeforamerica.org/success-stories/simplifying-californias-online-application-for-food-benefits/), a simplified, mobile-friendly platform that helps Californians apply for food assistance in under 10 minutes. By reducing friction in the application process, GetCalFresh has helped millions of people more easily access critical benefits.
+      
+* [U.S. Digital Response](https://www.usdigitalresponse.org/)
+  
+  * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.
+    
     * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
 
-* [Government Digital Service Team Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)  
+* [Government Digital Service Team Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)
+  
   * The Beeck Center for Social Impact \+ Innovation’s Digital Service Network (DSN) maintains a Government Digital Service Team Tracker: a living database for those seeking to learn more about the locations, structures, mandates, and more of government digital service teams across the United States.
 
 
@@ -288,7 +297,8 @@ Post in the discussion topic who you chose and why. You can also share what cont
 
 We curated the following readings to help you dive deeper into the world of digital services. 
 
-[10 Years of the U.S. Digital Service: Transforming government for the digital age](https://www.usds.gov/news-and-blog/10-years-of-usds)  
+[10 Years of the U.S. Digital Service: Transforming government for the digital age](https://www.usds.gov/news-and-blog/10-years-of-usds) 
+
 This article provides a compelling look at how the U.S. Digital Service has evolved over the past decade, highlighting its role in transforming government services through technology and human-centered design, and outlining how it plans to build on that impact in the years ahead.
 
 
