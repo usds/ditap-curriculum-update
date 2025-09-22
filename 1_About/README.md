@@ -1,35 +1,35 @@
 # 1_About
-TBD
+This section contains high-level information about the DITAP Curriculum including goals, best practices, and research artifacts from the refreshed curriculum. 
 
 ## 1A_What is DITAP
-xxx
+Information explaining DITAP incluidng the goals and impact of the curriculum.
 
 ### 1A.1_Purpose and Scope
-xxx
+This sec
 
 ### 1A.2_Impact and Metrics
 xxx
 
 ### 1A.3_Accessibility
-xxx
+Information about accessibility best practices for the DITAP Curriculum and this repository.
 
 ## 1B_Contributions and Governance
-xxx
+
 
 ### 1B.1_Governance
 xxx
 
 ### 1B.2_How to Contribute
-xxx
+Best practices for contributing to the DITAP repository
 
 ### 1B.3_Security Disclosure
-xxx
+Security disclosr
 
 ### 1B.4_Naming Conventins
 xxx
 
 ## 1C_Research Artifacts
-xxx
+Past reports and templates made during the creation of the refreshed curriculum.
 
 ### 1C.1_Reports
 xxx
