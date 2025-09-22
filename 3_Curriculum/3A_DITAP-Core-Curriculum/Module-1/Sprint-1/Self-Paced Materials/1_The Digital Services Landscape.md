@@ -258,12 +258,12 @@ As government agencies embrace modern technology and user-centered practices, it
   * Code for America is a nonprofit organization that partners with governments to create human-centered digital tools and services. Its mission is to make government services more accessible, equitable, and effective, especially for underserved communities. Code for America applies Agile, data-informed approaches to modernizing public systems and advocates for policy changes grounded in user needs.
     
     * Check out Code for America’s work on [GetCalFresh](https://codeforamerica.org/success-stories/simplifying-californias-online-application-for-food-benefits/), a simplified, mobile-friendly platform that helps Californians apply for food assistance in under 10 minutes. By reducing friction in the application process, GetCalFresh has helped millions of people more easily access critical benefits.
-      
+
 * [U.S. Digital Response](https://www.usdigitalresponse.org/)
   
-  * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.
+ * U.S. Digital Response (USDR) is a nonprofit organization that connects experienced, pro bono technologists with government and nonprofit partners to meet critical public needs quickly and effectively. Founded in response to the COVID-19 crisis, USDR has since evolved into a long-term partner in modernizing public digital services. In its first five years, USDR supported over 500 projects, helping agencies scale digital solutions in areas like emergency response, benefits access, and elections.
     
-    * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
+ * [Explore their five-year impact journey](https://www.usdigitalresponse.org/resources/five-years-of-impact-usdrs-journey-from-crisis-response-to-strategic-partnership)
 
 * [Government Digital Service Team Tracker](https://digitalgovernmenthub.org/publications/dsn-dst-tracker/)
   
