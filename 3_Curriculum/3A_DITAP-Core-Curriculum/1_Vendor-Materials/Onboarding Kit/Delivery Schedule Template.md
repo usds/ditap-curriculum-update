@@ -1,3 +1,6 @@
+# Sample Delivery Schedule
+This schedule is a suggested pacing model. Vendors have flexibility to adjust assignment timelines to fit their delivery needs. The key is ensuring that all assignment requirements outlined in the Vendor Playbook are met, and that participants complete each assignment as instructed.
+
 | M# | Module Name | Module Objectives | Where | When | 
 | :---- | :---- | :---- | :---- | :---- |
 | M0 | Orientation/Getting Started | Orientation Materials | Learning Portal | Week 0 |
@@ -46,20 +49,19 @@
 | M4 | Sprint 2: Performance Measurement under Agile Delivery Contracts |  | Virtual Classroom | Week 18 |
 | M4 | Sprint 3: Contract Kickoff |  | Virtual Classroom | Week 19 |
 | M4 | Sprint 4: Contract Management and Problem Resolution |  | Virtual Classroom | Week 19 |
-| M4 | Live Digital Assignment/Case Study | LDA development and threaded case study work | Virtual Classroom | Week 20 |
+| M4 | Live Digital Assignment/Case Study | LDA deliverable and threaded case study work | Virtual Classroom | Week 20 |
 
 | M# | Module Name | Module Objectives | Where | When | 
 | :---- | :---- | :---- | :---- | :---- |
 | M5 | Module 5: Grow | Leading Change: Cultivating a Culture of Innovation in Digital Procurement | Learning Portal | Week 21 |
 | M5 | Sprint 1: Leading Change as an Individual |   | Virtual Classroom | Week 22 |
 | M5 | Sprint 2: Leading Organizational Change: Continuous Improvement and Scalable Practices |  | Virtual Classroom | Week 23 |
-| M5 | Live Digital Assignment/Case Study | LDA development and threaded case study work | Virtual Classroom | Week 24 |
+| M5 | Case Study | Threaded case study work | Virtual Classroom | Week 24 |
 
 </br>
 </br>
 
 | M# | Module Name | Module Objectives | Where | When | 
 | :---- | :---- | :---- | :---- | :---- |
-| LDA | Live Digital Assignment | LDA Dry Run and Practice Week | Virtual Classroom | Week 25 |
-| LDA | Live Digital Assinment | LDA Final Presentations  | Virtual Classroom | Week 26 |
+| CW | Course Wrap Up | Opportunity for participants to catch up on self-paced work | Learning Portal and Virtual Classroom | Weeks 25-26 |
 
