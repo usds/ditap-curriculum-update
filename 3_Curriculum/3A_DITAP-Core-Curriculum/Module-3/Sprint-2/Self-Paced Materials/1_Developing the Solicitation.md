@@ -214,11 +214,11 @@ Choose one of the following prompts and share a short reflection. Your insight m
 * Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why? (e.g., Will AI free us to focus on strategic thinking—or risk diminishing it?)
 * How should recent updates to FAR Parts 6 and 39 influence your approach to AI acquisition strategy? (e.g., How do new AI classification requirements affect your procurement planning? What impact do enhanced competition provisions have on vendor engagement strategies?)
 
-### 7 Strategies for evaluating the ethical and legal impact of implementing AI in federal agencies
+## 7 Strategies for evaluating the ethical and legal impact of implementing AI in federal agencies
 
 As federal agencies harness the transformative potential of Artificial Intelligence (AI) to enhance their operations, addressing the ethical and legal implications associated with acquiring and deploying AI technologies naturally takes center stage. Long before the robots rise-up and enslave humanity, we will need to address some more near-term risks and concerns. Agencies must ensure that AI solutions are ethically sound and legally compliant in order to maintain public trust, adhere to regulatory standards, and to achieve strategic objectives. Here’s a guide to help federal agencies assess the ethical and legal implications of acquiring AI.
 
-**1\. Understand regulatory requirements** The first step in assessing the legal implications of acquiring AI is to understand the relevant policy and regulatory requirements. This includes data privacy laws, cybersecurity standards, and AI-specific policies and regulations. Key policies and regulations to consider include:
+1. Understand regulatory requirements** The first step in assessing the legal implications of acquiring AI is to understand the relevant policy and regulatory requirements. This includes data privacy laws, cybersecurity standards, and AI-specific policies and regulations. Key policies and regulations to consider include:
 
 * [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [Driving Efficient Acquisition of Artificial Intelligence in Government - OMB Memorandum M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)
@@ -228,35 +228,48 @@ As federal agencies harness the transformative potential of Artificial Intellige
 * [AI in Government Act of 2020 (Title I of Division U of the Consolidated Appropriations Act, 2021).](https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf)  
 * [EO 13960: Promoting the Use of Trustworthy AI in the Federal Government.](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
 
-**2\. Ensure data privacy and security** Data privacy and security are paramount when deploying AI solutions. AI systems often process large volumes of sensitive data, requiring the implementation of robust data protection measures:
-* Data Encryption: Ensure data is encrypted both at rest and in transit.  
-* Access Controls: Implement strict access controls to limit data access.  
-* Data Anonymization: Employ techniques to anonymize data, reducing the risk of exposing personal information.
+2. Ensure data privacy and security
+Data privacy and security are paramount when deploying AI solutions. AI systems often process large volumes of sensitive data, requiring the implementation of robust data protection measures:
 
-**3\. Address algorithmic bias** Algorithmic bias can lead to unfair outcomes, undermining the integrity of AI systems. To mitigate bias, agencies should:
-* Use diverse data sets to ensure training data is representative of different demographics.  
-* Conduct bias audits to detect and address biases in AI algorithms.  
-* Implement transparent practices to allow stakeholders to understand AI decision-making processes.
+- **Data Encryption:** Ensure data is encrypted both at rest and in transit.
+- **Access Controls:** Implement strict access controls to limit data access.
+- **Data Anonymization:** Employ techniques to anonymize data, reducing the risk of exposing personal information.
 
-**4\. Promote transparency and explainability** Transparency and explainability are necessary for building trust in AI systems. Strategies to promote transparency include:
-* Explainable AI (XAI): Implement AI models that provide clear explanations of their decision-making processes.  
-* Documentation: Maintain comprehensive documentation of AI systems, including data sources, algorithms, and decision logic.  
-* Stakeholder Communication: Communicate AI processes and outcomes clearly to all relevant stakeholders.
+3. Address algorithmic bias
+Algorithmic bias can lead to unfair outcomes, undermining the integrity of AI systems. To mitigate bias, agencies should:
 
-**5\. Ensure accountability and governance** Establishing accountability and governance structures for overseeing the ethical use of AI can further trust and support. Measures to consider include:
-* Ethics Committees: Form committees to oversee AI projects and address ethical concerns.  
-* Governance Frameworks: Develop frameworks outlining policies and procedures for AI deployment.  
-* Responsibility Assignments: Assign clear responsibility for AI outcomes to specific individuals or teams.
+- **Use diverse data sets** to ensure training data is representative of different demographics.
+- **Conduct bias audits** to detect and address biases in AI algorithms.
+- **Implement transparent practices** to allow stakeholders to understand AI decision-making processes.
 
-**6\. Evaluate vendor compliance** [When acquiring AI solutions from vendors](https://youtu.be/nqmBBJfeb90), assess their compliance with ethical and legal standards. Consider evaluating the following:
-* Vendor Policies on data privacy, security, and ethical AI use.  
-* Compliance Certifications, such as ISO/IEC 27001 for information security management.  
-* Third-Party Audits to verify vendor compliance regularly.
+4. Promote transparency and explainability
+Transparency and explainability are necessary for building trust in AI systems. Strategies to promote transparency include:
 
-**7\. Implement continuous monitoring** Ethical and legal considerations require continuous monitoring throughout the AI systems' lifecycle. Practices include:
-* Regular Audits to evaluate AI systems against ethical and legal standards.  
-* Feedback Mechanisms to gather input from stakeholders and address concerns.  
-* Adaptive Policies to reflect new regulations and ethical guidelines.
+- **Explainable AI (XAI):** Implement AI models that provide clear explanations of their decision-making processes.
+- **Documentation:** Maintain comprehensive documentation of AI systems, including data sources, algorithms, and decision logic.
+- **Stakeholder Communication:** Communicate AI processes and outcomes clearly to all relevant stakeholders.
+
+5. Ensure accountability and governance
+Establishing accountability and governance structures for overseeing the ethical use of AI can further trust and support. Measures to consider include:
+
+- **Ethics Committees:** Form committees to oversee AI projects and address ethical concerns.
+- **Governance Frameworks:** Develop frameworks outlining policies and procedures for AI deployment.
+- **Responsibility Assignments:** Assign clear responsibility for AI outcomes to specific individuals or teams.
+
+6. Evaluate vendor compliance
+[When acquiring AI solutions from vendors](https://youtu.be/nqmBBJfeb90), assess their compliance with ethical and legal standards. Consider evaluating the following:
+
+- **Vendor Policies** on data privacy, security, and ethical AI use.
+- **Compliance Certifications**, such as ISO/IEC 27001 for information security management.
+- **Third-Party Audits** to verify vendor compliance regularly.
+
+7. Implement continuous monitoring
+Ethical and legal considerations require continuous monitoring throughout the AI systems' lifecycle. Practices include:
+
+- **Regular Audits** to evaluate AI systems against ethical and legal standards.
+- **Feedback Mechanisms** to gather input from stakeholders and address concerns.
+- **Adaptive Policies** to reflect new regulations and ethical guidelines.
+
 
 **Concluding Thoughts**
 
