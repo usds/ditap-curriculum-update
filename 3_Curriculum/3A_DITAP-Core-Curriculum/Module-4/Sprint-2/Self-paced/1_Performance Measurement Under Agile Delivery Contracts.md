@@ -154,16 +154,20 @@ Strong contract administration ensures that incentives remain fair, transparent,
 
 By grounding incentive structures in thoughtful metrics, collaborative design, and disciplined administration, agencies can ensure that incentives serve their intended purpose: reinforcing behaviors that deliver real value to end users and support mission outcomes.
 
+---
+
 **Alignment with Updated FAR Requirements**
 
 The updated FAR Parts 39 and 6 establish new requirements for performance measurement and incentive structures in IT acquisitions:
 
 **FAR Part 39 Metrics Requirements**:
+
 - Mandatory user outcome metrics for digital service contracts
 - Requirements for continuous performance monitoring aligned with DORA metrics
 - Integration of accessibility and user experience measurements into contract performance evaluation
 
 **FAR Part 6 Competition and Incentive Alignment**:
+
 - How performance incentives must be structured to maintain fair competition
 - Requirements for transparent metrics in competitive digital service procurements
 - Evaluation criteria that support both competition and agile delivery goals
