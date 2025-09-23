@@ -262,9 +262,9 @@ Each team is required to submit a 3-page Discovery Summary. This document must i
 ---
 
 
-### Phase 2: Case study development (Weeks 7–12, Module 3 Sprints 1 & 4)
+### Phase 2: Case study development (Weeks 7–12, Module 3 Sprints 1 & 3)
 
-The objective of Phase 2 is to provide participants with hands-on experience responding to an Agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include Agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 4.
+The objective of Phase 2 is to provide participants with hands-on experience responding to an Agile-focused Request for Quotation (RFQ) using real-world digital service evaluation criteria. Teams simulate vendors by creating a comprehensive case study package that highlights design thinking, usability testing, and implementation. Key learning outcomes for this phase include Agile procurement and proposal writing. This phase builds directly on the Discovery Sprint, with teams developing a case study in response to their RFQ, starting in Module 3, Sprint 1, and concluding with the submission of the Case Study with artifacts in Module 3, Sprint 3.
 
 **Facilitator guide:**
 
@@ -283,7 +283,7 @@ Teams are also informed that their submissions will be evaluated blindly by othe
 
 **Team deliverables:**
 
-Teams must submit a complete Case Study Package comprising all four artifacts. This deliverable is a key milestone in Module 3, Sprint 4.
+Teams must submit a complete Case Study Package comprising all four artifacts. This deliverable is a key milestone in Module 3, Sprint 3.
 
 ### Case study evaluation: Case study artifact requirements & evaluation criteria
 
