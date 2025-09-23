@@ -648,6 +648,7 @@ By combining minimal and living documentation with flexible warranty timing, age
 ### Defining "Good Enough" Software
 
 Acceptance Criteria in Agile Contexts
+
 In Agile environments, acceptance criteria move beyond traditional specification compliance to focus on measurable outcomes that demonstrate real user value. Agencies can define these criteria using user outcome metrics and technical quality gates.  
 
 **User Outcome Metrics** focus on the end-user experience and system effectiveness, including:  
