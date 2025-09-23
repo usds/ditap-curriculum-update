@@ -1,5 +1,6 @@
 # Staying Current and Driving Change: Your Role in Continuous Improvement
 **Module 5 Sprint 2**
+
 > _Average completion time: 60 - 75 minutes_
 
 ## Why Continuous Learning Matters in Federal Acquisition
@@ -479,7 +480,7 @@ Here are some things to keep in mind when considering how to celebrate short-ter
 
 * **Do it in the moment** – Catch people doing incredible work as they are doing it. Be specific and descriptive.  
 * **Make sure you provide context** – A win doesn’t mean much if we don’t understand how it drives toward the ultimate goal, project completion, etc.  
-* **Be authentic** – You have to mean it\!
+* **Be authentic** – You have to mean it!
 
 As a digital acquisition ambassador and leader, you’ll have to think through exactly what the small wins will be and the appropriate level of recognition that makes the right people pay attention, makes the team/army feel like they accomplished something, and helps give the army another celebration to look forward to.
 
@@ -614,9 +615,9 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ## Reflect & Apply
 
-1\. What style did you get? Do you agree with it? Why or why not?  
-2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
-3\. Are there other styles you’d like to develop more intentionally? How might you start?
+1. What style did you get? Do you agree with it? Why or why not?  
+2. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
+3. Are there other styles you’d like to develop more intentionally? How might you start?
 
 --- 
 

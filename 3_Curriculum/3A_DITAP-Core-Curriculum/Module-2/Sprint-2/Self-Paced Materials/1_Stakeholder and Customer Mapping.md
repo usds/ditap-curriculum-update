@@ -133,6 +133,6 @@ Document your interviews and reflect on the conversation and your strategy for f
 
 Please include the date of your interview and an overview of what you discussed. You should also share your insights from the interview with your classmates.   
 
-### **Definition of Done** 
+### Definition of Done
 
 To consider this activity completed, you’ll need to adequately prepare for and complete interviews with 2-4 influencer/gatekeepers at your agency and share insights through a written assignment submitted to the Team.

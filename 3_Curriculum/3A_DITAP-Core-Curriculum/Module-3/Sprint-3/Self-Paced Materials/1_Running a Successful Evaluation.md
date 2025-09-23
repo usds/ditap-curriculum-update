@@ -1,5 +1,6 @@
 # Evaluation Criteria Overview 
 **Module 3 Sprint 3**
+
 > _Average completion time: 90 minutes - 2 hours_
 
 ## I. Phases of agile acquisition
@@ -144,35 +145,20 @@ The Revolutionary FAR Overhaul's updated FAR Part 39 introduces specific evaluat
 
 Selecting the right evaluation criteria is both a technical and strategic task. It requires balancing regulatory compliance, mission needs, and market realities while supporting a fair and defensible acquisition outcome. The following best practices can guide that process:
 
-1. **Understand the requirement deeply**  
-   Begin with a clear, user-centered understanding of the problem space. What outcomes are desired? Who will use the solution? What does success look like? Translate these into criteria that evaluate whether a proposed solution can achieve the desired outcomes
-2. **Align with procurement objectives**  
-   Ensure that the criteria reflect the procurement’s most important dimensions, whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight.
-3. **Engage cross-functional stakeholders early**  
-   Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive,  and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation.
-4. **Categorize and prioritize criteria**  
-   Group evaluation factors into logical categories, such as Technical, Management, Past Performance, and Cost. Within these, distinguish between:
-   * **Mandatory requirements:** Non-negotiables the solution must meet.
-   * **Desirable attributes:** Value-added capabilities that enhance the solution but aren’t strictly required.
-5. **Assign weights based on mission impact**  
-   Use a weighted scoring system to reflect the relative importance of each criterion. A solution's intuitive user experience might warrant more weight than a marginal cost difference, for example.
-6. **Make criteria specific and measurable**  
-   Avoid vague language. Use measurable thresholds or examples. Instead of "has relevant experience," say "has implemented three or more similar solutions for federal clients in the past five years."
-7. **Ensure regulatory alignment**  
-   Validate all criteria against applicable sections of the FAR, especially those governing competitive procedures, evaluation factors for award, and past performance assessments.
-8. **Distinguish past performance from past experience**
-   * **Past performance** assesses a vendor’s track record of meeting contractual obligations—i.e., were they reliable?
-   * **Past experience** evaluates their actual technical work—what did they build, and how well did it meet the need?
-9. **Choose the right evaluation methodology**
-   Match the methodology to the acquisition’s complexity and goals. Use:
-   * Pass/Fail for threshold requirements,  
-   * Point Scales for nuanced scoring,  
-   * Comparative Evaluation for streamlined, side-by-side judgments, or  
-   * Best-Value Trade-Offs when balancing cost and quality in complex procurements.
-10. **Pilot and calibrate your criteria**  
-  Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives.
-11. **Refine Criteria Based on Feedback**  
-  After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair?
+| Step | Guidance |
+|------|---------|
+| 1. **Understand the requirement deeply** | Begin with a clear, user-centered understanding of the problem space. What outcomes are desired? Who will use the solution? What does success look like? Translate these into criteria that evaluate whether a proposed solution can achieve the desired outcomes |
+| 2. **Align with procurement objectives** | Ensure that the criteria reflect the procurement’s most important dimensions, whether that’s speed to deploy, innovation, total cost of ownership, or future maintainability. Not every criterion needs equal weight. |
+| 3. **Engage cross-functional stakeholders early** | Collaborate with technical experts, end-users, legal advisors, security professionals, and finance leads to define criteria that are practical, comprehensive, and defensible from all angles. This engagement builds consensus and reduces surprises during evaluation. |
+| 4. **Categorize and prioritize criteria** | Group evaluation factors into logical categories, such as Technical, Management, Past Performance, and Cost. Within these, distinguish between: <br>- **Mandatory requirements:** Non-negotiables the solution must meet. <br>- **Desirable attributes:** Value-added capabilities that enhance the solution but aren’t strictly required. |
+| 5. **Assign weights based on mission impact** | Use a weighted scoring system to reflect the relative importance of each criterion. A solution's intuitive user experience might warrant more weight than a marginal cost difference, for example. |
+| 6. **Make criteria specific and measurable** | Avoid vague language. Use measurable thresholds or examples. Instead of "has relevant experience," say "has implemented three or more similar solutions for federal clients in the past five years." |
+| 7. **Ensure regulatory alignment** | Validate all criteria against applicable sections of the FAR, especially those governing competitive procedures, evaluation factors for award, and past performance assessments. |
+| 8. **Distinguish past performance from past experience** | - **Past performance:** assesses a vendor’s track record of meeting contractual obligations—i.e., were they reliable? <br>- **Past experience:** evaluates their actual technical work—what did they build, and how well did it meet the need? |
+| 9. **Choose the right evaluation methodology** | Match the methodology to the acquisition’s complexity and goals. Use: <br>- Pass/Fail for threshold requirements <br>- Point Scales for nuanced scoring <br>- Comparative Evaluation for streamlined, side-by-side judgments <br>- Best-Value Trade-Offs when balancing cost and quality in complex procurements |
+| 10. **Pilot and calibrate your criteria** | Test your criteria against sample proposals to ensure they work as intended. Look for scoring ambiguity, overlaps, or unintended incentives. |
+| 11. **Refine Criteria Based on Feedback** | After the award, gather feedback from both vendors and evaluators to improve the criteria for future use. Ask: Did the criteria surface meaningful distinctions? Were the scoring rubrics usable and fair? |
+
 
 In agile environments, where collaboration, adaptability, and working software are paramount, evaluation criteria should reward vendors who demonstrate team maturity, technical fluency, and alignment with end-user needs, preferably in real time through oral presentations or working prototypes.
 
@@ -390,7 +376,7 @@ It is important to note that negotiations are not necessarily about obtaining th
 
 An agency requires a sensor that uses new, cutting-edge technology. The agency anticipates a high level of performance risk; therefore, while price is an important factor, the focus of negotiations will be on technical factors and expertise. The negotiations may involve tradeoffs among price, reducing performance risk, or achieving a higher level of performance. 
 
-> **A note about using price effectively in proposal evaluations**
+> **A note about using price effectively in proposal evaluations:**
 
 In digital service acquisitions, price should be evaluated as part of a broader assessment, not in isolation. The lowest price does not always represent the best value, especially when high-quality talent and iterative problem-solving are essential. Instead, price should serve as a check on the vendor's understanding of the work and their ability to deliver effectively.
 

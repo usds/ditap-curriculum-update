@@ -1,5 +1,6 @@
 # Managing Digital Service Delivery
 **Module 4 Sprint 1**
+
 > _Average completion time: 60 - 75 minutes_
 
 We awarded the contract. Now what?
@@ -30,7 +31,9 @@ You operate in an environment where there is growing demand for faster delivery,
 
 Digital service contracts focus on outcomes, not outputs. Instead of buying a predetermined solution, you're investing in a team's ability to solve user problems and meet mission needs.
 
-**Traditional approach**: "Build us a system with these 47 requirements by this date." **Product approach:** "Help our users accomplish \[specific goal\] more effectively."
+**Traditional approach**: "Build us a system with these 47 requirements by this date." 
+
+**Product approach:** "Help our users accomplish \[specific goal\] more effectively."
 
 Product teams utilize research, testing, and data to inform their decisions. They build features incrementally, test them with real users, and adjust based on feedback. This approach reduces risk because you see working software frequently and can make course corrections quickly.
 
@@ -75,41 +78,48 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 * **What Happens**: Vendor team shares status updates, blockers, and next steps.  
 * **PO Role**: Ensures focus remains on outcomes and product priorities.  
 * **COR Role** *(Optional)*: May attend to observe team health or identify early risk signals.  
-* **Procurement Alignment**:  
+* **Procurement Alignment**:
+  
   * COR notes major blockers or risks that may impact delivery.  
   * Can inform discussions with CO if risks persist or escalate.
 
-#### Sprint planning (start of every sprint – e.g., Week 1, Week 3\)
+#### Sprint planning (start of every sprint – e.g., Week 1, Week 3)
 
-* **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.  
-* **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.  
-* **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.  
-* **Procurement Alignment**:  
-  * COR ensures planned work aligns with contract objectives and performance standards.  
-  * Documents expectations for QASP tracking and vendor evaluation.
+* **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.
+* **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.
+* **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.
+* **Procurement Alignment**:
+  
+  - COR ensures planned work aligns with contract objectives and performance standards.
+  - Documents expectations for QASP tracking and vendor evaluation.
 
-#### Sprint review (end of each sprint – e.g., Week 2, Week 4\)
+
+#### Sprint review (end of each sprint – e.g., Week 2, Week 4)
 
 * **What Happens**: Vendor demos completed work to PO, COR, and stakeholders.  
 * **PO Role**: Accepts or rejects deliverables based on the agreed Definition of Done (DoD).  
 * **COR Role**: Evaluates whether outputs meet expectations for quality, timeliness, and user value.  
-* **Procurement Alignment**:  
+* **Procurement Alignment**:
+  
   * COR documents observations in the performance file.  
   * Key input to QASP, CPARS, and other performance assessments.
 
 #### Sprint retrospective (end of each sprint)
 
-* **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.  
-* **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.  
-* **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.  
-* **Procurement Alignment**:  
-  * Lessons learned may prompt updates to backlog, team processes, or performance plans.
+* **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.
+* **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.
+* **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.
+* **Procurement Alignment**:
+  
+  - Lessons learned may prompt updates to backlog, team processes, or performance plans.
+
 
 #### Monthly business review (end of month)
 
 * **What Happens**: PO, COR, and CO review sprint outcomes, address contract questions, and plan forward.  
 * **Who Participates**: CO, COR, PO, vendor lead  
-* **Procurement Alignment**:  
+* **Procurement Alignment**:
+  
   * Formal checkpoint to assess vendor performance.  
   * Address contractual matters: funding, risk, modifications, scope shifts.  
   * Celebrate progress, align on upcoming priorities, and track delivery against milestones.

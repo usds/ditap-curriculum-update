@@ -84,8 +84,7 @@ Structure payments around user outcomes, not just deliverables:
 - **Performance Improvement Awards:** Bonuses for measurable improvements in key metrics.  
 - **Quality Excellence Fees:** Awards for consistently low defect rates.  
 
->**Example:**  
-"Contractor receives $25,000 bonus for each quarter where user task completion rate exceeds 85% and user satisfaction scores exceed 4.0/5.0."
+>**Example:**  "Contractor receives $25,000 bonus for each quarter where user task completion rate exceeds 85% and user satisfaction scores exceed 4.0/5.0."
 
 **2. Continuous Delivery Incentives**
 Reward sustainable development practices:
@@ -94,8 +93,7 @@ Reward sustainable development practices:
 - **Deployment Frequency Bonuses:** Rewards for maintaining a regular release cadence.  
 - **Recovery Time Excellence:** Awards for quick resolution of production issues.  
 
->**Example:**  
-"Contractor receives an award fee of 5% of quarterly payments for maintaining deployment frequency of at least weekly with less than 10% failure rate."
+>**Example:** "Contractor receives an award fee of 5% of quarterly payments for maintaining deployment frequency of at least weekly with less than 10% failure rate."
 
 **3. Team Stability Incentives**
 Encourage keeping strong, consistent teams on the project:
@@ -104,8 +102,7 @@ Encourage keeping strong, consistent teams on the project:
 - **Knowledge Transfer Awards:** Bonuses for effective onboarding and documentation.  
 - **Skill Development Incentives:** Support for team training and certification.  
 
->**Example:**  
-"Contractor receives a $10,000 bonus if 85% or more of the originally proposed team members in labor categories X, Y, and Z remain continuously assigned to the project throughout the base period, with no more than two unplanned substitutions."
+>**Example:**  "Contractor receives a $10,000 bonus if 85% or more of the originally proposed team members in labor categories X, Y, and Z remain continuously assigned to the project throughout the base period, with no more than two unplanned substitutions."
 
 #### Effective Non-Monetary Incentives
 
@@ -157,16 +154,20 @@ Strong contract administration ensures that incentives remain fair, transparent,
 
 By grounding incentive structures in thoughtful metrics, collaborative design, and disciplined administration, agencies can ensure that incentives serve their intended purpose: reinforcing behaviors that deliver real value to end users and support mission outcomes.
 
+---
+
 **Alignment with Updated FAR Requirements**
 
 The updated FAR Parts 39 and 6 establish new requirements for performance measurement and incentive structures in IT acquisitions:
 
 **FAR Part 39 Metrics Requirements**:
+
 - Mandatory user outcome metrics for digital service contracts
 - Requirements for continuous performance monitoring aligned with DORA metrics
 - Integration of accessibility and user experience measurements into contract performance evaluation
 
 **FAR Part 6 Competition and Incentive Alignment**:
+
 - How performance incentives must be structured to maintain fair competition
 - Requirements for transparent metrics in competitive digital service procurements
 - Evaluation criteria that support both competition and agile delivery goals
@@ -555,6 +556,8 @@ Modern Applications:
 * Continuous delivery: Traditional acceptance models don't align with daily deployments  
 * User experience: Warranties should cover accessibility, performance, and user satisfaction metrics
 
+---
+
 **Integration with FAR Part 40**
 
 The 2024 establishment of FAR Part 40 (Information Security and Supply Chain Security) creates new warranty considerations:
@@ -564,16 +567,20 @@ The 2024 establishment of FAR Part 40 (Information Security and Supply Chain Sec
 * Continuous monitoring and incident response capabilities  
 * Third-party component security assurances
 
+---
+
 **Integration with Updated FAR Parts 39 and 6**
 
 The recent overhauls of FAR Parts 39 and 6 introduce warranty considerations specific to modern IT acquisitions:
 
 **FAR Part 39 Warranty Provisions**:
+
 - New requirements for performance-based warranties in agile development contexts
 - Updated guidance on warranty periods for iterative delivery models
 - Integration requirements with continuous monitoring and DevSecOps practices
 
 **FAR Part 6 Competition and Warranty Interactions**:
+
 - How warranty requirements must be addressed in streamlined competition procedures
 - Evaluation criteria for warranty provisions in digital service competitions
 - Requirements for warranty continuity across multiple competing vendors in phased approaches
@@ -585,6 +592,7 @@ The recent overhauls of FAR Parts 39 and 6 introduce warranty considerations spe
 Effective warranty strategies in Agile and cloud-based environments ensure that deliverables, system integrations, and operational expectations are consistently met, even across iterative development cycles and multi-vendor ecosystems. Agencies can structure warranties at different levels, sprint, system integration, DevSecOps, and cloud services, to provide accountability, encourage quality, and reduce risk.  
 
 **Key Warranty Focus Areas:**  
+
 - Sprint-Level Warranties  
 - System Integration Warranties  
 - DevSecOps Warranty Provisions  
@@ -628,6 +636,7 @@ Agile emphasizes delivering working software quickly, but warranties require suf
 **Living Documentation** complements this by generating documentation directly from code, creating user guides collaboratively during sprints, providing video demonstrations of workflows, and automating compliance reporting. This approach keeps documentation up-to-date while aligning with Agile principles.  
 
 **Warranty Timing Models** can be structured in multiple ways to suit Agile contracts:  
+
 - **Rolling Warranties:** Each sprint has a 30-day warranty, with system-wide coverage beginning after MVP acceptance and extending for 12 months after final delivery.  
 - **Milestone-Based Warranties:** Warranties activate at major release points, with continuous coverage for critical security or availability issues and an extended period for final system delivery.  
 - **Continuous Warranty Model:** Provides ongoing coverage for production systems, including regular reviews, updates, and performance-based adjustments.  
@@ -638,23 +647,27 @@ By combining minimal and living documentation with flexible warranty timing, age
 
 ### Defining "Good Enough" Software
 
-#### Acceptance Criteria in Agile Contexts
+Acceptance Criteria in Agile Contexts
+
 In Agile environments, acceptance criteria move beyond traditional specification compliance to focus on measurable outcomes that demonstrate real user value. Agencies can define these criteria using user outcome metrics and technical quality gates.  
 
 **User Outcome Metrics** focus on the end-user experience and system effectiveness, including:  
+
 - Task completion rates  
 - User satisfaction scores  
 - System performance under realistic loads  
 - Accessibility compliance verification  
 - Results from security posture assessments  
 
-**Technical Quality Gates** ensure the software meets rigorous engineering standards, including:  
+**Technical Quality Gates** ensure the software meets rigorous engineering standards, including:
+
 - Automated test coverage thresholds  
 - Code quality metrics (such as maintainability and security)  
 - Performance benchmarks  
 - Timelines for remediating security vulnerabilities  
 
 Modern Agile warranties often codify these outcomes into explicit contract language. Examples include:  
+
 - **Integration Warranty Clause:** Contractors warrant that all software deliverables will integrate with existing government systems as demonstrated through automated integration tests, with any integration failures resolved within 48 hours at no additional cost.  
 - **Cybersecurity Warranty Provision:** Contractors warrant that software will be free from high and critical severity vulnerabilities, remediating any newly discovered vulnerabilities within specified Cybersecurity Performance Requirement timelines.  
 - **User Experience Warranty:** Contractors warrant that all user interfaces will meet WCAG 2.1 AA accessibility standards and achieve task completion rates of 90% or higher, verified through quarterly usability testing.  
@@ -665,10 +678,11 @@ By framing acceptance criteria around outcomes and technical quality, agencies c
 
 ### Risk Management Through Warranties
 
-#### Balancing Protection and Innovation
+Balancing Protection and Innovation
 Warranties in federal Agile contracts play a critical role in balancing government protection with vendor innovation. They provide mechanisms to safeguard mission outcomes while allowing contractors the flexibility to apply modern development practices and innovate within the program.  
 
-**Government Protection** focuses on ensuring accountability and mitigating risk. Key elements include:  
+**Government Protection** focuses on ensuring accountability and mitigating risk. Key elements include: 
+
 - Clear remediation timelines and escalation procedures  
 - Financial remedies for warranty breaches  
 - The right to access source code and documentation in the event of non-compliance  
@@ -679,6 +693,7 @@ These measures ensure that the government retains recourse if deliverables fail 
 **Vendor Innovation Space** allows contractors the flexibility to experiment with implementation approaches and encourages collaborative problem-solving before triggering formal warranty breaches. This approach recognizes that technology evolves and requirements may change, while still maintaining alignment with shared metrics and continuous improvement processes.  
 
 **Warranty Enforcement in Agile Environments** emphasizes collaboration rather than confrontation. Agencies can implement a collaborative enforcement model through:  
+
 - Regular warranty review sessions  
 - Shared monitoring dashboards  
 - Joint problem-solving approaches  
@@ -700,7 +715,10 @@ This ensures that risk is managed proactively without stifling innovation or slo
 * When should a Contracting Officer consider using a warranty?   
 * What are the primary limitations of traditional warranty approaches when applied to software development?
 
+---
+
 The following readings discuss using warranties in Agile development projects. When reading, think about how your agency can adopt these techniques:  
+
 
 **Article:** [The Beauty and Terror of Agile Software Development](https://www.mintz.com/insights-center/viewpoints/2866/2021-03-24-beauty-and-terror-agile-software-development) 
 

@@ -1,5 +1,6 @@
 # Strategic Planning and Execution in Digital Acquisitions
 **Module 3 Sprint 2**
+
 > _Average completion time: 60 - 90 minutes_
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
@@ -35,13 +36,14 @@ By the end of this sprint, participants will be able to navigate the post-Revolu
 
 While **FAR 37.6** does not specifically mention Agile methodologies, it aligns with the principles and practices that underpin Agile development approaches. Here’s how FAR 37.6 can be linked to Agile software development:
 
-1\. **Outcome-Focused Approach:** FAR 37.6 emphasizes the importance of focusing on outcomes rather than prescribing specific methods or processes. Similarly, Agile software development emphasizes delivering value and achieving desired outcomes through iterative development and frequent feedback loops.
+1. **Outcome-Focused Approach:** FAR 37.6 emphasizes the importance of focusing on outcomes rather than prescribing specific methods or processes. Similarly, Agile software development emphasizes delivering value and achieving desired outcomes through iterative development and frequent feedback loops.
 
-2\. **Flexibility and Adaptability:** Agile methodologies prioritize flexibility and adaptability in responding to changing requirements and stakeholder feedback. FAR 37.6 encourages agencies to structure contracts that provide flexibility and allow for adjustments based on evolving needs, aligning with Agile’s adaptive approach.
+2. **Flexibility and Adaptability:** Agile methodologies prioritize flexibility and adaptability in responding to changing requirements and stakeholder feedback. FAR 37.6 encourages agencies to structure contracts that provide flexibility and allow for adjustments based on evolving needs, aligning with Agile’s adaptive approach.
 
-3\. **Collaboration and Communication:** Agile development emphasizes frequent collaboration and communication among stakeholders, including government agencies and contractors. FAR 37.6 promotes early engagement and collaboration between the government and industry partners to ensure a shared understanding of requirements and foster effective communication throughout the procurement process.
+3. **Collaboration and Communication:** Agile development emphasizes frequent collaboration and communication among stakeholders, including government agencies and contractors. FAR 37.6 promotes early engagement and collaboration between the government and industry partners to ensure a shared understanding of requirements and foster effective communication throughout the procurement process.
 
-4\. **Iterative Delivery and Continuous Improvement:** Agile software development promotes iterative delivery, allowing for the early release of functional software components. FAR 37.6 supports the concept of progressive acquisition, where contracts are structured to enable incremental deliveries and continuous improvement, aligning with the iterative nature of Agile development.
+4. **Iterative Delivery and Continuous Improvement:** Agile software development promotes iterative delivery, allowing for the early release of functional software components. FAR 37.6 supports the concept of progressive acquisition, where contracts are structured to enable incremental deliveries and continuous improvement, aligning with the iterative nature of Agile development.
+
 
 By leveraging the flexibility, collaboration, iterative delivery, and outcome-focused approach of both FAR 37.6 and Agile, government agencies can foster more efficient and effective software development processes that deliver value to stakeholders.
 
@@ -119,22 +121,25 @@ U.S. Federal policy has rapidly evolved to support the responsible use of AI in 
 
 The Federal Acquisition Regulation has been updated to address AI procurement and competition requirements:
 
-**FAR Part 39 - Acquisition of information technology (AI provisions)**
+**FAR Part 39 - Acquisition of Information Technology (AI provisions)**
 
 Recent updates to FAR Part 39 establish specific requirements for acquiring AI systems:
-- **AI system classification**: Contractors must classify AI systems by impact level (minimal, limited, high-impact) and provide documentation of AI capabilities, limitations, and intended use cases.
-- **Algorithmic impact assessments**: For high-impact AI systems, contractors must conduct and provide algorithmic impact assessments addressing bias, fairness, accuracy, and explainability.
-- **Data rights and AI models**: Enhanced provisions for government rights in AI training data, model weights, and algorithmic documentation to ensure transparency and enable government oversight.
-- **AI governance requirements**: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
-- **Explainability standards**: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
+
+- AI system classification: Contractors must classify AI systems by impact level (minimal, limited, high-impact) and provide documentation of AI capabilities, limitations, and intended use cases.
+- Algorithmic impact assessments: For high-impact AI systems, contractors must conduct and provide algorithmic impact assessments addressing bias, fairness, accuracy, and explainability.
+- Data rights and AI models: Enhanced provisions for government rights in AI training data, model weights, and algorithmic documentation to ensure transparency and enable government oversight.
+- AI governance requirements: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
+- Explainability standards: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
 
 **FAR Part 6 - Competition requirements (AI-enhanced competition)**
 
 Updates to FAR Part 6 address how AI tools can enhance and complicate competition:
-- **AI-assisted market research**: Agencies may use AI tools for market research and vendor identification while ensuring competitive opportunities remain fair and transparent.
-- **Competition in AI acquisitions**: Special competition considerations for AI systems, including evaluation of algorithm performance, bias testing, and interoperability requirements.
-- **Vendor evaluation criteria**: Enhanced evaluation factors for AI acquisitions including algorithm transparency, bias mitigation approaches, and data governance practices.
-- **Small business considerations**: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
+
+- AI-assisted market research: Agencies may use AI tools for market research and vendor identification while ensuring competitive opportunities remain fair and transparent.
+- Competition in AI acquisitions: Special competition considerations for AI systems, including evaluation of algorithm performance, bias testing, and interoperability requirements.
+- Vendor evaluation criteria: Enhanced evaluation factors for AI acquisitions including algorithm transparency, bias mitigation approaches, and data governance practices.
+- Small business considerations: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
+
 
 ### OMB guidance
 
@@ -145,6 +150,7 @@ Revolutionary FAR Overhaul Impact on AI-Enabled Procurement
 The Revolutionary FAR Overhaul has fundamentally transformed how agencies approach Information and Communication Technology (ICT) procurement through revised FAR Part 39, now retitled "Acquisition of Information and Communication Technology." The revised Part 39 anchors rules directly in statutory authority, including 41 U.S.C. § 2308 (Modular contracting for information technology) and 29 U.S.C. § 794d (Electronic and information technology), while clearing away outdated Office of Management and Budget circular references. 
 
 Key changes affecting AI procurement include:
+
 - **Modular Contracting as Core Requirement**: Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems of information technology, with contracts structured to ensure the Government is not required to procure additional increments. 
 - **Accelerated Procurement Timeline**: Modular contracts for information technology should be awarded within 180 days after solicitation issuance to avoid obsolescence.
 - **Performance-Based Focus**: FAR Part 39 now requires contractors to provide evidence of success in delivering performance-based outcomes for ICT services. 
@@ -183,8 +189,8 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 
 * **CIPS & Posterity Global** (2024). *[AI in Procurement and Supply: How Automation Will Change Your Career and the Function](https://cips-download.cips.org/expert-reports/cips-ai-in-procurement-and-supply-2024)*  
 * **OMB GitHub**. *[2024 Federal Agency AI Use Case Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory)*  
-* **White House**. *[Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)* 
-* **White House**. *[America’s AI Action Plan* (Jul 2025\)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)* 
+* **White House**. [*Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)
+* **White House**. [*America’s AI Action Plan* (Jul 2025)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)
 * **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
 
 ## Discussion prompt (optional): How should AI influence acquisition strategy development?
@@ -208,11 +214,12 @@ Choose one of the following prompts and share a short reflection. Your insight m
 * Do you believe AI will enhance or challenge the role of human judgment and innovation in acquisition planning? Why? (e.g., Will AI free us to focus on strategic thinking—or risk diminishing it?)
 * How should recent updates to FAR Parts 6 and 39 influence your approach to AI acquisition strategy? (e.g., How do new AI classification requirements affect your procurement planning? What impact do enhanced competition provisions have on vendor engagement strategies?)
 
-### 7 Strategies for evaluating the ethical and legal impact of implementing AI in federal agencies
+## 7 Strategies for evaluating the ethical and legal impact of implementing AI in federal agencies
 
 As federal agencies harness the transformative potential of Artificial Intelligence (AI) to enhance their operations, addressing the ethical and legal implications associated with acquiring and deploying AI technologies naturally takes center stage. Long before the robots rise-up and enslave humanity, we will need to address some more near-term risks and concerns. Agencies must ensure that AI solutions are ethically sound and legally compliant in order to maintain public trust, adhere to regulatory standards, and to achieve strategic objectives. Here’s a guide to help federal agencies assess the ethical and legal implications of acquiring AI.
 
-**1\. Understand regulatory requirements** The first step in assessing the legal implications of acquiring AI is to understand the relevant policy and regulatory requirements. This includes data privacy laws, cybersecurity standards, and AI-specific policies and regulations. Key policies and regulations to consider include:
+**1. Understand regulatory requirements**
+The first step in assessing the legal implications of acquiring AI is to understand the relevant policy and regulatory requirements. This includes data privacy laws, cybersecurity standards, and AI-specific policies and regulations. Key policies and regulations to consider include:
 
 * [Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence](https://bidenwhitehouse.archives.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/)
 * [Driving Efficient Acquisition of Artificial Intelligence in Government - OMB Memorandum M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)
@@ -222,35 +229,48 @@ As federal agencies harness the transformative potential of Artificial Intellige
 * [AI in Government Act of 2020 (Title I of Division U of the Consolidated Appropriations Act, 2021).](https://www.congress.gov/116/plaws/publ260/PLAW-116publ260.pdf)  
 * [EO 13960: Promoting the Use of Trustworthy AI in the Federal Government.](https://www.federalregister.gov/documents/2020/12/08/2020-27065/promoting-the-use-of-trustworthy-artificial-intelligence-in-the-federal-government)
 
-**2\. Ensure data privacy and security** Data privacy and security are paramount when deploying AI solutions. AI systems often process large volumes of sensitive data, requiring the implementation of robust data protection measures:
-* Data Encryption: Ensure data is encrypted both at rest and in transit.  
-* Access Controls: Implement strict access controls to limit data access.  
-* Data Anonymization: Employ techniques to anonymize data, reducing the risk of exposing personal information.
+**2. Ensure data privacy and security**
+Data privacy and security are paramount when deploying AI solutions. AI systems often process large volumes of sensitive data, requiring the implementation of robust data protection measures:
 
-**3\. Address algorithmic bias** Algorithmic bias can lead to unfair outcomes, undermining the integrity of AI systems. To mitigate bias, agencies should:
-* Use diverse data sets to ensure training data is representative of different demographics.  
-* Conduct bias audits to detect and address biases in AI algorithms.  
-* Implement transparent practices to allow stakeholders to understand AI decision-making processes.
+- **Data Encryption:** Ensure data is encrypted both at rest and in transit.
+- **Access Controls:** Implement strict access controls to limit data access.
+- **Data Anonymization:** Employ techniques to anonymize data, reducing the risk of exposing personal information.
 
-**4\. Promote transparency and explainability** Transparency and explainability are necessary for building trust in AI systems. Strategies to promote transparency include:
-* Explainable AI (XAI): Implement AI models that provide clear explanations of their decision-making processes.  
-* Documentation: Maintain comprehensive documentation of AI systems, including data sources, algorithms, and decision logic.  
-* Stakeholder Communication: Communicate AI processes and outcomes clearly to all relevant stakeholders.
+**3. Address algorithmic bias**
+Algorithmic bias can lead to unfair outcomes, undermining the integrity of AI systems. To mitigate bias, agencies should:
 
-**5\. Ensure accountability and governance** Establishing accountability and governance structures for overseeing the ethical use of AI can further trust and support. Measures to consider include:
-* Ethics Committees: Form committees to oversee AI projects and address ethical concerns.  
-* Governance Frameworks: Develop frameworks outlining policies and procedures for AI deployment.  
-* Responsibility Assignments: Assign clear responsibility for AI outcomes to specific individuals or teams.
+- **Use diverse data sets** to ensure training data is representative of different demographics.
+- **Conduct bias audits** to detect and address biases in AI algorithms.
+- **Implement transparent practices** to allow stakeholders to understand AI decision-making processes.
 
-**6\. Evaluate vendor compliance** [When acquiring AI solutions from vendors](https://youtu.be/nqmBBJfeb90), assess their compliance with ethical and legal standards. Consider evaluating the following:
-* Vendor Policies on data privacy, security, and ethical AI use.  
-* Compliance Certifications, such as ISO/IEC 27001 for information security management.  
-* Third-Party Audits to verify vendor compliance regularly.
+**4. Promote transparency and explainability**
+Transparency and explainability are necessary for building trust in AI systems. Strategies to promote transparency include:
 
-**7\. Implement continuous monitoring** Ethical and legal considerations require continuous monitoring throughout the AI systems' lifecycle. Practices include:
-* Regular Audits to evaluate AI systems against ethical and legal standards.  
-* Feedback Mechanisms to gather input from stakeholders and address concerns.  
-* Adaptive Policies to reflect new regulations and ethical guidelines.
+- **Explainable AI (XAI):** Implement AI models that provide clear explanations of their decision-making processes.
+- **Documentation:** Maintain comprehensive documentation of AI systems, including data sources, algorithms, and decision logic.
+- **Stakeholder Communication:** Communicate AI processes and outcomes clearly to all relevant stakeholders.
+
+**5. Ensure accountability and governance**
+Establishing accountability and governance structures for overseeing the ethical use of AI can further trust and support. Measures to consider include:
+
+- **Ethics Committees:** Form committees to oversee AI projects and address ethical concerns.
+- **Governance Frameworks:** Develop frameworks outlining policies and procedures for AI deployment.
+- **Responsibility Assignments:** Assign clear responsibility for AI outcomes to specific individuals or teams.
+
+**6. Evaluate vendor compliance**
+[When acquiring AI solutions from vendors](https://youtu.be/nqmBBJfeb90), assess their compliance with ethical and legal standards. Consider evaluating the following:
+
+- **Vendor Policies** on data privacy, security, and ethical AI use.
+- **Compliance Certifications**, such as ISO/IEC 27001 for information security management.
+- **Third-Party Audits** to verify vendor compliance regularly.
+
+**7. Implement continuous monitoring**
+Ethical and legal considerations require continuous monitoring throughout the AI systems' lifecycle. Practices include:
+
+- **Regular Audits** to evaluate AI systems against ethical and legal standards.
+- **Feedback Mechanisms** to gather input from stakeholders and address concerns.
+- **Adaptive Policies** to reflect new regulations and ethical guidelines.
+
 
 **Concluding Thoughts**
 
