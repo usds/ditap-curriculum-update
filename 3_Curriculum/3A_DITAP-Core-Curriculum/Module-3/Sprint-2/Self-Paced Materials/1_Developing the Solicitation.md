@@ -120,7 +120,7 @@ U.S. Federal policy has rapidly evolved to support the responsible use of AI in 
 
 The Federal Acquisition Regulation has been updated to address AI procurement and competition requirements:
 
-# FAR Part 39 - Acquisition of Information Technology (AI provisions)
+**FAR Part 39 - Acquisition of Information Technology (AI provisions)**
 
 Recent updates to FAR Part 39 establish specific requirements for acquiring AI systems:
 
@@ -130,7 +130,7 @@ Recent updates to FAR Part 39 establish specific requirements for acquiring AI s
 - AI governance requirements: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
 - Explainability standards: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
 
-# FAR Part 6 - Competition requirements (AI-enhanced competition)
+**FAR Part 6 - Competition requirements (AI-enhanced competition)**
 
 Updates to FAR Part 6 address how AI tools can enhance and complicate competition:
 
