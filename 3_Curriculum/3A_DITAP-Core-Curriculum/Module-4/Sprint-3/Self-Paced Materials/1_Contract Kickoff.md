@@ -1,5 +1,6 @@
 # Contract Kickoff: Launching Successful Digital Service Delivery
 **Module 4 Sprint 3**
+
 > _Average completion time: 45 - 60 minutes_
 
 ## Overview
@@ -242,7 +243,7 @@ These resources reflect the significant changes in federal cloud policy followin
 
 ### Required readings
 
-#### Reading 1: [FedRAMP Modernization and Automation Strategy](https://www.fedramp.gov/2024-03-28-a-new-roadmap-for-fedramp/)
+**Reading 1: [FedRAMP Modernization and Automation Strategy](https://www.fedramp.gov/2024-03-28-a-new-roadmap-for-fedramp/)**
 
 This foundational reading outlines FedRAMP's strategic transformation to support modern cloud procurement. The document explains how automated authorization processes, risk-based security controls, and commercial-first policies are reshaping federal cloud adoption. It emphasizes the shift from government-specific cloud offerings to leveraging commercial platforms that achieve FedRAMP compliance.
 
@@ -252,7 +253,9 @@ This foundational reading outlines FedRAMP's strategic transformation to support
 * What are the implications of transitioning from government-specific to commercial cloud offerings for contract terms and vendor management?  
 * How should acquisition professionals structure solicitations to leverage both traditional FedRAMP pathways and emerging FedRAMP 20x processes?
 
-#### Reading 2: [FedRAMP 20x: Cloud-Native Authorization Approach](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-announces-fedramp-20x-03242025)
+---
+
+**Reading 2: [FedRAMP 20x: Cloud-Native Authorization Approach](https://www.gsa.gov/about-us/newsroom/news-releases/gsa-announces-fedramp-20x-03242025)**
 
 This reading introduces the FedRAMP 20x initiative, which represents a fundamental shift toward cloud-native, automated authorization processes. The document outlines how machine-readable security assessments and API-driven workflows can reduce authorization timeframes from months to weeks while maintaining rigorous security standards.
 
@@ -262,7 +265,9 @@ This reading introduces the FedRAMP 20x initiative, which represents a fundament
 * What new vendor evaluation criteria become important in automated authorization environments?  
 * How can acquisition professionals structure contracts to take advantage of faster authorization cycles while managing implementation risks?
 
-#### Reading 3: [Federal Cloud Computing Strategy: Cloud Smart Implementation](https://cloud.cio.gov/strategy/)
+---
+
+**Reading 3: [Federal Cloud Computing Strategy: Cloud Smart Implementation](https://cloud.cio.gov/strategy/)**
 
 This comprehensive strategy document provides the policy foundation for federal cloud adoption, emphasizing security, procurement, and workforce development. It outlines the "solve before buy" approach that replaces traditional procurement methods with outcome-focused acquisition strategies.
 
@@ -272,7 +277,9 @@ This comprehensive strategy document provides the policy foundation for federal 
 * What role should DevSecOps and continuous delivery practices play in cloud service procurement and contract management?  
 * How can agencies balance the benefits of cloud adoption with the need for robust vendor management and data protection?
 
-#### Reading 4: [Anything-as-a-Service (XaaS) Market Dynamics and Federal Applications](https://www.ibm.com/think/topics/xaas)
+---
+
+**Reading 4: [Anything-as-a-Service (XaaS) Market Dynamics and Federal Applications](https://www.ibm.com/think/topics/xaas)**
 
 This reading provides essential background on the rapidly expanding XaaS market, which reached $328 billion globally in 2024\. It covers the full spectrum of service models from traditional SaaS/PaaS/IaaS to emerging categories like AI-as-a-Service and Function-as-a-Service that are becoming critical to federal digital transformation.
 
@@ -282,7 +289,9 @@ This reading provides essential background on the rapidly expanding XaaS market,
 * What procurement strategies help agencies manage vendor ecosystems when multiple XaaS providers must work together? 
 * How do consumption-based and outcome-based pricing models change traditional government contracting approaches?
 
-#### Reading 5: [TechFAR Hub: Cloud Procurement Best Practices and Sample Language](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)
+---
+
+**Reading 5: [TechFAR Hub: Cloud Procurement Best Practices and Sample Language](https://techfarhub.usds.gov/resources/learning-center/sample-language-for-government-contracts/)**
 
 This practical resource provides actionable guidance and sample contract language for modern cloud and digital service procurements. It reflects lessons learned from successful federal implementations and addresses common challenges in vendor management, performance measurement, and risk mitigation.
 
@@ -322,15 +331,15 @@ Based on the cloud and XaaS procurement readings, prepare to engage with the fol
 
 **Practical Application Questions:** 
 
-3\. When procuring services that span multiple XaaS categories (SaaS applications, PaaS development platforms, IaaS infrastructure), what contract structures and vendor management approaches are most effective for ensuring integration and performance?
+3. When procuring services that span multiple XaaS categories (SaaS applications, PaaS development platforms, IaaS infrastructure), what contract structures and vendor management approaches are most effective for ensuring integration and performance?
 
-4\. How can acquisition professionals structure performance-based contracts for cloud services that encourage innovation and continuous improvement while maintaining predictable costs and clear accountability?
+4. How can acquisition professionals structure performance-based contracts for cloud services that encourage innovation and continuous improvement while maintaining predictable costs and clear accountability?
 
 **Risk Management Questions:** 
 
-5\. What strategies help agencies avoid vendor lock-in while still leveraging the full benefits of integrated cloud platforms and XaaS ecosystems?
+5. What strategies help agencies avoid vendor lock-in while still leveraging the full benefits of integrated cloud platforms and XaaS ecosystems?
 
-6\. How should data sovereignty, portability, and exit planning requirements be structured in XaaS contracts to protect government interests without limiting vendor innovation?
+6. How should data sovereignty, portability, and exit planning requirements be structured in XaaS contracts to protect government interests without limiting vendor innovation?
 
 **Assignment Requirements**
 
