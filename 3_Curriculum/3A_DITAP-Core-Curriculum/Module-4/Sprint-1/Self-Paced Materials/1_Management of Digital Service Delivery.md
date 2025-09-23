@@ -85,13 +85,13 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 
 #### Sprint planning (start of every sprint – e.g., Week 1, Week 3)
 
-* **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.  
-* **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.  
-* **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.  
+* **What Happens**: Vendor team commits to a set of prioritized stories from the product backlog.
+* **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.
+* **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.
 * **Procurement Alignment**:
-   
-  * COR ensures planned work aligns with contract objectives and performance standards.  
-  * Documents expectations for QASP tracking and vendor evaluation.
+  - COR ensures planned work aligns with contract objectives and performance standards.
+  - Documents expectations for QASP tracking and vendor evaluation.
+
 
 #### Sprint review (end of each sprint – e.g., Week 2, Week 4)
 
@@ -105,12 +105,12 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 
 #### Sprint retrospective (end of each sprint)
 
-* **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.  
-* **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.  
-* **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.  
+* **What Happens**: Internal team (vendor and government) reflects on what went well, what didn’t, and how to improve.
+* **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.
+* **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.
 * **Procurement Alignment**:
-   
-  * Lessons learned may prompt updates to backlog, team processes, or performance plans.
+  - Lessons learned may prompt updates to backlog, team processes, or performance plans.
+
 
 #### Monthly business review (end of month)
 
