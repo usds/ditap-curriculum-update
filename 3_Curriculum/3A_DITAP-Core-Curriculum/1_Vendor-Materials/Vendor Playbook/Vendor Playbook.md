@@ -804,7 +804,7 @@ The threaded case scenario unfolds alongside the course modules, with each activ
 
 | **Module** | **Sprint** | **Activity Title** | **Case Scenario Milestone Alignment** |
 |------------|------------|---------------------|----------------------------------------|
-| **Module 1** | Sprint 1 | Introduction to Cynuria Case | Not a formal milestone, serves as Case scenario narrative intro |
+| **Module 1** | Sprint 1 | Introduction to Cynuria Case / Introducing Casey and the CRM Project | Not a formal milestone, serves as Case scenario narrative intro |
 | **Module 2** | Sprint 1 | Stakeholder Mapping | Milestone 1 |
 | **Module 2** | Sprint 4 | Market Research Planning | Not a formal milestone, builds on Milestone 1 |
 | **Module 2** | Sprint 4 | FAR 10 Integration Assignment | Not a formal milestone. It’s an extension activity. |
