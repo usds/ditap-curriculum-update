@@ -16,7 +16,7 @@
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 and 5 |
 | **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
 
-[Navigating Stakeholder and Decision-Making Challenges\_DITAP Case Study](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md)
+[Navigating Stakeholder and Decision-Making Challenges\_DITAP Case Study](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md)
   
 ## M1S1 Case study facilitator guide 
 - **Session Title: Introducing Casey and the CRM Project**  
@@ -30,7 +30,7 @@
 
 In this module, learners will explore what digital services are, how they are delivered, and why they matter. This session sets the foundation for the program by introducing the key concepts, players, and methods in modern federal digital acquisition. 
 
-The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
+The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
 
 **Learning objectives:**
 
@@ -56,7 +56,7 @@ This is the first of several touchpoints with the Navigating Stakeholder and Dec
 
 **Pre-read for participants:**
 
-* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Case Study
+* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Case Study
 
 **Pre-session facilitator preparation:**
 * Review the full case study focusing on: Cloud Smart policy context, FedRAMP requirements, and stakeholder dynamics  
@@ -878,7 +878,7 @@ In this session, learners will explore how to apply adaptive leadership and infl
    * **Leadership hot seat:** Ask for one volunteer per group to sit in a “hot seat” and role-play Casey. The rest of the group becomes Casey’s peer coaches. They ask clarifying questions, offer advice, and challenge assumptions.  
    * **Resistance gallery walk:** Create three or four posters or digital boards titled with common forms of resistance (e.g., "Loss of Control," "Fear of the Unknown," "Competing Priorities"). Groups rotate around the room, jotting down where they’ve seen these types of resistance in real life—and what strategies helped.  
    * **Stakeholder map rewind/fast forward:** Have learners pull up or redraw their stakeholder maps from Module 2\. Ask them to annotate what has changed since then *because of Casey’s leadership* (Rewind) and what could change if she *did more/did something differently* (Fast Forward).  
-   * **"Dear Future Me" reflection:** End the session with a quiet reflective exercise. Ask learners to [write a short note to themselves](futureme.org) about one leadership behavior they want to build on or try—something they learned from Casey’s journey. Schedule-send them for a year from now.  
+   * **"Dear Future Me" reflection:** End the session with a quiet reflective exercise. Ask learners to [write a short note to themselves](https://www.futureme.org/) about one leadership behavior they want to build on or try—something they learned from Casey’s journey. Schedule-send them for a year from now.  
    * **Leadership tarot:** Create a deck of cards (physical or virtual) with prompts inspired by the course (e.g., “You’ve been assigned to a team of skeptics,” “You’ve hit a wall with a key stakeholder,” “You’re asked to step up without formal authority”). Each group draws a card and must respond with how they’d apply adaptive leadership techniques.  
 - **Reflection:**  
    * "Rate your confidence from 0–5 in leading change in your organization."  

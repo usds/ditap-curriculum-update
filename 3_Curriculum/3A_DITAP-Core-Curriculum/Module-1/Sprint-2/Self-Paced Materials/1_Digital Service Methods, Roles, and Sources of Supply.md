@@ -1,5 +1,6 @@
 # Digital Services - The How
 **Module 1 Sprint 2**
+
 >_Average completion time: 90 minutes - 2 hours_
 
 The rapid pace of change in the digital industry, shifting consumer expectations, and budget pressures of doing more with less drive the U.S. Government to adopt new approaches for designing, developing, and delivering digital services.  
@@ -107,9 +108,9 @@ Want to learn more about journey mapping? Read about the process USA. gov used a
 
 ## Contemporary practices in developing digital services
 
-Now that we’ve covered the common denominator of all digital services development, let’s explore contemporary practices outlined in the U.S. Digital Services Playbook. Take this section for what it is—a survey, not an exhaustive list, of current practices. Remember that keeping pace with current technologies takes a concerted effort. Consider this a starting point for building your digital service development know-how. 
+Now that we’ve covered the common denominator of all digital services development, let’s explore contemporary practices outlined in the U.S. Digital Services Playbook. Take this section for what it is, a survey, not an exhaustive list, of current practices. Remember that keeping pace with current technologies takes a concerted effort. Consider this a starting point for building your digital service development know-how. 
 
-As procurement professionals, you are critical in shaping how the government invests in digital services. Modern approaches like Agile, Human-Centered Design (HCD), and DevSecOps aren’t just buzzwords—they're proven strategies that lead to better outcomes. These methods help government teams and contractors adapt quickly to changing needs, deliver working features faster, and reduce costly rework. They also provide greater transparency into contractor performance, helping ensure taxpayer dollars are used efficiently and effectively. Understanding how these approaches work—and how to look for them in proposals—can help you support more informed acquisitions and more successful digital service projects.
+As procurement professionals, you are critical in shaping how the government invests in digital services. Modern approaches like Agile, Human-Centered Design (HCD), and DevSecOps aren’t just buzzwords, they're proven strategies that lead to better outcomes. These methods help government teams and contractors adapt quickly to changing needs, deliver working features faster, and reduce costly rework. They also provide greater transparency into contractor performance, helping ensure taxpayer dollars are used efficiently and effectively. Understanding how these approaches work, and how to look for them in proposals, can help you support more informed acquisitions and more successful digital service projects.
 
 ### Agile foundations
 
@@ -204,141 +205,28 @@ A well-formed Agile team includes a mix of technical, design, and product expert
 
 This section introduces key frameworks and practices that bring Agile to life, including Kanban and Scrum. You’ll explore how these methods support transparency, collaboration, and continuous improvement through structured workflows, defined roles, and regular ceremonies that keep teams aligned and focused on delivering value.
 
-### Kanban
+| **Kanban** | **Scrum** |
+|------------|-----------|
+| Kanban is a visual workflow management method that enhances efficiency and transparency in task progression. Originating from Toyota's "just-in-time" (JIT) production system, Kanban has been adapted beyond manufacturing to various fields, including software development and government project management. | Scrum is an Agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement. |
+| **Key elements of Kanban include:** <br><br> - **Visual boards**: Tasks are represented as cards on a board, moving through columns that denote workflow stages (e.g., To Do, In Progress, Done). <br> - **Work-In-Progress (WIP) limits**: Limiting the number of tasks in each stage prevents overloading and highlights bottlenecks. <br> - **Flow Metrics**: Metrics such as lead time, cycle time, and throughput provide insights into process efficiency and help in continuous improvement. <br><br> Modern Kanban implementations also utilize tools like cumulative flow diagrams and control charts to monitor workflow stability and identify areas for enhancement. | **Core components of Scrum include:** <br><br> - **Scrum team**: The team comprises a Product Owner, Scrum Master, and Developers who collaborate to deliver valuable work increments. <br> - **Sprints**: Time-boxed iterations (typically 1-4 weeks) during which a usable and potentially releasable product increment is created. <br> - **Ceremonies**: Structured meetings such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective facilitate planning, inspection, and adaptation. <br> - **Artifacts and commitments**: <br>  - - Product Backlog with the Product Goal <br>   - - Sprint Backlog with the Sprint Goal <br>   - - Increment with the Definition of Done <br><br> These elements ensure transparency and focus, guiding the team toward delivering value effectively. |
 
-Kanban is a visual workflow management method that enhances efficiency and transparency in task progression. Originating from Toyota's "just-in-time" (JIT) production system, Kanban has been adapted beyond manufacturing to various fields, including software development and government project management.
-
-Key elements of Kanban include:
-
-* **Visual boards**: Tasks are represented as cards on a board, moving through columns that denote workflow stages (e.g., To Do, In Progress, Done).  
-* **Work-In-Progress (WIP) limits**: Limiting the number of tasks in each stage prevents overloading and highlights bottlenecks.  
-* **Flow Metrics**: Metrics such as lead time, cycle time, and throughput provide insights into process efficiency and help in continuous improvement.
-
-Modern Kanban implementations also utilize tools like cumulative flow diagrams and control charts to monitor workflow stability and identify areas for enhancement.
-
-### Scrum
-
-Scrum is an Agile framework for developing and sustaining complex products through iterative progress and collaboration. It emphasizes adaptability, team accountability, and continuous improvement.
-
-Core components of Scrum include:
-
-* **Scrum team**: The team comprises a Product Owner, Scrum Master, and Developers who collaborate to deliver valuable work increments. 
-* **Sprints**: Time-boxed iterations (typically 1-4 weeks) during which a usable and potentially releasable product increment is created.  
-* **Ceremonies**: Structured meetings such as Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective facilitate planning, inspection, and adaptation.  
-* **Artifacts and commitments**:  
-  * *Product Backlog* with the *Product Goal*  
-  * *Sprint Backlog* with the *Sprint Goal*  
-  * *Increment* with the *Definition of Done*
-
-These elements ensure transparency and focus, guiding the team toward delivering value effectively.
 
 ## Agile practices
 
-**Assign a Project Manager or Scrum Master**
+| Agile Practice | Description |
+|----------------|-------------|
+| **Assign a Project Manager or Scrum Master** | The Project Manager or Scrum Master acts as the operational glue. They: <br> - Communicate across stakeholders and teams <br> - Track progress and surface issues <br> - Facilitate planning and alignment <br><br> This role ensures team focus and alignment with priorities. |
+| **Sprint planning, review, and retrospective** | Each sprint includes three key ceremonies: <br> - **Sprint planning** – Define what the team will accomplish and why it matters <br> - **Sprint review** – Demonstrate completed work to stakeholders <br> - **Sprint retrospective** – Reflect on process improvements <br><br> This structured rhythm enables teams to iterate and improve continuously. |
+| **Daily stand-up** | Also known as “scrum,” this 15-minute daily sync keeps the team aligned. Everyone shares: <br> - What they did yesterday <br> - What they’re doing today <br> - Any blockers <br> - Any after-meetings between participants to work on problems <br><br> Stand-ups foster transparency, collaboration, and rapid issue resolution. |
+| **Backlog refinement** | Backlog refinement is a collaborative session where: <br> - The Product Owner sets and adjusts priorities <br> - The Dev Team identifies dependencies, technical needs, and estimates effort <br> - Innovation and technical input are integrated into the plan <br><br> A healthy backlog is: <br> - Continuously updated <br> - Prioritized based on business value and user needs <br> - Clear on effort, dependencies, and acceptance criteria <br><br> Refinement ensures Agile responsiveness to shifting priorities, vital in the dynamic landscape of government digital services. |
+| **Use an MVP approach** | A Minimum Viable Product approach means: <br> - Delivering the most critical functionality first <br> - Focusing on what 80% of users need most <br> - Reducing time-to-value while gathering feedback <br><br> This method is ideal for large-scale federal platforms with evolving needs. |
+| **Integrate HCD and Lean UX methodologies** | Human-Centered Design (HCD) and Lean UX are complementary to Agile. These practices: <br> - Involve users early and often <br> - Promote iterative design based on feedback <br> - Make digital services more inclusive and intuitive <br><br> User research and usability testing reveal what users need and where they struggle. |
+| **Prioritize accessibility** | Accessibility is embedded throughout Agile workflows. Practices include: <br> - Early testing against 508 standards <br> - Proactive design choices (keyboard navigation, contrast, screen reader compatibility) <br> - Inclusive user research <br> - Continuous feedback loops <br><br> This ensures government services are usable by all. |
+| **Run usability tests frequently** | User feedback drives iteration. Usability testing explores: <br> - Can users find what they need? <br> - Do the menus make sense? <br> - What causes frustration? <br><br> Testing leads to actionable improvements baked directly into each sprint cycle. |
+| **Combine Agile with DevOps** | DevOps keeps systems available, high performing, and secure. It supports Agile delivery through CI/CD pipelines. Practices include: <br> - Creating an auditable platform and repeatable deployment processes <br> - Automating system builds, code testing, and deployments <br> - Maintaining stability across teams and apps <br> - Supporting fast iteration while ensuring consistent code quality <br> - Minimizing regressions as new features are added |
+| **Create transparency via project scaffolding** | Project scaffolding includes foundational practices, documentation, and tools supporting Agile teams: <br> - Team charters, onboarding materials, coding standards, stakeholder maps <br> - Task management systems and documentation platforms (e.g., JIRA, Confluence) <br><br> These ensure: <br> - Complete visibility into the team’s work <br> - Easy access to documentation <br> - Real-time collaboration <br><br> Transparency builds trust between contractors and federal stakeholders and improves delivery outcomes. |
 
-The Project Manager or Scrum Master acts as the operational glue. They:
-* Communicate across stakeholders and teams  
-* Track progress and surface issues  
-* Facilitate planning and alignment
 
-This role ensures team focus and alignment with priorities.
-
-**Sprint planning, review, and retrospective**
-
-Each sprint includes three key ceremonies:
-
-* **Sprint planning** – Define what the team will accomplish and why it matters  
-* **Sprint review** – Demonstrate completed work to stakeholders  
-* **Sprint retrospective** – Reflect on process improvements
-
-This structured rhythm enables teams to iterate and improve continuously.
-
-**Daily stand-up**
-
-Also known as “scrum,” this 15-minute daily sync keeps the team aligned. Everyone shares:
-
-* What they did yesterday  
-* What they’re doing today  
-* Any blockers  
-* Any after-meetings between scrum participants to work on specific problems
-
-Stand-ups foster transparency, collaboration, and rapid issue resolution.
-
-**Backlog refinement**
-
-Backlog refinement is a collaborative session where:
-
-* The Product Owner sets and adjusts priorities.  
-* The Dev Team identifies dependencies and technical needs and estimates effort.  
-* Innovation and technical input are integrated into the plan.
-
-A healthy backlog is:
-
-* Continuously updated  
-* Prioritized based on business value and user needs  
-* Clear on effort, dependencies, and acceptance criteria
-
-Agile teams help product owners maintain high-quality backlogs to enable intelligent decision-making. Refinement ensures Agile responsiveness to shifting priorities, which is vital in the dynamic landscape of government digital services.
-
-**Use an MVP approach**
-
-A **Minimum Viable Product** approach means:
-
-* Delivering the most critical functionality first  
-* Focusing on what 80% of users need most  
-* Reducing time-to-value while gathering feedback
-
-This method is ideal for large-scale federal platforms with evolving needs.
-
-**Integrate HCD and Lean UX methodologies**
-
-Human-Centered Design (HCD) and Lean UX are complementary to Agile. These practices:
-
-* Involve users early and often  
-* Promote iterative design based on feedback  
-* Make digital services more inclusive and intuitive
-
-User research and usability testing reveal what users need and where they struggle.
-
-**Prioritize accessibility**
-
-Accessibility is embedded throughout Agile workflows. Practices include:
-
-* Early testing against 508 standards  
-* Proactive design choices (keyboard navigation, contrast, screen reader compatibility)  
-* Inclusive user research  
-* Continuous feedback loops
-
-This ensures government services are usable by all.
-
-**Run usability tests frequently**
-
-User feedback drives iteration. Usability testing explores:
-
-* Can users find what they need?  
-* Do the menus make sense?  
-* What causes frustration?
-
-Testing leads to actionable improvements baked directly into each sprint cycle.
-
-**Combine Agile with DevOps**
-
-Development Operations (DevOps) focuses on keeping systems available, high performing, and secure. Modern DevOps practices support Agile delivery by creating practices, protocols, and mechanisms that enable development and QA testing by creating and maintaining a Continuous Integration/Continuous Delivery (CI/CD) pipeline. These practices:
-
-* Create an auditable platform and repeatable deployment processes to ensure system integrity  
-* Automate system builds, code testing, and deployments  
-* Maintain stability across multiple teams and applications  
-* Support fast code iteration while ensuring consistent code quality and minimizing regressions as new features are added
-
-**Create transparency via project scaffolding**
-
-Project scaffolding refers to the foundational practices, documentation, and tools supporting Agile teams in effectively doing their work. Elements like team charters, onboarding materials, coding standards, stakeholder maps, task management systems, and documentation platforms help teams collaborate with minimal friction. Tools such as JIRA for task planning and Confluence for documentation enhance transparency and alignment across the team. When used consistently, these tools help ensure: 
-
-* Complete visibility into the work done by the team  
-* Easy access to documentation  
-* Real-time collaboration
-
-Transparency builds trust between contractors and federal stakeholders and improves delivery outcomes.
 
 ### Final thoughts
 
@@ -601,24 +489,26 @@ This combination is particularly valuable in the federal context. It allows agen
 
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
 
-## Knowledge check: 
+## Knowledge check 
 
 Prompt: You’re working with a federal team building a new mobile app for Veterans to track their healthcare appointments.
 
 ✅ Question 1
 
-Which approach should you prioritize first?   
- \[ \] Use DevSecOps to begin coding and automating deployments immediately.
- \[ \] Apply HCD practices to understand Veteran needs and gather early feedback. (correct)
- \[ \] Begin procurement for security and operations tools.
+Which approach should you prioritize first?
 
-**Feedback (correct):** 
+[[ ]] Use DevSecOps to begin coding and automating deployments immediately.
+[[X]] Apply HCD practices to understand Veteran needs and gather early feedback.
+[[ ]] Begin procurement for security and operations tools.
 
-✅ Correct\! Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.
+---
 
-**Feedback (incorrect):**
+Feedback:
 
-❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+* **Correct:** ✅ Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.  
+
+* **Incorrect:** ❌ Not quite. Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+
 
 ## Digital service delivery providers - Sources of supply  
 
@@ -698,25 +588,36 @@ Agency-specific vehicles are increasingly designed to support agile, iterative d
 ## Competition and small business requirements (FAR Parts 6 & 39 Compliance) 
 
 **Market Research for Digital Services:**
+
 Under the revised FAR Part 6, agencies must conduct comprehensive market research before selecting digital service providers:
+
 - **Industry Analysis**: Research capabilities across large companies, small businesses, and emerging technology firms
-- **Small Business Assessment**: Document opportunities for small business set-asides, including 8(a), HUBZone, SDVOSB, and WOSB participation  
+- **Small Business Assessment**: Document opportunities for small business set-asides, including 8(a), HUBZone, SDVOSB, and WOSB participation
 - **Innovation Opportunities**: Identify emerging technologies and non-traditional vendors that could provide innovative solutions
 - **Cost Analysis**: Gather pricing information from multiple sources to establish fair and reasonable expectations
 
+---
+
 **Competition Strategy Requirements:**
+
 - **Full and Open Competition**: Default approach unless exception criteria are met and documented
 - **Set-Aside Analysis**: Evaluate all opportunities for small business participation before proceeding with unrestricted competition
 - **Bundling Restrictions**: Avoid unnecessary bundling that would exclude small business participation
 - **Multiple Award Opportunities**: Consider IDIQ contracts and other vehicles that provide ongoing competitive opportunities
 
+---
+
 **Technology-Specific Requirements (FAR Part 39):**
+
 - **Cloud Services**: All cloud acquisitions must include FedRAMP authorization requirements and supply chain risk assessments
 - **AI/ML Systems**: Mandatory bias assessment and explainability requirements for artificial intelligence acquisitions
 - **Open Source Software**: Legal review and security assessment requirements for open source solutions
 - **Cybersecurity**: Current federal cybersecurity standards must be incorporated into all IT acquisitions
 
+---
+
 **Pre-Solicitation Requirements:**
+
 - Conduct industry days to gather market feedback
 - Issue Requests for Information (RFIs) when market capabilities are unclear
 - Document all vendor communications in accordance with FAR transparency requirements
@@ -727,9 +628,11 @@ Under the revised FAR Part 6, agencies must conduct comprehensive market researc
 Collaboration between federal and vendor teams takes many forms. Choosing the right model depends on the scope, budget, risk tolerance, and speed of delivery.
 
 Common models include:
-* **Staff augmentation** – Individual vendor staff join federal teams to fill skill gaps.
-* **Full team delivery** – Vendors deliver entire workstreams or products independently.
-* **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
+
+- **Staff augmentation** – Individual vendor staff join federal teams to fill skill gaps.
+- **Full team delivery** – Vendors deliver entire workstreams or products independently.
+- **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
+
 
 ### Real examples of “Who does what”
 

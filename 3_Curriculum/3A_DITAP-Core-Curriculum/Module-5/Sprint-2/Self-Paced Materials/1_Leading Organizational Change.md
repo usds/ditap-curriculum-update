@@ -14,7 +14,7 @@ Continuous learning also strengthens your ability to lead change. Whether you're
 
 In today’s environment, continuous learning isn’t optional; it’s a core part of being an effective, future-ready acquisition professional.
 
-By the end of this module, you will be able to assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community.
+By the end of this sprint, you will be able to assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community.
 
 ---
 ## Staying Current with Emerging Tech and Trends
@@ -32,7 +32,7 @@ Emerging tech isn’t just for IT teams. Staying informed about technology trend
 
 ### Tech in Action: Generative AI and Federal Acquisition
 
-Take **generative AI** as an example. It has already begun influencing how acquisition professionals:
+Take generative AI as an example. It has already begun influencing how acquisition professionals:
 
 * Conduct **market research** by analyzing vendor data more efficiently.  
 * Draft or refine **performance work statements** using AI-assisted language tools.  
@@ -207,7 +207,7 @@ Working closely with program staff, especially on **iterative requirement develo
 
 ### Document and Share What Works
 
-Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+Sharing what worked—and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
 ### Final Thoughts
 
@@ -328,8 +328,6 @@ Start small. Keep it real. And make it shareable.
 ---
 ## Exploring your role as an ambassador of change
 
-Introduction
-
 Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them, in combination with other tactics and techniques, to drive change. This online learning will build upon that study and focus on how to lead the change itself.
 
 In this online module, you’ll learn about a framework to help you think about the phases of change and some specific strategies you can use to implement change at each phase.
@@ -397,8 +395,6 @@ For a historical example of building your coalition, take a look at the **United
 In 1945, representatives from 50 nations met to create the Charter, which reaffirms fundamental human rights, calls out the principles of equal rights, and self-determination of all people, as well as international cooperation in solving economic, social, cultural, and humanitarian problems around the world. The formulation of the organization actually took place over several years and took time to get key stakeholders onboard.
 
 Or consider **Congress**. A Representative or Senator introduces legislation on the floor, then it goes to Committee. Then, they must form a coalition in the committee to get it onto the floor for vote.
-
-Another example comes from popular culture and film: **Marvel’s The Avengers**. This group of superheroes are influencers individually. Collectively, they’re able to save the world. They all must have room to exert their own power, and when they choose to work together collectively, it turns out they are unstoppable. They are a potentially unlikely team, but an unstoppable force when they work together to achieve the same goal.
 
 Our final example takes us into the worlds of fashion and social media that began with a flash event initiated by clothing store **Lord & Taylor**. The brand reached out to 50 “style influencers” and asked that they all post pictures in the same dress (styled however they wanted) within a certain window of time on the photo-sharing platform Instagram. This is an interesting example because Lord & Taylor knew that this would be a unique way to attract their customers – through the style influencers they trust and admire. Each influencers had the flexibility to style the garment and then saturate the market with the image. The dress sold out almost immediately\! While using brand and style bloggers or “Instagrammers” might not be a typical coalition, it’s actually a unique way to deliver your message to your client via a trusted source. Lord & Taylor recognized that the point of key players in your coalition was to build the bridge of trust when embarking on an uncertain or new task.
 
@@ -520,6 +516,8 @@ Take some time to reflect on a few other items that you’ve learned about in th
 * How will you play up the areas where you have particular strengths?
 
 Feel free to share your answers with your fellow participants and/or your supervisor/manager. They can help you fill in gaps, point you to new resources, or share ideas on how to use your strengths.
+
+---
 
 ## Self-Assessment: What’s Your Change Style?
 

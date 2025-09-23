@@ -109,7 +109,7 @@ Before you sit down to develop the solicitation package, you should consider som
 * **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with the realization of that vision.
 * **Is there an exit strategy?** The government typically solves non-performance by increasing funding or lengthening schedules, as it’s perceived to be too difficult to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?
 * **Are there incentives that can be applied to increase end-user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
-* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
+* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation (FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
 
 | Risk | Mitigation | Links |
 | --- | --- | --- |
@@ -138,41 +138,15 @@ As part of the acquisition strategy cycle, you need to plan for what happens if 
 
 The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure!
 
-**Challenge: Have a clear vision of what you are buying and why.**
+| Challenge | Details |
+|-----------|---------|
+| Have a clear vision of what you are buying and why. | - *Before considering an exit, consider why you are entering.* Determine if your contract, as you envision it, is the best option to meet your needs. Explore additional options, such as prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/) <br> - *Know what your objective is.* Can you define what success looks like? What does it not look like? What are the high-level contract objectives? <br> - *Focus on delivery.* Create a trusted environment where individuals can innovate, allowing both contractors and government the ability to exit when necessary. |
+| Scope your contract safely. | - *Utilize modular contracting and limit the scope of the contract.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery is expected to occur within one year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete. <br> - *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed. |
+| Motivate and manage your contractors. | - *Build in an award term option incentives.* Since the contractor controls the award of the follow-on contract, it is essential to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors. <br> - *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Stay up to date with decisions made during backlog grooming sessions—track the development team's velocity. |
+| Motivate and manage your contractors | - *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Ensure that documentation is completed and delivered throughout the contract or task's life cycle, not just at the end. Keep in mind that requesting additional documentation may divert time away from completing technical tasks. <br> - *Remember the importance of transition planning.* Awarded contracts must include a transition plan of some type. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation. |
+| Get the most out of your contract. | - *Follow Play 13 of the [Digital Service Playbook](http://playbook.cio.gov/#play13), “Default to Open”.* <br> - Consider the following: <br> &nbsp;&nbsp;&nbsp;* Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver. <br> &nbsp;&nbsp;&nbsp;* Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing. <br> &nbsp;&nbsp;&nbsp;* Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public. <br> &nbsp;&nbsp;&nbsp;* Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. <br> - *Use warranties and innovate:* Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce. |
+| Scope your contract safely. | - *Utilize enhanced modular contracting requirements.* The revised FAR Part 39 requires agencies to use modular contracting for major ICT systems to the maximum extent possible, with contracts awarded within 180 days and deliveries scheduled within 18 months of solicitation. Each increment should comprise a system that is not dependent on subsequent increments to perform its principal functions. <br> - *Structure for technology evolution.* Design contracts to allow subsequent increments to leverage the technology evolution that occurs during the implementation of earlier increments. This built-in flexibility reduces the need for contract termination due to technological obsolescence. |
 
-* *Before considering an exit, consider why you are entering.* Determine if your contract, as you envision it, is the best option to meet your needs. Explore additional options, such as prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
-* *Know what your objective is*. Can you define what success looks like? What does it not look like? What are the high-level contract objectives?  
-* *Focus on delivery.* Create a trusted environment where individuals can innovate, allowing both contractors and government the ability to exit when necessary.
-
-**Challenge: Scope your contract safely.** 
-
-* *Utilize modular contracting and limit the scope of the contract.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery is expected to occur within one year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
-* *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed.  
-
-**Challenge:** **Motivate and manage your contractors.** 
-
-* *Build in an award term option incentives*. Since the contractor controls the award of the follow-on contract, it is essential to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors.  
-* *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Stay up to date with decisions made during backlog grooming sessions—track the development team'svelocity. 
-
-  
-**Challenge:** **Motivate and manage your contractors**
-
-* *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Ensure that documentation is completed and delivered throughout the contract or task's life cycle, not just at the end. Keep in mind that requesting additional documentation may divert time away from completing technical tasks.  
-* *Remember the importance of transition planning*. Awarded contracts must include a transition plan of some type. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation.
-
-**Challenge: Get the most out of your contract.** 
-
-* *Follow Play 13 of the [Digital Service Playbook](http://playbook.cio.gov/#play13), “Default to Open”*.
-* Consider the following:  
-  * Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver.  
-  * Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing.  
-  * Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public.  
-  * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. 
-* *Use warranties and innovate*: Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce.
-
-**Challenge: Scope your contract safely.**
-- *Utilize enhanced modular contracting requirements*. The revised FAR Part 39 requires agencies to use modular contracting for major ICT systems to the maximum extent possible, with contracts awarded within 180 days and deliveries scheduled within 18 months of solicitation. Each increment should comprise a system that is not dependent on subsequent increments to perform its principal functions.
-- *Structure for technology evolution*. Design contracts to allow subsequent increments to leverage the technology evolution that occurs during the implementation of earlier increments. This built-in flexibility reduces the need for contract termination due to technological obsolescence.
 
 ## Stakeholder engagement: Capability and cooperation
 
@@ -501,27 +475,19 @@ These principles apply to both hardware and digital deliverables, including cust
 
 Open source means public domain, right? Short answer is…wrong. Even open-source software has licensing agreements and copyright protections in place. These factors affect how open source software is developed, used, maintained, and upgraded, as well as the IP rights of the developer when used to create custom software. The Business Software Alliance's “Open Source and Commercial Software \- An In-Depth Analysis” paper is an excellent primer for this issue and many others related to IP in open source software. The paper describes open source and IP as follows:
 
-*“Open Source” is a software-licensing model where the software's source code is typically made royalty-free to the software users, under terms allowing redistribution, modification, and addition, though often with certain restrictions. The support, training, updates, and other services for the software may be provided by a range of entities, increasingly under commercial arrangements. Open-source programs are often, though not exclusively, developed through a collaborative effort in which several individuals contribute elements of the final software. Software companies also contribute paid programmer time and in-house programs to the open source community.”*
+>“Open Source” is a software-licensing model where the software's source code is typically made royalty-free to the software users, under terms allowing redistribution, modification, and addition, though often with certain restrictions. The support, training, updates, and other services for the software may be provided by a range of entities, increasingly under commercial arrangements. Open-source programs are often, though not exclusively, developed through a collaborative effort in which several individuals contribute elements of the final software. Software companies also contribute paid programmer time and in-house programs to the open source community.”*
 
-How does this impact the government's acquisition of professionals? The data rights arena directly affects what the custom software developer can claim as restricted data or proprietary software in the delivered solution. Because open-source code can be integrated with proprietary software in developing a solution, it also impacts the type, magnitude, and level of open-source software components the contractor may incorporate. For a better understanding, let’s examine the two main types of open-source software licensing agreements typically in use today.
+How does this impact the government's acquisition of professionals? The data rights arena directly affects what the custom software developer can claim as restricted data or proprietary software in the delivered solution. Because open-source code can be integrated with proprietary software in developing a solution, it also impacts the type, magnitude, and level of open-source software components the contractor may incorporate. For a better understanding, let’s examine some types of open-source software licensing agreements typically in use today.
 
-### GNU General Public License (GPL)
+| License | Key Points | Implications for Government Acquisition |
+|---------|------------|-----------------------------------------|
+| GNU General Public License (GPL) | - Derivative works must remain open source.<br>- Customers can copy and distribute freely.<br>- Developers may charge for setup, training, and support.<br>- Multiple variants exist to fit different needs. | Limits contractor ability to commercialize software, but government gains broad rights and low-cost distribution. |
+| Affero General Public License (AGPL) | - Extends GPL rules to cloud/SaaS models.<br>- Requires hosted modifications to be shared back. | Ensures transparency and community benefit even for networked services; protects against SaaS loopholes. |
+| Berkeley Software Distribution (BSD) License | - More permissive than GPL.<br>- Allows integration with proprietary code.<br>- Supports commercial licensing models. | Easier commercialization, but fewer guarantees of openness for the government. |
+| Overall Considerations | - Licensing affects IP claims, sustainment, maintenance, and data rights.<br>- Agencies must evaluate licensing impact alongside mission effectiveness. | Choice of license influences long-term flexibility, costs, and rights for reuse across agencies. |
 
-Developers using open-source software under the GPL cannot sell “derivative” works they develop from the software at more than the nominal distribution cost. Because the source code is subject to the GPL in the solution, both the developer and the customer are bound by the terms of the GPL for the source code of that derivative work. This means the customer can make copies and distribute the software to as many people or agencies as desired with no additional payments due to the developer. 
 
-While this presents a challenge for the contractor in making its developed solution commercially viable, the contractor can charge what the market will bear for setup, installation, training, and other services that support the software installation and operation.
-
-The GPL is not a standard, one-size-fits-all document; instead, there are more than a few variants established by organizations that control open-source software to fit their commercial, cultural, and mission needs.
-
-### Affero General Public License (AGPL)
-
-The AGPL is a variant of the GPL, but with an important additional requirement. While the GPL ensures that derivative works must remain open source when distributed, it does not account for modern cloud and SaaS models where software is “used” over a network but never technically distributed. The AGPL closes this loophole. This ensures that improvements and modifications made in hosted environments are shared back with the community, not hidden behind a “software as a service” delivery model. 
-
-### Berkley Software Distribution (BSD) license
-
-Open-source software subject to the BSD License is more easily converted into a commercially viable product for developers, as they can integrate their own source code and then market and distribute the resulting software under more traditional IP and commercial software licensing arrangements.
-
-Digital services acquisition professionals like you should understand these two licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
+Digital services acquisition professionals like you should understand these licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
 
 ### Who owns open source code?
 
@@ -677,65 +643,14 @@ One key variation on this practice from potentially other multiple award contrac
 
 ### Considerations to think about when employing this strategy
 
-**1\. You’re managing a market, not just contracts**
+| Topic | Details |
+|-------|---------|
+| 1. You’re managing a market, not just contracts | In a traditional acquisition mindset, agencies view contracting as a one-to-one relationship: one agency, vendor, and contract. However, the program office no longer manages vendors when multiple vendors are brought in under a shared vehicle, whether through BPAs, IDIQs, or TO-based modular contracting. It’s working as a miniature marketplace. <br><br> This market requires active stewardship: <br>- Fairness and opportunity must be visible and tangible.<br>- Trust and motivation erode if the same few vendors repeatedly win task orders without explanation.<br>- Forecasting future work helps vendors align their capacity and retain their teams.<br>- Vendors who understand the upcoming pipeline can make more informed staffing decisions and deliver higher-quality results.<br>- Transparency in award decisions is critical.<br>- Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence, or boilerplate rejection notices, drives disengagement.<br><br> **Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation. |
+| 2. Cultural Intentionality | Culture is often treated as a soft skill, but it's an operational lever in a multi-vendor environment. Vendors model their behavior based on how they see the government treating partners. If the agency is reactive, opaque, or overly punitive, vendors may become risk-averse, avoid transparency, and resort to gaming behavior. <br><br> Instead, culture can be intentionally designed to support collaboration and continuous improvement: <br>- Quarterly program-wide syncs can bring COs, CORs, POs, and all vendor partners to celebrate wins, align on upcoming priorities, and foster a shared mission.<br>- Feedback loops—including post-award debriefs, user research with competitors, and anonymous vendor surveys—allow vendors to voice concerns without fear of retaliation.<br>- Tone-setting in meetings matters. A posture of partnership (rather than compliance policing) encourages openness, especially when discussing blockers or scope adjustments.<br><br> A healthy vendor market isn’t defined by tension between buyers and sellers. While a history of mistrust between government and vendors may linger, it doesn’t have to shape how we work today. In a small but capable vendor ecosystem, contracting officers have a unique opportunity to influence behavior and outcomes by fostering a culture of transparency and responsiveness. <br><br> Creating a strong culture doesn’t mean sacrificing accountability; it means being intentionally collaborative. When teams operate with mutual trust and clear expectations, it becomes easier to hold one another accountable while encouraging innovation and shared problem-solving. |
+| 3. Equity in vendor capabilities | Not all vendors start from the same position. In digital services, some may be traditional large federal contractors with built-in proposal machines. Others might be small, nimble, and talented firms with little federal experience. <br><br> To avoid reinforcing incumbency and inequity, agencies should: <br>- Level the playing field in task order design. Avoid requirements that demand only past federal performance or extremely complex pricing structures unless necessary.<br>- Support new entrants with: <br>&nbsp;&nbsp;&nbsp;* Pre-award Q&A or due diligence sessions<br>&nbsp;&nbsp;&nbsp;* Post-award evaluation feedback<br>&nbsp;&nbsp;&nbsp;* Shadowing opportunities or partner team-ups<br>- Evaluate based on capability, not just legacy. A less experienced vendor might outperform a legacy provider in delivering modern design, engineering, or agile leadership.<br>- Be deliberate about how large and complex a task is. Are there areas that can be split off to support smaller, quicker efforts by smaller teams with unique qualifications?<br><br> **Warning:** If your task order format is so complex that only 2 out of 8 vendors can submit viable bids, you’re creating a self-defeating structure. The goal of a multi-vendor vehicle is modularity with flexibility, not just spreading work across the same incumbents. |
+| 4. Structure for shared success | Managing a team of vendors is like managing a fleet, not a single ship. Without shared structures and expectations, the fleet will drift. <br><br> Key practices to support multi-vendor effectiveness include: <br>- Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.<br>- Transparent task order processes:<br>&nbsp;&nbsp;&nbsp;* Provide draft notices with time for vendor feedback.<br>&nbsp;&nbsp;&nbsp;* Utilize rotating evaluation panels to foster trust and minimize bias.<br>&nbsp;&nbsp;&nbsp;* Share highlights of the winning proposals (or redacted versions) to raise the bar for future bids.<br>- Group retrospectives: Invite others to learn from the task order’s delivery, even if only one vendor is awarded. This promotes institutional learning and vendor resilience.<br>- Standardized templates for task orders and evaluation scoring ensure that reviews are consistent and auditable, reducing vendor suspicion and increasing internal efficiency.<br>- Incorporate inter-vendor collaboration into performance evaluation. Effective collaboration with peer teams is essential for successful delivery in a multi-vendor environment. Add a QASP metric that explicitly measures how well vendors contribute to shared goals, communicate across vendor lines, and engage constructively in joint problem-solving. |
 
-In a traditional acquisition mindset, agencies view contracting as a one-to-one relationship: one agency, vendor, and contract. However, the program office no longer manages vendors when multiple vendors are brought in under a shared vehicle, whether through BPAs, IDIQs, or TO-based modular contracting. It’s working as a miniature marketplace.
-
-This market requires active stewardship:
-
-* Fairness and opportunity must be visible and tangible.  
-  *  Trust and motivation erode if the same few vendors repeatedly win task orders without explanation.  
-* Forecasting future work helps vendors align their capacity and retain their teams.   
-  * Vendors who understand the upcoming pipeline can make more informed staffing decisions and deliver higher-quality results.
-* Transparency in award decisions is critical.   
-  * Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence, or boilerplate rejection notices, drives disengagement.
-
-**Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation.
-
-**2\. Cultural Intentionality**
-
-Culture is often treated as a soft skill, but it's an operational lever in a multi-vendor environment. Vendors model their behavior based on how they see the government treating partners. If the agency is reactive, opaque, or overly punitive, vendors may become risk-averse, avoid transparency, and resort to gaming behavior.
-
-Instead, culture can be intentionally designed to support collaboration and continuous improvement:
-
-* Quarterly program-wide syncs can bring COs, CORs, POs, and all vendor partners to celebrate wins, align on upcoming priorities, and foster a shared mission.
-* Feedback loops—including post-award debriefs, user research with competitors, and anonymous vendor surveys—allow vendors to voice concerns without fear of retaliation.
-* Tone-setting in meetings matters. A posture of partnership (rather than compliance policing) encourages openness, especially when discussing blockers or scope adjustments.
-
-A healthy vendor market isn’t defined by tension between buyers and sellers. While a history of mistrust between government and vendors may linger, it doesn’t have to shape how we work today. In a small but capable vendor ecosystem, contracting officers have a unique opportunity to influence behavior and outcomes by fostering a culture of transparency and responsiveness.
-
-Creating a strong culture doesn’t mean sacrificing accountability; it means being intentionally collaborative. When teams operate with mutual trust and clear expectations, it becomes easier to hold one another accountable while encouraging innovation and shared problem-solving.
-
-**3\. Equity in vendor capabilities**
-
-Not all vendors start from the same position. In digital services, some may be traditional large federal contractors with built-in proposal machines. Others might be small, nimble, and talented firms with little federal experience.
-
-To avoid reinforcing incumbency and inequity, agencies should:
-
-* Level the playing field in task order design. Avoid requirements that demand only past federal performance or extremely complex pricing structures unless necessary.
-* Support new entrants with:
-  * Pre-award Q&A or due diligence sessions
-  * Post-award evaluation feedback  
-  * Shadowing opportunities or partner team-ups
-* Evaluate based on capability, not just legacy. A less experienced vendor might outperform a legacy provider in delivering modern design, engineering, or agile leadership.  
-* Be deliberate about how large and complex a task is. Are there areas that can be split off to support smaller, quicker efforts by smaller teams with unique qualifications? 
-
-Warning: If your task order format is so complex that only 2 out of 8 vendors can submit viable bids, you’re creating a self-defeating structure. The goal of a multi-vendor vehicle is modularity with flexibility, not just spreading work across the same incumbents.
-
-**4\. Structure for shared success**
-
-Managing a team of vendors is like managing a fleet, not a single ship. Without shared structures and expectations, the fleet will drift.
-
-Key practices to support multi-vendor effectiveness include:
-
-* Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.
-* Transparent task order processes:
-  * Provide draft notices with time for vendor feedback.  
-  * Utilize rotating evaluation panels to foster trust and minimize bias.  
-  * Share highlights of the winning proposals (or redacted versions) to raise the bar for future bids.
-* Group retrospectives: Invite others to learn from the task order’s delivery, even if only one vendor is awarded. This promotes institutional learning and vendor resilience.
-* Standardized templates for task orders and evaluation scoring ensure that reviews are consistent and auditable, reducing vendor suspicion and increasing internal efficiency.
-* Incorporate inter-vendor collaboration into performance evaluation. Effective collaboration with peer teams is essential for successful delivery in a multi-vendor environment. Add a QASP metric that explicitly measures how well vendors contribute to shared goals, communicate across vendor lines, and engage constructively in joint problem-solving.
+---
 
 The Vendor Collaboration Index (VCI) is a performance metric that assesses the effectiveness of vendor engagement and collaboration within a multi-vendor environment. The table below outlines the performance standard, measurement methods, and rating scale used to evaluate and encourage constructive interactions between vendors.
 

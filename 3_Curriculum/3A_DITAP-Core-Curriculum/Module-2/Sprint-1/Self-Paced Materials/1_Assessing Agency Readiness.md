@@ -1,5 +1,6 @@
 # Introduction to Assessing Agency Readiness
 **Module 2 Sprint 1**
+
 > _Average completion time 15 - 20 minutes_
 
 Before an agency embarks on a digital service acquisition, it must first understand its own readiness to support the demands of modern, agile procurement. In today’s rapidly evolving digital landscape, success isn't just about selecting the right technology or vendor, it’s about aligning acquisition strategies with an agency’s internal capabilities, culture, governance, and tolerance for change. This learning unit focuses on helping participants assess and understand these internal factors so they can make strategic decisions that reduce risk and enhance outcomes.
