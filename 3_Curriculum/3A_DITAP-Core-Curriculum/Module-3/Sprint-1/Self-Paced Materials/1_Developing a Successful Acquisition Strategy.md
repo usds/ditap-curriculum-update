@@ -660,14 +660,15 @@ The Vendor Collaboration Index (VCI) is a performance metric that assesses the e
 
 | Metric element | Description |
 | -------------- | ----------- |
-| **Performance standard** | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
-| **Measurement methods** | - Participation in shared retrospectives and planning sessions  
-- Responsiveness in cross-vendor communication  
-- Willingness to support shared technical integration or data sharing  
-- Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
-| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors.  
-**Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.  
-**Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
+| Performance standard | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
+| Measurement method 1 | Participation in shared retrospectives and planning sessions |
+| Measurement method 2 | Responsiveness in cross-vendor communication |
+| Measurement method 3 | Willingness to support shared technical integration or data sharing |
+| Measurement method 4 | Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
+| Rating: Exceptional (5) | Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors. |
+| Rating: Satisfactory (3) | Participates in shared activities with minimal friction; meets expectations. |
+| Rating: Unsatisfactory (1) | Withholds information, resists coordination, or causes blockers for other vendor teams. |
+
 
 
 **Bottom line**: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
