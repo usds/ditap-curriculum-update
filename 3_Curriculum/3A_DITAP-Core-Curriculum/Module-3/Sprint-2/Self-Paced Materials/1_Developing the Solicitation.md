@@ -189,8 +189,8 @@ Efforts are underway to examine the use of AI in developing and writing an acqui
 
 * **CIPS & Posterity Global** (2024). *[AI in Procurement and Supply: How Automation Will Change Your Career and the Function](https://cips-download.cips.org/expert-reports/cips-ai-in-procurement-and-supply-2024)*  
 * **OMB GitHub**. *[2024 Federal Agency AI Use Case Inventory](https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory)*  
-* **White House**. *[Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025\)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)* 
-* **White House**. *[America’s AI Action Plan* (Jul 2025\)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)* 
+* **White House**. [*Executive Order 14179: Removing Barriers to American Leadership in AI* (Jan 2025)](https://www.whitehouse.gov/presidential-actions/2025/01/removing-barriers-to-american-leadership-in-artificial-intelligence/)
+* **White House**. [*America’s AI Action Plan* (Jul 2025)](https://www.whitehouse.gov/articles/2025/07/white-house-unveils-americas-ai-action-plan/)
 * **OMB**. *[M-25-21](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-21-Accelerating-Federal-Use-of-AI-through-Innovation-Governance-and-Public-Trust.pdf) & [M-25-22](https://www.whitehouse.gov/wp-content/uploads/2025/02/M-25-22-Driving-Efficient-Acquisition-of-Artificial-Intelligence-in-Government.pdf)*
 
 ## Discussion prompt (optional): How should AI influence acquisition strategy development?
