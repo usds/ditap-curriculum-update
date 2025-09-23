@@ -1,5 +1,6 @@
 # Strategic Planning and Execution in Digital Acquisitions
 **Module 3 Sprint 2**
+
 > _Average completion time: 60 - 90 minutes_
 
 In today’s rapidly evolving federal procurement environment, agencies must adopt more agile, outcome-driven approaches to meet the complex needs of their missions. Traditional acquisition methods, anchored in prescriptive requirements, fixed personnel, and lengthy timelines, often fail to deliver timely and adaptable solutions, especially in digital service contexts.
@@ -119,22 +120,25 @@ U.S. Federal policy has rapidly evolved to support the responsible use of AI in 
 
 The Federal Acquisition Regulation has been updated to address AI procurement and competition requirements:
 
-**FAR Part 39 - Acquisition of information technology (AI provisions)**
+# FAR Part 39 - Acquisition of Information Technology (AI provisions)
 
 Recent updates to FAR Part 39 establish specific requirements for acquiring AI systems:
-- **AI system classification**: Contractors must classify AI systems by impact level (minimal, limited, high-impact) and provide documentation of AI capabilities, limitations, and intended use cases.
-- **Algorithmic impact assessments**: For high-impact AI systems, contractors must conduct and provide algorithmic impact assessments addressing bias, fairness, accuracy, and explainability.
-- **Data rights and AI models**: Enhanced provisions for government rights in AI training data, model weights, and algorithmic documentation to ensure transparency and enable government oversight.
-- **AI governance requirements**: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
-- **Explainability standards**: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
 
-**FAR Part 6 - Competition requirements (AI-enhanced competition)**
+- AI system classification: Contractors must classify AI systems by impact level (minimal, limited, high-impact) and provide documentation of AI capabilities, limitations, and intended use cases.
+- Algorithmic impact assessments: For high-impact AI systems, contractors must conduct and provide algorithmic impact assessments addressing bias, fairness, accuracy, and explainability.
+- Data rights and AI models: Enhanced provisions for government rights in AI training data, model weights, and algorithmic documentation to ensure transparency and enable government oversight.
+- AI governance requirements: Contractors must establish AI governance frameworks including human oversight mechanisms, performance monitoring, and incident reporting procedures.
+- Explainability standards: AI systems must provide explanations for decisions that are understandable to intended users, with enhanced requirements for systems affecting individual rights or safety.
+
+# FAR Part 6 - Competition requirements (AI-enhanced competition)
 
 Updates to FAR Part 6 address how AI tools can enhance and complicate competition:
-- **AI-assisted market research**: Agencies may use AI tools for market research and vendor identification while ensuring competitive opportunities remain fair and transparent.
-- **Competition in AI acquisitions**: Special competition considerations for AI systems, including evaluation of algorithm performance, bias testing, and interoperability requirements.
-- **Vendor evaluation criteria**: Enhanced evaluation factors for AI acquisitions including algorithm transparency, bias mitigation approaches, and data governance practices.
-- **Small business considerations**: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
+
+- AI-assisted market research: Agencies may use AI tools for market research and vendor identification while ensuring competitive opportunities remain fair and transparent.
+- Competition in AI acquisitions: Special competition considerations for AI systems, including evaluation of algorithm performance, bias testing, and interoperability requirements.
+- Vendor evaluation criteria: Enhanced evaluation factors for AI acquisitions including algorithm transparency, bias mitigation approaches, and data governance practices.
+- Small business considerations: Specific provisions to ensure small businesses can compete effectively in AI acquisitions through appropriate requirement structuring and evaluation methodologies.
+
 
 ### OMB guidance
 
