@@ -628,9 +628,11 @@ Under the revised FAR Part 6, agencies must conduct comprehensive market researc
 Collaboration between federal and vendor teams takes many forms. Choosing the right model depends on the scope, budget, risk tolerance, and speed of delivery.
 
 Common models include:
-* **Staff augmentation** – Individual vendor staff join federal teams to fill skill gaps.
-* **Full team delivery** – Vendors deliver entire workstreams or products independently.
-* **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
+
+- **Staff augmentation** – Individual vendor staff join federal teams to fill skill gaps.
+- **Full team delivery** – Vendors deliver entire workstreams or products independently.
+- **Co-delivery / Hybrid teams** – Vendor and federal staff collaborate as one integrated team, often with shared responsibilities.
+
 
 ### Real examples of “Who does what”
 
