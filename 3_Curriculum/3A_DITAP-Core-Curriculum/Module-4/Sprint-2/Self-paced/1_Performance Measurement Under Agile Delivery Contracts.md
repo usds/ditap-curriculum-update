@@ -84,8 +84,7 @@ Structure payments around user outcomes, not just deliverables:
 - **Performance Improvement Awards:** Bonuses for measurable improvements in key metrics.  
 - **Quality Excellence Fees:** Awards for consistently low defect rates.  
 
->**Example:**  
-"Contractor receives $25,000 bonus for each quarter where user task completion rate exceeds 85% and user satisfaction scores exceed 4.0/5.0."
+>**Example:**  "Contractor receives $25,000 bonus for each quarter where user task completion rate exceeds 85% and user satisfaction scores exceed 4.0/5.0."
 
 **2. Continuous Delivery Incentives**
 Reward sustainable development practices:
@@ -94,8 +93,7 @@ Reward sustainable development practices:
 - **Deployment Frequency Bonuses:** Rewards for maintaining a regular release cadence.  
 - **Recovery Time Excellence:** Awards for quick resolution of production issues.  
 
->**Example:**  
-"Contractor receives an award fee of 5% of quarterly payments for maintaining deployment frequency of at least weekly with less than 10% failure rate."
+>**Example:** "Contractor receives an award fee of 5% of quarterly payments for maintaining deployment frequency of at least weekly with less than 10% failure rate."
 
 **3. Team Stability Incentives**
 Encourage keeping strong, consistent teams on the project:
@@ -104,8 +102,7 @@ Encourage keeping strong, consistent teams on the project:
 - **Knowledge Transfer Awards:** Bonuses for effective onboarding and documentation.  
 - **Skill Development Incentives:** Support for team training and certification.  
 
->**Example:**  
-"Contractor receives a $10,000 bonus if 85% or more of the originally proposed team members in labor categories X, Y, and Z remain continuously assigned to the project throughout the base period, with no more than two unplanned substitutions."
+>**Example:**  "Contractor receives a $10,000 bonus if 85% or more of the originally proposed team members in labor categories X, Y, and Z remain continuously assigned to the project throughout the base period, with no more than two unplanned substitutions."
 
 #### Effective Non-Monetary Incentives
 
