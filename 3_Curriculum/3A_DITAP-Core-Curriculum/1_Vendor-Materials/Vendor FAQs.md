@@ -93,3 +93,9 @@ Q. Could students access assessments or answers through GitHub, compromising ins
 
 Q. Some Applied Learning assignments (like the Live Digital Assignment) end before the overall program, and others may fall right after certain modules. How should vendors handle these timelines?
 >A. Vendors have flexibility to adjust assignment timelines to fit their delivery needs. The key is ensuring that all assignment requirements outlined in the Vendor Playbook are met, and that participants complete each assignment as instructed.
+
+---
+
+Q. Sprint 4 / Cynuria: Only seeing one place mention the “FAR 10 Integration Assignment” (Vendor Materials > Vendor Playbook > Vendor Playbook.md)
+>A. Please see the Module 2 Sprint 4 in-class materials folder for the document "2_Case Study: Far 10 Integration".
+
