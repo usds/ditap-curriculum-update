@@ -679,7 +679,7 @@ Select one of the following:
 
 **Quick Check:**
 
- ? Which of these are required for a successful vendor transition?
+ Which of these are required for a successful vendor transition?
 
 - [ ] Updated interface specs
 - [ ] Contract novation
@@ -703,7 +703,7 @@ Select one of the following:
 
 **Quick Check:**
 
-? Which of the following should be added to CloudTech’s modified contract?
+Which of the following should be added to CloudTech’s modified contract?
 
 - [ ] Clear timeout/error-handling protocols
 - [ ] Joint integration test milestones
@@ -728,7 +728,7 @@ Select one of the following:
 
 **Quick Check:**
 
-? What are key drawbacks to abandoning modularity mid-project?
+What are key drawbacks to abandoning modularity mid-project?
 
 - [ ] Higher vendor competition
 - [ ] Loss of lessons learned
