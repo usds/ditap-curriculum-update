@@ -1,5 +1,6 @@
 # Introduction: Leading Change
 **Module 4 Sprint 4**
+
 > _Average completion time: 60 - 90 minutes_
 
 In today’s fast-moving government environment, you are uniquely positioned to lead and influence positive change, from refining everyday procurement practices to scaling innovations across agencies. This module is designed to help you understand your personal role in driving change, strengthen your influence and collaboration skills, and develop strategies for continuous improvement and organizational growth.
@@ -12,7 +13,7 @@ You’ll move through two focused sprints:
 * **Sprint 2: Leading Organizational Change – Continuous Improvement and Scalable Practices**  
    Explore strategies for staying current with emerging technologies, applying lessons learned from each procurement, and scaling what works across your agency and the broader acquisition community.
 
-Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**—one that empowers you and those around you to lead change and guide customers toward the best solutions.
+Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**, one that empowers you and those around you to lead change and guide customers toward the best solutions.
 
 ### Learning Objectives
 
@@ -327,106 +328,7 @@ As you mentally prepare for a conversation, here are some tips that can help you
 
 
 
-When considering an iterative development approach, program offices and contracting may believe that acquisition regulations and agency guidance limits the government’s ability to use an Agile, Lean, or DevOps approach. 
-
-In departments and agencies with heavy IT review board processes, a particular sticking point is that Agile does not readily accommodate large capstone events such as Critical Design Review (CDR). However, the programs that have used Agile in software development have found that the FAR and DoD 5000 series regulations have great flexibility and do not preclude the use of Agile. Review the scenario below for an example of this approach in action. 
-
-**Context:** A very specific acquisition issue and sticking point is that Agile methodology does not accommodate large events such as the CDR, which is usually a major, multi day event with many smaller technical meetings leading up to it. The intent of these oversight reviews is to mitigate risk by providing detailed plans on how development will be performed over the next few years. This approach requires a great deal of documentation by the contractor and many technical reviews by the government; the documentation serves as a proxy for direct user feedback in the development process. 
-
-**Observation:** In Agile development, the user, developers, and product managers are engaging directly and frequently about the user requirements and design so the scale and comprehensiveness of a CDR is foreign to Agile development teams. Some experienced Agile providers have accommodated this issue by breaking the typical waterfall-based CDRs into multiple Interim Design Reviews (IDRs), which is an example of the type of “flexibility” in implementing modular contracting or DoD 5000 requirements. These IDRs need to reflect the iterative nature of Agile, and they can be held more frequently and with tighter focus for only a few hours at a time, as opposed to the several days needed for CDRs. The entry and exit criteria for an IDR needs to be dependent on the current iteration, and the results of a combination of all IDRs completed should be functionally equivalent to a CDR using waterfall. 
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-
-## Common Topic for Difficult Conversations: Knowledge of Agile
-
-Agile methods have been developed and used most extensively in the non government/DoD commercial sector with small- to medium-sized projects. Experience with larger projects has recently started to accumulate in the commercial sector. As a result, few government acquisition professionals and contractors are familiar with the use of Agile or possess the necessary experience to effectively implement it, which is exactly the issue that this program is seeking to address! Review the write-up below for additional context on this issue. 
-
-**Context:** The acquisition community’s imperfect understanding of Agile might undermine the success of an Agile contractor. Agile is relatively new to the government and has its genesis in the software development community, which is mostly isolated from acquisition concerns. As a result, relatively few acquisition professionals have direct experience with Agile, and Agile-unaware PMO members might insist on the more familiar project documents, oversight process, and metrics that do not fit with Agile. Acquisition professionals may want to include requirement specifications to ensure the contractor be held accountable for delivery and may be uncomfortable with buying sprints of undetermined functionality or code demonstrations in lieu of written proposals. Program managers may like the flexibility to change priorities and less documentation, but may not be prepared for the level and frequency of engagement. 
-
-**Observation:** All government and contractor personnel need to spend the time necessary before contract award to understand what it means to use Agile from all perspectives. The following are examples of such considerations. 
-
-* Which contractual phases can employ Agile? 
-* What are the milestone and deliverable details for each phase when using Agile? 
-* What contract changes would be needed? 
-* What changes to the approach of monitoring development progress will be needed? 
-* What type of staff members are needed on both sides (government and contractor)? 
-* Which of the FAR, TechFAR, or 5000.02 process formalities will be tailored?
-  
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN 002 pgs. 12-22   
-  
-
-## Common Topic for Difficult Conversations: Organizational Culture
-
-Culture is the customary knowledge, beliefs, behaviors, and traits displayed by an organization. The government is heavily invested in the use of waterfall for acquisition of all equipment and systems, whether they are software intensive or not. As a result, a large segment of the government/DoD acquisition community (and that of long-time contractors, as well) is more comfortable with waterfall and skeptical about using Agile. Review the write-up below for additional context on this issue.
-
-**Context:** The government is heavily invested in the use of waterfall for acquisition in general, and this has been applied to software acquisition as well. While other methods have been used, waterfall and its accompanying precepts are most familiar to most PMOs. 
-
-**Observation:** Moving to Agile is difficult, many of the “old ways” and paradigms need to be modified using a fundamental culture change. Not long ago, the training in the interpretation of software acquisition requirements is skewed toward the waterfall approach. Thus, a PMO employing Agile will need to be trained in Agile concepts.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
  
-## Common Topic for Difficult Conversations: Organizational Oversight
-
-Tracking and measuring progress while using Agile in a way that is clear to and trusted by the government is a particular challenge. The metrics applied on past software acquisitions, including the use of the Earned Value Method System (EVMS), do not provide the same benefit compared to the effort collecting for Agile as they do for Waterfall. Agile also does not support the kind of granularity of estimates and task detail that is typically shown across the entire project in an Integrated Master Schedule (IMS). Rather, Agile provides delivered working code so the need for estimates is diminished. 
-
-**Context:** Traditional waterfall provides significant oversight and insight into the implementation details of the program; this method is very structured so that it provides predictability, stability, and high assurance. The execution of Agile is distinctly different from what the Program Management Office (PMO) has seen in the past on programs using waterfall. The control and discipline comes from the Agile team itself rather than from control external to the team, that is project and higher management. As a result, the PMO will see a different way that the development is controlled, executed, and viewed.  
-
-**Observation:** In Agile, a system of program metrics that allows the PMO to have insight into the developer’s priorities and the development progress being made on a day-to-day basis will allow the PMO to achieve an optimal balance between insight and oversight.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-
-## Common Topic for Difficult Conversations: End User Involvement
-
-The close involvement of end users in the development process, reviews, and demonstrations, upon which successful Agile implementations depend, is extremely difficult to achieve with the many stakeholders typical of government acquisitions. In addition, the continuous availability of the end user is an issue in the government environment, as end users are usually in operational not acquisition organizations. Acquisition personnel tend to be isolated in acquisition organizations, rather than integrated into operational units.  
-
-**Context:** One of the fundamental principles cited in the [Agile Manifesto](https://agilealliance.org/agile101/the-agile-manifesto/) is customer collaboration. In other words, Agile believes close interaction between the developers and end users is important. A basic Agile principle is “business people (users) and developers work together daily,” but in the government acquisition environment, this is rarely easy and may sometimes not even be possible. Government acquisitions involve many stakeholders with inherently conflicting needs. It is hard to get a single viewpoint from the customer because no one person truly represents the users. Plus, it is hard to get all the stakeholders involved in development decisions. 
-
-**Observation:** From program interviews, it was found: A single voice for the user/customer is essential. This could be accomplished through an input-filtering steering committee that documents decisions, insists that the user community speaks with one voice to the Agile developer (through requirements definition), and receives input from and gives direction to a single person representing the Agile developer. True users (not just PMO representatives) must attend demonstrations that are given specifically to get user information and feedback. A hybrid approach (something between “pure Agile” and FAR/DoD 5000 traditional methods) is needed for large systems to assure that agreements with multiple users are documented, external interfaces are documented and agreed to, and multiple contractual and programmatic constraints are honored. A strong emphasis on government/user participation in reviews and demonstrations is essential. These reviews and demonstrations will be of shorter duration and have a tighter focus with Agile, and this will result in more frequent reviews that reflect the nature of Agile development. For example, having eight two hour reviews spread over time, as opposed to a single two-day event to cover the same material, would be one way to handle this.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-## Common Topic for Difficult Conversations: Integration and Test
-
-Because integration and testing activities are part of Agile development iterations, the approach to these activities might significantly change from those used in waterfall. The biggest change is that integration and test needs to be done throughout the project as opposed to waiting until the end of the release cycle. This is another particularly challenging issue of culture change since, historically, integration and test organizations have been outside the development teams once you get beyond unit testing. 
-
-**Context:** Test and integration are incorporated throughout the iteration life cycle used within Agile as opposed to waterfall, which puts it at the end. Testing can have a significantly different role in the project depending on which Agile method is used. The big advantage in Agile testing and integration is that testing can, and usually is, started earlier because of the short timeframes for iterations; this flushes out problems more quickly. Furthermore, gathering customer feedback during the development phase (in each iteration) provides an early look at the code capabilities and helps reduce risk at the time of system integration. 
-
-**Observation:** From program interviews, it was found: 
-
-* Within the government, “sell-off” is the process used by the contractor to obtain formal acceptance of the developed product from the government, thus the government takes ownership as the contractor “sells off.” The nature of “system sell-off” from the contractor’s perspective is still the same as in waterfall; there might be fewer risks because the government is buying smaller allotments of working code through frequent interactions among all parties during the demonstrations.   
-* Software builds are completed much earlier with Agile since each iteration produces a usable build; because of this, more frequent test and integration work can be done.   
-* The government test community can (and should) be involved early.   
-* A lesson specific to integration is that the software integrators need to have access to the ultimate target environment. This reduces issues for the development teams when they get to system-level integration. (The degree to which this is an advantage depends on the target environment and the number of platforms that are involved.)   
-* Access to the developers for the testing/integration team can be an issue because of the short (typically two-week) development cycles; this puts intense time pressure on the development team and should be addressed during forward iteration planning as iteration cycles are completed. Further, this might suggest that the testing/integration team members need to be part of the development team.   
-* Government testing personnel need to understand the differences inherent in Agile versus waterfall to adequately adapt staff and time requirements for testing when using Agile. The government testing personnel need to be engaged at the development iteration level; they should not wait until the entire system is completed to initiate their testing work.
-    
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-
-## Common Topic for Difficult Conversations: Infrastructure
-
-No matter whether one uses waterfall or Agile, the group undertaking the project needs to have an infrastructure supporting it. This would include the organization of the team and the context within which the team operates. The overall organization of a project using Agile is different from the traditional program structure. The structure for an Agile project reflects Agile precepts and is reliant on the context in which it will be applied. 
-
-**Context:** For large programs there is the need for early decisions about the support structure including shared assets. To help eliminate configuration management issues, the government usually dictates the shared assets of models across contracts and contractors on a large program. Common facilities (or shared assets), such as common logging (for example automated logging of test messages), agreements on units of measure, data models, etc., will be used on all segments and components of large programs. Early decisions on such aspects can appear to be in direct contradiction to the tenets of Agile. However, developers using Agile need to be aware of the larger, system wide constructs during their iteration planning. Developers need to use these as inputs so that they can be accommodated during the Agile implementation. Developers also need to understand that for government programs, the Concept of Operations (CONOPS) developed for the overall system by the government strongly influences and provides the context for the capability stories used in Agile development. Therefore, an up-front operational architecture needs to be defined as part of the CONOPS, and all developers of the overall system need to understand that conventional “use cases” and Agile “stories” are different in construction and application. Agile “stories” are less-formal constructs written as informal English descriptions. “Use cases” are formal constructs including preconditions, post conditions, and detailed interaction diagrams. 
-
-**Observation:** Some potential organizational ideas for executing Agile in the government acquisition environment: 
-
-* Agile can be experimented with early in the acquisition life cycle to try out what works and what doesn’t. Possible places to experiment might be during analysis of alternatives, risk reduction activities, activities leading up to Milestone B, phases in which only coding is being produced, and Advanced Concept Technology Demonstrations (ACTDs).   
-* For programs just getting involved with Agile, one organizational structure that worked well involved customers on-site at the contractor's facilities using a two week rotational schedule. The interviewees indicated that such a short rotational schedule benefits the contractor team because it typically provides much better access to real users, and it benefits the PMO team because they have better insight into what is going on in development.   
-* To help get started with Agile, the contractors brought in an Agile expert who would be embedded in the team and then train his/her way out of the job. This way the Agile team learns by doing, not just from classroom training or books.   
-* The contractors created something concrete that behaves in a representative manner, such as an early version or prototype.
-  
-Large programs with multiple Agile teams had several more ideas:   
-* To coordinate project dependencies across multiple Agile development teams, the leaders of the development teams, who typically maintain control of the team through a daily “scrum,” can themselves become members of a team of consisting of all the team leaders (a “scrum of scrums”).   
-* To maintain subject matter expertise and foster the cross-training of staff, team leads should be permanent, rotating the staff underneath them. This allows the cross-training of staff in all areas and maintains the team lead as subject matter experts—a “best-of-both worlds” approach.   
-* Planning for iterations was difficult with multiple Agile teams running in parallel and working on the same source tree. It was difficult to track feature predecessors. For example, if story A is needed before story B can be implemented, and story A was scheduled to be completed during the last iteration by another team, the development team needs to know if story A actually made it into that iteration before scheduling story B. This problem is made more difficult if both A and B are scheduled for the same iteration because each team can decide for itself which stories get bumped from a particular iteration. In order to preclude this type of behavior, one group made this particular topic part of their daily team lead standups.   
-* Dependencies across multiple Agile teams working on a common source tree need frequent coordination. The interviewees pointed out that one possible way of doing this would be to have the Agile team leader scrum (the “scrum of scrums”) meet in a daily standup to track the interdependencies.
-    
-Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-  
 ---
 ## Knowledge Check
 
@@ -554,7 +456,7 @@ Now that you’ve learned about a framework you can use to figure out why you we
 
 First, review the scenario below:
 
-You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them\! How could they be so deluded?\!
+You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them! How could they be so deluded?!
 
 Review the following factors were at play in this situation:
 
