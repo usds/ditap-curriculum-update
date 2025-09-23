@@ -89,6 +89,7 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 * **PO Role**: Finalizes backlog priorities aligned to user needs and contract scope.
 * **COR Role**: Observes and documents sprint goals, noting dependencies or delivery risks.
 * **Procurement Alignment**:
+  
   - COR ensures planned work aligns with contract objectives and performance standards.
   - Documents expectations for QASP tracking and vendor evaluation.
 
@@ -109,6 +110,7 @@ This guide outlines how standard Agile ceremonies align with the responsibilitie
 * **PO Role**: Fosters a learning culture, encouraging feedback and continuous improvement.
 * **COR Role**: Participates in discussions that may surface delivery risks or suggest contract adjustments.
 * **Procurement Alignment**:
+  
   - Lessons learned may prompt updates to backlog, team processes, or performance plans.
 
 
