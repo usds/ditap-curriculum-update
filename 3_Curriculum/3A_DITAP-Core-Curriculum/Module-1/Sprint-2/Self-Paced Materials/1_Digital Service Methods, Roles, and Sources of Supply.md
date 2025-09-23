@@ -588,25 +588,36 @@ Agency-specific vehicles are increasingly designed to support agile, iterative d
 ## Competition and small business requirements (FAR Parts 6 & 39 Compliance) 
 
 **Market Research for Digital Services:**
+
 Under the revised FAR Part 6, agencies must conduct comprehensive market research before selecting digital service providers:
+
 - **Industry Analysis**: Research capabilities across large companies, small businesses, and emerging technology firms
-- **Small Business Assessment**: Document opportunities for small business set-asides, including 8(a), HUBZone, SDVOSB, and WOSB participation  
+- **Small Business Assessment**: Document opportunities for small business set-asides, including 8(a), HUBZone, SDVOSB, and WOSB participation
 - **Innovation Opportunities**: Identify emerging technologies and non-traditional vendors that could provide innovative solutions
 - **Cost Analysis**: Gather pricing information from multiple sources to establish fair and reasonable expectations
 
+---
+
 **Competition Strategy Requirements:**
+
 - **Full and Open Competition**: Default approach unless exception criteria are met and documented
 - **Set-Aside Analysis**: Evaluate all opportunities for small business participation before proceeding with unrestricted competition
 - **Bundling Restrictions**: Avoid unnecessary bundling that would exclude small business participation
 - **Multiple Award Opportunities**: Consider IDIQ contracts and other vehicles that provide ongoing competitive opportunities
 
+---
+
 **Technology-Specific Requirements (FAR Part 39):**
+
 - **Cloud Services**: All cloud acquisitions must include FedRAMP authorization requirements and supply chain risk assessments
 - **AI/ML Systems**: Mandatory bias assessment and explainability requirements for artificial intelligence acquisitions
 - **Open Source Software**: Legal review and security assessment requirements for open source solutions
 - **Cybersecurity**: Current federal cybersecurity standards must be incorporated into all IT acquisitions
 
+---
+
 **Pre-Solicitation Requirements:**
+
 - Conduct industry days to gather market feedback
 - Issue Requests for Information (RFIs) when market capabilities are unclear
 - Document all vendor communications in accordance with FAR transparency requirements
