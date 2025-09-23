@@ -1,5 +1,6 @@
 # Defining Success for Your Digital Services Acquisition
 **Module 2 Sprint 3**
+
 > _Average completion time: 35 - 45 minutes_
 
 ## Overview
