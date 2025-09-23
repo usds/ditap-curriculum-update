@@ -1,5 +1,6 @@
 # Federal IT Acquisition, Management, and Software Engineering Practices
 **Module 4 Sprint 4**
+
 > _Average completion time: 60 - 90 minutes_
 
 ## Introduction
@@ -223,6 +224,8 @@ Specific Analysis Required:
 
 **Learning Note:** *Consider how performance-based contracting can incentivize quality outcomes, what role government technical capacity plays in effective oversight, how modular contracting approaches enable iterative delivery, and what contract terms are needed to support DevSecOps integration.*
 
+---
+
 **Question 2: Building government technical capacity**
 
 **Challenge:** Federal agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes (as demonstrated in the FAFSA case, where CIOs were not involved in governance activities).
@@ -238,13 +241,15 @@ Specific Analysis Required:
 
 **Learning Note:** *Consider what skills government staff need to effectively oversee modern IT contracts, how to structure vendor relationships that build rather than replace government expertise, what role technical training and certification play in acquisition workforce development, and how to create sustainable technical career paths within government.*
 
+---
+
 **Question 3: Performance measurement and continuous improvement**
 
 **Industry Context**: Research shows that technical adoption alone doesn't guarantee success—organizational culture, change management, and performance measurement are equally critical for digital transformation success.
 
 **Federal Application Analysis:**
 
-* **Current Challenge:** Why do federal agencies struggle to implement DevOps practices even when contracts require them? (Use specific examples from your chosen case study).  
+* **Current Challenge:** Why do federal agencies struggle to implement DevOps practices even when contracts require them? (Use specific examples from your chosen case study.)  
 * **Measurement Framework:** How would you design performance metrics that capture both technical delivery quality and user outcome achievement?  
 * **Continuous Improvement**: What contract structures and oversight processes would enable rapid identification and correction of delivery problems?  
 * **Cultural Change:** How can acquisition strategies support rather than hinder the cultural changes needed for successful digital transformation?
@@ -629,7 +634,8 @@ Strategic learning requires honest assessment of both successes and failures, le
 
 Consider Sarah's situation from multiple perspectives: Modular Strategy (benefits vs. integration complexity), Vendor Management (individual vs. system performance), Risk Assessment (impact of module replacement), and Strategic Implications (the future of modular contracting).
 
-Analyze the pros and cons of
+Analyze the pros and cons of:
+
 * Module-specific termination for default
 * System-wide contract restructuring
 * Accepting remediation with enhanced integration requirements
@@ -671,13 +677,15 @@ Select one of the following:
 
 **Quick Check:**
 
-**Which of these are required for a successful vendor transition?**  
- ☐ Updated interface specs  
- ☐ Contract novation  
- ☐ Parallel testing plans  
- ☐ GAO approval
+ ? Which of these are required for a successful vendor transition?
 
-✅ **Correct Answers:** Updated interface specs, Parallel testing plans
+- [ ] Updated interface specs
+- [ ] Contract novation
+- [ ] Parallel testing plans
+- [ ] GAO approval
+
+> ✅ **Correct Answers:** Updated interface specs, Parallel testing plans
+
 
 #### Option B: Accept CloudTech’s remediation proposal
 
@@ -693,13 +701,15 @@ Select one of the following:
 
 **Quick Check:**
 
-**Which of the following should be added to CloudTech’s modified contract?**  
- ☐ Clear timeout/error-handling protocols  
- ☐ Joint integration test milestones  
- ☐ Public apology  
- ☐ Co-located teams with other vendors
+? Which of the following should be added to CloudTech’s modified contract?
 
-✅ **Correct Answers:** Clear timeout/error-handling protocols, Joint integration test milestones
+- [ ] Clear timeout/error-handling protocols
+- [ ] Joint integration test milestones
+- [ ] Public apology
+- [ ] Co-located teams with other vendors
+
+> ✅ **Correct Answers:** Clear timeout/error-handling protocols, Joint integration test milestones
+
 
 #### Option C: Restructure to a single prime contractor
 
@@ -716,13 +726,15 @@ Select one of the following:
 
 **Quick Check:**
 
-**What are key drawbacks to abandoning modularity mid-project?**  
- ☐ Higher vendor competition  
- ☐ Loss of lessons learned  
- ☐ Reduced flexibility  
- ☐ More oversight from OMB
+? What are key drawbacks to abandoning modularity mid-project?
 
-✅ **Correct Answers:** Loss of lessons learned, Reduced flexibility
+- [ ] Higher vendor competition
+- [ ] Loss of lessons learned
+- [ ] Reduced flexibility
+- [ ] More oversight from OMB
+
+> ✅ **Correct Answers:** Loss of lessons learned, Reduced flexibility
+
 
 ### Final reflection
 
