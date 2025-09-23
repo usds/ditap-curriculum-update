@@ -36,9 +36,11 @@ Federal acquisitions frequently rely on waterfall methodologies, comprehensive u
 Agencies often lack internal technical expertise to effectively oversee complex IT contracts, leading to inadequate vendor management and poor delivery outcomes.
 
 --- 
->Note for vendors: the case study below can be used for the activity that follows.
+
 
 ## Case study analysis: The FAFSA system modernization
+
+>Note for vendors: the case study below can be used for the activity that follows.
 
 **Procurement Context and Initial Decisions**
 
