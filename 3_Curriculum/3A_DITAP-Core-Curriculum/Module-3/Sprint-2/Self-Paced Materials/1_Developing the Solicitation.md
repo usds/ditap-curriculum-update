@@ -149,6 +149,7 @@ Revolutionary FAR Overhaul Impact on AI-Enabled Procurement
 The Revolutionary FAR Overhaul has fundamentally transformed how agencies approach Information and Communication Technology (ICT) procurement through revised FAR Part 39, now retitled "Acquisition of Information and Communication Technology." The revised Part 39 anchors rules directly in statutory authority, including 41 U.S.C. § 2308 (Modular contracting for information technology) and 29 U.S.C. § 794d (Electronic and information technology), while clearing away outdated Office of Management and Budget circular references. 
 
 Key changes affecting AI procurement include:
+
 - **Modular Contracting as Core Requirement**: Agencies should, to the maximum extent practicable, use modular contracting to acquire major systems of information technology, with contracts structured to ensure the Government is not required to procure additional increments. 
 - **Accelerated Procurement Timeline**: Modular contracts for information technology should be awarded within 180 days after solicitation issuance to avoid obsolescence.
 - **Performance-Based Focus**: FAR Part 39 now requires contractors to provide evidence of success in delivering performance-based outcomes for ICT services. 
