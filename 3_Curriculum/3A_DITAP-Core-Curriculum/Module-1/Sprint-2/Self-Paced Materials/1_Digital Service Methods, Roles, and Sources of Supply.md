@@ -489,24 +489,26 @@ This combination is particularly valuable in the federal context. It allows agen
 
 **Playbook integration:** Federal teams use HCD to **guide direction** and DevSecOps to **power execution**, ensuring that services are aligned with user needs while being scalable and secure.
 
-## Knowledge check: 
+## Knowledge check 
 
 Prompt: You’re working with a federal team building a new mobile app for Veterans to track their healthcare appointments.
 
 ✅ Question 1
 
-Which approach should you prioritize first?   
- \[ \] Use DevSecOps to begin coding and automating deployments immediately.
- \[ \] Apply HCD practices to understand Veteran needs and gather early feedback. (correct)
- \[ \] Begin procurement for security and operations tools.
+Which approach should you prioritize first?
 
-**Feedback (correct):** 
+[[ ]] Use DevSecOps to begin coding and automating deployments immediately.
+[[X]] Apply HCD practices to understand Veteran needs and gather early feedback.
+[[ ]] Begin procurement for security and operations tools.
 
-✅ Correct\! Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.
+---
 
-**Feedback (incorrect):**
+Feedback:
 
-❌  Not quite, understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+* **Correct:** ✅ Applying Human-Centered Design (HCD) first helps you understand Veteran needs before building. This ensures you’re solving the right problems. DevSecOps and procurement can follow once the team knows what to build and why.  
+
+* **Incorrect:** ❌ Not quite. Understanding user needs through HCD should come first. DevSecOps supports the delivery once the team knows what to build and why.
+
 
 ## Digital service delivery providers - Sources of supply  
 
