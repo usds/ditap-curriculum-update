@@ -1,5 +1,6 @@
 # Introduction to Conducting Effective Market Research
 **Module 2 Sprint 4**
+
 > _Average completion time: 2 - 2.5 hours_
 
 Effective market research is the cornerstone of a successful digital services acquisition. It provides the critical insights needed to align government needs with real-world capabilities and ensures the resulting solicitations are grounded in an understanding of current technologies, vendor landscapes, and user expectations. In today’s fast-paced digital environment, traditional approaches to research often fall short, requiring a shift toward more agile, creative, and user-informed techniques.
@@ -262,41 +263,45 @@ Think of the information you have to provide in the shape of a pyramid. The back
 
 Read about each building block of the pyramid above. 
 
-**1\. Background and Mission:** All agency programs and acquisitions must be tied to supporting and accomplishing the agency’s mission. The more your potential vendors know about your mission and related background information, the more likely they are to propose appropriate solutions and provide proper support for that mission. Be sure to include the end users of the system, their specific problems, and any attempts to meet those needs in previous acquisitions. Are there lessons learned or retrospectives of those efforts that would help the industry not repeat previous approaches? 
-
-**2\. Desired Outcomes:** The desired outcomes inform and drive the acquisition requirements. You want to buy products or services that help you and your users accomplish specific outcomes (think of the [Digital Services Playbook Play \#1](https://playbook.usds.gov/#play1)), not simply complying with a list of requirements. Market research may be less effective if a product vision has not been defined, or what outputs equal success aren’t understood. 
-
-**3\. Constraints:** These are operating conditions, environments, or circumstances that limit the possibilities that vendors can propose to provide your desired outcomes. Examples include cybersecurity regulations, agency policies, and server environments. Because constraints impose limits on innovation and can introduce unnecessary costs to potential vendor solutions, every effort should be made to avoid unnecessary constraints or allow flexibility in complying with those constraints. 
-
-Some constraints are absolutely necessary, and potential vendors should be aware of them to propose compliant solutions. While it may not be appropriate to communicate all timelines and resource constraints, consider the benefits of being as transparent as possible.
-
-**4\. Timelines and Resources:** Vendors can’t offer realistic information about satisfying your desired outcomes if they don’t know timelines or available government manpower, dollars, and equipment resources. For example:
-* Will software development and/or testing be done on government or vendor servers?  
-* How long would vendors have to accomplish the requirements? What can be accomplished in two years is substantially different from what can be accomplished in two months.   
-* How much is the government willing to invest? What the government is willing to budget impacts the proposed resulting system's quality, acceptability, and functionality.
-
-A vendor can’t and won’t propose a premier solution on a shoestring budget. Still, since you’re trying to determine what’s possible, you may choose not to disclose timelines and resources available for the acquisition. Instead, indicate a broad range, from “x” to “y” of available resources, and encourage industry to expand on trade-offs and potential solutions within that schedule and resources.
-
-**5\. Requirements:** Requirements are the result of considering your mission, desired outcomes, constraints, timelines, and resources, along with what you learned from your market research, including industry communications, and establishing the scope of your acquisition. Your statement of those requirements describes what needs to be realistically provided or accomplished by the impending contract or contracts. These requirements may be communicated to industry as a Statement of Work (SOW), but they may also take other, more open-ended forms such as a Statement of Objectives (SOO). It may be helpful to draft these documents, but depending on where you are in market research, it’s okay to not yet have the requirements defined. The knowledge of the technical staff supporting the project and how familiar they are with the market should be considered. 
+| Category | Key Points |
+|----------|------------|
+| **Background and Mission** | - Acquisitions must support the agency’s mission.<br>- Provide vendors with mission context, end users, and their challenges.<br>- Share lessons learned or retrospectives from prior acquisitions to avoid repeating mistakes. |
+| **Desired Outcomes** | - Outcomes drive acquisition requirements (align with Digital Services Playbook, Play #1).<br>- Focus on enabling user outcomes rather than just compliance.<br>- Market research is less effective without a clear product vision or success criteria. |
+| **Constraints** | - Conditions that limit vendor solutions (e.g., cybersecurity, policies, server environments).<br>- Avoid unnecessary constraints to reduce cost and foster innovation.<br>- Some constraints are essential; be transparent where possible. |
+| **Timelines and Resources** | - Vendors need clarity on schedules, funding, and available government resources.<br>- Examples: <br> • Will development/testing occur on government or vendor servers?<br> • What’s achievable in 2 years vs. 2 months?<br> • What is the budget range?<br>- Consider sharing broad ranges instead of exact figures to explore trade-offs and possible solutions. |
+| **Requirements** | - Derived from mission, outcomes, constraints, timelines, and market research.<br>- Define what the contract must realistically deliver.<br>- Can be communicated via a **Statement of Work (SOW)** or **Statement of Objectives (SOO)**.<br>- Early drafts are acceptable; requirements may evolve with further input and staff expertise. |
 
 ### 2\. Engage early with industry regarding opportunities
 
 As you’ve learned throughout this module, engaging early with industry is critical in the ever-evolving digital services market. To facilitate communication, consider using the following traditional and non-traditional techniques.
 
-**Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors. Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. These techniques include but are not limited to the following:
+**Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors. Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. 
+
+These techniques include but are not limited to the following:
+- MVPs and challenges  
+- Reverse industry days  
+- Market surveys  
+- Virtual industry day webinar or videos  
+- Blogs and social media  
+- Similar industry experts  
+- Using a 3rd party to conduct market research  
+
+---
 
 **MVPs & challenges.** MVPs and challenges help test acquisition hypotheses to determine how best to conduct a full solicitation for a product. They allow for a lightweight way to determine if a particular platform, service, or tool can be implemented in an agency or solve an agency problem before making a significant investment. These approaches prove that the platform, service, or tool works or doesn’t work via actual delivery; they get a functioning solution from end users to see how well they respond. This reduces overall risk and lets an agency try before it buys. Contrast this with long-term market analysis reports that provide helpful information but don’t allow you to try and test with end users.
 
 ![A hand-drawn blue circular brushstroke framing the red text, 'Do the minimum needed to test your product'](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/MVP.png?raw=true)
 
 
-**MVPs:** The Minimum Viable Product (MVP), or alpha delivery, can be complex. In product development, the minimum viable product (MVP) has just enough features to gather “validated learning” about the product and its continued development. It uses a minimum investment to test a product. An MVP tests the actual usage scenario in contrast to conventional market research that relies on surveys or focus groups, often providing misleading results. Here are some more resources to further your understanding of MVPs:
+**MVPs:** The Minimum Viable Product (MVP), or alpha delivery, can be complex. In product development, the minimum viable product (MVP) has just enough features to gather “validated learning” about the product and its continued development. It uses a minimum investment to test a product. An MVP tests the actual usage scenario in contrast to conventional market research that relies on surveys or focus groups, often providing misleading results. 
 
-* The popular file-sharing system [Dropbox](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) started as an MVP.
+>The popular file-sharing system [Dropbox](https://techcrunch.com/2011/10/19/dropbox-minimal-viable-product/) started as an MVP.
 
 ![Challenges](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Challenges.jpg?raw=true)
 
 **Challenges:** Challenges are a great way to test out pilots or prototypes – get small MVPs created without going through the formal acquisition process. Also, it is potentially a way to encourage the open-source community to interact with the government. It does not require that individuals or companies be registered with a DUNS number, unless the challenge rules call for that specifically. [Challenge.gov](https://www.challenge.gov/) has a complete list of current challenges and how to use them.
+
+---
 
 ![Reverse Industry Days](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/IndustryDays.jpg?raw=true)
 
@@ -307,6 +312,8 @@ As you’ve learned throughout this module, engaging early with industry is crit
 * [The Story of DHS’ Reverse Industry Days](https://www.publicspendforum.net/podcasts/the-story-of-dhs-s-reverse-industry-days-a-new-approach-to-public-procurement/) (podcast)  
 * [Example Agenda](https://ditap.learning-transformation.com/assets/courseware/v1/35973cab5eee445d2a6fe9aab5d410a8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse_Industry_Day_-_Agenda_-_May_26_2016_0.pdf)  
 * [Example Invitation](https://ditap.learning-transformation.com/assets/courseware/v1/afb06cbd441668e933164e7d134101f8/asset-v1:ICF+DITAP01+2018_T1+type@asset+block/2.B_Reverse-Industry-Day-28-Jan-2015.pdf)
+
+---
 
 **Market surveys:** A market research survey is a more informal, flexible method for collecting targeted information from potential vendors. It’s usually distributed as a questionnaire and can include a mix of multiple-choice, scaled, and open-ended questions.
 
@@ -340,6 +347,8 @@ NOTE: [If Google Forms can’t be accessed, alternative tools can be found](http
 
 ![Webinars](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
 
+---
+
 **Virtual industry day webinar or videos:**   
 ​In the wake of the COVID-19 pandemic, virtual industry days have become a prevalent method for government agencies to engage with industry partners. Hosting a virtual industry day allows for broader participation, enabling companies from various locations to access critical information without traveling. Recording these sessions ensures that those unable to attend live can view the presentations conveniently. An added advantage of virtual platforms is the ability for participants to submit questions anonymously, fostering more open discussions around requirements and reducing the reticence often observed in traditional in-person industry days.
 
@@ -348,13 +357,21 @@ Examples of virtual industry days:
 * [Mission and Installation Contracting Command (MICC) Advance Planning Briefing for Industry (APBI):](https://www.army.mil/article/282863/registration_open_for_2025_army_contracting_virtual_outreach_for_industry?utm_source=chatgpt.com) In response to COVID-19 safety precautions, the MICC transitioned to a virtual format for its annual APBI event. This approach allowed small businesses and industry partners to engage in contracting forecasts and discussions without the need for physical attendance.  
 * [PILCast Episode \#9](https://www.youtube.com/watch?v=u_FQM9yR_2Q) \- Innovative Techniques for Market Research: The PIL has experimented with incorporating videos into these solicitations to provide a more dynamic and comprehensive understanding of project needs.
 
+---
+
 ![Blog](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Blog.jpg?raw=true)
+
 
 **Blogs and social media:** Use blogs and social media, such as LinkedIn, to socialize an upcoming requirement or to engage a community around the problem you are trying to solve. Tell the compelling story of the agency and the need, and you will entice the kinds of companies who respond well to this type of outlet. Procurement language is formal and somewhat off-putting for a vibrant digital service community. By adapting to the community, we can show industry that we can learn their communication patterns and build trust from the first publication of the need. 
 
+---
+
 ![Industry experts](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Industry_Experts.jpg?raw=true)
 
+
 **Similar industry experts:** Another way to interact with the industry is as an advisor. Finding an industry with similar challenges and problems as ours and discussing how they implement digital service techniques and solutions can help lend insight to how the commercial world buys these services. For example, Virgin Air has been awarded the Best Functional Web Design, Webby Award. An airline company is similar to an agency in terms of regulations, compliance, etc., but it must also engage customers to use its web services to book travel. Nothing prevents the government from contacting other industries to candidly discuss the method and the market that supports their products. In this space, the government is another consumer with similar challenges. 
+
+---
 
 **Using a 3rd party to conduct market research**
 
@@ -362,31 +379,13 @@ When the government needs to make a strategic technology choice, such as selecti
 
 **What can this market research cover?**
 
-**1\. Product and platform evaluation**
+| Category | Details |
+|----------|---------|
+| **1. Product and platform evaluation** | - Feature/functionality analysis <br>- Licensing and cost models <br>- Security posture (FedRAMP, SOC2, etc.) <br>- Performance and scalability <br>- Extensibility and vendor lock-in risks |
+| **2. Real-life scenario testing** | - Use your agency’s real workflows or data (where possible). <br>- Simulate mission-critical use cases. <br>- Collect user feedback on the interface or performance. <br>- Conduct short pilots, sandboxes, or demos. |
+| **3. Integrator ecosystem maturity** | - Assess the maturity of the services community around each product/platform. <br>- Consider: <br> • How many qualified integrators exist? <br> • What delivery models do they use? <br> • What is their experience in government contexts? <br> • Are they aligned to agile, modular delivery? <br> • Are they familiar with Section 508, FedRAMP, and the 21st Century IDEA Act? <br> • If Open Source, how involved is their community in the continual development of the tool? |
 
-* Feature/functionality analysis
-* Licensing and cost models
-* Security posture (FedRAMP, SOC2, etc.)
-* Performance and scalability
-* Extensibility and vendor lock-in risks
-
-**2\. Real-life scenario testing**
-
-* Use your agency’s real workflows or data (where possible).
-* Simulate mission-critical use cases.
-* Collect user feedback on the interface or performance.
-* Conduct short pilots, sandboxes, or demos.
-
-**3\. Integrator ecosystem maturity**
-
-* Assess the maturity of the services community around each product/platform.
-* Consider:
-  * How many qualified integrators exist?
-  * What delivery models do they use?
-  * What is their experience in government contexts?
-  * Are they aligned to agile, modular delivery?
-  * Are they familiar with Section 508, FedRAMP, and the 21st Century IDEA Act?  
-  * If Open Source, how involved is their community in the continual development of the tool? 
+---
 
 ## Engaging the industry traditionally
 
@@ -459,6 +458,8 @@ So how can we streamline? Start by asking:
 
 Ultimately, every RFI or engagement comes at a cost to industry, especially for the small, diverse, and mission-driven companies we want to encourage. Being intentional and efficient with your approach isn't just good stewardship, it’s smart acquisition.
 
+---
+
 ###  Scenario 1: The 60-page RFI that no one could answer
 
 **Background**:  
@@ -485,6 +486,8 @@ The agency received generic responses that didn't reflect the current state of t
 
 **Lesson:**  
 Instead of requesting extensive narratives and detailed pricing for undefined work, the agency could have hosted a focused industry listening session, followed by a simplified survey or form to gather essential information. This approach would have widened participation and provided a more accurate picture of market capabilities, reducing costs for all parties involved.
+
+---
 
 ### Scenario 2: Open tech challenge yields better results
 
@@ -557,86 +560,25 @@ Importantly, AI isn’t here to steal your job but to help you keep your sanity.
 
 **Key areas where AI enhances market research**
 
-1\. Drafting and reviewing documents
+| Key Area | Traditional Approach | AI-Enhanced Approach | Time Savings |
+|----------|-----------------------|-----------------------|--------------|
+| **1. Drafting and reviewing documents** | Depending on their complexity, manually drafting RFIs, market research reports, and other procurement documents can take several hours to days.​ | AI tools like ChatGPT, Co-Pilot, Gemini, or Claude can generate initial drafts of documents in minutes, which professionals can then review and customize.​ | Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks. |
+| **2. Analyzing vendor responses** | Reviewing and synthesizing responses from multiple vendors is a manual process that can take days, especially for large procurements.​ | AI can quickly analyze large volumes of text, identify key themes, and summarize vendor capabilities, facilitating, but not replacing, faster decision-making.​ | AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews. |
+| **3. Conducting market research** | Gathering information on potential vendors and market capabilities often involves extensive manual research.​ | AI tools can aggregate and analyze data from various sources, providing insights into vendor performance, market trends, and potential risks.​ | Implementing AI in market research can improve productivity by up to 40%, enabling faster and more informed procurement decisions. |
 
-Traditional approach:
-* Depending on their complexity, manually drafting RFIs, market research reports, and other procurement documents can take several hours to days.​
-
-AI-enhanced approach:
-* AI tools like ChatGPT, Co-Pilot, Gemini, or Claude can generate initial drafts of documents in minutes, which professionals can then review and customize.​
-
-Time savings:
-* Studies have shown that AI can reduce document drafting time by up to 80%, allowing staff to reallocate time to higher-value tasks.
-
-2\. Analyzing vendor responses
-
-Traditional approach:
-* Reviewing and synthesizing responses from multiple vendors is a manual process that can take days, especially for large procurements.​
-
-AI-enhanced approach:
-* AI can quickly analyze large volumes of text, identify key themes, and summarize vendor capabilities, facilitating, but not replacing, faster decision-making.​
-
-Time savings:
-* AI-assisted analysis can increase throughput by approximately 66%, significantly reducing the time required for comprehensive reviews.
-
-3\. Conducting market research
-
-Traditional approach:
-* Gathering information on potential vendors and market capabilities often involves extensive manual research.​
-
-AI-enhanced approach:
-* AI tools can aggregate and analyze data from various sources, providing insights into vendor performance, market trends, and potential risks.​
-
-Time savings:
-* Implementing AI in market research can improve productivity by up to 40%, enabling faster and more informed procurement decisions.
 
 ### Top AI security \+ integrity considerations for acquisition professionals
 
-**1\. Sensitive data can be exposed in public AI tools**
+| AI Risk | Details / Guidance |
+|---------|------------------|
+| **1. Sensitive data can be exposed in public AI tools** | - Don't input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).<br>- Some platforms use what you type to train their models, meaning your info could live on beyond your session.<br>- Use AI tools approved by your agency or ensure your tool has a “no data retention” policy or private model settings. |
+| **2. Hallucinations are real (and annoying)** | - A hallucination is when AI confidently makes something up and passes it off as fact, like citing a non-existent FAR clause or policy.<br>- AI predicts plausible answers based on training data.<br>- Always verify AI-generated content, especially concerning regulations, law, or pricing. AI is a co-pilot, not a final authority. |
+| **3. Model biases can skew results** | - AI reflects the data it was trained on, which may carry biases favoring certain vendors, tech solutions, or assumptions about “good performance.”<br>- Be mindful of potential bias in outputs; use AI for synthesis but maintain human judgment for fairness. |
+| **4. Version drift and inconsistent output** | - AI tools change frequently; responses may vary day-to-day.<br>- Save outputs you plan to use; don’t assume you’ll get the same response twice. |
+| **5. AI can reinforce bad inputs** | - Vague, incorrect, or biased prompts lead to poor outputs.<br>- Example: “Write a justification for this sole-source award” vs. “Assess if a sole-source justification aligns with FAR 6.302 guidance.”<br>- Prompt engineering matters: be clear, specific, and ask for sources. |
+| **6. Output may not be audit-ready** | - AI drafts documents, summaries, and reports, but accuracy, compliance, and traceability remain your responsibility.<br>- Double-check final outputs; AI is a strong first-draft machine, not a compliance tool. |
+| **7. Follow your agency’s IT and privacy policies** | - Agencies may have AI use policies governing tools, data input, and output handling.<br>- Check your agency's policy before using any AI tool or consult your IT/security lead. |
 
-**Don't** input proprietary, confidential, procurement-sensitive, or personally identifiable information (PII) into public AI tools (like free versions of ChatGPT or Bard).  
- Why? Some platforms use what you type to train their models, meaning your info could live on beyond your session.
-
-Use AI tools approved by your agency or ensure your tool has a “no data retention” policy or private model settings.
-
-**2\. Hallucinations are real (and annoying)**
-
-What’s a hallucination? It’s when an AI confidently makes something up and passes it off as fact, like citing a non-existent FAR clause or quoting a policy that doesn’t exist.  
- AI doesn’t *know* things—it predicts plausible answers based on patterns in the data it was trained on.
-
-Always verify AI-generated content, especially concerning regulations, law, or pricing. AI is a helpful co-pilot, not a final authority.
-
-**3\. Model biases can skew results**
-
-AI tools reflect the data they’re trained on, and that data might carry biases, such as favoring certain vendors, tech solutions, or assumptions about what “good performance” looks like.
-
-Be mindful of potential bias in AI outputs, especially when comparing vendors or analyzing performance data. Use AI for synthesis, but maintain human judgment for fairness.
-
-**4\. Version drift and inconsistent output**
-
-AI tools change frequently, what you get today may be slightly different tomorrow. Model updates can affect tone, structure, and even the accuracy of responses.
-
-Save outputs you plan to use. Don’t assume you’ll get the same response twice, AI doesn’t have a memory unless you give it one.
-
-**5\. AI can reinforce bad inputs**
-
-If your prompt is vague, incorrect, or biased, the AI will roll with it and might make things worse. For example:  
- “Write a justification for this sole-source award” will return a different answer than:  
- “Assess if a sole-source justification aligns with FAR 6.302 guidance.”
-
-Prompt engineering matters, how you ask a question influences what you get back. Be clear, specific, and ask for sources when needed.
-
-**6\. Output may not be audit-ready**
-
-AI can help you draft documents, summaries, and reports but you’re still responsible for accuracy, compliance, and traceability.
-
-Always double-check final outputs, and don’t submit AI-generated work as-is. Think of AI as a strong first draft machine, not a compliance tool.
-
-**7\. Follow your agency’s IT and privacy policies**
-
-Some agencies are adopting AI use policies that govern what tools can be used, what kinds of data can be input, and how outputs are handled.
-
-Check your agency's policy before using any AI tool or talk to your IT/security lead.
 
 ### Final thought:
 
