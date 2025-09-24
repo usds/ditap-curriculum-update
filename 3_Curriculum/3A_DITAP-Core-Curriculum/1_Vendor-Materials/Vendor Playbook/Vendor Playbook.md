@@ -466,51 +466,51 @@ Describe: Explore digital services in the 21st century, including what they are,
 | **Tech Topic 7: Open Source** | This topic introduces procurement officers to the principles, risks, and opportunities of open source software (OSS) in digital government. It covers how OSS reduces costs, increases innovation, and supports vendor independence. Key areas of discussion include legal foundations, evaluation practices, and the role of OSS in long-term service delivery and transparency, addressing common misunderstandings and its integration into the acquisition lifecycle. | Recognize how open source software fits within federal procurement, Identify common myths and misunderstandings around OSS in government, Explain how open source software fits into Commercial Off-the-Shelf (COTS) procurement. |
 
 ### Topics
-- **Tech Topic 1: Data**  
-  - What is data?  
-  - Key Considerations for Government Systems  
-  - Open Data  
-  - Data Privacy  
+**Tech Topic 1: Data**  
+- What is data?  
+- Key considerations for government systems
+- Open Data
+- Data privacy  
 
-- **Tech Topic 2: Software**  
-  - What is software?  
-  - How is software developed?  
-  - How is software delivered?  
-  - How is software updated?  
-  - Considerations around Supply Chain Licensing  
-  - Service Design and Delivery Standards  
+**Tech Topic 2: Software**  
+- What is software?
+- How is software developed?
+- How is software delivered?
+- How is software updated?
+- Considerations around supply chain licensing
+- Service design and delivery standards  
 
-- **Tech Topic 3: Cloud**  
-  - Basics  
-  - Considerations  
-  - Why Understanding Cloud Computing is Critical for Government Contracting Officers  
-  - Bottom Line for Contracting Officers  
+**Tech Topic 3: Cloud**  
+- Basics
+- Considerations
+- Why understanding Cloud Computing is critical for government contracting officers
+- Bottom line for contracting officers  
 
-- **Tech Topic 4: AI**  
-  - What Is Artificial Intelligence?  
-  - Types of AI  
-  - Key Considerations for Government Systems  
-  - Common AI Terms You May Encounter  
-  - Why It Matters to Procurement Officers  
-  - "What Contracting Officers Should Keep in Mind"  
+**Tech Topic 4: AI**  
+- What Is Artificial Intelligence?
+- Types of AI
+- Key considerations for government systems
+- Common AI terms you may encounter
+- Why it matters to procurement officers
+- "What contracting officers should keep in mind"  
 
-- **Tech Topic 5: Security**  
-  - Why is Cybersecurity Important?  
-  - Cybersecurity in the Current Federal Procurement Context  
-  - Four Key Areas of Cybersecurity for Digital Services  
+**Tech Topic 5: Security**  
+- Why is cybersecurity important?
+- Cybersecurity in the current federal procurement context
+- Four key areas of cybersecurity for digital services  
 
-- **Tech Topic 6: Accessibility**  
-  - Must Know Concepts  
-  - Common Misunderstandings  
-  - Where Does Accessibility Show Up?  
-  - Key Laws, Standards, or Frameworks  
+**Tech Topic 6: Accessibility**  
+- Must-know concepts
+- Common misunderstandings
+- Where does accessibility show up?
+- Key laws, standards, or frameworks  
 
-- **Tech Topic 7: Open Source**  
-  - Must Know Concepts  
-  - Common Misunderstandings  
-  - Why OSS Shifts Power Back to Government  
-  - How Open Source Shows Up in the Acquisition Lifecycle  
-  - Key Laws, Standards, or Frameworks  
+**Tech Topic 7: Open Source**  
+- Must-know concepts
+- Common misunderstandings
+- Why OSS shifts power back to government
+- How open source shows up in the acquisition lifecycle
+- Key laws, standards, or frameworks  
 
 
 ---
