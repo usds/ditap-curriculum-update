@@ -117,39 +117,48 @@ To support consistency across all DITAP deliveries, the following section identi
 
 ### Overview
 
-As part of the DITAP refresh, assessments have been reimagined to reflect modern principles of adult learning—less about checking boxes, more about building confidence through practice, feedback, and reflection. DITAP assessments are designed to promote meaningful learning behaviors, not just knowledge retention. They help learners apply course concepts to real-world work while giving facilitators insight into learner progress so they can provide timely support.
+The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-While this guidance provides a framework for consistent implementation, vendors have discretion to adapt assessments to their delivery format, learner needs, and agency-specific contexts. The goal is to maintain DITAP's core learning objectives while allowing flexibility in how those objectives are assessed and achieved.
+Our assessment design is grounded in the The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
-### Three core assessment areas
+**Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
-To successfully complete DITAP and earn a certificate, participants must demonstrate growth and competency in:
-
-1. **Participation** – Meaningful engagement in course sessions (40% weighting recommended)
-2. **Conceptual Fluency** – Understanding and application of key DITAP tools and frameworks (30% weighting recommended)
-3. **Live Digital Assignment** – Completing all phases of the Live Digital Assignment (30% weighting recommended)
-
-_Participation should carry the most weight. Vendors may adjust the distribution while maintaining this priority._
 
 ### Pass/Fail structure
 
-DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than chasing points. This reduces performance anxiety and shifts attention toward long-term capability-building — critical behaviors for leading digital transformation.
+DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than point accumulation. This mirrors the real-world environments they'll operate in.
 
-### Assessment types & design
+### Requirements for completion
 
-DITAP includes both formative assessments (low-stakes checkpoints that surface misunderstandings) and summative assessments (final demonstrations of mastery). Formative assessments feed into summative ones, allowing learners to practice, receive feedback, and iterate before final evaluation.
+To successfully complete DITAP and earn a certificate, vendors must assess two areas:
+1. **Participation** – Meaningful engagement in course sessions as measured by the provided rubric
+2. **Conceptual Fluency**– Understanding and application of key DITAP tools and frameworks through applied learning assignments and pre vs. post assessment comparison.
 
-The assessment design is grounded in the Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measuring decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+### Progress indicators
 
-_See Assessment Framework Section for more information._
+Without formal grades, students need regular feedback to ensure they're on track. Use these indicators:
 
----
+**On Track to Pass**
 
-## Participation
+- Consistently contributes in discussions (see rubric)
+- Accurately applies frameworks in assignments, no revisions required
+- Completes all phases of the capstone project
+- Demonstrates growth in post-assessment results
 
-The participation rubric provides a framework for giving feedback across three dimensions: cohort contribution, connections, and emergent thinking. For each dimension, a participant's engagement is assessed as fully engaged, progressing, or needs attention.
+**May Be At Risk**
+
+- Rarely participates (multiple "needs attention" ratings)
+- Misses key deliverables
+- Struggles to apply frameworks in assignments; revisions are required
+- Shows little to no progress from pre- to post-assessment
+
+--
+
+## Participation assessment
 
 ### Participation rubric
+
+The  rubric evaluates three dimensions of engagement: 
 
 |     | **Fully Engaged** | **Progressing** | **Needs Attention** |
 | --- | --- | --- | --- |
@@ -157,205 +166,125 @@ The participation rubric provides a framework for giving feedback across three d
 | **Connections** | Frequently connects course content to real work; shares relevant examples | Makes occasional connections between course and work | Struggles to relate content to context |
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
 
+## Participation assessment implementation
+_Timing: During/after interactive sessions, especially those tied to the threaded case scenario._
 
-### How and when to use the participation rubric
+| **Type of Assessment** | **Description** | **Suggested Cadence** | 
+| --- | --- | --- |
+| Participant self-assessment | Using the rubric, learners reflect on their own engagement and identify one area for growth. | Once per module | Rarely participates or comes unprepared |
+| Assessment by peers | Pairs or small groups provide one observation and one suggestion using rubric. | Twice per course |
+| Assessment by facilitators | Instructors use the rubric to guide individual or group feedback after observed sessions. | Twice per course | 
 
-**Self-Assessment:**
+### Intervention guidance
 
-- Participants reflect on their own engagement and identify one area for growth.
-- Suggested cadence: Once per module.
+Schedule a facilitator check-in when a participant meets either criterion:
 
-**Peer Feedback:**
-
-- Pairs or small groups provide one observation and one suggestion using rubric language.
-- Suggested cadence: Twice per course.
-
-**Facilitator Feedback:**
-
-- Instructors use the rubric to guide individual or group feedback after observed sessions.
-- Suggested cadence: Twice per course.
-
-The rubric should be used during or immediately after interactive sessions, especially those tied to the threaded case scenario, where deeper engagement and discussion are expected.
-
-### What to do when a participant's participation needs attention
-
-A facilitator check-in should be scheduled when a participant meets either of the following criteria:
-
-- Two consecutive "Needs Attention" ratings in the same dimension; OR
+- Two consecutive "Needs Attention" ratings in the same dimension, OR
 - Three total "Needs Attention" ratings across any dimension during the program
 
-Use the rubric to guide the conversation and offer concrete ways to re-engage.
+Use the rubric to guide conversations and offer concrete re-engagement strategies.
 
----
 
-## Conceptual fluency
+## Conceptual Fluency Assessment
 
-Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks—such as the Digital Services Playbook, TechFAR, and human-centered design principles—in realistic work contexts.
+Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks (Digital Services Playbook, TechFAR, human-centered design principles) in realistic work contexts.
 
-### How conceptual fluency is assessed
+### Assessment components
 
-#### Pre- and Post-Assessments
+#### Pre- and post-course assessments
 
-Pre- and post-course assessments bookend the DITAP learning experience, helping participants and facilitators measure growth, identify focus areas, and align learning activities to real-world application. While neither is graded, they provide valuable benchmarks that guide ongoing support and reflection.
+- **Pre-Assessment**: Informational and diagnostic only. Establishes baseline understanding and helps vendors identify instructional emphasis areas.
+- **Post-Assessment**: 80% required for pass/fail determination. Confirms minimum conceptual fluency for DITAP framework mastery.
 
-- **Pre-Assessment:** Surfaces baseline understanding and confidence with DITAP tools and frameworks. Helps facilitators anticipate support needs and tailor early instruction.
-- **Post-Assessment:** Captures growth in conceptual fluency, confidence, and applied decision-making. Comparing results offers participants a clear view of their progress.
+  - Multiple attempts allowed
+  - After first failure, redirect to challenging sections of schedule facilitator check-in.
+  - Multiple attemps allowed.
+  - After multiple failures, provide additional interventions (peer coaching, office hours, targeted practice).
+ 
+#### Applied learning assignments
 
-Baseline assessments are provided. Pre and post assessments are required. Vendors may amend scenarios or questions but should ensure consistent administration for comparable results across cohorts.
+- **Stakeholder Research Assignment**
+- **Shadowing Assignment**
+- **Live Digital Assessment (LDA)**
+
+Stakeholder research and shadowing assignments
+
+- Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
+- In short, both assignments have two phases:
+  - Phase 1: Requires approval to proceed
+  - Phase 2: Requires passing grade for completion
+ 
+Live Digital Assignment (LDA)
+
+- DITAP's capstone experience simulating the complete lifecycle of a digital services acquisition
+- Participants apply key DITAP concepts in real-world context through four phases:
+  - Discovery Sprint
+  - Case Study Development
+  - Peer Evaluation
+  - Final Presentations
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook [link to LDA playbook]
+
 
 #### Knowledge Checks
 
-Knowledge checks are embedded throughout the self-paced modules to help learners identify misconceptions early, practice applying key concepts, and reinforce terminology, frameworks, and decision-making skills. They are strategically placed in modules that introduce complex material to help manage cognitive load and confirm comprehension before learners advance.
+Embedded throughout self-paced modules to help learners identify misconceptions early and practice key concepts. While successful completion isn't required for advancement, vendors must track participation and performance patterns to guide facilitation and support.
 
-**Key characteristics:**
-
-- **Formative, not summative** – Low-stakes and non-graded; their purpose is reflection and reinforcement, not compliance. Completion is not required to move forward, but vendors must track participation and performance patterns to guide facilitation.  
-
-- **Integrated for reinforcement** – Aligned to module objectives and placed where content is most critical to help learners connect theory to practice in real time.  
-
-- **Flexible implementation** – May be referenced in live facilitation, supplemented with additional checks, or adapted for agency-specific scenarios.  
-
-#### Applied learning assignments and in-class discussions
-
-Three core applied learning opportunities serve as checkpoints for conceptual fluency:
-
-- Stakeholder Research Assignment
-- Shadowing Assignment
-- In-Class Discussions of the Threaded Case Scenario
-
-These assignments, in addition to other interactive class discussions, give facilitators insight into each learner's understanding and integration of course concepts. They must be evaluated holistically using the Conceptual Fluency Rubric.
-
-#### Conceptual Fluency Rubric
-
-| **Level** | **Description** |
-| --- | --- |
-| **Fully Demonstrated** | Accurately explains key frameworks and terminology (e.g., TechFAR, Playbook); effectively applies course concepts in the stakeholder research assignment, shadowing assignment, and threaded case scenario; performs well on knowledge checks. |
-| **Progressing** | Demonstrates partial understanding of course content; applies some concepts with growing consistency across applied learning assignments; knowledge checks reveal occasional gaps. |
-| **Needs Attention** | Struggles to explain or apply core concepts; responses in applied learning assignments are vague, inaccurate, or disconnected from course frameworks; knowledge check performance indicates significant misunderstandings. |
-
-
-
-### How and when to use the conceptual fluency rubric
-
-Facilitators should use the rubric throughout the course, assessing conceptual fluency in applied assignments, live discussions, and reflections. A holistic review should be conducted at the end of each module.
-
-**Recommended cadence:**
-
-- **Bi-weekly:** Provide feedback on assignments and self-paced work.
-- **End of module:** Assign a formal rating and document progress.
-- **Ongoing:** Act on repeated "Needs Attention" patterns immediately.
-
-When a participant receives "Needs Attention" ratings, facilitators should hold a supportive check-in and offer concrete strategies such as revisiting key readings, allocating more time for coursework, leveraging peer discussions, or using AI tools to explore concepts further.
-
----
-
-## Live Digital Assignment
-
-The Live Digital Assignment (LDA) is the capstone experience of the DITAP course. It gives participants the opportunity to simulate the lifecycle of a digital services acquisition and apply key DITAP concepts in a real-world context.
-
-Throughout the LDA, learners:
-
-- Practice stakeholder engagement through real or simulated interviews
-- Scope problems using HCD and Discovery Sprint tools
-- Simulate vendor roles by preparing a case study response
-- Evaluate peer submissions using real-world criteria
-- Reflect on lessons learned through final team presentations
-
-The four LDA phases include:
-
-1. **Discovery sprint** – Problem framing through stakeholder interviews
-2. **Case study development** – Creation of four artifacts aligned to the SPRUCE Technical Factor
-3. **Peer evaluation** – Blind review and feedback using a rubric
-4. **Final presentations** – Team reflections and learning synthesis
-
-The Case Study Package is formally assessed as Pass/Fail, but each phase is essential to the learning experience and course completion.
-
-**Suggested assessment breakdown:**
-
-- Case Study Package: 35%
-- Peer Evaluation: 25%
-- Team Presentation: 25%
-- Team Reflection: 15%
-
-Vendors should refer to the LDA Facilitator Guide for detailed phase-by-phase instructions, templates, and assessment guidance.
-
----
-
-## Assessment Framework
-
-### The Learning-Transfer Evaluation Model (LTEM)
-
-DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
-
-### LTEM alignment in DITAP
-
-DITAP's three assessment areas are strategically aligned with multiple LTEM levels:
-
-#### Participation (LTEM levels 1-2)
-
-The participation rubric ensures meaningful application of content that prepares participants to bring what they've learned into their work.
-
-#### Conceptual fluency (LTEM levels 4-5)
-
-- Level 4 (Knowledge): Pre/post assessments and knowledge checks assess recall and accurate description of key concepts
-- Level 5 (Decision-Making): Applied learning assignments and scenario-based activities require selecting appropriate actions in realistic situations
-
-#### Capstone project (LTEM level 6)
-
-The Live Digital Assignment operates at Level 6 (Task Competence) by requiring learners to perform actual behaviors and apply processes they will use on the job in a realistic, end-to-end simulation. This includes integrating multiple DITAP tools, making trade-off decisions, and producing deliverables that meet professional standards.
-
-### Progressive skill building
-
-This LTEM-aligned structure creates a scaffolded learning experience. Participation and early conceptual fluency activities establish engagement and basic knowledge. Knowledge checks and applied assignments provide low-stakes opportunities to practice decision-making. The capstone project demonstrates comprehensive ability to perform in realistic conditions.
-
-### Beyond the course: transfer and impact
-
-While LTEM Levels 7 (Transfer) and 8 (Organizational Results) are not directly measured within the course, successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
-
-_See Appendix for detailed LTEM level descriptions with DITAP examples._
-
----
-
-## Pass/Fail implementation guidance
-
-### Standard pass/fail criteria (applies to all assessment areas)
-
-- **Fully Engaged/Demonstrated:** Clear evidence of meeting expectations; learner is on track to pass
-  - Examples: Consistently contributes in discussions, accurately applies frameworks in assignments, completes all phases of the capstone project, demonstrates growth in post-assessment results.
-- **Progressing:** Generally on track; continue to encourage reflection and consistency
-  - Examples: Contributes occasionally, applies some frameworks with partial accuracy, completes most but not all deliverables, post-assessment results show some improvement but reveal gaps.
-- **Needs Attention:** May be at risk; facilitator should initiate a check-in and support plan
-  - Examples: Rarely participates, struggles to apply frameworks in assignments, misses key deliverables, receives multiple “Needs Attention” ratings on rubrics, or shows little to no progress from pre- to post-assessment.
-
-### Vendor assessment requirements summary
-
-In summary, each vendor must implement an assessment plan that supports the pass/fail nature of the course and includes:
-
-- **Meaningful participation measurement** using engagement rubrics and opportunities for ongoing feedback.
-- **Consistent informal and formal measurement of conceptual fluency** across multiple course elements, including:
-  - Administration of pre-course and post-course assessments
-    - DITAP Pre-Program Survey: The purpose of this survey is to measure participants’ incoming knowledge and experience related to the key competencies in the Digital IT Acquisition Professional (DITAP) program.
-    - DITAP Post-Program Survey: This post-program survey is designed to collect participant feedback on the program’s content, delivery, and value to your professional development.
-  - Knowledge checks embedded in the self-paced modules
-  - Applied learning assignments such as shadowing and stakeholder research and in-class discussions such as those related to the threaded case scenario
-- **A cumulative, culminating applied learning assignment (capstone)** that simulates real-world digital acquisition challenges.
-
-Vendors may supplement with additional assessments based on their delivery format, learner preferences, or agency-specific use cases.
-
----
-
-## Continuous Learning Points (CLPs)
+## Contiuous Learning Points (CLPs)
 
 Participants in the full 6-month DITAP program should be eligible to receive 80 CLPs upon successful completion of all program requirements.
 
 For shorter or adapted versions of the program, training providers should work with USDS to determine the appropriate CLP allocation. The total number of CLPs and the criteria for earning them should be clearly stated in the course materials provided to participants.
 
+## The Learning-Transfer Evaluation Model (LTEM) Alignment
+
+DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
+
+### LTEM levels in DITAP
+
+| **LTEM Level** | **Description** | **DITAP Examples** | 
+| --- | --- | --- |
+| 1. **Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
+| 2. **Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
+| 3. **Learner perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
+| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments.|
+| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.|
+| 6. **Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning. |
+| 7. **Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | [Assessed post DITAP, Consortium to own] Alumni survey 30–60 days post-course asking for specific examples; Best practice: manager interviews to confirm observed behavior changes. |
+| 8. **Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | ((Assessed post DITAP, Consortium to own))  Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
+
+
+### Progressive skill building
+
+This structure creates scaffolded learning:
+
+- Participation and early activities establish engagement and basic knowledge.
+- Knowledge checks and applied assignments provide low-stakes decision-making practice.
+- Capstone project demonstrates comprehensive performance ability in realistic conditions.
+
+
+### Beyond the course
+
+LTEM Levels 7 (Transfer) and 8 (Organizational Results) are assessed after course completion, and the DITAP consortium is actively working on measurement strategies for these levels. Level 8 represents the gold standard of organizational impact but may be challenging to achieve given agency constraints and the multiple factors beyond DITAP training that influence organizational outcomes. Successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
+
+### Implementation requirements summary
+
+Each vendor must implement an assessment plan that includes:
+1. Meaningful participation measurement using engagement rubrics with ongoing feedback opportunities
+2. Consistent conceptual fluency measurement across multiple elements:
+  - Pre-course and post-course assessment administration
+  - Embedded knowledge checks in self-paced learning
+  - Applied learning assignments (shadowing, stakeholder research)
+  - Cumulative capstone project simulating real-world digital acquisition challenges
+
+Vendors may supplement with additional assessments based on delivery format, learner preferences, or agency-specific contexts.
+
 ---
 
-## Appendix
+## Sample Communications
 
+---
 
-### “Participation needs attention” sample email
+### “Participation Needs Attention” Email Template
 
 **Subject:** Quick check-in on participation
 
