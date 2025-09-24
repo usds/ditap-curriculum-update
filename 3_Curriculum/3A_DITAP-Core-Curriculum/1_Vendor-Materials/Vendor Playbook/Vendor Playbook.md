@@ -1,10 +1,10 @@
-# Welcome to the DITAP Vendor Playbook
+# Welcome to the DITAP Vendor Playbook 
 
 This playbook is here to help you deliver the refreshed Digital IT Acquisition Professional (DITAP) program with clarity, confidence, and consistency. The DITAP program is a multi-modal training and development experience delivered over months at a time, built around a cohort-based learning approach that emphasizes collaboration, peer learning, and practical application. Inside, you will find the program structure, key requirements, competency-based content, and essential learning activities, along with tips, tools, and examples to make facilitation smoother and more engaging. While it provides a clear framework to ensure a high-quality experience for every cohort, it also leaves room for you to adapt delivery to your style and your learners’ needs. Think of it as both a guide and a partner, supporting you from planning through delivery so together we can create impactful learning experiences that prepare participants to succeed in real-world acquisition environments.
 
 ## Program overview
 
-The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
+The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
 
 ## Program structure
 
@@ -25,7 +25,7 @@ The program is divided into five modules, each with multiple sprints that serve 
 1. **Describe**: Explore what digital services are, who provides them, how they are delivered, and why they are important. Includes an overview of delivery methods (Agile, Human-Centered Design, DevSecOps) and a “Tech Bootcamp” covering data, software, cloud, AI, security, accessibility, and open source.
 2. **Discover**: Learn how to assess agency readiness, map stakeholders, define success, and conduct effective market research to inform acquisition strategies.
 3. **Design**: Translate discovery insights into a structured solicitation. Covers acquisition strategy development, solicitation creation, and evaluation planning.
-4. **Build**: Manage vendor partnerships and guide delivery using agile and lean principles. Topics include performance measurement, kickoff facilitation, and problem resolution.
+4. **Build**: Manage vendor partnerships and guide delivery using Agile and lean principles. Topics include performance measurement, kickoff facilitation, and problem resolution.
 5. **Grow**: Strengthen the ability to lead change and foster innovation at both the individual and organizational level.
 
 ### Target audience
@@ -94,20 +94,22 @@ Graduation is an opportunity to recognize participant achievement, celebrate the
 ### USDS review  
 USDS will review the CLP distribution approach, certification format, and graduation activities, whether in person or virtual.
 
+**Supporting materials**
+A sample certificate format is included in the [Appendix](url).
 
 ## DITAP delivery: required and optional components
 
-To support consistency across all DITAP deliveries, this section below identifies which elements of the program are required versus those that are optional. Required elements form the foundation of the program and ensure participants meet the learning outcomes set by USDS. Optional elements provide flexibility for vendors to enhance delivery with activities and assessments that best fit their facilitation style, participant needs, or agency context.
+To support consistency across all DITAP deliveries, the following section identifies which elements of the program are required versus those that are optional. Required elements form the foundation of the program and ensure participants meet the learning outcomes set by USDS. Optional elements provide flexibility for vendors to enhance delivery with activities and assessments that best fit their facilitation style, participant needs, or agency context. Assignment timelines are flexible based on vendor delivery needs; however, all assignment requirements must be met and participants must complete each assignment as instructed.
 
 
 | **Program Element** | **Required / Optional** | **Notes** |
 | --- | --- | --- |
-| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. |
+| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed.|
 | Activities (ILT or exercises) | Optional | Vendors may select or adapt activities to support facilitation style. |
-| Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. |
-| Threaded case scenario | **Required** | Must be integrated across modules. |
+| Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. |
+| Threaded case scenario | **Required** | Must be integrated across modules. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. The threaded case study may be replaced with an alternate case study, provided it remains structured as a threaded case study. |
 | Pre- and post-surveys | Optional | Vendors may administer as part of evaluation, not mandatory. |
-| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. |
+| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add suplemental materials to support the learning requirements; however, no content may be removed. |
 
 
 
