@@ -22,7 +22,7 @@ By the end of this sprint, participants will be able to:
 
 ## Build your personalized acquisition toolkit
 
-As you move through this course, you’ll be exposed to a wide range of market research tools, strategies, and resources. But not everything will resonate with everyone. That’s why you’ll create your own Acquisition Toolkit—a living, personal resource that helps you capture what works for *you*, what you want to explore more, and what might help you in real-world procurement work.
+As you move through this course, you’ll be exposed to a wide range of market research tools, strategies, and resources. But not everything will resonate with everyone. That’s why you’ll create your own Acquisition Toolkit, a living, personal resource that helps you capture what works for *you*, what you want to explore more, and what might help you in real-world procurement work.
 
 This toolkit is yours to build and shape. Use it to document:
 
@@ -69,7 +69,7 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 
 ### Assignment instructions:
 
-1. Start your Toolkit in the first week of the course and organize it however makes sense for you! Refer to the Acquisition Toolkit Worksheet to help you get started.
+1. Organize your toolkit however makes sense for you! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
 3. Share a few highlights from your Toolkit near the end of the course (not graded—just shared insights).
 
@@ -152,9 +152,7 @@ There are two goals to this interaction:
 
 While the FAR allows for a good deal of flexibility in establishing pre-solicitation communication with potential vendors, some agencies are reluctant to exercise all of their options. They fear stepping over the line and causing protests or compromising procurement integrity. Vendors may also be reluctant to discuss requirements and solutions in the presence of potential competitors or may fear that talking privately to an agency could limit their future opportunities. However, open pre-solicitation communication with potential vendors is critical, especially in digital services procurement. Why is that the case? And how do you execute it effectively? You’ll learn the answers to these questions by completing this online learning.
 
-### Module overview
-
-After completing this module, you should be able to: 
+After completing this lesson, you should be able to: 
 
 * Discuss why pre-solicitation communication with offerors is essential in acquiring digital services  
 * Describe ways you can communicate effectively with potential vendors before solicitation of digital services  
