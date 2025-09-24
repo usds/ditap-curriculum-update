@@ -224,6 +224,8 @@ By engaging with potential vendors early on, you can solicit their feedback on w
 
 What is available from the industry will inform other considerations when forming your requirements. For example, are you sure you want to build a custom digital service solution, or would a commercial off-the-shelf (COTS) solution work with modification? These decisions will affect sustainment and maintenance. Technical data rights, intellectual property, long- and short-term costs, resources, and mission accomplishment priorities should be considered. 
 
+---
+
 **2\. Pre-solicitation communication results in better bids**
 
 By engaging vendors in discussion and information sharing before issuing a solicitation, you condition the market to submit more constructive proposals. Vendors can’t submit good offers on what they don’t understand. Communicating about what you want to buy and sharing your vision for the contract outcome helps the industry:
@@ -233,6 +235,8 @@ By engaging vendors in discussion and information sharing before issuing a solic
 * Find labor and other resources in advance rather than during the proposal
 
 Answering questions about the acquisition this early may seem tedious, but it will save time and money once the solicitation is released. If you release a solicitation without effective communication, you’ll be flooded with dozens of questions as industry attempts to clarify their understanding of your need. When this occurs after your solicitation has already “hit the street,” it can cause delays and extensions to the proposal due date, which is disruptive to your program and costly for industry.
+
+---
 
 **3\. Pre-solicitation communication results in shared standards and increased interoperability**
 
@@ -276,6 +280,7 @@ As you’ve learned throughout this module, engaging early with industry is crit
 **Non-traditional ways to engage with industry**: Our acquisition environment is ever changing, and so must our methods for conducting market research and communicating with vendors. Today, the government uses new techniques to engage with industry early on in the process and to reach non-traditional vendors who may or may not already do business with the government. 
 
 These techniques include but are not limited to the following:
+
 - MVPs and challenges  
 - Reverse industry days  
 - Market surveys  
@@ -343,9 +348,9 @@ This [sample Word version](https://techfarhub.cio.gov/assets/files/Sources%20Sou
 
 NOTE: [If Google Forms can’t be accessed, alternative tools can be found](https://www.makeuseof.com/best-google-forms-alternatives/). Some are open source, and some have paid-for versions. 
 
-![Webinars](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
-
 ---
+
+![Webinars](https://github.com/usds/ditap-curriculum-update/blob/9880ab6459925115e3955f9dfa2fcb6dab254752/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Webinars.png?raw=true)
 
 **Virtual industry day webinar or videos:**   
 ​In the wake of the COVID-19 pandemic, virtual industry days have become a prevalent method for government agencies to engage with industry partners. Hosting a virtual industry day allows for broader participation, enabling companies from various locations to access critical information without traveling. Recording these sessions ensures that those unable to attend live can view the presentations conveniently. An added advantage of virtual platforms is the ability for participants to submit questions anonymously, fostering more open discussions around requirements and reducing the reticence often observed in traditional in-person industry days.
@@ -535,6 +540,7 @@ Here’s how:
 ### Hold a retrospective with your procurement team
 
 After every significant market research activity, bring your team together for a 15–30 minute retrospective using a simple "traffic light" format:
+
 - Keep doing:
     - What worked well that we should repeat?
 - Change or improve:
@@ -578,7 +584,7 @@ Importantly, AI isn’t here to steal your job but to help you keep your sanity.
 | **7. Follow your agency’s IT and privacy policies** | - Agencies may have AI use policies governing tools, data input, and output handling.<br>- Check your agency's policy before using any AI tool or consult your IT/security lead. |
 
 
-### Final thought:
+### Final thought
 
 AI can be like the world’s fastest intern, helpful but unreliable. You’re still the Contracting Officer, COR, or Specialist in charge. Use AI to speed up your work, but never let it replace your judgment.
 
