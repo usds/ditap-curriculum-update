@@ -138,7 +138,7 @@ Market research is the process of gathering and analyzing information about capa
 
 ## Responsible pre-solicitation communication
 
-### Introduction
+Introduction
 
 The Federal government spends over $500 billion yearly on goods and services. As an acquisition professional, you must complete every procurement you’re involved in as effectively, efficiently, and responsibly as possible to ensure taxpayer money is well-spent. One strategy that facilitates effective procurement is pre-solicitation communication. Pre-solicitation communication with vendors in the target market can help you access current market information and define requirements as clearly as possible. Ideally, it should begin well before the issuing of a solicitation.
 
