@@ -523,26 +523,26 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Assessing Agency Readiness** | Introduces tools and strategies to evaluate an agency’s readiness to pursue a digital service procurement. Learners will assess internal capacity including staffing, technical expertise, and leadership alignment while using frameworks such as the digital service maturity matrix to identify areas of strength and improvement. | Assess your agency’s capacity, maturity, and alignment to support a successful digital service procurement. |
+| **Assessing Agency Readiness** | This sprint introduces tools and strategies to evaluate an agency’s readiness to pursue a digital service procurement. Learners will assess internal capacity including staffing, technical expertise, and leadership alignment while using frameworks such as the digital service maturity matrix to identify areas of strength and improvement. | Assess your agency’s capacity, maturity, and alignment to support a successful digital service procurement. |
 
 ### Topics
-- Introduction to Assessing Agency Readiness  
-- Determine Your Organizational Maturity  
-- Strategy Table in Practice  
-- Change and Innovative Readiness Survey Introduction  
+- Introduction to assessing agency readiness  
+- Determine your organizational maturity  
+- Strategy table in practice  
+- Change and Innovative Readiness Survey introduction  
 - Change and Innovative Readiness Survey (in class / fillable)  
 
 ## Sprint 2: Stakeholder and Customer Mapping
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Stakeholder and Customer Mapping** | Focuses on identifying and engaging the individuals and groups who influence or are impacted by a digital service procurement. Learners will differentiate between stakeholders, users, and customers, and begin mapping relationships to better align acquisition strategies with mission needs and user outcomes. | Identify key stakeholders, users, and customers relevant to your acquisition and analyze their roles, influence, and engagement needs. |
+| **Stakeholder and Customer Mapping** | This sprint focuses on identifying and engaging the individuals and groups who influence or are impacted by a digital service procurement. Learners will differentiate between stakeholders, users, and customers, and begin mapping relationships to better align acquisition strategies with mission needs and user outcomes. | Identify key stakeholders, users, and customers relevant to your acquisition and analyze their roles, influence, and engagement needs. |
 
 ### Topics
-- Navigating the Stakeholder Landscape: Introduction  
-- Navigating the Stakeholder Landscape Cont'd  
-- Role Play Activity: Stakeholder Influence Challenge  
-- Activity: Stakeholder Analysis Project Introduction  
+- Navigating the stakeholder landscape: Introduction  
+- Navigating the stakeholder landscape cont'd  
+- Role play activity: Stakeholder influence challenge  
+- Activity: Stakeholder analysis project introduction  
 
 
 ## Sprint 3: Defining Success for Your Digital Services Acquisition
@@ -552,9 +552,9 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 | **Defining Success for Your Digital Services Acquisition** | This sprint helps learners define what success looks like for a digital service acquisition. Learners will develop product visions, user stories, and outcome-oriented objectives to clarify mission needs. The sprint also introduces methods for identifying constraints such as policy, technology, or capacity that may impact delivery, and offers tools to frame success criteria beyond traditional compliance metrics. | Develop a shared understanding of your agency’s needs and constraints, and define success criteria for your digital service procurement. |
 
 ### Topics
-- Defining Success for Your Digital Services Acquisition Overview  
-- From Discovery to Strategy  
-- Defining Constraints Before Acquisition Strategy Begins  
+- Defining success for your digital services acquisition overview  
+- From discovery to strategy  
+- Defining constraints before acquisition strategy begins
 
 
 ## Sprint 4: Conducting Effective Market Research
@@ -564,21 +564,21 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 | **Conducting Effective Market Research** | This sprint focuses on strategies for conducting meaningful market research in support of digital service procurements. Learners will explore how to assess industry capabilities, craft early needs statements, and apply research methods such as RFIs to inform acquisition planning. Emphasis is placed on minimizing burden to vendors while gathering actionable insights to shape a more responsive and competitive solicitation. | Apply effective market research strategies to assess vendor capabilities and inform your digital acquisition approach. |
 
 ### Topics
-- Introduction to Conducting Effective Market Research  
-- Introduction to Building Your Market Research Toolkit  
-- Acquisition Toolkit Worksheet  
-- The Magic Quadrant  
-- Responsible Pre-Solicitation Communication  
-- Acquisition Process Myths  
-- Why Pre-Solicitation Communication Matters  
-- Knowledge Check  
-- How to Communicate Effectively  
-- How to Communicate Effectively: Step 2  
-- Engaging the Industry Traditionally  
-- Activity: Signal or Noise? Evaluating RFIs with AI Insight  
-- How to Communicate Effectively: Step 3  
-- Understand the Cost-Benefit and Tradeoffs  
-- Conclusion: Leveraging HCD and AI in Federal Market Research  
+- Introduction to conducting effective market research  
+- Introduction to building your market research toolkit
+- Acquisition toolkit worksheet
+- The Magic Quadrant
+- Responsible pre-solicitation communication
+- Acquisition process myths
+- Why pre-solicitation communication matters
+- Knowledge check
+- How to communicate effectively
+- How to communicate effectively: Step 2
+- Engaging the industry traditionally
+- Activity: Signal or noise? Evaluating RFIs with AI insight
+- How to communicate effectively: Step 3
+- Understand the cost-benefit and tradeoffs
+- Conclusion: Leveraging HCD and AI in federal market research 
 
 ---
 
@@ -594,30 +594,30 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 | **Developing a Successful Acquisition Strategy** | This sprint guides learners through the key elements of developing a digital acquisition strategy. Topics include making informed build-versus-buy decisions, selecting appropriate procurement methods (e.g., OTAs, GWACs, 8(a), CSO), and structuring modular contracts to support iterative delivery. Learners will also examine contract types, performance-based incentives, outcome measurement tools such as burndown and velocity charts, and considerations related to data rights and long-term reuse. | - Identify how to apply flexibilities within the FAR to develop an acquisition strategy tailored for digital services.  <br> - Select appropriate evaluation methods and criteria related to cost, pricing, terms and conditions, cybersecurity, and data rights. <br> - Assess vendor maturity and capability to deliver a digital product based on defined needs and success criteria. |
 
 ### Topics
-- Introduction: Developing an Acquisition Strategy  
-- Why Do We Plan?  
-- What Feeds the Acquisition Strategy?  
-- The Acquisition Plan Lean Canvas Approach  
-- Common Risks  
-- Contract Exit Strategies  
-- Stakeholder Engagement: Capability and Cooperation  
-- Existing Contracts  
-- Streamline the Process  
-- Considerations for a New Contract  
-- Funding and Programmatic Considerations  
-- State of the Market  
-- Compliance & Other Legal Issues  
-- Getting to Know Your Office of General Counsel  
-- What is Intellectual Property?  
-- Types of IP  
-- FAR Subpart 27.4 Rights in Data and Copyrights  
-- Contribution, Attribution, Retribution...Oh My!  
-- Who Owns Open Source Code?  
-- Data in the Cloud (It's Cloudy Out There!)  
-- Legal Liabilities  
-- What Happens When Open Source Software Breaks?  
-- Case Study Tie In Module 3 Activity: Solution Evaluation with SWOT Analysis  
-- Multi-vendor Contracts  
+- Introduction: Developing an acquisition strategy  
+- Why do we plan?
+- What feeds the acquisition strategy?
+- The acquisition plan lean canvas approach
+- Common risks
+- Contract exit strategies
+- Stakeholder engagement: Capability and cooperation
+- Existing contracts
+- Streamline the process
+- Considerations for a new contract
+- Funding and programmatic considerations
+- State of the market
+- Compliance & other legal issues
+- Getting to know your Office of General Counsel
+- What is intellectual property?
+- Types of IP
+- FAR subpart 27.4 rights in data and copyrights
+- Contribution, attribution, retribution...oh my!
+- Who owns open source code?
+- Data in the cloud (It's cloudy out there!)
+- Legal liabilities
+- What happens when open source software breaks?
+- Case study tie in Module 3 activity: Solution evaluation with SWOT analysis
+- Multi-vendor contracts
 
 
 ## Sprint 2: Developing the Solicitation
@@ -627,33 +627,33 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 | **Developing the Solicitation** | This sprint focuses on developing the core elements of a digital service solicitation to drive successful acquisition outcomes. Learners will explore how to write a Statement of Objectives (SOO), apply appropriate award procedures under the FAR and non-FAR authorities, and incorporate pricing strategies and evaluation language aligned with outcome-based delivery. The sprint also examines emerging considerations such as the role of AI in acquisition and the balance between key personnel and performance outcomes. | - Develop key elements of a digital service solicitation, including a Statement of Objectives (SOO), appropriate award procedures, and outcome-oriented evaluation factors. <br> - Evaluate how pricing structures, key personnel requirements, and emerging technologies such as AI may impact solicitation strategy and vendor response. |
 
 ### Topics
-- Strategic Planning and Execution in Digital Acquisitions  
-- Developing a Statement of Objectives (SOO)  
-- Key Sections of an SOO homework assignment (template)  
-- Understanding FAR 37.6: How Does Agile Methodology Fit Into Federal Acquisitions?  
-- Key Personnel vs Outcome-Based  
-- Artificial Intelligence and the Acquisition Strategy  
-- Discussion  
-- 7 Strategies for Evaluating the Ethical and Legal Impact of Implementing AI in Federal Agencies  
+- Strategic planning and execution in digital acquisitions
+- Developing a statement of objectives (SOO)
+- Key sections of an SOO homework assignment (template)
+- Understanding FAR 37.6: How does Agile methodology fit into federal acquisitions?
+- Key personnel vs outcome-based
+- Artificial intelligence and the acquisition strategy
+- Discussion
+- 7 strategies for evaluating the ethical and legal impact of implementing AI in federal agencies  
 
 
 ## Sprint 3: Running a Successful Evaluation
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Running a Successful Evaluation** | This sprint prepares learners to run effective evaluations of vendor proposals in digital service procurements. Learners will explore how to define and apply technical evaluation criteria, select a skilled evaluation team, and use debriefing and negotiation techniques to support tradeoff decisions, strengthen vendor relationships, and ensure transparent, mission-aligned outcomes. | - Evaluate agile vendors using solicitation criteria, oral presentations, and past performance to assess alignment with agile practices and technical requirements. <br> - Design and apply evaluation strategies that incorporate down-selects, interactive techniques, and tradeoff approaches to support fair and best-value acquisitions. <br> - Deliver effective post-evaluation feedback that builds trust, strengthens future proposals, and aligns with FAR guidance. <br> - Conduct strategic vendor negotiations that clarify assumptions, manage risks, and secure best-value outcomes in digital service procurements. |
+| **Running a Successful Evaluation** | This sprint prepares learners to run effective evaluations of vendor proposals in digital service procurements. Learners will explore how to define and apply technical evaluation criteria, select a skilled evaluation team, and use debriefing and negotiation techniques to support tradeoff decisions, strengthen vendor relationships, and ensure transparent, mission-aligned outcomes. | - Evaluate Agile vendors using solicitation criteria, oral presentations, and past performance to assess alignment with Agile practices and technical requirements. <br> - Design and apply evaluation strategies that incorporate down-selects, interactive techniques, and tradeoff approaches to support fair and best-value acquisitions. <br> - Deliver effective post-evaluation feedback that builds trust, strengthens future proposals, and aligns with FAR guidance. <br> - Conduct strategic vendor negotiations that clarify assumptions, manage risks, and secure best-value outcomes in digital service procurements. |
 
 ### Topics
-- Evaluation Criteria Overview  
-- Negotiating with Vendors  
-- Knowledge Check  
-- The Power of Debriefing
+- Evaluation criteria overview  
+- Negotiating with vendors  
+- Knowledge check  
+- The power of debriefing
 
 ---
 
 ## Module 4: Build
 
-Build: Manage vendor partnerships and support delivery through contract administration practices grounded in agile and lean methodologies. Track project health using real-time, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. Focus on transparency, collaboration, and outcomes throughout the contract lifecycle.
+Build: Manage vendor partnerships and support delivery through contract administration practices grounded in Agile and lean methodologies. Track project health using real-time, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. Focus on transparency, collaboration, and outcomes throughout the contract lifecycle.
 
 
 
@@ -661,36 +661,36 @@ Build: Manage vendor partnerships and support delivery through contract administ
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Management of Digital Service Delivery** | This sprint introduces key roles and practices that support effective post-award delivery of digital services. Learners will explore the function of product ownership, how product managers and contracting officer representatives (CORs) collaborate, and how agile ceremonies and tools support iterative delivery. The sprint also emphasizes cross-functional team alignment and the importance of celebrating shared successes. | - Describe what product ownership looks like in federal digital service delivery environments. <br> - Explain how contracting officer representatives (CORs) and product owners (POs) collaborate to support agile delivery. <br> - Recognize the importance of communication, shared understanding, and agile rituals in effective digital service teams. <br> - Identify ways to celebrate progress and success across cross-functional teams. |
+| **Management of Digital Service Delivery** | This sprint introduces key roles and practices that support effective post-award delivery of digital services. Learners will explore the function of product ownership, how product managers and contracting officer representatives (CORs) collaborate, and how Agile ceremonies and tools support iterative delivery. The sprint also emphasizes cross-functional team alignment and the importance of celebrating shared successes. | - Describe what product ownership looks like in federal digital service delivery environments. <br> - Explain how contracting officer representatives (CORs) and product owners (POs) collaborate to support Agile delivery. <br>  - Recognize the importance of communication, shared understanding, and Agile rituals in effective digital service teams. <br>  - Identify ways to celebrate progress and success across cross-functional teams. |
 
 ### Topics
-- Managing Digital Service Delivery  
-- Amplifying Agile Delivery  
-- **Activity:** Who Does What? Agile Role Round Robin  
-- **Activity:** Digital Service Project Charter  
+- Managing digital service delivery  
+- Amplifying Agile delivery  
+- **Activity:** Who does what? Agile role round robin  
+- **Activity:** Digital service project charter  
 
 ## Sprint 2: Performance Measurement Under Agile Delivery Contracts
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Performance Measurement Under Agile Delivery Contracts** | This sprint explores how to measure performance in agile digital service contracts using meaningful, real-time metrics. Learners will examine approaches that go beyond traditional compliance tools like the QASP, including milestone tracking, contractor self-reporting, CPARS, and quarterly performance reviews. The sprint also covers strategies for incentivizing outcomes and monitoring vendor performance in multi-vendor environments. | - Identify and apply performance metrics that help detect delivery risks or failure points early in agile digital service contracts. |
+| **Performance Measurement Under Agile Delivery Contracts** | This sprint explores how to measure performance in Agile digital service contracts using meaningful, real-time metrics. Learners will examine approaches that go beyond traditional compliance tools like the QASP, including milestone tracking, contractor self-reporting, CPARS, and quarterly performance reviews. The sprint also covers strategies for incentivizing outcomes and monitoring vendor performance in multi-vendor environments. | - Identify and apply performance metrics that help detect delivery risks or failure points early in Agile digital service contracts. |
 
 ### Topics
-- Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement  
-- Post-Award Multi-Vendor Management  
-- **Knowledge Check:** Managing a Multi-Vendor Environment  
-- Warranties in Agile Development (Readings)  
+- Using value-based metrics and modern incentives in federal Agile procurement  
+- Post-Award multi-vendor management  
+- **Knowledge Check:** Managing a multi-vendor environment  
+- Warranties in Agile development (Readings)  
 
 
 ## Sprint 3: Contract Kickoff
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Contract Kickoff** | This sprint focuses on how to successfully launch a digital services contract. Learners will explore strategies for preparing both government and vendor teams, setting clear expectations, aligning on scope and delivery approach, and establishing communication and collaboration rhythms that support agile execution from day one. | - Determine the key activities that occur after contract award, including kickoff planning, team ramp-up, and establishing a shared delivery baseline. |
+| **Contract Kickoff** | This sprint focuses on how to successfully launch a digital services contract. Learners will explore strategies for preparing both government and vendor teams, setting clear expectations, aligning on scope and delivery approach, and establishing communication and collaboration rhythms that support Agile execution from day one. | - Determine the key activities that occur after contract award, including kickoff planning, team ramp-up, and establishing a shared delivery baseline. |
 
 ### Topics
-- Contract Kickoff  
-- Introduction to Readings: Cloud and XaaS Procurement Best Practice  
+- Contract kickoff  
+- Introduction to readings: Cloud and XaaS procurement best practice  
 - **Activity:** Cloud Breach Facilitation Exercise Facilitation Guide  
 
 
@@ -698,13 +698,13 @@ Build: Manage vendor partnerships and support delivery through contract administ
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Contract Management and Problem Resolution** | This sprint focuses on managing digital service contracts after award, with an emphasis on identifying and addressing performance issues. Learners will explore techniques for monitoring vendor progress, resolving delivery challenges, and applying remedies within the bounds of the contract. The sprint also highlights the importance of proactive communication and documentation throughout the performance period. | - Determine appropriate strategies for course correction or exit when digital service delivery is off track.<br>- Demonstrate how to negotiate consideration or remediation actions within the context of agile delivery. |
+| **Contract Management and Problem Resolution** | This sprint focuses on managing digital service contracts after award, with an emphasis on identifying and addressing performance issues. Learners will explore techniques for monitoring vendor progress, resolving delivery challenges, and applying remedies within the bounds of the contract. The sprint also highlights the importance of proactive communication and documentation throughout the performance period. | - Determine appropriate strategies for course correction or exit when digital service delivery is off track.<br>- Demonstrate how to negotiate consideration or remediation actions within the context of Agile delivery. |
 
 ### Topics
-- Federal IT Acquisition, Management, and Software Engineering Practices  
-- **Activity:** Federal IT Acquisition, Management, and Software Engineering Practices  
-- Exit Strategy  
-- Exit Strategy: Key Questions for Analysis  
+- Federal IT acquisition, management, and software engineering practices  
+- **Activity:** Federal IT acquisition, management, and software engineering practices  
+- Exit strategy  
+- Exit strategy: Key questions for analysis  
 
 ---
 
@@ -719,17 +719,18 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 | **Leading Change As An Individual** | Defines change agents; describes effective influence strategies; and approaches to building networks and coalitions to facilitate change. | - Identify your spheres of influence within the acquisition environment.<br>- Recognize common challenges that arise when engaging stakeholders across those spheres.<br>- Plan influence strategies and conversations tailored to the challenges and opportunities in your agency or live digital assignment. |
 
 ### Topics
-- Preparing for and Having an Influence Conversation  
-- Difficult Conversations  
-- Knowledge Check  
-- Building Your Resilience  
-- Cultivating Your Growth Mindset  
-- Wellness Rituals to Support You in Times of Transition  
-- Analyze Where the “No” Came From  
-- Should I Fight This Battle, or How Might I Adjust My Approach To Make It More “Winnable”?  
-- What to Do When You’re Told No Framework in Action  
-- Adjust Approach & Identify Lessons Learned  
-- Telling Your Procurement Story  
+- Preparing for and having an influence conversation  
+- Difficult conversations  
+- Knowledge check  
+- Building your resilience
+- Cultivating your growth mindset
+- Wellness rituals to support you in times of transition
+- Analyze where the “no” came from
+- Should I fight this battle, or how might I adjust my approach to make it more “winnable”?
+- "What to do when you’re told no" framework in action
+- Adjust approach & identify lessons learned
+- Telling your procurement story
+
 
 
 ## Sprint 2: Leading Organizational Change - Continuous Improvement and Scalable Practices
@@ -739,21 +740,21 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 | **Leading Organizational Change - Continuous Improvement and Scalable Practices** | This sprint focuses on strategies for staying current with emerging technologies and continuously improving acquisition practices, as well as approaches to scaling successful methods across organizations, supported by examples from the broader federal agency community. | - Assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community. |
 
 ### Topics
-- Staying Current and Driving Change: Your Role in Continuous Improvement  
-- Staying Current with Emerging Tech and Trends  
-- Continuous Improvement in Everyday Procurement  
-- The Case for Creating Practical Guides: From Playbooks to Toolkits and Beyond  
-- Exploring Your Role as an Ambassador of Change  
-- Kotter Model Introduction  
-- Self-Assessment: What’s Your Change Style?  
-- Create Your Change Contribution Plan  
-- Wrap-Up & Call to Action  
+- Staying current and driving change: your role in continuous improvement
+- Staying current with emerging tech and trends
+- Continuous improvement in everyday procurement
+- The case for creating practical guides: from playbooks to toolkits and beyond
+- Exploring your role as an ambassador of change
+- Kotter model introduction
+- Self-assessment: what’s your change style?
+- Create your change contribution plan
+- Wrap-up & call to action
 
 ---
 
 ## Module 6: Apply skills
 
-Apply: Apply techniques learned in the course through various activities
+Apply: Apply techniques learned in the course through various activities.
 
 # Module 6: Apply
 
@@ -764,8 +765,8 @@ Apply: Apply techniques learned in the course through various activities
 | **Learning Elements** | **Descriptions** |
 | --- | --- |
 | **Stakeholder Interview Assignment** | A structured opportunity for participants to engage agency leaders who influence digital services, procurement, or policy. By conducting 2–4 interviews, participants practice influence, build empathy, and deepen their understanding of organizational dynamics. Full guidance and criteria for this assignment can be found in the Appendix. |
-| **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
-| **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
+| **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing Agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
+| **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply Agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
 
 ---
 
@@ -806,7 +807,7 @@ The threaded case scenario unfolds alongside the course modules, with each activ
 
 | **Module** | **Sprint** | **Activity Title** | **Case Scenario Milestone Alignment** |
 |------------|------------|---------------------|----------------------------------------|
-| **Module 1** | Sprint 1 | Introduction to Cynuria Case / Introducing Casey and the CRM Project | Not a formal milestone, serves as Case scenario narrative intro |
+| **Module 1** | Sprint 1 | Introduction to Cynuria Case | Not a formal milestone, serves as Case scenario narrative intro |
 | **Module 2** | Sprint 1 | Stakeholder Mapping | Milestone 1 |
 | **Module 2** | Sprint 4 | Market Research Planning | Not a formal milestone, builds on Milestone 1 |
 | **Module 2** | Sprint 4 | FAR 10 Integration Assignment | Not a formal milestone. It’s an extension activity. |
@@ -854,7 +855,7 @@ The threaded case scenario is a tool for deepening understanding and sparking ap
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
-_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding Case Study facilitator guide._
+_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
 
 ### Flexible format
 
