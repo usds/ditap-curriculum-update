@@ -1,10 +1,10 @@
-# Welcome to the DITAP Vendor Playbook
+# Welcome to the DITAP Vendor Playbook 
 
 This playbook is here to help you deliver the refreshed Digital IT Acquisition Professional (DITAP) program with clarity, confidence, and consistency. The DITAP program is a multi-modal training and development experience delivered over months at a time, built around a cohort-based learning approach that emphasizes collaboration, peer learning, and practical application. Inside, you will find the program structure, key requirements, competency-based content, and essential learning activities, along with tips, tools, and examples to make facilitation smoother and more engaging. While it provides a clear framework to ensure a high-quality experience for every cohort, it also leaves room for you to adapt delivery to your style and your learners’ needs. Think of it as both a guide and a partner, supporting you from planning through delivery so together we can create impactful learning experiences that prepare participants to succeed in real-world acquisition environments.
 
 ## Program overview
 
-The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving.
+The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
 
 ## Program structure
 
@@ -25,7 +25,7 @@ The program is divided into five modules, each with multiple sprints that serve 
 1. **Describe**: Explore what digital services are, who provides them, how they are delivered, and why they are important. Includes an overview of delivery methods (Agile, Human-Centered Design, DevSecOps) and a “Tech Bootcamp” covering data, software, cloud, AI, security, accessibility, and open source.
 2. **Discover**: Learn how to assess agency readiness, map stakeholders, define success, and conduct effective market research to inform acquisition strategies.
 3. **Design**: Translate discovery insights into a structured solicitation. Covers acquisition strategy development, solicitation creation, and evaluation planning.
-4. **Build**: Manage vendor partnerships and guide delivery using agile and lean principles. Topics include performance measurement, kickoff facilitation, and problem resolution.
+4. **Build**: Manage vendor partnerships and guide delivery using Agile and lean principles. Topics include performance measurement, kickoff facilitation, and problem resolution.
 5. **Grow**: Strengthen the ability to lead change and foster innovation at both the individual and organizational level.
 
 ### Target audience
@@ -94,20 +94,22 @@ Graduation is an opportunity to recognize participant achievement, celebrate the
 ### USDS review  
 USDS will review the CLP distribution approach, certification format, and graduation activities, whether in person or virtual.
 
+**Supporting materials**
+A sample certificate format is included in the [Appendix](url).
 
 ## DITAP delivery: required and optional components
 
-To support consistency across all DITAP deliveries, this section below identifies which elements of the program are required versus those that are optional. Required elements form the foundation of the program and ensure participants meet the learning outcomes set by USDS. Optional elements provide flexibility for vendors to enhance delivery with activities and assessments that best fit their facilitation style, participant needs, or agency context.
+To support consistency across all DITAP deliveries, the following section identifies which elements of the program are required versus those that are optional. Required elements form the foundation of the program and ensure participants meet the learning outcomes set by USDS. Optional elements provide flexibility for vendors to enhance delivery with activities and assessments that best fit their facilitation style, participant needs, or agency context. Assignment timelines are flexible based on vendor delivery needs; however, all assignment requirements must be met and participants must complete each assignment as instructed.
 
 
 | **Program Element** | **Required / Optional** | **Notes** |
 | --- | --- | --- |
-| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. |
+| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed.|
 | Activities (ILT or exercises) | Optional | Vendors may select or adapt activities to support facilitation style. |
-| Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. |
-| Threaded case scenario | **Required** | Must be integrated across modules. |
+| Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. |
+| Threaded case scenario | **Required** | Must be integrated across modules. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. The threaded case study may be replaced with an alternate case study, provided it remains structured as a threaded case study. |
 | Pre- and post-surveys | Optional | Vendors may administer as part of evaluation, not mandatory. |
-| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. |
+| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add suplemental materials to support the learning requirements; however, no content may be removed. |
 
 
 
@@ -115,39 +117,48 @@ To support consistency across all DITAP deliveries, this section below identifie
 
 ### Overview
 
-As part of the DITAP refresh, assessments have been reimagined to reflect modern principles of adult learning—less about checking boxes, more about building confidence through practice, feedback, and reflection. DITAP assessments are designed to promote meaningful learning behaviors, not just knowledge retention. They help learners apply course concepts to real-world work while giving facilitators insight into learner progress so they can provide timely support.
+The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-While this guidance provides a framework for consistent implementation, vendors have discretion to adapt assessments to their delivery format, learner needs, and agency-specific contexts. The goal is to maintain DITAP's core learning objectives while allowing flexibility in how those objectives are assessed and achieved.
+Our assessment design is grounded in the The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
-### Three core assessment areas
+**Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
-To successfully complete DITAP and earn a certificate, participants must demonstrate growth and competency in:
-
-1. **Participation** – Meaningful engagement in course sessions (40% weighting recommended)
-2. **Conceptual Fluency** – Understanding and application of key DITAP tools and frameworks (30% weighting recommended)
-3. **Live Digital Assignment** – Completing all phases of the Live Digital Assignment (30% weighting recommended)
-
-_Participation should carry the most weight. Vendors may adjust the distribution while maintaining this priority._
 
 ### Pass/Fail structure
 
-DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than chasing points. This reduces performance anxiety and shifts attention toward long-term capability-building—critical behaviors for leading digital transformation.
+DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than point accumulation. This mirrors the real-world environments they'll operate in.
 
-### Assessment types & design
+### Requirements for completion
 
-DITAP includes both formative assessments (low-stakes checkpoints that surface misunderstandings) and summative assessments (final demonstrations of mastery). Formative assessments feed into summative ones, allowing learners to practice, receive feedback, and iterate before final evaluation.
+To successfully complete DITAP and earn a certificate, vendors must assess two areas:
+1. **Participation** – Meaningful engagement in course sessions as measured by the provided rubric
+2. **Conceptual Fluency**– Understanding and application of key DITAP tools and frameworks through applied learning assignments and pre vs. post assessment comparison.
 
-The assessment design is grounded in the Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measuring decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+### Progress indicators
 
-_See Assessment Framework Section for more information._
+Without formal grades, students need regular feedback to ensure they're on track. Use these indicators:
 
----
+**On Track to Pass**
 
-## Participation
+- Consistently contributes in discussions (see rubric)
+- Accurately applies frameworks in assignments, no revisions required
+- Completes all phases of the capstone project
+- Demonstrates growth in post-assessment results
 
-The participation rubric provides a framework for giving feedback across three dimensions: cohort contribution, connections, and emergent thinking. For each dimension, a participant's engagement is assessed as fully engaged, progressing, or needs attention.
+**May Be At Risk**
+
+- Rarely participates (multiple "needs attention" ratings)
+- Misses key deliverables
+- Struggles to apply frameworks in assignments; revisions are required
+- Shows little to no progress from pre- to post-assessment
+
+--
+
+## Participation assessment
 
 ### Participation rubric
+
+The  rubric evaluates three dimensions of engagement: 
 
 |     | **Fully Engaged** | **Progressing** | **Needs Attention** |
 | --- | --- | --- | --- |
@@ -155,205 +166,125 @@ The participation rubric provides a framework for giving feedback across three d
 | **Connections** | Frequently connects course content to real work; shares relevant examples | Makes occasional connections between course and work | Struggles to relate content to context |
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
 
+## Participation assessment implementation
+_Timing: During/after interactive sessions, especially those tied to the threaded case scenario._
 
-### How and when to use the participation rubric
+| **Type of Assessment** | **Description** | **Suggested Cadence** | 
+| --- | --- | --- |
+| Participant self-assessment | Using the rubric, learners reflect on their own engagement and identify one area for growth. | Once per module | Rarely participates or comes unprepared |
+| Assessment by peers | Pairs or small groups provide one observation and one suggestion using rubric. | Twice per course |
+| Assessment by facilitators | Instructors use the rubric to guide individual or group feedback after observed sessions. | Twice per course | 
 
-**Self-Assessment:**
+### Intervention guidance
 
-- Participants reflect on their own engagement and identify one area for growth.
-- Suggested cadence: Once per module.
+Schedule a facilitator check-in when a participant meets either criterion:
 
-**Peer Feedback:**
-
-- Pairs or small groups provide one observation and one suggestion using rubric language.
-- Suggested cadence: Twice per course.
-
-**Facilitator Feedback:**
-
-- Instructors use the rubric to guide individual or group feedback after observed sessions.
-- Suggested cadence: Twice per course.
-
-The rubric should be used during or immediately after interactive sessions, especially those tied to the threaded case scenario, where deeper engagement and discussion are expected.
-
-### What to do when a participant's participation needs attention
-
-A facilitator check-in should be scheduled when a participant meets either of the following criteria:
-
-- Two consecutive "Needs Attention" ratings in the same dimension; OR
+- Two consecutive "Needs Attention" ratings in the same dimension, OR
 - Three total "Needs Attention" ratings across any dimension during the program
 
-Use the rubric to guide the conversation and offer concrete ways to re-engage.
+Use the rubric to guide conversations and offer concrete re-engagement strategies.
 
----
 
-## Conceptual fluency
+## Conceptual Fluency Assessment
 
-Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks—such as the Digital Services Playbook, TechFAR, and human-centered design principles—in realistic work contexts.
+Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks (Digital Services Playbook, TechFAR, human-centered design principles) in realistic work contexts.
 
-### How conceptual fluency is assessed
+### Assessment components
 
-#### Pre- and Post-Assessments
+#### Pre- and post-course assessments
 
-Pre- and post-course assessments bookend the DITAP learning experience, helping participants and facilitators measure growth, identify focus areas, and align learning activities to real-world application. While neither is graded, they provide valuable benchmarks that guide ongoing support and reflection.
+- **Pre-Assessment**: Informational and diagnostic only. Establishes baseline understanding and helps vendors identify instructional emphasis areas.
+- **Post-Assessment**: 80% required for pass/fail determination. Confirms minimum conceptual fluency for DITAP framework mastery.
 
-- **Pre-Assessment:** Surfaces baseline understanding and confidence with DITAP tools and frameworks. Helps facilitators anticipate support needs and tailor early instruction.
-- **Post-Assessment:** Captures growth in conceptual fluency, confidence, and applied decision-making. Comparing results offers participants a clear view of their progress.
+  - Multiple attempts allowed
+  - After first failure, redirect to challenging sections of schedule facilitator check-in.
+  - Multiple attemps allowed.
+  - After multiple failures, provide additional interventions (peer coaching, office hours, targeted practice).
+ 
+#### Applied learning assignments
 
-Baseline assessments are provided. Pre and post assessments are required. Vendors may amend scenarios or questions but should ensure consistent administration for comparable results across cohorts.
+- **Stakeholder Research Assignment**
+- **Shadowing Assignment**
+- **Live Digital Assessment (LDA)**
+
+Stakeholder research and shadowing assignments
+
+- Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
+- In short, both assignments have two phases:
+  - Phase 1: Requires approval to proceed
+  - Phase 2: Requires passing grade for completion
+ 
+Live Digital Assignment (LDA)
+
+- DITAP's capstone experience simulating the complete lifecycle of a digital services acquisition
+- Participants apply key DITAP concepts in real-world context through four phases:
+  - Discovery Sprint
+  - Case Study Development
+  - Peer Evaluation
+  - Final Presentations
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook [link to LDA playbook]
+
 
 #### Knowledge Checks
 
-Knowledge checks are embedded throughout the self-paced modules to help learners identify misconceptions early, practice applying key concepts, and reinforce terminology, frameworks, and decision-making skills. They are strategically placed in modules that introduce complex material to help manage cognitive load and confirm comprehension before learners advance.
+Embedded throughout self-paced modules to help learners identify misconceptions early and practice key concepts. While successful completion isn't required for advancement, vendors must track participation and performance patterns to guide facilitation and support.
 
-**Key characteristics:**
-
-- **Formative, not summative** – Low-stakes and non-graded; their purpose is reflection and reinforcement, not compliance. Completion is not required to move forward, but vendors must track participation and performance patterns to guide facilitation.  
-
-- **Integrated for reinforcement** – Aligned to module objectives and placed where content is most critical to help learners connect theory to practice in real time.  
-
-- **Flexible implementation** – May be referenced in live facilitation, supplemented with additional checks, or adapted for agency-specific scenarios.  
-
-#### Applied learning assignments and in-class discussions
-
-Three core applied learning opportunities serve as checkpoints for conceptual fluency:
-
-- Stakeholder Research Assignment
-- Shadowing Assignment
-- In-Class Discussions of the Threaded Case Scenario
-
-These assignments, in addition to other interactive class discussions, give facilitators insight into each learner's understanding and integration of course concepts. They must be evaluated holistically using the Conceptual Fluency Rubric.
-
-#### Conceptual Fluency Rubric
-
-| **Level** | **Description** |
-| --- | --- |
-| **Fully Demonstrated** | Accurately explains key frameworks and terminology (e.g., TechFAR, Playbook); effectively applies course concepts in the stakeholder research assignment, shadowing assignment, and threaded case scenario; performs well on knowledge checks. |
-| **Progressing** | Demonstrates partial understanding of course content; applies some concepts with growing consistency across applied learning assignments; knowledge checks reveal occasional gaps. |
-| **Needs Attention** | Struggles to explain or apply core concepts; responses in applied learning assignments are vague, inaccurate, or disconnected from course frameworks; knowledge check performance indicates significant misunderstandings. |
-
-
-
-### How and when to use the conceptual fluency rubric
-
-Facilitators should use the rubric throughout the course, assessing conceptual fluency in applied assignments, live discussions, and reflections. A holistic review should be conducted at the end of each module.
-
-**Recommended cadence:**
-
-- **Bi-weekly:** Provide feedback on assignments and self-paced work.
-- **End of module:** Assign a formal rating and document progress.
-- **Ongoing:** Act on repeated "Needs Attention" patterns immediately.
-
-When a participant receives "Needs Attention" ratings, facilitators should hold a supportive check-in and offer concrete strategies such as revisiting key readings, allocating more time for coursework, leveraging peer discussions, or using AI tools to explore concepts further.
-
----
-
-## Live Digital Assignment
-
-The Live Digital Assignment (LDA) is the capstone experience of the DITAP course. It gives participants the opportunity to simulate the lifecycle of a digital services acquisition and apply key DITAP concepts in a real-world context.
-
-Throughout the LDA, learners:
-
-- Practice stakeholder engagement through real or simulated interviews
-- Scope problems using HCD and Discovery Sprint tools
-- Simulate vendor roles by preparing a case study response
-- Evaluate peer submissions using real-world criteria
-- Reflect on lessons learned through final team presentations
-
-The four LDA phases include:
-
-1. **Discovery sprint** – Problem framing through stakeholder interviews
-2. **Case study development** – Creation of four artifacts aligned to the SPRUCE Technical Factor
-3. **Peer evaluation** – Blind review and feedback using a rubric
-4. **Final presentations** – Team reflections and learning synthesis
-
-The Case Study Package is formally assessed as Pass/Fail, but each phase is essential to the learning experience and course completion.
-
-**Suggested assessment breakdown:**
-
-- Case Study Package: 35%
-- Peer Evaluation: 25%
-- Team Presentation: 25%
-- Team Reflection: 15%
-
-Vendors should refer to the LDA Facilitator Guide for detailed phase-by-phase instructions, templates, and assessment guidance.
-
----
-
-## Assessment Framework
-
-### The Learning-Transfer Evaluation Model (LTEM)
-
-DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
-
-### LTEM alignment in DITAP
-
-DITAP's three assessment areas are strategically aligned with multiple LTEM levels:
-
-#### Participation (LTEM levels 1-2)
-
-The participation rubric ensures meaningful application of content that prepares participants to bring what they've learned into their work.
-
-#### Conceptual fluency (LTEM levels 4-5)
-
-- Level 4 (Knowledge): Pre/post assessments and knowledge checks assess recall and accurate description of key concepts
-- Level 5 (Decision-Making): Applied learning assignments and scenario-based activities require selecting appropriate actions in realistic situations
-
-#### Capstone project (LTEM level 6)
-
-The Live Digital Assignment operates at Level 6 (Task Competence) by requiring learners to perform actual behaviors and apply processes they will use on the job in a realistic, end-to-end simulation. This includes integrating multiple DITAP tools, making trade-off decisions, and producing deliverables that meet professional standards.
-
-### Progressive skill building
-
-This LTEM-aligned structure creates a scaffolded learning experience. Participation and early conceptual fluency activities establish engagement and basic knowledge. Knowledge checks and applied assignments provide low-stakes opportunities to practice decision-making. The capstone project demonstrates comprehensive ability to perform in realistic conditions.
-
-### Beyond the course: transfer and impact
-
-While LTEM Levels 7 (Transfer) and 8 (Organizational Results) are not directly measured within the course, successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
-
-_See Appendix for detailed LTEM level descriptions with DITAP examples._
-
----
-
-## Pass/Fail implementation guidance
-
-### Standard pass/fail criteria (applies to all assessment areas)
-
-- **Fully Engaged/Demonstrated:** Clear evidence of meeting expectations; learner is on track to pass
-  - Examples: Consistently contributes in discussions, accurately applies frameworks in assignments, completes all phases of the capstone project, demonstrates growth in post-assessment results.
-- **Progressing:** Generally on track; continue to encourage reflection and consistency
-  - Examples: Contributes occasionally, applies some frameworks with partial accuracy, completes most but not all deliverables, post-assessment results show some improvement but reveal gaps.
-- **Needs Attention:** May be at risk; facilitator should initiate a check-in and support plan
-  - Examples: Rarely participates, struggles to apply frameworks in assignments, misses key deliverables, receives multiple “Needs Attention” ratings on rubrics, or shows little to no progress from pre- to post-assessment.
-
-### Vendor assessment requirements summary
-
-In summary, each vendor must implement an assessment plan that supports the pass/fail nature of the course and includes:
-
-- **Meaningful participation measurement** using engagement rubrics and opportunities for ongoing feedback.
-- **Consistent informal and formal measurement of conceptual fluency** across multiple course elements, including:
-  - Administration of pre-course and post-course assessments
-    - DITAP Pre-Program Survey: The purpose of this survey is to measure participants’ incoming knowledge and experience related to the key competencies in the Digital IT Acquisition Professional (DITAP) program.
-    - DITAP Post-Program Survey: This post-program survey is designed to collect participant feedback on the program’s content, delivery, and value to your professional development.
-  - Knowledge checks embedded in the self-paced modules
-  - Applied learning assignments such as shadowing and stakeholder research and in-class discussions such as those related to the threaded case scenario
-- **A cumulative, culminating applied learning assignment (capstone)** that simulates real-world digital acquisition challenges.
-
-Vendors may supplement with additional assessments based on their delivery format, learner preferences, or agency-specific use cases.
-
----
-
-## Continuous Learning Points (CLPs)
+## Contiuous Learning Points (CLPs)
 
 Participants in the full 6-month DITAP program should be eligible to receive 80 CLPs upon successful completion of all program requirements.
 
 For shorter or adapted versions of the program, training providers should work with USDS to determine the appropriate CLP allocation. The total number of CLPs and the criteria for earning them should be clearly stated in the course materials provided to participants.
 
+## The Learning-Transfer Evaluation Model (LTEM) Alignment
+
+DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
+
+### LTEM levels in DITAP
+
+| **LTEM Level** | **Description** | **DITAP Examples** | 
+| --- | --- | --- |
+| 1. **Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
+| 2. **Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
+| 3. **Learner perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
+| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments.|
+| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.|
+| 6. **Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning. |
+| 7. **Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | [Assessed post DITAP, Consortium to own] Alumni survey 30–60 days post-course asking for specific examples; Best practice: manager interviews to confirm observed behavior changes. |
+| 8. **Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | ((Assessed post DITAP, Consortium to own))  Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
+
+
+### Progressive skill building
+
+This structure creates scaffolded learning:
+
+- Participation and early activities establish engagement and basic knowledge.
+- Knowledge checks and applied assignments provide low-stakes decision-making practice.
+- Capstone project demonstrates comprehensive performance ability in realistic conditions.
+
+
+### Beyond the course
+
+LTEM Levels 7 (Transfer) and 8 (Organizational Results) are assessed after course completion, and the DITAP consortium is actively working on measurement strategies for these levels. Level 8 represents the gold standard of organizational impact but may be challenging to achieve given agency constraints and the multiple factors beyond DITAP training that influence organizational outcomes. Successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
+
+### Implementation requirements summary
+
+Each vendor must implement an assessment plan that includes:
+1. Meaningful participation measurement using engagement rubrics with ongoing feedback opportunities
+2. Consistent conceptual fluency measurement across multiple elements:
+  - Pre-course and post-course assessment administration
+  - Embedded knowledge checks in self-paced learning
+  - Applied learning assignments (shadowing, stakeholder research)
+  - Cumulative capstone project simulating real-world digital acquisition challenges
+
+Vendors may supplement with additional assessments based on delivery format, learner preferences, or agency-specific contexts.
+
 ---
 
-## Appendix
+## Sample Communications
 
+---
 
-### “Participation needs attention” sample email
+### “Participation Needs Attention” Email Template
 
 **Subject:** Quick check-in on participation
 
@@ -396,7 +327,7 @@ Warmly, \[Facilitator/Vendor Name\]
 | **Program Overview and Navigation** | This topic provides an overview of the DITAP training program, including its structure, learning objectives, and key curriculum components. Learners will gain clarity on how the course is organized, what to expect from each module, and how the program supports their development as digital service acquisition professionals. | N/A |
 | **Learning How to Learn** | This topic introduces the principles of adult learning and the mindset needed for success in an applied, collaborative training environment. Learners will explore strategies for managing time, workload, and personal growth as they engage with hands-on activities and peer-driven discussions throughout the course. | Develop an understanding of how adult learning principles, personal learning strategies, and mindset shifts support success in a collaborative, experiential course environment. |
 
-### Topics Covered
+### Topics
 - Structure of the DITAP program  
 - Learning objectives and competencies  
 - Key curriculum components and modules  
@@ -421,7 +352,7 @@ Describe: Explore digital services in the 21st century, including what they are,
 | **What is Digital Service?** | This topic introduces the foundational concepts of digital services within the federal landscape. Learners will recognize key characteristics of digital services, explore common examples in government, and build a basic understanding of the underlying systems and architecture that support their delivery. | Define digital services and the problems they can be used to solve. |
 | **Digital Services in Government** | This topic introduces key players in the digital services ecosystem, both within government and in the private sector. Learners will identify major organizations and roles involved in digital service delivery and explore foundational resources such as the U.S. Digital Services Playbook and the TechFAR Handbook to understand their relevance to federal procurement practices. | Identify "who's who" in the digital services arena, including public and private sector organizations and individuals; Identify and understand the Digital Service Playbook and TechFAR Handbook concepts. |
 
-### Topics Covered
+### Topics 
 - Digital Services - The Who and What  
 - Then and Now: USCIS.gov Use Case  
 - Defining Digital Services: Another Take  
@@ -440,7 +371,7 @@ Describe: Explore digital services in the 21st century, including what they are,
 | **Digital Service Delivery Methods 2: Design / User-Centered Design / DevSecOps** | This topic explores complementary practice areas that strengthen agile digital delivery. Learners will examine user-centered design, DevSecOps, and related private sector practices that contribute to secure, iterative, and user-focused software development in government contexts. | Identify modern design, development, and delivery methods used by digital services professionals. |
 | **Digital Service Delivery Providers: Sources of Supply** | This topic provides an overview of the current landscape of digital service providers. Learners will identify key government-led digital service organizations and understand how private sector vendors contribute to delivery. The topic also introduces sourcing considerations relevant to federal acquisition professionals evaluating potential partners. | Identify "who's who" in the digital services arena, including public and private sector organizations and individuals. |
 
-### Topics Covered
+### Topics 
 - Digital Services – The How (Introduction)  
 - Learn About Your Users’ Needs  
 - Learn About Your Users’ Needs (Cont'd)  
@@ -454,61 +385,61 @@ Describe: Explore digital services in the 21st century, including what they are,
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Introduction to Digital Service Tech Bootcamp** | Provides a high-level overview of core technologies behind digital service delivery. Learners gain foundational awareness of data, software, cloud, AI, and cybersecurity to better understand technical proposals and engage with digital service teams during acquisition. | Identify and describe core technology domains that underpin digital service delivery, including data, software, cloud computing, AI, and cybersecurity. |
-| **Tech Topic 1: Data** | Introduces the role of data in digital service delivery, exploring types of data, storage, sharing, management, open data, privacy, security, and compliance considerations. | Explain key concepts related to data in digital services, including data types, storage, sharing, open data, privacy, and compliance considerations. |
-| **Tech Topic 2: Software** | Examines software in government procurement, including COTS, SaaS, custom development, delivery models, key roles, acquisition considerations, and policy areas shaping buying decisions. | Identify modern software design, development, and delivery methods used by digital service professionals, and describe key acquisition considerations across COTS, SaaS, and custom solutions. |
-| **Tech Topic 3: Cloud** | Provides an overview of cloud computing in the federal environment, types of services, adoption benefits and challenges, and policy frameworks. | Explain the benefits, challenges, and types of cloud services, and describe relevant policies that shape cloud adoption in government. |
-| **Tech Topic 4: AI** | Introduces AI tools and models used in digital services, foundational concepts, applications in government, and key policy issues such as transparency, bias, privacy, and responsible use. | Describe the current landscape of AI tools and models, and explain key policy considerations including transparency, bias, and responsible use. |
-| **Tech Topic 5: Security** | Explores cybersecurity principles such as identity and access management (IAM), vulnerability management, continuous monitoring, and compliance frameworks, connecting to federal policies and acquisition. | Identify foundational cybersecurity concepts such as IAM, vulnerability management, and compliance frameworks, and explain their relevance to digital service delivery. |
-| **Tech Topic 6: Accessibility** | Emphasizes accessibility in federal digital services procurement, integration across the acquisition lifecycle, common misunderstandings, relevant laws (Section 508, WCAG 2.2), and tools to improve outcomes. | Recognize essential concepts of accessibility, identify misunderstandings and how to address them, understand ongoing accessibility maintenance, and use federal tools and templates to improve outcomes. |
-| **Tech Topic 7: Open Source** | Introduces open source software (OSS) in government procurement, including principles, risks, opportunities, legal foundations, evaluation practices, and its integration in the acquisition lifecycle. | Recognize how OSS fits within federal procurement, identify common myths and misunderstandings, and explain how OSS integrates with COTS procurement. |
+| **Introduction to Digital Service Tech Bootcamp** | This topic provides a high-level overview of the core technologies behind digital service delivery. Learners gain foundational awareness of data, software, cloud, AI, and cybersecurity to better understand technical proposals and engage with digital service teams during the acquisition process. | Identify and describe core technology domains that underpin digital service delivery, including data, software, cloud computing, AI, and cybersecurity. |
+| **Tech Topic 1: Data** | This topic introduces the role of data in digital service delivery. Learners will exploredifferent types of data, how data is stored, shared, and managed within government systems, abd the importance of open data, privacy, and security. Key considerations related to data lifecycle management and compliance will also be discussed. | Explain key concepts related to data in digital services, including data types, storage, sharing, open data, privacy, and compliance considerations. |
+| **Tech Topic 2: Software** | This topic examines the software landscape in government procurement, including commercial software COTS and SaaS), custom software development, and delivery models. Learners will identify key roles in software delivery, understand software acquisition considerations, and explore relevant policy areas that shape buying decisions. | Identify modern software design, development, and delivery methods used by digital service professionals, and describe key acquisition considerations across COTS, SaaS, and custom solutions. |
+| **Tech Topic 3: Cloud** | This topic provides an overview of cloud computing in the federal environment. Learners will explore different types of cloud services, benefits and challenges of cloud adoption, and the policy frameworks that govern cloud usage in government digital service delivery. | Explain the benefits, challenges, and types of cloud services, and describe relevant policies that shape cloud adoption in government. |
+| **Tech Topic 4: AI** | This topic introduces learners to the current landscape of AI tools and models used in digital services. Learners will examine foundational concepts, applications in government, and key policy issues such as transparency, bias, privacy, and responsible AI use. | Describe the current landscape of AI tools and models, and explain key policy considerations including transparency, bias, and responsible use. |
+| **Tech Topic 5: Security** | This topic explores essential principles of cybersecurity in digital service delivery. Learners will review concepts such as identity and access management (IAM), vulnerability management, continuous monitoring (e.g., SIEM), and compliance frameworks. The topic also connects these principles to relevant federal policies and acquisition considerations. | Identify foundational cybersecurity concepts such as IAM, vulnerability management, and compliance frameworks, and explain their relevance to digital service delivery. |
+| **Tech Topic 6: Accessibility** | This topic explores essential concepts of accessibility in digital service delivery, emphasizing its importance in federal procurement. Learners will examine how accessibility ensures digital products and services are usable by all individuals, including those with disabilities, and how it benefits a wider audience such as seniors and veterans. The topic also covers common misunderstandings, the integration of accessibility throughout the acquisition lifecycle, key laws and standards like Section 508 and WCAG 2.2, and available tools and templates to improve accessibility outcomes in procurement. | Recognize the essential concepts of accessibility in digital services procurement, Identify common misunderstandings about accessibility and how to address them, Recognize the importance of ongoing accessibility maintenance throughout a project's lifecycle, Use federal tools and templates to improve accessibility outcomes in your procurements. |
+| **Tech Topic 7: Open Source** | This topic introduces procurement officers to the principles, risks, and opportunities of open source software (OSS) in digital government. It covers how OSS reduces costs, increases innovation, and supports vendor independence. Key areas of discussion include legal foundations, evaluation practices, and the role of OSS in long-term service delivery and transparency, addressing common misunderstandings and its integration into the acquisition lifecycle. | Recognize how open source software fits within federal procurement, Identify common myths and misunderstandings around OSS in government, Explain how open source software fits into Commercial Off-the-Shelf (COTS) procurement. |
 
 ### Topics
-- **Tech Topic 1: Data**  
-  - What is data?  
-  - Key Considerations for Government Systems  
-  - Open Data  
-  - Data Privacy  
+**Tech Topic 1: Data**  
+- What is data?  
+- Key considerations for government systems
+- Open Data
+- Data privacy  
 
-- **Tech Topic 2: Software**  
-  - What is software?  
-  - How is software developed?  
-  - How is software delivered?  
-  - How is software updated?  
-  - Considerations around Supply Chain Licensing  
-  - Service Design and Delivery Standards  
+**Tech Topic 2: Software**  
+- What is software?
+- How is software developed?
+- How is software delivered?
+- How is software updated?
+- Considerations around supply chain licensing
+- Service design and delivery standards  
 
-- **Tech Topic 3: Cloud**  
-  - Basics  
-  - Considerations  
-  - Why Understanding Cloud Computing is Critical for Government Contracting Officers  
-  - Bottom Line for Contracting Officers  
+**Tech Topic 3: Cloud**  
+- Basics
+- Considerations
+- Why understanding Cloud Computing is critical for government contracting officers
+- Bottom line for contracting officers  
 
-- **Tech Topic 4: AI**  
-  - What Is Artificial Intelligence?  
-  - Types of AI  
-  - Key Considerations for Government Systems  
-  - Common AI Terms You May Encounter  
-  - Why It Matters to Procurement Officers  
-  - "What Contracting Officers Should Keep in Mind"  
+**Tech Topic 4: AI**  
+- What Is Artificial Intelligence?
+- Types of AI
+- Key considerations for government systems
+- Common AI terms you may encounter
+- Why it matters to procurement officers
+- "What contracting officers should keep in mind"  
 
-- **Tech Topic 5: Security**  
-  - Why is Cybersecurity Important?  
-  - Cybersecurity in the Current Federal Procurement Context  
-  - Four Key Areas of Cybersecurity for Digital Services  
+**Tech Topic 5: Security**  
+- Why is cybersecurity important?
+- Cybersecurity in the current federal procurement context
+- Four key areas of cybersecurity for digital services  
 
-- **Tech Topic 6: Accessibility**  
-  - Must Know Concepts  
-  - Common Misunderstandings  
-  - Where Does Accessibility Show Up?  
-  - Key Laws, Standards, or Frameworks  
+**Tech Topic 6: Accessibility**  
+- Must-know concepts
+- Common misunderstandings
+- Where does accessibility show up?
+- Key laws, standards, or frameworks  
 
-- **Tech Topic 7: Open Source**  
-  - Must Know Concepts  
-  - Common Misunderstandings  
-  - Why OSS Shifts Power Back to Government  
-  - How Open Source Shows Up in the Acquisition Lifecycle  
-  - Key Laws, Standards, or Frameworks  
+**Tech Topic 7: Open Source**  
+- Must-know concepts
+- Common misunderstandings
+- Why OSS shifts power back to government
+- How open source shows up in the acquisition lifecycle
+- Key laws, standards, or frameworks  
 
 
 ---
@@ -521,26 +452,26 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Assessing Agency Readiness** | Introduces tools and strategies to evaluate an agency’s readiness to pursue a digital service procurement. Learners will assess internal capacity including staffing, technical expertise, and leadership alignment while using frameworks such as the digital service maturity matrix to identify areas of strength and improvement. | Assess your agency’s capacity, maturity, and alignment to support a successful digital service procurement. |
+| **Assessing Agency Readiness** | This sprint introduces tools and strategies to evaluate an agency’s readiness to pursue a digital service procurement. Learners will assess internal capacity including staffing, technical expertise, and leadership alignment while using frameworks such as the digital service maturity matrix to identify areas of strength and improvement. | Assess your agency’s capacity, maturity, and alignment to support a successful digital service procurement. |
 
 ### Topics
-- Introduction to Assessing Agency Readiness  
-- Determine Your Organizational Maturity  
-- Strategy Table in Practice  
-- Change and Innovative Readiness Survey Introduction  
+- Introduction to assessing agency readiness  
+- Determine your organizational maturity  
+- Strategy table in practice  
+- Change and Innovative Readiness Survey introduction  
 - Change and Innovative Readiness Survey (in class / fillable)  
 
 ## Sprint 2: Stakeholder and Customer Mapping
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Stakeholder and Customer Mapping** | Focuses on identifying and engaging the individuals and groups who influence or are impacted by a digital service procurement. Learners will differentiate between stakeholders, users, and customers, and begin mapping relationships to better align acquisition strategies with mission needs and user outcomes. | Identify key stakeholders, users, and customers relevant to your acquisition and analyze their roles, influence, and engagement needs. |
+| **Stakeholder and Customer Mapping** | This sprint focuses on identifying and engaging the individuals and groups who influence or are impacted by a digital service procurement. Learners will differentiate between stakeholders, users, and customers, and begin mapping relationships to better align acquisition strategies with mission needs and user outcomes. | Identify key stakeholders, users, and customers relevant to your acquisition and analyze their roles, influence, and engagement needs. |
 
 ### Topics
-- Navigating the Stakeholder Landscape: Introduction  
-- Navigating the Stakeholder Landscape Cont'd  
-- Role Play Activity: Stakeholder Influence Challenge  
-- Activity: Stakeholder Analysis Project Introduction  
+- Navigating the stakeholder landscape: Introduction  
+- Navigating the stakeholder landscape cont'd  
+- Role play activity: Stakeholder influence challenge  
+- Activity: Stakeholder analysis project introduction  
 
 
 ## Sprint 3: Defining Success for Your Digital Services Acquisition
@@ -550,9 +481,9 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 | **Defining Success for Your Digital Services Acquisition** | This sprint helps learners define what success looks like for a digital service acquisition. Learners will develop product visions, user stories, and outcome-oriented objectives to clarify mission needs. The sprint also introduces methods for identifying constraints such as policy, technology, or capacity that may impact delivery, and offers tools to frame success criteria beyond traditional compliance metrics. | Develop a shared understanding of your agency’s needs and constraints, and define success criteria for your digital service procurement. |
 
 ### Topics
-- Defining Success for Your Digital Services Acquisition Overview  
-- From Discovery to Strategy  
-- Defining Constraints Before Acquisition Strategy Begins  
+- Defining success for your digital services acquisition overview  
+- From discovery to strategy  
+- Defining constraints before acquisition strategy begins
 
 
 ## Sprint 4: Conducting Effective Market Research
@@ -562,21 +493,21 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 | **Conducting Effective Market Research** | This sprint focuses on strategies for conducting meaningful market research in support of digital service procurements. Learners will explore how to assess industry capabilities, craft early needs statements, and apply research methods such as RFIs to inform acquisition planning. Emphasis is placed on minimizing burden to vendors while gathering actionable insights to shape a more responsive and competitive solicitation. | Apply effective market research strategies to assess vendor capabilities and inform your digital acquisition approach. |
 
 ### Topics
-- Introduction to Conducting Effective Market Research  
-- Introduction to Building Your Market Research Toolkit  
-- Acquisition Toolkit Worksheet  
-- The Magic Quadrant  
-- Responsible Pre-Solicitation Communication  
-- Acquisition Process Myths  
-- Why Pre-Solicitation Communication Matters  
-- Knowledge Check  
-- How to Communicate Effectively  
-- How to Communicate Effectively: Step 2  
-- Engaging the Industry Traditionally  
-- Activity: Signal or Noise? Evaluating RFIs with AI Insight  
-- How to Communicate Effectively: Step 3  
-- Understand the Cost-Benefit and Tradeoffs  
-- Conclusion: Leveraging HCD and AI in Federal Market Research  
+- Introduction to conducting effective market research  
+- Introduction to building your market research toolkit
+- Acquisition toolkit worksheet
+- The Magic Quadrant
+- Responsible pre-solicitation communication
+- Acquisition process myths
+- Why pre-solicitation communication matters
+- Knowledge check
+- How to communicate effectively
+- How to communicate effectively: Step 2
+- Engaging the industry traditionally
+- Activity: Signal or noise? Evaluating RFIs with AI insight
+- How to communicate effectively: Step 3
+- Understand the cost-benefit and tradeoffs
+- Conclusion: Leveraging HCD and AI in federal market research 
 
 ---
 
@@ -592,30 +523,30 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 | **Developing a Successful Acquisition Strategy** | This sprint guides learners through the key elements of developing a digital acquisition strategy. Topics include making informed build-versus-buy decisions, selecting appropriate procurement methods (e.g., OTAs, GWACs, 8(a), CSO), and structuring modular contracts to support iterative delivery. Learners will also examine contract types, performance-based incentives, outcome measurement tools such as burndown and velocity charts, and considerations related to data rights and long-term reuse. | - Identify how to apply flexibilities within the FAR to develop an acquisition strategy tailored for digital services.  <br> - Select appropriate evaluation methods and criteria related to cost, pricing, terms and conditions, cybersecurity, and data rights. <br> - Assess vendor maturity and capability to deliver a digital product based on defined needs and success criteria. |
 
 ### Topics
-- Introduction: Developing an Acquisition Strategy  
-- Why Do We Plan?  
-- What Feeds the Acquisition Strategy?  
-- The Acquisition Plan Lean Canvas Approach  
-- Common Risks  
-- Contract Exit Strategies  
-- Stakeholder Engagement: Capability and Cooperation  
-- Existing Contracts  
-- Streamline the Process  
-- Considerations for a New Contract  
-- Funding and Programmatic Considerations  
-- State of the Market  
-- Compliance & Other Legal Issues  
-- Getting to Know Your Office of General Counsel  
-- What is Intellectual Property?  
-- Types of IP  
-- FAR Subpart 27.4 Rights in Data and Copyrights  
-- Contribution, Attribution, Retribution...Oh My!  
-- Who Owns Open Source Code?  
-- Data in the Cloud (It's Cloudy Out There!)  
-- Legal Liabilities  
-- What Happens When Open Source Software Breaks?  
-- Case Study Tie In Module 3 Activity: Solution Evaluation with SWOT Analysis  
-- Multi-vendor Contracts  
+- Introduction: Developing an acquisition strategy  
+- Why do we plan?
+- What feeds the acquisition strategy?
+- The acquisition plan lean canvas approach
+- Common risks
+- Contract exit strategies
+- Stakeholder engagement: Capability and cooperation
+- Existing contracts
+- Streamline the process
+- Considerations for a new contract
+- Funding and programmatic considerations
+- State of the market
+- Compliance & other legal issues
+- Getting to know your Office of General Counsel
+- What is intellectual property?
+- Types of IP
+- FAR subpart 27.4 rights in data and copyrights
+- Contribution, attribution, retribution...oh my!
+- Who owns open source code?
+- Data in the cloud (It's cloudy out there!)
+- Legal liabilities
+- What happens when open source software breaks?
+- Case study tie in Module 3 activity: Solution evaluation with SWOT analysis
+- Multi-vendor contracts
 
 
 ## Sprint 2: Developing the Solicitation
@@ -625,33 +556,33 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 | **Developing the Solicitation** | This sprint focuses on developing the core elements of a digital service solicitation to drive successful acquisition outcomes. Learners will explore how to write a Statement of Objectives (SOO), apply appropriate award procedures under the FAR and non-FAR authorities, and incorporate pricing strategies and evaluation language aligned with outcome-based delivery. The sprint also examines emerging considerations such as the role of AI in acquisition and the balance between key personnel and performance outcomes. | - Develop key elements of a digital service solicitation, including a Statement of Objectives (SOO), appropriate award procedures, and outcome-oriented evaluation factors. <br> - Evaluate how pricing structures, key personnel requirements, and emerging technologies such as AI may impact solicitation strategy and vendor response. |
 
 ### Topics
-- Strategic Planning and Execution in Digital Acquisitions  
-- Developing a Statement of Objectives (SOO)  
-- Key Sections of an SOO homework assignment (template)  
-- Understanding FAR 37.6: How Does Agile Methodology Fit Into Federal Acquisitions?  
-- Key Personnel vs Outcome-Based  
-- Artificial Intelligence and the Acquisition Strategy  
-- Discussion  
-- 7 Strategies for Evaluating the Ethical and Legal Impact of Implementing AI in Federal Agencies  
+- Strategic planning and execution in digital acquisitions
+- Developing a statement of objectives (SOO)
+- Key sections of an SOO homework assignment (template)
+- Understanding FAR 37.6: How does Agile methodology fit into federal acquisitions?
+- Key personnel vs outcome-based
+- Artificial intelligence and the acquisition strategy
+- Discussion
+- 7 strategies for evaluating the ethical and legal impact of implementing AI in federal agencies  
 
 
 ## Sprint 3: Running a Successful Evaluation
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ---------------- | ------------ | ----------------- |
-| **Running a Successful Evaluation** | This sprint prepares learners to run effective evaluations of vendor proposals in digital service procurements. Learners will explore how to define and apply technical evaluation criteria, select a skilled evaluation team, and use debriefing and negotiation techniques to support tradeoff decisions, strengthen vendor relationships, and ensure transparent, mission-aligned outcomes. | - Evaluate agile vendors using solicitation criteria, oral presentations, and past performance to assess alignment with agile practices and technical requirements. <br> - Design and apply evaluation strategies that incorporate down-selects, interactive techniques, and tradeoff approaches to support fair and best-value acquisitions. <br> - Deliver effective post-evaluation feedback that builds trust, strengthens future proposals, and aligns with FAR guidance. <br> - Conduct strategic vendor negotiations that clarify assumptions, manage risks, and secure best-value outcomes in digital service procurements. |
+| **Running a Successful Evaluation** | This sprint prepares learners to run effective evaluations of vendor proposals in digital service procurements. Learners will explore how to define and apply technical evaluation criteria, select a skilled evaluation team, and use debriefing and negotiation techniques to support tradeoff decisions, strengthen vendor relationships, and ensure transparent, mission-aligned outcomes. | - Evaluate Agile vendors using solicitation criteria, oral presentations, and past performance to assess alignment with Agile practices and technical requirements. <br> - Design and apply evaluation strategies that incorporate down-selects, interactive techniques, and tradeoff approaches to support fair and best-value acquisitions. <br> - Deliver effective post-evaluation feedback that builds trust, strengthens future proposals, and aligns with FAR guidance. <br> - Conduct strategic vendor negotiations that clarify assumptions, manage risks, and secure best-value outcomes in digital service procurements. |
 
 ### Topics
-- Evaluation Criteria Overview  
-- Negotiating with Vendors  
-- Knowledge Check  
-- The Power of Debriefing
+- Evaluation criteria overview  
+- Negotiating with vendors  
+- Knowledge check  
+- The power of debriefing
 
 ---
 
 ## Module 4: Build
 
-Build: Manage vendor partnerships and support delivery through contract administration practices grounded in agile and lean methodologies. Track project health using real-time, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. Focus on transparency, collaboration, and outcomes throughout the contract lifecycle.
+Build: Manage vendor partnerships and support delivery through contract administration practices grounded in Agile and lean methodologies. Track project health using real-time, objective indicators, support continuous delivery, and adapt to change while ensuring alignment with mission goals. Focus on transparency, collaboration, and outcomes throughout the contract lifecycle.
 
 
 
@@ -659,36 +590,36 @@ Build: Manage vendor partnerships and support delivery through contract administ
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Management of Digital Service Delivery** | This sprint introduces key roles and practices that support effective post-award delivery of digital services. Learners will explore the function of product ownership, how product managers and contracting officer representatives (CORs) collaborate, and how agile ceremonies and tools support iterative delivery. The sprint also emphasizes cross-functional team alignment and the importance of celebrating shared successes. | - Describe what product ownership looks like in federal digital service delivery environments. <br> - Explain how contracting officer representatives (CORs) and product owners (POs) collaborate to support agile delivery. <br> - Recognize the importance of communication, shared understanding, and agile rituals in effective digital service teams. <br> - Identify ways to celebrate progress and success across cross-functional teams. |
+| **Management of Digital Service Delivery** | This sprint introduces key roles and practices that support effective post-award delivery of digital services. Learners will explore the function of product ownership, how product managers and contracting officer representatives (CORs) collaborate, and how Agile ceremonies and tools support iterative delivery. The sprint also emphasizes cross-functional team alignment and the importance of celebrating shared successes. | - Describe what product ownership looks like in federal digital service delivery environments. <br> - Explain how contracting officer representatives (CORs) and product owners (POs) collaborate to support Agile delivery. <br>  - Recognize the importance of communication, shared understanding, and Agile rituals in effective digital service teams. <br>  - Identify ways to celebrate progress and success across cross-functional teams. |
 
 ### Topics
-- Managing Digital Service Delivery  
-- Amplifying Agile Delivery  
-- **Activity:** Who Does What? Agile Role Round Robin  
-- **Activity:** Digital Service Project Charter  
+- Managing digital service delivery  
+- Amplifying Agile delivery  
+- **Activity:** Who does what? Agile role round robin  
+- **Activity:** Digital service project charter  
 
 ## Sprint 2: Performance Measurement Under Agile Delivery Contracts
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Performance Measurement Under Agile Delivery Contracts** | This sprint explores how to measure performance in agile digital service contracts using meaningful, real-time metrics. Learners will examine approaches that go beyond traditional compliance tools like the QASP, including milestone tracking, contractor self-reporting, CPARS, and quarterly performance reviews. The sprint also covers strategies for incentivizing outcomes and monitoring vendor performance in multi-vendor environments. | - Identify and apply performance metrics that help detect delivery risks or failure points early in agile digital service contracts. |
+| **Performance Measurement Under Agile Delivery Contracts** | This sprint explores how to measure performance in Agile digital service contracts using meaningful, real-time metrics. Learners will examine approaches that go beyond traditional compliance tools like the QASP, including milestone tracking, contractor self-reporting, CPARS, and quarterly performance reviews. The sprint also covers strategies for incentivizing outcomes and monitoring vendor performance in multi-vendor environments. | - Identify and apply performance metrics that help detect delivery risks or failure points early in Agile digital service contracts. |
 
 ### Topics
-- Using Value-Based Metrics and Modern Incentives in Federal Agile Procurement  
-- Post-Award Multi-Vendor Management  
-- **Knowledge Check:** Managing a Multi-Vendor Environment  
-- Warranties in Agile Development (Readings)  
+- Using value-based metrics and modern incentives in federal Agile procurement  
+- Post-Award multi-vendor management  
+- **Knowledge Check:** Managing a multi-vendor environment  
+- Warranties in Agile development (Readings)  
 
 
 ## Sprint 3: Contract Kickoff
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Contract Kickoff** | This sprint focuses on how to successfully launch a digital services contract. Learners will explore strategies for preparing both government and vendor teams, setting clear expectations, aligning on scope and delivery approach, and establishing communication and collaboration rhythms that support agile execution from day one. | - Determine the key activities that occur after contract award, including kickoff planning, team ramp-up, and establishing a shared delivery baseline. |
+| **Contract Kickoff** | This sprint focuses on how to successfully launch a digital services contract. Learners will explore strategies for preparing both government and vendor teams, setting clear expectations, aligning on scope and delivery approach, and establishing communication and collaboration rhythms that support Agile execution from day one. | - Determine the key activities that occur after contract award, including kickoff planning, team ramp-up, and establishing a shared delivery baseline. |
 
 ### Topics
-- Contract Kickoff  
-- Introduction to Readings: Cloud and XaaS Procurement Best Practice  
+- Contract kickoff  
+- Introduction to readings: Cloud and XaaS procurement best practice  
 - **Activity:** Cloud Breach Facilitation Exercise Facilitation Guide  
 
 
@@ -696,13 +627,13 @@ Build: Manage vendor partnerships and support delivery through contract administ
 
 | Learning Elements | Descriptions | Learning Objectives |
 | ----------------- | ------------ | ------------------- |
-| **Contract Management and Problem Resolution** | This sprint focuses on managing digital service contracts after award, with an emphasis on identifying and addressing performance issues. Learners will explore techniques for monitoring vendor progress, resolving delivery challenges, and applying remedies within the bounds of the contract. The sprint also highlights the importance of proactive communication and documentation throughout the performance period. | - Determine appropriate strategies for course correction or exit when digital service delivery is off track.<br>- Demonstrate how to negotiate consideration or remediation actions within the context of agile delivery. |
+| **Contract Management and Problem Resolution** | This sprint focuses on managing digital service contracts after award, with an emphasis on identifying and addressing performance issues. Learners will explore techniques for monitoring vendor progress, resolving delivery challenges, and applying remedies within the bounds of the contract. The sprint also highlights the importance of proactive communication and documentation throughout the performance period. | - Determine appropriate strategies for course correction or exit when digital service delivery is off track.<br>- Demonstrate how to negotiate consideration or remediation actions within the context of Agile delivery. |
 
 ### Topics
-- Federal IT Acquisition, Management, and Software Engineering Practices  
-- **Activity:** Federal IT Acquisition, Management, and Software Engineering Practices  
-- Exit Strategy  
-- Exit Strategy: Key Questions for Analysis  
+- Federal IT acquisition, management, and software engineering practices  
+- **Activity:** Federal IT acquisition, management, and software engineering practices  
+- Exit strategy  
+- Exit strategy: Key questions for analysis  
 
 ---
 
@@ -717,17 +648,18 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 | **Leading Change As An Individual** | Defines change agents; describes effective influence strategies; and approaches to building networks and coalitions to facilitate change. | - Identify your spheres of influence within the acquisition environment.<br>- Recognize common challenges that arise when engaging stakeholders across those spheres.<br>- Plan influence strategies and conversations tailored to the challenges and opportunities in your agency or live digital assignment. |
 
 ### Topics
-- Preparing for and Having an Influence Conversation  
-- Difficult Conversations  
-- Knowledge Check  
-- Building Your Resilience  
-- Cultivating Your Growth Mindset  
-- Wellness Rituals to Support You in Times of Transition  
-- Analyze Where the “No” Came From  
-- Should I Fight This Battle, or How Might I Adjust My Approach To Make It More “Winnable”?  
-- What to Do When You’re Told No Framework in Action  
-- Adjust Approach & Identify Lessons Learned  
-- Telling Your Procurement Story  
+- Preparing for and having an influence conversation  
+- Difficult conversations  
+- Knowledge check  
+- Building your resilience
+- Cultivating your growth mindset
+- Wellness rituals to support you in times of transition
+- Analyze where the “no” came from
+- Should I fight this battle, or how might I adjust my approach to make it more “winnable”?
+- "What to do when you’re told no" framework in action
+- Adjust approach & identify lessons learned
+- Telling your procurement story
+
 
 
 ## Sprint 2: Leading Organizational Change - Continuous Improvement and Scalable Practices
@@ -737,21 +669,21 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 | **Leading Organizational Change - Continuous Improvement and Scalable Practices** | This sprint focuses on strategies for staying current with emerging technologies and continuously improving acquisition practices, as well as approaches to scaling successful methods across organizations, supported by examples from the broader federal agency community. | - Assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community. |
 
 ### Topics
-- Staying Current and Driving Change: Your Role in Continuous Improvement  
-- Staying Current with Emerging Tech and Trends  
-- Continuous Improvement in Everyday Procurement  
-- The Case for Creating Practical Guides: From Playbooks to Toolkits and Beyond  
-- Exploring Your Role as an Ambassador of Change  
-- Kotter Model Introduction  
-- Self-Assessment: What’s Your Change Style?  
-- Create Your Change Contribution Plan  
-- Wrap-Up & Call to Action  
+- Staying current and driving change: your role in continuous improvement
+- Staying current with emerging tech and trends
+- Continuous improvement in everyday procurement
+- The case for creating practical guides: from playbooks to toolkits and beyond
+- Exploring your role as an ambassador of change
+- Kotter model introduction
+- Self-assessment: what’s your change style?
+- Create your change contribution plan
+- Wrap-up & call to action
 
 ---
 
 ## Module 6: Apply skills
 
-Apply: Apply techniques learned in the course through various activities
+Apply: Apply techniques learned in the course through various activities.
 
 # Module 6: Apply
 
@@ -762,8 +694,8 @@ Apply: Apply techniques learned in the course through various activities
 | **Learning Elements** | **Descriptions** |
 | --- | --- |
 | **Stakeholder Interview Assignment** | A structured opportunity for participants to engage agency leaders who influence digital services, procurement, or policy. By conducting 2–4 interviews, participants practice influence, build empathy, and deepen their understanding of organizational dynamics. Full guidance and criteria for this assignment can be found in the Appendix. |
-| **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
-| **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
+| **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing Agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
+| **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply Agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
 
 ---
 
@@ -804,7 +736,7 @@ The threaded case scenario unfolds alongside the course modules, with each activ
 
 | **Module** | **Sprint** | **Activity Title** | **Case Scenario Milestone Alignment** |
 |------------|------------|---------------------|----------------------------------------|
-| **Module 1** | Sprint 1 | Introduction to Cynuria Case / Introducing Casey and the CRM Project | Not a formal milestone, serves as Case scenario narrative intro |
+| **Module 1** | Sprint 1 | Introduction to Cynuria Case | Not a formal milestone, serves as Case scenario narrative intro |
 | **Module 2** | Sprint 1 | Stakeholder Mapping | Milestone 1 |
 | **Module 2** | Sprint 4 | Market Research Planning | Not a formal milestone, builds on Milestone 1 |
 | **Module 2** | Sprint 4 | FAR 10 Integration Assignment | Not a formal milestone. It’s an extension activity. |
@@ -852,7 +784,7 @@ The threaded case scenario is a tool for deepening understanding and sparking ap
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
-_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding Case Study facilitator guide._
+_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
 
 ### Flexible format
 

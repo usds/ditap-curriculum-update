@@ -99,3 +99,7 @@ Q. Some Applied Learning assignments (like the Live Digital Assignment) end befo
 Q. Sprint 4 / Cynuria: Only seeing one place mention the “FAR 10 Integration Assignment” (Vendor Materials > Vendor Playbook > Vendor Playbook.md)
 >A. Please see the Module 2 Sprint 4 in-class materials folder for the document "2_Case Study: Far 10 Integration".
 
+---
+
+Q. Unclear if the Post-Assessment is completed during Mod5 Sprint 2 or after it concludes.
+>A. Complete the Post-Assessment at the very end of the module. 
