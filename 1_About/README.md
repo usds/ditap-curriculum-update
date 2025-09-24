@@ -1,4 +1,4 @@
-# 1_About
+TEST # 1_About
 This section contains high-level information about the DITAP Curriculum including goals, best practices, and research artifacts from the refreshed curriculum. 
 
 ## 1A_What is DITAP
