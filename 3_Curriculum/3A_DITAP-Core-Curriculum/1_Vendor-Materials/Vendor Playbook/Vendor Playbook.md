@@ -133,7 +133,7 @@ _Participation should carry the most weight. Vendors may adjust the distribution
 
 ### Pass/Fail structure
 
-DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than chasing points. This reduces performance anxiety and shifts attention toward long-term capability-building—critical behaviors for leading digital transformation.
+DITAP uses a pass/fail approach that encourages learners to focus on growth, collaboration, and real-world application rather than chasing points. This reduces performance anxiety and shifts attention toward long-term capability-building — critical behaviors for leading digital transformation.
 
 ### Assessment types & design
 
