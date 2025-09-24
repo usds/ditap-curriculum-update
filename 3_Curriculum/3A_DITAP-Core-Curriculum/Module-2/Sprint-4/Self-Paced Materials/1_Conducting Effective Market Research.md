@@ -67,7 +67,7 @@ By the end of the course, this toolkit becomes a go-to reference guide, a record
 * When is it okay to skip an RFI entirely?  
 * How do small businesses *actually* find out about opportunities?
 
-### Assignment instructions:
+### Instructions:
 
 1. Organize your toolkit however makes sense for you! Refer to the Acquisition Toolkit Worksheet to help you get started.
 2. Add to it weekly based on readings, lectures, personal exploration, or class discussions.  
@@ -210,6 +210,8 @@ The cartoon shows that the government may issue a clear solicitation to them, on
 3. Increased interoperability through shared standards
 
 Let’s look at each of these. 
+
+---
 
 **1\. Pre-solicitation communication leads to better requirements** 
 
