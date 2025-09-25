@@ -1,4 +1,4 @@
-# LDA Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
+# LDA Phase 4: Final Team Reflections
 
 ## Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
 
