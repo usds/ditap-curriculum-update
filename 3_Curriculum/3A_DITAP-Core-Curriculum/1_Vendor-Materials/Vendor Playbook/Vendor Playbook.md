@@ -783,9 +783,9 @@ Vendors should ensure that:
 
 The threaded case scenario is a tool for deepening understanding and sparking application across the course. Through a fictional—but realistic—procurement scenario, participants explore the complexity of digital service delivery in government and connect course concepts to their own day-to-day challenges. The case scenario helps participants:
 
-- Apply concepts in a realistic, evolving context.
-- Practice critical thinking, stakeholder engagement, and strategic decision-making.
-- Surface parallels to their own work and identify opportunities for influence and improvement.
+- Apply concepts in a realistic, evolving context
+- Practice critical thinking, stakeholder engagement, and strategic decision-making
+- Surface parallels to their own work and identify opportunities for influence and improvement
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
@@ -830,7 +830,7 @@ Encourage analysis of how participants themselves can lead and influence—rathe
 
 As part of the course introduction, vendors should provide learners with a brief orientation to the Learning Management System (LMS). This orientation should be tailored to the specific LMS being used and designed to help learners feel comfortable navigating the system from the start. The goal is to set learners up for success, reduce confusion, and ensure they can focus on the course content.
 
-## Key elements to cover in your LMS orientation include
+### Key elements to cover in your LMS orientation include:
 
 **Accessing the LMS:** Provide clear instructions for logging in, setting up accounts, and accessing the course. Include relevant links and any credentials learners may need.
 
@@ -844,7 +844,7 @@ As part of the course introduction, vendors should provide learners with a brief
 
 **Technical support:** Provide information on how learners can get help if they encounter technical issues, including contact points and response expectations.
 
-## Integrating materials into your LMS
+### Integrating materials into your LMS
 
 Vendors should ensure that all course materials, modules, assessments, and other materials are properly integrated into their LMS. This includes uploading files, linking to external resources, and configuring assessments so that learner progress and completion are tracked accurately. Clear labeling, consistent module sequencing, and accessible navigation are critical to providing a seamless learner experience. Whenever possible, test the course in the LMS environment before launch to confirm that all interactive content, links, and tracking functions work as intended.
 
