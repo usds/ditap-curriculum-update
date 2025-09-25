@@ -21,8 +21,6 @@ Facilitators and program managers play a vital role in helping participants appl
 * Evaluating digital service proposals based on artifact-first approaches  
 * Delivering constructive feedback and collaborating cross-functionally
 
- 
-
 ## Capstone Timeline & Phases
 
 | Phase | Weeks | Focus | Deliverables | Key Learning Outcome |
@@ -38,9 +36,8 @@ Objective: Introduce participants to human-centered problem scoping using the Di
 
 **Instructions to Facilitators**:
 * Form teams of 4–5.  
-* Assign or allow teams to select a recent (within 2–3 years) digital service project to analyze.  
-* Encourage outreach to a real digital service company or agency partner for stakeholder interviews.  
-* Require each team to conduct at least 2–3 simulated or real stakeholder interviews.  
+* Assign or allow teams to select a recent (within 2–3 years) digital service project to analyze.    
+* Require each team to conduct 2 simulated stakeholder interviews (via AI tools, facilitator-provided scenarios, or role-play).  
 * Provide excerpts or summaries of the [USDS Discovery Sprint Guide](https://sprint.usds.gov/).
 
 **Team Deliverables**:
@@ -210,7 +207,7 @@ Facilitators begin by forming teams of 4 to 5 participants. A crucial aspect of 
 
 The facilitator's role here extends beyond simple approval; it involves actively assessing whether the chosen project can realistically yield the necessary Vendor Case Study artifacts. If a team selects a project lacking a clear user research component or a demonstrable iteration based on feedback, it risks setting the team up for failure in Phase 2\. Therefore, the facilitator acts as a compatibility gatekeeper, ensuring the selected project possesses the inherent characteristics to support the subsequent phases. This may involve probing questions such as: "Can a specific feature or design element that underwent user research be identified?" or "Is there evidence of an iterative change based on user feedback?" This proactive guidance, provided early in Phase 1, is fundamental to preventing teams from investing time in a project that cannot meet the Phase 2 requirements, thereby ensuring the cumulative learning experience remains viable.
 
-Teams are encouraged to conduct outreach to real digital service companies or agency partners for stakeholder interviews. Facilitators should provide strategies and templates for these interactions, highlighting the value of gaining authentic insights into problem definition and stakeholder perspectives. Teams are required to conduct at least 2–3 simulated or real stakeholder interviews, with facilitators providing scenarios or role-playing exercises if real interviews are not universally feasible. Participants should utilize provided excerpts or summaries of the USDS Discovery Sprint Guide to effectively frame their problem scoping and research activities. Finally, facilitators must explicitly link the Phase 1 Discovery Summary to the upcoming Case Study Development, explaining that the research conducted in this phase forms the foundational context for the vendor response in Phase 2\.
+Teams are encouraged to conduct outreach to real digital service companies or agency partners for stakeholder interviews but are required to conduct 2 simulated stakeholder interviews (via AI tools, facilitator-provided scenarios, or role-play). Facilitators should provide strategies and templates for these interactions, highlighting the value of gaining authentic insights into problem definition and stakeholder perspectives. Teams are required to conduct 2 simulated stakeholder interviews, with facilitators providing scenarios or role-playing exercises if real interviews are not universally feasible. Participants should utilize provided excerpts or summaries of the USDS Discovery Sprint Guide to effectively frame their problem scoping and research activities. Finally, facilitators must explicitly link the Phase 1 Discovery Summary to the upcoming Case Study Development, explaining that the research conducted in this phase forms the foundational context for the vendor response in Phase 2\.
 
 ### Team Deliverables: 
 Each team is required to submit a 3-page Discovery Summary. This document must include a background and problem framing, identification of stakeholders, research and insights, and a discussion of pain points and opportunities. This deliverable is also referred to as a Sprint Report.
