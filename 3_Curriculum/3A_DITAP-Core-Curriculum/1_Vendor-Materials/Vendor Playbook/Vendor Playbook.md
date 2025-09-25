@@ -95,7 +95,7 @@ Graduation is an opportunity to recognize participant achievement, celebrate the
 USDS will review the CLP distribution approach, certification format, and graduation activities, whether in person or virtual.
 
 **Supporting materials**
-A sample certificate format is included in the [Appendix](url).
+A sample certificate format is included in the Appendix.
 
 ## DITAP delivery: required and optional components
 
@@ -113,13 +113,13 @@ To support consistency across all DITAP deliveries, the following section identi
 
 ---
 
-## Assessment and Grading Guidance
+## Assessment and grading guidance
 
 ### Overview
 
 The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-Our assessment design is grounded in The Learning-Transfer Evaluation Model (LTEM)), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+Our assessment design is grounded in The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
 **Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
@@ -201,7 +201,7 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
   - Multiple attempts allowed
   - After first failure, redirect to challenging sections of schedule facilitator check-in.
   - After multiple failures, provide additional interventions (peer coaching, office hours, targeted practice).
-
+  
 <br>
 
 ### Applied learning assignments
@@ -230,10 +230,13 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
   - Final Presentations
 - The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook. [link to LDA playbook]
 
+<br>
 
 ### Knowledge checks
 
 Embedded throughout self-paced modules to help learners identify misconceptions early and practice key concepts. While successful completion isn't required for advancement, vendors must track participation and performance patterns to guide facilitation and support.
+
+<br>
 
 ---
 
@@ -242,6 +245,8 @@ Embedded throughout self-paced modules to help learners identify misconceptions 
 Participants in the full 6-month DITAP program should be eligible to receive 80 CLPs upon successful completion of all program requirements.
 
 For shorter or adapted versions of the program, training providers should work with USDS to determine the appropriate CLP allocation. The total number of CLPs and the criteria for earning them should be clearly stated in the course materials provided to participants.
+
+<br>
 
 ---
 
@@ -344,6 +349,8 @@ Warmly, \[Facilitator/Vendor Name\]
 - Approaches to personal growth and reflection  
 - Making the most of hands-on activities and peer discussions  
 
+<br>
+
 ---
 
 ## Module 1: Describe
@@ -368,6 +375,8 @@ Describe: Explore digital services in the 21st century, including what they are,
 - Recommended Readings  
 - Case Study Tie In: Module 1 Activity: Introducing Casey and the CRM Project
 
+<br>
+
 ## Sprint 2: Digital Service Methods, Roles, and Sources of Supply
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -385,6 +394,8 @@ Describe: Explore digital services in the 21st century, including what they are,
 - Digital Service Delivery Methods: HCD and DevSecOps  
 - Activity: Create a Sprint Backlog  
 - Digital Service Delivery Providers: Sources of Supply  
+
+<br>
 
 ## Sprint 3: Digital Service Tech Bootcamp
 
@@ -446,6 +457,7 @@ Describe: Explore digital services in the 21st century, including what they are,
 - How open source shows up in the acquisition lifecycle
 - Key laws, standards, or frameworks  
 
+<br>
 
 ---
 
@@ -466,6 +478,8 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - Change and Innovative Readiness Survey introduction  
 - Change and Innovative Readiness Survey (in class / fillable)  
 
+<br>
+
 ## Sprint 2: Stakeholder and Customer Mapping
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -478,6 +492,7 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - Role play activity: Stakeholder influence challenge  
 - Activity: Stakeholder analysis project introduction  
 
+<br>
 
 ## Sprint 3: Defining Success for Your Digital Services Acquisition
 
@@ -490,6 +505,7 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - From discovery to strategy  
 - Defining constraints before acquisition strategy begins
 
+<br>
 
 ## Sprint 4: Conducting Effective Market Research
 
@@ -553,6 +569,7 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Case study tie in Module 3 activity: Solution evaluation with SWOT analysis
 - Multi-vendor contracts
 
+<br>
 
 ## Sprint 2: Developing the Solicitation
 
@@ -570,6 +587,7 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Discussion
 - 7 strategies for evaluating the ethical and legal impact of implementing AI in federal agencies  
 
+<br>
 
 ## Sprint 3: Running a Successful Evaluation
 
@@ -582,6 +600,8 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Negotiating with vendors  
 - Knowledge check  
 - The power of debriefing
+
+<br>
 
 ---
 
@@ -603,6 +623,8 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Activity:** Who does what? Agile role round robin  
 - **Activity:** Digital service project charter  
 
+<br>
+
 ## Sprint 2: Performance Measurement Under Agile Delivery Contracts
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -615,6 +637,7 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Knowledge Check:** Managing a multi-vendor environment  
 - Warranties in Agile development (Readings)  
 
+<br>
 
 ## Sprint 3: Contract Kickoff
 
@@ -627,6 +650,7 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - Introduction to readings: Cloud and XaaS procurement best practice  
 - **Activity:** Cloud Breach Facilitation Exercise Facilitation Guide  
 
+<br>
 
 ## Sprint 4: Contract Management and Problem Resolution
 
@@ -639,6 +663,8 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Activity:** Federal IT acquisition, management, and software engineering practices  
 - Exit strategy  
 - Exit strategy: Key questions for analysis  
+
+<br>
 
 ---
 
@@ -665,7 +691,7 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 - Adjust approach & identify lessons learned
 - Telling your procurement story
 
-
+<br>
 
 ## Sprint 2: Leading Organizational Change - Continuous Improvement and Scalable Practices
 
@@ -684,23 +710,24 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 - Create your change contribution plan
 - Wrap-up & call to action
 
+<br>
+
 ---
 
 ## Module 6: Apply skills
 
-Apply: Apply techniques learned in the course through various activities.
-
-# Module 6: Apply
-
-| **Learning Objectives** | 
-| --- | 
-| Demonstrate the ability to conduct discussions and interviews with stakeholders across your sphere of influence. <br><br> Apply shadowing, detailed observations, or rotational assignments with digital service experts to better understand and integrate into the culture. <br><br> Utilize a “small team of teams” approach to design, execute, and reflect on a live digital assignment. |
+Apply techniques learned in the course through various activities.
+|   |   |
+| --- | --- |
+| **Learning Objectives** | Demonstrate the ability to conduct discussions and interviews with stakeholders across your sphere of influence. <br><br> Apply shadowing, detailed observations, or rotational assignments with digital service experts to better understand and integrate into the culture. <br><br> Utilize a “small team of teams” approach to design, execute, and reflect on a live digital assignment. |
 
 | **Learning Elements** | **Descriptions** |
 | --- | --- |
 | **Stakeholder Interview Assignment** | A structured opportunity for participants to engage agency leaders who influence digital services, procurement, or policy. By conducting 2–4 interviews, participants practice influence, build empathy, and deepen their understanding of organizational dynamics. Full guidance and criteria for this assignment can be found in the Appendix. |
 | **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing Agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
 | **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply Agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
+
+<br>
 
 ---
 
@@ -735,6 +762,8 @@ Vendors are encouraged to use the Cynuria case scenario unless they have a compe
 - Allow learners to apply frameworks and decision-making tools across modules
 - Reflect realistic constraints and trade-offs in government digital acquisition
 
+<br>
+
 #### Pacing guide
 
 The threaded case scenario unfolds alongside the course modules, with each activity reinforcing key concepts and building toward an integrated understanding of digital service procurement. Some activities are core milestones drawn directly from the Cynuria case materials; others are extension activities designed to deepen learning or connect to real-world application. The pacing chart below outlines when each case activity appears, which sprint it aligns to, and how it connects to major course milestones.
@@ -752,7 +781,7 @@ The threaded case scenario unfolds alongside the course modules, with each activ
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 & 5 |
 | **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
 
-
+<br>
 
 #### Integration guidance
 
@@ -775,6 +804,8 @@ Vendors should ensure that:
 - Assigned readings are clearly communicated in advance of each module
 - Participants are given multiple opportunities to apply tools and concepts to the case throughout the course
 
+<br>
+
 ## Facilitating the threaded case study
 
 ### General facilitator guidance
@@ -791,9 +822,13 @@ Each case scenario activity reinforces the sprint’s learning objectives and se
 
 _Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
 
+<br>
+
 ### Flexible format
 
 Most case activities are run in small groups with a brief whole-group share-out. Refer to the pacing guide for timing recommendations and feel free to adjust based on group size, energy, and time available. There’s plenty more room for creativity in how you run these sessions. Think of what’s provided as a springboard.
+
+<br>
 
 ### Key facilitation moves
 
@@ -823,6 +858,8 @@ Your role is to create space for rich discussion—not to lecture. Emphasize the
 
 **Right-size the vendor role**  
 Encourage analysis of how participants themselves can lead and influence—rather than focusing only on vendor behavior or external constraints.  
+
+<br>
 
 ---
 
