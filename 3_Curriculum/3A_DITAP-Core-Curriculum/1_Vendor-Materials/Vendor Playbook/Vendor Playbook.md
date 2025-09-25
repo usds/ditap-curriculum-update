@@ -4,7 +4,7 @@ This playbook is here to help you deliver the refreshed Digital IT Acquisition P
 
 ## Program overview
 
-The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
+The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre- and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
 
 ## Program structure
 
@@ -95,7 +95,7 @@ Graduation is an opportunity to recognize participant achievement, celebrate the
 USDS will review the CLP distribution approach, certification format, and graduation activities, whether in person or virtual.
 
 **Supporting materials**
-A sample certificate format is included in the [Appendix](url).
+A sample certificate format is included in the Appendix.
 
 ## DITAP delivery: required and optional components
 
@@ -104,25 +104,26 @@ To support consistency across all DITAP deliveries, the following section identi
 
 | **Program Element** | **Required / Optional** | **Notes** |
 | --- | --- | --- |
-| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed.|
+| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed. |
 | Activities (ILT or exercises) | Optional | Vendors may select or adapt activities to support facilitation style. |
 | Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. |
 | Threaded case scenario | **Required** | Must be integrated across modules. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. The threaded case study may be replaced with an alternate case study, provided it remains structured as a threaded case study. |
 | Pre- and post-surveys | Optional | Vendors may administer as part of evaluation, not mandatory. |
-| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add suplemental materials to support the learning requirements; however, no content may be removed. |
+| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add supplemental materials to support the learning requirements; however, no content may be removed. |
 
+---
 
-
-## Assessment and Grading Guidance
+## Assessment and grading guidance
 
 ### Overview
 
 The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-Our assessment design is grounded in the The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+Our assessment design is grounded in The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
 **Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
+---
 
 ### Pass/Fail structure
 
@@ -152,13 +153,13 @@ Without formal grades, students need regular feedback to ensure they're on track
 - Struggles to apply frameworks in assignments; revisions are required
 - Shows little to no progress from pre- to post-assessment
 
---
+---
 
 ## Participation assessment
 
 ### Participation rubric
 
-The  rubric evaluates three dimensions of engagement: 
+The rubric evaluates three dimensions of engagement: 
 
 |     | **Fully Engaged** | **Progressing** | **Needs Attention** |
 | --- | --- | --- | --- |
@@ -167,7 +168,7 @@ The  rubric evaluates three dimensions of engagement:
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
 
 ## Participation assessment implementation
-_Timing: During/after interactive sessions, especially those tied to the threaded case scenario._
+_Timing: During/after interactive sessions, especially those tied to the threaded case scenario_.
 
 | **Type of Assessment** | **Description** | **Suggested Cadence** | 
 | --- | --- | --- |
@@ -184,8 +185,9 @@ Schedule a facilitator check-in when a participant meets either criterion:
 
 Use the rubric to guide conversations and offer concrete re-engagement strategies.
 
+---
 
-## Conceptual Fluency Assessment
+## Conceptual fluency assessment
 
 Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks (Digital Services Playbook, TechFAR, human-centered design principles) in realistic work contexts.
 
@@ -198,23 +200,27 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
 
   - Multiple attempts allowed
   - After first failure, redirect to challenging sections of schedule facilitator check-in.
-  - Multiple attemps allowed.
   - After multiple failures, provide additional interventions (peer coaching, office hours, targeted practice).
- 
-#### Applied learning assignments
+  
+<br>
 
-- **Stakeholder Research Assignment**
-- **Shadowing Assignment**
-- **Live Digital Assessment (LDA)**
+### Applied learning assignments
 
-Stakeholder research and shadowing assignments
+- Stakeholder Research Assignment
+- Shadowing Assignment
+- Live Digital Assessment (LDA)
+
+<br>
+
+**Stakeholder research and shadowing assignments**
 
 - Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
 - In short, both assignments have two phases:
   - Phase 1: Requires approval to proceed
   - Phase 2: Requires passing grade for completion
+
  
-Live Digital Assignment (LDA)
+**Live Digital Assignment (LDA)**
 
 - DITAP's capstone experience simulating the complete lifecycle of a digital services acquisition
 - Participants apply key DITAP concepts in real-world context through four phases:
@@ -222,18 +228,27 @@ Live Digital Assignment (LDA)
   - Case Study Development
   - Peer Evaluation
   - Final Presentations
-- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook [link to LDA playbook]
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook. [link to LDA playbook]
 
+<br>
 
-#### Knowledge Checks
+### Knowledge checks
 
 Embedded throughout self-paced modules to help learners identify misconceptions early and practice key concepts. While successful completion isn't required for advancement, vendors must track participation and performance patterns to guide facilitation and support.
 
-## Contiuous Learning Points (CLPs)
+<br>
+
+---
+
+## Continuous Learning Points (CLPs)
 
 Participants in the full 6-month DITAP program should be eligible to receive 80 CLPs upon successful completion of all program requirements.
 
 For shorter or adapted versions of the program, training providers should work with USDS to determine the appropriate CLP allocation. The total number of CLPs and the criteria for earning them should be clearly stated in the course materials provided to participants.
+
+<br>
+
+---
 
 ## The Learning-Transfer Evaluation Model (LTEM) Alignment
 
@@ -246,12 +261,13 @@ DITAP assessments are intentionally designed using the Learning-Transfer Evaluat
 | 1. **Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
 | 2. **Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
 | 3. **Learner perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
-| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments.|
-| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.|
+| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments. |
+| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices. |
 | 6. **Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning. |
 | 7. **Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | [Assessed post DITAP, Consortium to own] Alumni survey 30–60 days post-course asking for specific examples; Best practice: manager interviews to confirm observed behavior changes. |
 | 8. **Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | ((Assessed post DITAP, Consortium to own))  Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
 
+<br>
 
 ### Progressive skill building
 
@@ -266,15 +282,17 @@ This structure creates scaffolded learning:
 
 LTEM Levels 7 (Transfer) and 8 (Organizational Results) are assessed after course completion, and the DITAP consortium is actively working on measurement strategies for these levels. Level 8 represents the gold standard of organizational impact but may be challenging to achieve given agency constraints and the multiple factors beyond DITAP training that influence organizational outcomes. Successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
 
-### Implementation requirements summary
+<br>
+
+## Implementation requirements summary
 
 Each vendor must implement an assessment plan that includes:
 1. Meaningful participation measurement using engagement rubrics with ongoing feedback opportunities
 2. Consistent conceptual fluency measurement across multiple elements:
-  - Pre-course and post-course assessment administration
-  - Embedded knowledge checks in self-paced learning
-  - Applied learning assignments (shadowing, stakeholder research)
-  - Cumulative capstone project simulating real-world digital acquisition challenges
+    - Pre-course and post-course assessment administration
+    - Embedded knowledge checks in self-paced learning
+    - Applied learning assignments (shadowing, stakeholder research)
+    - Cumulative capstone project simulating real-world digital acquisition challenges
 
 Vendors may supplement with additional assessments based on delivery format, learner preferences, or agency-specific contexts.
 
@@ -282,9 +300,10 @@ Vendors may supplement with additional assessments based on delivery format, lea
 
 ## Sample Communications
 
----
 
-### “Participation Needs Attention” Email Template
+### “Participation Needs Attention” email template
+
+<br>
 
 **Subject:** Quick check-in on participation
 
@@ -296,24 +315,15 @@ This isn't about being the most vocal person—it's about showing up in ways tha
 
 Warmly, \[Facilitator/Vendor Name\]
 
+<br>
+
 ### Sample reflective coaching prompts
 
 - What's one way you've contributed to others' learning in the course so far?
 - What connections have you been making between this session and your work?
 - What's one question or insight you want to keep exploring?
 
-### Learning-Transfer Evaluation Model (LTEM) with DITAP examples
-
-| **LTEM Level** | **Description** | **DITAP Examples** |
-| --- | --- | --- |
-| **1. Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
-| **2. Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
-| **3. Learner Perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
-| **4. Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. | Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussions.<br><br>E.g., You’re managing a software development contract with multiple vendor teams. Which agile practice will help ensure visibility into progress and performance? |
-| **5. Decision - Making** | Learners choose appropriate actions or solutions in realistic scenarios. | Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.<br><br>E.g., Scenario review: A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible. Choose the appropriate next step. |
-| **6. Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning assignments.<br><br>E.g., create a sprint backlog |
-| **7. Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | Alumni survey 30–60 days post-course asking for specific examples; manager interviews to confirm observed behavior changes. |
-| **8. Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
+<br>
 
 ---
 
@@ -339,6 +349,8 @@ Warmly, \[Facilitator/Vendor Name\]
 - Approaches to personal growth and reflection  
 - Making the most of hands-on activities and peer discussions  
 
+<br>
+
 ---
 
 ## Module 1: Describe
@@ -363,6 +375,8 @@ Describe: Explore digital services in the 21st century, including what they are,
 - Recommended Readings  
 - Case Study Tie In: Module 1 Activity: Introducing Casey and the CRM Project
 
+<br>
+
 ## Sprint 2: Digital Service Methods, Roles, and Sources of Supply
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -380,6 +394,8 @@ Describe: Explore digital services in the 21st century, including what they are,
 - Digital Service Delivery Methods: HCD and DevSecOps  
 - Activity: Create a Sprint Backlog  
 - Digital Service Delivery Providers: Sources of Supply  
+
+<br>
 
 ## Sprint 3: Digital Service Tech Bootcamp
 
@@ -441,6 +457,7 @@ Describe: Explore digital services in the 21st century, including what they are,
 - How open source shows up in the acquisition lifecycle
 - Key laws, standards, or frameworks  
 
+<br>
 
 ---
 
@@ -461,6 +478,8 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - Change and Innovative Readiness Survey introduction  
 - Change and Innovative Readiness Survey (in class / fillable)  
 
+<br>
+
 ## Sprint 2: Stakeholder and Customer Mapping
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -473,6 +492,7 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - Role play activity: Stakeholder influence challenge  
 - Activity: Stakeholder analysis project introduction  
 
+<br>
 
 ## Sprint 3: Defining Success for Your Digital Services Acquisition
 
@@ -485,6 +505,7 @@ Discover: Engage in a discovery process to set the foundation for informed acqui
 - From discovery to strategy  
 - Defining constraints before acquisition strategy begins
 
+<br>
 
 ## Sprint 4: Conducting Effective Market Research
 
@@ -548,6 +569,7 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Case study tie in Module 3 activity: Solution evaluation with SWOT analysis
 - Multi-vendor contracts
 
+<br>
 
 ## Sprint 2: Developing the Solicitation
 
@@ -565,6 +587,7 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Discussion
 - 7 strategies for evaluating the ethical and legal impact of implementing AI in federal agencies  
 
+<br>
 
 ## Sprint 3: Running a Successful Evaluation
 
@@ -577,6 +600,8 @@ Design: Translate your discovery findings into a well-structured solicitation. C
 - Negotiating with vendors  
 - Knowledge check  
 - The power of debriefing
+
+<br>
 
 ---
 
@@ -598,6 +623,8 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Activity:** Who does what? Agile role round robin  
 - **Activity:** Digital service project charter  
 
+<br>
+
 ## Sprint 2: Performance Measurement Under Agile Delivery Contracts
 
 | Learning Elements | Descriptions | Learning Objectives |
@@ -610,6 +637,7 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Knowledge Check:** Managing a multi-vendor environment  
 - Warranties in Agile development (Readings)  
 
+<br>
 
 ## Sprint 3: Contract Kickoff
 
@@ -622,6 +650,7 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - Introduction to readings: Cloud and XaaS procurement best practice  
 - **Activity:** Cloud Breach Facilitation Exercise Facilitation Guide  
 
+<br>
 
 ## Sprint 4: Contract Management and Problem Resolution
 
@@ -634,6 +663,8 @@ Build: Manage vendor partnerships and support delivery through contract administ
 - **Activity:** Federal IT acquisition, management, and software engineering practices  
 - Exit strategy  
 - Exit strategy: Key questions for analysis  
+
+<br>
 
 ---
 
@@ -660,7 +691,7 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 - Adjust approach & identify lessons learned
 - Telling your procurement story
 
-
+<br>
 
 ## Sprint 2: Leading Organizational Change - Continuous Improvement and Scalable Practices
 
@@ -679,23 +710,24 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 - Create your change contribution plan
 - Wrap-up & call to action
 
+<br>
+
 ---
 
 ## Module 6: Apply skills
 
-Apply: Apply techniques learned in the course through various activities.
-
-# Module 6: Apply
-
-| **Learning Objectives** | 
-| --- | 
-| Demonstrate the ability to conduct discussions and interviews with stakeholders across your sphere of influence. <br><br> Apply shadowing, detailed observations, or rotational assignments with digital service experts to better understand and integrate into the culture. <br><br> Utilize a “small team of teams” approach to design, execute, and reflect on a live digital assignment. |
+Apply techniques learned in the course through various activities.
+|   |   |
+| --- | --- |
+| **Learning Objectives** | Demonstrate the ability to conduct discussions and interviews with stakeholders across your sphere of influence. <br><br> Apply shadowing, detailed observations, or rotational assignments with digital service experts to better understand and integrate into the culture. <br><br> Utilize a “small team of teams” approach to design, execute, and reflect on a live digital assignment. |
 
 | **Learning Elements** | **Descriptions** |
 | --- | --- |
 | **Stakeholder Interview Assignment** | A structured opportunity for participants to engage agency leaders who influence digital services, procurement, or policy. By conducting 2–4 interviews, participants practice influence, build empathy, and deepen their understanding of organizational dynamics. Full guidance and criteria for this assignment can be found in the Appendix. |
 | **Shadowing Assignment** | An observational learning experience where participants spend at least four hours with a digital service delivery team. By witnessing Agile workflows, user-centered design, and cross-functional collaboration, participants gain firsthand insight into modern delivery practices. Full guidance and criteria for this assignment can be found in the Appendix. |
 | **Live Digital Assignment** | The program’s capstone project, simulating the full lifecycle of a digital service acquisition. Working in teams, participants identify a real procurement challenge, apply Agile and human-centered design principles, and produce proposals, reviews, and presentations. Full guidance and criteria for this assignment can be found in the Appendix. |
+
+<br>
 
 ---
 
@@ -730,6 +762,8 @@ Vendors are encouraged to use the Cynuria case scenario unless they have a compe
 - Allow learners to apply frameworks and decision-making tools across modules
 - Reflect realistic constraints and trade-offs in government digital acquisition
 
+<br>
+
 #### Pacing guide
 
 The threaded case scenario unfolds alongside the course modules, with each activity reinforcing key concepts and building toward an integrated understanding of digital service procurement. Some activities are core milestones drawn directly from the Cynuria case materials; others are extension activities designed to deepen learning or connect to real-world application. The pacing chart below outlines when each case activity appears, which sprint it aligns to, and how it connects to major course milestones.
@@ -747,7 +781,7 @@ The threaded case scenario unfolds alongside the course modules, with each activ
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 & 5 |
 | **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
 
-
+<br>
 
 #### Integration guidance
 
@@ -770,6 +804,8 @@ Vendors should ensure that:
 - Assigned readings are clearly communicated in advance of each module
 - Participants are given multiple opportunities to apply tools and concepts to the case throughout the course
 
+<br>
+
 ## Facilitating the threaded case study
 
 ### General facilitator guidance
@@ -778,17 +814,21 @@ Vendors should ensure that:
 
 The threaded case scenario is a tool for deepening understanding and sparking application across the course. Through a fictional—but realistic—procurement scenario, participants explore the complexity of digital service delivery in government and connect course concepts to their own day-to-day challenges. The case scenario helps participants:
 
-- Apply concepts in a realistic, evolving context.
-- Practice critical thinking, stakeholder engagement, and strategic decision-making.
-- Surface parallels to their own work and identify opportunities for influence and improvement.
+- Apply concepts in a realistic, evolving context
+- Practice critical thinking, stakeholder engagement, and strategic decision-making
+- Surface parallels to their own work and identify opportunities for influence and improvement
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
 _Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
 
+<br>
+
 ### Flexible format
 
 Most case activities are run in small groups with a brief whole-group share-out. Refer to the pacing guide for timing recommendations and feel free to adjust based on group size, energy, and time available. There’s plenty more room for creativity in how you run these sessions. Think of what’s provided as a springboard.
+
+<br>
 
 ### Key facilitation moves
 
@@ -819,13 +859,15 @@ Your role is to create space for rich discussion—not to lecture. Emphasize the
 **Right-size the vendor role**  
 Encourage analysis of how participants themselves can lead and influence—rather than focusing only on vendor behavior or external constraints.  
 
+<br>
+
 ---
 
 ## LMS Guidance
 
 As part of the course introduction, vendors should provide learners with a brief orientation to the Learning Management System (LMS). This orientation should be tailored to the specific LMS being used and designed to help learners feel comfortable navigating the system from the start. The goal is to set learners up for success, reduce confusion, and ensure they can focus on the course content.
 
-## Key elements to cover in your LMS orientation include
+### Key elements to cover in your LMS orientation include:
 
 **Accessing the LMS:** Provide clear instructions for logging in, setting up accounts, and accessing the course. Include relevant links and any credentials learners may need.
 
@@ -839,7 +881,7 @@ As part of the course introduction, vendors should provide learners with a brief
 
 **Technical support:** Provide information on how learners can get help if they encounter technical issues, including contact points and response expectations.
 
-## Integrating materials into your LMS
+### Integrating materials into your LMS
 
 Vendors should ensure that all course materials, modules, assessments, and other materials are properly integrated into their LMS. This includes uploading files, linking to external resources, and configuring assessments so that learner progress and completion are tracked accurately. Clear labeling, consistent module sequencing, and accessible navigation are critical to providing a seamless learner experience. Whenever possible, test the course in the LMS environment before launch to confirm that all interactive content, links, and tracking functions work as intended.
 
