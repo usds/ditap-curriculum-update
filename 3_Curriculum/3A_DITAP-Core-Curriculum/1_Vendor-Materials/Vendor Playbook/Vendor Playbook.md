@@ -111,7 +111,7 @@ To support consistency across all DITAP deliveries, the following section identi
 | Pre- and post-surveys | Optional | Vendors may administer as part of evaluation, not mandatory. |
 | Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add suplemental materials to support the learning requirements; however, no content may be removed. |
 
-
+---
 
 ## Assessment and Grading Guidance
 
@@ -123,6 +123,7 @@ Our assessment design is grounded in the The Learning-Transfer Evaluation Model 
 
 **Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
+---
 
 ### Pass/Fail structure
 
@@ -152,7 +153,7 @@ Without formal grades, students need regular feedback to ensure they're on track
 - Struggles to apply frameworks in assignments; revisions are required
 - Shows little to no progress from pre- to post-assessment
 
---
+---
 
 ## Participation assessment
 
@@ -184,8 +185,9 @@ Schedule a facilitator check-in when a participant meets either criterion:
 
 Use the rubric to guide conversations and offer concrete re-engagement strategies.
 
+---
 
-## Conceptual Fluency Assessment
+## Conceptual fluency assessment
 
 Conceptual fluency is the ability to understand, apply, and clearly communicate key DITAP tools and frameworks (Digital Services Playbook, TechFAR, human-centered design principles) in realistic work contexts.
 
@@ -198,23 +200,27 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
 
   - Multiple attempts allowed
   - After first failure, redirect to challenging sections of schedule facilitator check-in.
-  - Multiple attemps allowed.
   - After multiple failures, provide additional interventions (peer coaching, office hours, targeted practice).
- 
-#### Applied learning assignments
 
-- **Stakeholder Research Assignment**
-- **Shadowing Assignment**
-- **Live Digital Assessment (LDA)**
+<br>
 
-Stakeholder research and shadowing assignments
+### Applied learning assignments
+
+- Stakeholder Research Assignment
+- Shadowing Assignment
+- Live Digital Assessment (LDA)
+
+<br>
+
+**Stakeholder research and shadowing assignments**
 
 - Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
 - In short, both assignments have two phases:
   - Phase 1: Requires approval to proceed
   - Phase 2: Requires passing grade for completion
+
  
-Live Digital Assignment (LDA)
+**Live Digital Assignment (LDA)**
 
 - DITAP's capstone experience simulating the complete lifecycle of a digital services acquisition
 - Participants apply key DITAP concepts in real-world context through four phases:
@@ -222,18 +228,22 @@ Live Digital Assignment (LDA)
   - Case Study Development
   - Peer Evaluation
   - Final Presentations
-- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook [link to LDA playbook]
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook. [link to LDA playbook]
 
 
-#### Knowledge Checks
+### Knowledge checks
 
 Embedded throughout self-paced modules to help learners identify misconceptions early and practice key concepts. While successful completion isn't required for advancement, vendors must track participation and performance patterns to guide facilitation and support.
 
-## Contiuous Learning Points (CLPs)
+---
+
+## Continuous Learning Points (CLPs)
 
 Participants in the full 6-month DITAP program should be eligible to receive 80 CLPs upon successful completion of all program requirements.
 
 For shorter or adapted versions of the program, training providers should work with USDS to determine the appropriate CLP allocation. The total number of CLPs and the criteria for earning them should be clearly stated in the course materials provided to participants.
+
+---
 
 ## The Learning-Transfer Evaluation Model (LTEM) Alignment
 
@@ -252,6 +262,7 @@ DITAP assessments are intentionally designed using the Learning-Transfer Evaluat
 | 7. **Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | [Assessed post DITAP, Consortium to own] Alumni survey 30–60 days post-course asking for specific examples; Best practice: manager interviews to confirm observed behavior changes. |
 | 8. **Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | ((Assessed post DITAP, Consortium to own))  Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
 
+<br>
 
 ### Progressive skill building
 
@@ -266,15 +277,17 @@ This structure creates scaffolded learning:
 
 LTEM Levels 7 (Transfer) and 8 (Organizational Results) are assessed after course completion, and the DITAP consortium is actively working on measurement strategies for these levels. Level 8 represents the gold standard of organizational impact but may be challenging to achieve given agency constraints and the multiple factors beyond DITAP training that influence organizational outcomes. Successful completion of DITAP's assessment structure positions participants to achieve these higher levels after the program concludes.
 
-### Implementation requirements summary
+<br>
+
+## Implementation requirements summary
 
 Each vendor must implement an assessment plan that includes:
 1. Meaningful participation measurement using engagement rubrics with ongoing feedback opportunities
 2. Consistent conceptual fluency measurement across multiple elements:
-  - Pre-course and post-course assessment administration
-  - Embedded knowledge checks in self-paced learning
-  - Applied learning assignments (shadowing, stakeholder research)
-  - Cumulative capstone project simulating real-world digital acquisition challenges
+    - Pre-course and post-course assessment administration
+    - Embedded knowledge checks in self-paced learning
+    - Applied learning assignments (shadowing, stakeholder research)
+    - Cumulative capstone project simulating real-world digital acquisition challenges
 
 Vendors may supplement with additional assessments based on delivery format, learner preferences, or agency-specific contexts.
 
@@ -282,9 +295,10 @@ Vendors may supplement with additional assessments based on delivery format, lea
 
 ## Sample Communications
 
----
 
-### “Participation Needs Attention” Email Template
+### “Participation Needs Attention” email template
+
+<br>
 
 **Subject:** Quick check-in on participation
 
@@ -296,24 +310,15 @@ This isn't about being the most vocal person—it's about showing up in ways tha
 
 Warmly, \[Facilitator/Vendor Name\]
 
+<br>
+
 ### Sample reflective coaching prompts
 
 - What's one way you've contributed to others' learning in the course so far?
 - What connections have you been making between this session and your work?
 - What's one question or insight you want to keep exploring?
 
-### Learning-Transfer Evaluation Model (LTEM) with DITAP examples
-
-| **LTEM Level** | **Description** | **DITAP Examples** |
-| --- | --- | --- |
-| **1. Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
-| **2. Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
-| **3. Learner Perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
-| **4. Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. | Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussions.<br><br>E.g., You’re managing a software development contract with multiple vendor teams. Which agile practice will help ensure visibility into progress and performance? |
-| **5. Decision - Making** | Learners choose appropriate actions or solutions in realistic scenarios. | Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.<br><br>E.g., Scenario review: A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible. Choose the appropriate next step. |
-| **6. Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning assignments.<br><br>E.g., create a sprint backlog |
-| **7. Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | Alumni survey 30–60 days post-course asking for specific examples; manager interviews to confirm observed behavior changes. |
-| **8. Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
+<br>
 
 ---
 
