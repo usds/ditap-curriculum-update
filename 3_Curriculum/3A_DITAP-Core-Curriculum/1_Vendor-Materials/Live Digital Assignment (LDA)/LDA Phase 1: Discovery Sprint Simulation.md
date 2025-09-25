@@ -1,4 +1,4 @@
-# LDA Phase 1: Discovery Sprint Simulation (Weeks 2–6, Module 2 Sprints 1 & 4\)
+# LDA Phase 1: Discovery Sprint Simulation 
 
 ## Phase 1: Discovery sprint simulation (Weeks 2–6, Module 2 Sprints 1 & 4\)
 
