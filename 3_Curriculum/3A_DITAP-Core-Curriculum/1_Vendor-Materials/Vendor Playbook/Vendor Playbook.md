@@ -119,7 +119,7 @@ To support consistency across all DITAP deliveries, the following section identi
 
 The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-Our assessment design is grounded in the The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+Our assessment design is grounded in [The Learning-Transfer Evaluation Model](https://github.com/usds/ditap-curriculum-update/edit/thesarahbaron-patch-13/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Vendor%20Playbook/Vendor%20Playbook.md#the-learning-transfer-evaluation-model-ltem-alignment- (LTEM)), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
 **Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
@@ -245,7 +245,7 @@ For shorter or adapted versions of the program, training providers should work w
 
 ---
 
-## The Learning-Transfer Evaluation Model (LTEM) Alignment
+## The Learning-Transfer Evaluation Model (LTEM) Alignment<a id="The Learning-Transfer Evaluation Model (LTEM) Alignment"></a>
 
 DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
 
