@@ -48,7 +48,6 @@ This schedule is a suggested pacing model. Vendors have flexibility to adjust as
 | M4 | Sprint 1: Management of Digital Service Delivery |   | Virtual Classroom | Week 18 |
 | M4 | Sprint 2: Performance Measurement under Agile Delivery Contracts |  | Virtual Classroom | Week 18 |
 | M4 | Sprint 3: Contract Kickoff |  | Virtual Classroom | Week 19 |
-| M4 | Sprint 4: Contract Management and Problem Resolution |  | Virtual Classroom | Week 19 |
 | M4 | Live Digital Assignment/Case Study | LDA deliverable and threaded case study work | Virtual Classroom | Week 20 |
 
 | M# | Module Name | Module Objectives | Where | When | 
