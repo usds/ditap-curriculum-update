@@ -4,7 +4,7 @@ This playbook is here to help you deliver the refreshed Digital IT Acquisition P
 
 ## Program overview
 
-The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
+The Digital Services Credential (DITAP), formerly FAC-C-DS, program aims to train and develop professionals for this certification, focusing on digital service acquisition. It requires a comprehensive approach that includes pre- and post-course assessments, multi-modal training delivery utilizing a learning management system, and evaluation based on participation, mastery of content, and a live digital assignment. The program emphasizes a cohort-based learning approach which can be both in-person or fully remote for the majority of facilitation or the majority of content. The curriculum, structured in modules and sprints, covers competencies such as understanding digital services, effective buying techniques, contract administration, and leading change in digital IT acquisition, with the goal of providing participants with practical skill development through real-world application and problem-solving. 
 
 ## Program structure
 
@@ -104,12 +104,12 @@ To support consistency across all DITAP deliveries, the following section identi
 
 | **Program Element** | **Required / Optional** | **Notes** |
 | --- | --- | --- |
-| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed.|
+| Self-Paced Content | **Required** | All core self-paced modules must be delivered and may be adapted as long as it meets the need of the learning objectives. Vendors may add supplemental materials, including images, video or audio files, charts and resources, to support the learning requirements; however, no content may be removed. |
 | Activities (ILT or exercises) | Optional | Vendors may select or adapt activities to support facilitation style. |
 | Applied skills assignments | **Required** | Includes shadowing, stakeholder activity, and live digital assignment. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. |
 | Threaded case scenario | **Required** | Must be integrated across modules. Vendors may add supplemental materials to support the learning requirements; however, no content may be removed. The threaded case study may be replaced with an alternate case study, provided it remains structured as a threaded case study. |
 | Pre- and post-surveys | Optional | Vendors may administer as part of evaluation, not mandatory. |
-| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add suplemental materials to support the learning requirements; however, no content may be removed. |
+| Pre- and post-assessments | **Required** | A pre and post assessment must be administered. Vendors have the flexibility to adapt and adjust the choice of assessment as needed. You may add supplemental materials to support the learning requirements; however, no content may be removed. |
 
 ---
 
@@ -159,7 +159,7 @@ Without formal grades, students need regular feedback to ensure they're on track
 
 ### Participation rubric
 
-The  rubric evaluates three dimensions of engagement: 
+The rubric evaluates three dimensions of engagement: 
 
 |     | **Fully Engaged** | **Progressing** | **Needs Attention** |
 | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ The  rubric evaluates three dimensions of engagement:
 | **Emergent Thinking** | Regularly introduces new perspectives; demonstrates curiosity and depth | Sometimes surfaces thoughtful ideas | Rarely explores beyond surface-level |
 
 ## Participation assessment implementation
-_Timing: During/after interactive sessions, especially those tied to the threaded case scenario._
+_Timing: During/after interactive sessions, especially those tied to the threaded case scenario_.
 
 | **Type of Assessment** | **Description** | **Suggested Cadence** | 
 | --- | --- | --- |
@@ -256,8 +256,8 @@ DITAP assessments are intentionally designed using the Learning-Transfer Evaluat
 | 1. **Participation** | Learners are present for live sessions and complete required self-paced modules. | Zoom attendance logs; LMS completion records; average learning time. |
 | 2. **Engagement** | Learners actively engage with required learning activities and assignments. | Time spent in lessons; whether videos are watched in full vs. fast-forwarded; frequency and quality of questions asked during live sessions; self-paced knowledge check completion; assignment submission (before feedback). |
 | 3. **Learner perceptions** | Learners report the relevance, quality, and effectiveness of the course. | End-of-course survey; mid-course pulse check; reflections on perceived skill growth and confidence. |
-| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments.|
-| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices.|
+| 4. **Knowledge** | Learners recall and accurately describe key facts, terms, and frameworks tied to course outcomes. |Knowledge checks in self-paced modules; accurate use of terminology in class; conceptual fluency demonstrated during discussion and assignments. |
+| 5. **Decision-making** | Learners choose appropriate actions or solutions in realistic scenarios. |Responses in the threaded case scenario; scenario-based knowledge checks; decision-making prompts in live sessions; conceptual fluency shown when weighing trade-offs or justifying choices. |
 | 6. **Performance (in learning environment)** | Learners demonstrate skills effectively in realistic but low-risk practice settings. | Conducting stakeholder interviews; applying HCD tools in problem-framing exercises; delivering LDA case study presentations; all applied learning. |
 | 7. **Transfer (on the job)** | Learners apply new skills and approaches in their real work environment. | [Assessed post DITAP, Consortium to own] Alumni survey 30–60 days post-course asking for specific examples; Best practice: manager interviews to confirm observed behavior changes. |
 | 8. **Results** | Tangible, measurable organizational or mission-level improvements linked to the learning. | ((Assessed post DITAP, Consortium to own))  Agency reports of faster procurement cycles, cost savings, improved collaboration, or time savings tied to DITAP graduates; documented ROI of learning initiatives. |
