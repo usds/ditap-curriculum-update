@@ -214,7 +214,7 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
 
 **Stakeholder research and shadowing assignments**
 
-- Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
+- Specific instructions for what constitutes passing are provided in dedicated [playbooks](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder%20Assignment%20Playbook%202025.md#ditap-stakeholder-interview-assignment-playbook).
 - In short, both assignments have two phases:
   - Phase 1: Requires approval to proceed
   - Phase 2: Requires passing grade for completion
@@ -821,7 +821,7 @@ The threaded case scenario is a tool for deepening understanding and sparking ap
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
-_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
+_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding [facilitator guide](https://docs.google.com/document/d/1vCYu47Dgk5jHrD7I0D3vGyuCO3VNjBFvOxUpNyciiso/edit?tab=t.apa36gofaswq)._
 
 <br>
 
