@@ -1,6 +1,6 @@
 # DITAP Vendor Evaluation LDA
 
-As part of the DITAP program, participants complete a capstone project that simulates the end-to-end lifecycle of a modern digital service acquisition. Known as the Live Digital Assignment (LDA), this experience reinforces core DITAP objectives by immersing participants in real-world procurement practices.
+As part of the DITAP program, participants complete a project that simulates the end-to-end lifecycle of a modern digital service acquisition. Known as the Live Digital Assignment (LDA), this experience reinforces core DITAP objectives by immersing participants in real-world procurement practices.
 
 The LDA fosters empathy by engaging participants in vendor constraints and the storytelling skills required to craft compelling proposals. It strengthens stakeholder engagement through interviews with real agencies or companies, and sharpens communication skills through proposal writing, peer review, and formal presentations. Participants apply Agile and Human-Centered Design (HCD) principles throughout, deepening their ability to scope problems, engage vendors, and assess technical solutions.
 
@@ -21,7 +21,7 @@ Facilitators and program managers play a vital role in helping participants appl
 * Evaluating digital service proposals based on artifact-first approaches  
 * Delivering constructive feedback and collaborating cross-functionally
 
-## Capstone Timeline & Phases
+## LDA Timeline & Phases
 
 | Phase | Weeks | Focus | Deliverables | Key Learning Outcome |
 | :---- | :---- | :---- | :---- | :---- |
@@ -49,7 +49,7 @@ Objective: Introduce participants to human-centered problem scoping using the Di
 
 **Facilitator Prompt**: “You’re the Vendor—Make It to the Next Round”
 
-You’re now stepping into the shoes of a digital services company responding to a real government RFQ. This is Phase 2 of your capstone, and your goal is to submit a complete, clear, and compliant case study package that demonstrates your ability to deliver user-centered, iterative digital services.
+You’re now stepping into the shoes of a digital services company responding to a real government RFQ. This is Phase 2 of your LDA, and your goal is to submit a complete, clear, and compliant case study package that demonstrates your ability to deliver user-centered, iterative digital services.
 
 The solicitation you’re responding to uses a pass/fail evaluation for Round 1\. This means the government is not comparing you to other companies yet—they’re simply asking:  
  Did you meet the bar or not?
@@ -120,7 +120,7 @@ Objective: Participants simulate the technical evaluation process, assessing ven
 
 ### Phase 4: Final Team Reflections
 
-Objective: The goal of Phase 4 is to create space for teams to reflect on their full capstone journey, not to defend a product, but to learn from the process, each other, and the feedback loop. Teams will revisit their discovery and case study work, discuss how their submission was evaluated by peers, and explore their own role as evaluators.
+Objective: The goal of Phase 4 is to create space for teams to reflect on their full LDA journey, not to defend a product, but to learn from the process, each other, and the feedback loop. Teams will revisit their discovery and case study work, discuss how their submission was evaluated by peers, and explore their own role as evaluators.
 
 **This phase emphasizes**:
 * Synthesis of learning from the discovery sprint to case study submission  
@@ -131,11 +131,11 @@ Objective: The goal of Phase 4 is to create space for teams to reflect on their 
 
 **Instructions to Facilitators**:
 * Host 15–20 minute team presentations
-    - In this final phase, each team will give a 10–15 minute presentation, not to pitch a solution, but to reflect on what you’ve learned across the whole capstone experience.
+    - In this final phase, each team will give a 10–15 minute presentation, not to pitch a solution, but to reflect on what you’ve learned across the whole LDA experience.
     - Use this as a chance to talk honestly about challenges, growth, and surprises. 
 
 **Each team presentation should include**:
-* Capstone Highlights  
+* LDA Highlights  
   * Quick recap of your case study submission (1–2 minutes)  
   * What aspect of your work you’re most proud of  
 * Feedback Received  
@@ -150,7 +150,7 @@ Objective: The goal of Phase 4 is to create space for teams to reflect on their 
   * What made a case study stronger or harder to evaluate?  
   * What would you take into future solicitations or evaluations?  
 * Takeaways & Application  
-  * What practices from this capstone will you bring into your real-world work?  
+  * What practices from this LDA will you bring into your real-world work?  
   * How do you view digital procurement, collaboration, or discovery differently now?
 
 **Presentation Requirements**:
@@ -164,16 +164,16 @@ Objective: The goal of Phase 4 is to create space for teams to reflect on their 
 * Reflections/Assessment: 15%
 
 **Support Materials to Distribute**:
-* Capstone Orientation Slides  
+* LDA Orientation Slides  
 * Discovery Sprint Guide (USDS or summary)  
 * Interview Templates \+ Stakeholder Tips  
 * Case Study Template (aligned with SPRUCE)  
 * Artifact Writing Guide  
 * Blind Evaluation Rubric Template
 
-## Capstone Impact Summary
+## LDA Impact Summary
 
-| Area of Growth | How Capstone Delivers It |
+| Area of Growth | How LDA Delivers It |
 | :---- | :---- |
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
@@ -304,18 +304,18 @@ Each team is responsible for submitting one completed rubric and feedback memo p
 
 ## Phase 4: Final Team Reflections (Weeks 17–20, Module 5 Sprints 1 & 2\)
 
-The goal of Phase 4 is to provide a dedicated space for teams to reflect on their entire capstone journey. The emphasis is not on defending a product, but on learning from the process, from each other, and from the feedback loop. This phase highlights the synthesis of learning from the discovery sprint to case study submission, analysis of feedback received during peer evaluation, insights derived from blind rankings (including surprises and alignment), reflection on team growth and challenges, and the translation of lessons into participants' real roles and agencies. Team presentation work begins in Module 5, Sprint 1, culminating in the final team presentation and LDA Retrospective deliverable in Module 5, Sprint 2\.
+The goal of Phase 4 is to provide a dedicated space for teams to reflect on their entire LDA journey. The emphasis is not on defending a product, but on learning from the process, from each other, and from the feedback loop. This phase highlights the synthesis of learning from the discovery sprint to case study submission, analysis of feedback received during peer evaluation, insights derived from blind rankings (including surprises and alignment), reflection on team growth and challenges, and the translation of lessons into participants' real roles and agencies. Team presentation work begins in Module 5, Sprint 1, culminating in the final team presentation and LDA Retrospective deliverable in Module 5, Sprint 2\.
 
 ### Facilitator Guide:
 
 Facilitators host 15–20 minute team presentations, guiding teams to focus on reflection and learning rather than pitching a solution. Teams are encouraged to discuss honestly the challenges, growth, and surprises encountered throughout the LDA. This phase represents the crucial point where the experiential learning from the preceding three phases is consolidated and internalized. It is where the active engagement in "doing" (Phases 1 & 2\) and "evaluating" (Phase 3\) transforms into actionable understanding and application. By centering on reflection rather than defense, the program ensures participants extract maximum value from their successes and failures, fostering a growth mindset crucial for continuous professional development. This phase also implicitly validates the efficacy of the LDA's design in achieving its learning objectives, particularly vendor empathy and practical procurement skills.
 
 **Presentations must cover specific required elements**:
-* Capstone Highlights: A brief recap of their case study submission (1–2 minutes) and the aspect of their work they are most proud of.  
+* LDA Highlights: A brief recap of their case study submission (1–2 minutes) and the aspect of their work they are most proud of.  
 * Feedback Received: Discussion of what affirmed or surprised them from peer reviewers, and whether the feedback was clear, actionable, or eye-opening. Teams should also consider what they would improve if they revised their case study.  
 * Blind Rankings: Reflection on how their team’s ranking compared to expectations and whether the rank or rubric feedback highlighted anything unexpected about how their work was perceived.  
 * Evaluator Experience: Insights gained while reviewing other teams’ submissions, what made a case study stronger or harder to evaluate, and what they would incorporate into future solicitations or evaluations.  
-* Takeaways & Application: Identification of practices from the capstone that they will integrate into their real-world work, and how their view of digital procurement, collaboration, or discovery has changed.
+* Takeaways & Application: Identification of practices from the LDA that they will integrate into their real-world work, and how their view of digital procurement, collaboration, or discovery has changed.
 
 Facilitators must ensure all team members speak during the presentation to promote collective reflection and shared learning. The use of visuals is encouraged to aid communication. Facilitators should leverage this phase to foster deep discussions about the challenges of evaluation, the importance of explicit evidence, and the impact of clarity on a "pass/fail" decision. This experience directly feeds into Phase 4's reflection on "Evaluator Experience" and "Takeaways & Application," solidifying the practical lessons learned from being on both sides of the procurement table. Facilitators should view Phase 4 not merely as a presentation, but as a critical assessment point for the program itself. The quality and depth of participant reflections can provide invaluable feedback for continuous improvement of the DITAP curriculum. It also serves as the final, reinforcing loop for the program's core message: bridging the gap between government and industry in digital services procurement. The "Evaluator Experience" and "Takeaways & Application" sections are particularly important for measuring the transfer of learning to real-world roles.
 
@@ -330,11 +330,11 @@ The overall assessment of the Live Digital Assignment is broken down into four w
 * Presentation: 25%  
 * Reflections/Assessment: 15%
 
-Facilitators are responsible for applying this assessment breakdown consistently across all teams, ensuring fairness and objectivity in grading. It is important to reiterate that the "Pass/Fail" evaluation in Phase 2 for the Case Study Package serves as a critical gate; successful completion of this phase is a prerequisite for further assessment and progression through the capstone.
+Facilitators are responsible for applying this assessment breakdown consistently across all teams, ensuring fairness and objectivity in grading. It is important to reiterate that the "Pass/Fail" evaluation in Phase 2 for the Case Study Package serves as a critical gate; successful completion of this phase is a prerequisite for further assessment and progression through the LDA.
 
-## DITAP LDA Capstone Impact Summary
+## DITAP LDA Impact Summary
 
-| Area of Growth | How Capstone Delivers It |
+| Area of Growth | How LDA Delivers It |
 | :---- | :---- |
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
