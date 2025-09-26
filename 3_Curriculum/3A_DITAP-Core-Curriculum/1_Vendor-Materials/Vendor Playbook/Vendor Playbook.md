@@ -228,7 +228,7 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
   - Case Study Development
   - Peer Evaluation
   - Final Presentations
-- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook. [link to LDA playbook]
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the [LDA playbook](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Live%20Digital%20Assignment%20(LDA)/LDA%20Guidance.md). [link to LDA playbook]
 
 <br>
 
