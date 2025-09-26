@@ -119,7 +119,7 @@ To support consistency across all DITAP deliveries, the following section identi
 
 The DITAP refresh reimagines assessment strategy to reflect modern adult learning principles. Rather than checking boxes, assessments build confidence through practice, feedback, and reflection while helping learners apply course concepts to real-world work.
 
-Our assessment design is grounded in The Learning-Transfer Evaluation Model (LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
+Our assessment design is grounded in [The Learning-Transfer Evaluation Model (LTEM)](#LTEM), which moves beyond attendance and knowledge recall to measure decision-making, performance in realistic settings, and the foundation for on-the-job transfer and organizational impact.
 
 **Vendor Flexibility**: Vendors have discretion to adapt their assessment strategy to their delivery format, learner needs, and agency-specific contexts while maintaining DITAP's core learning objectives.
 
@@ -214,7 +214,7 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
 
 **Stakeholder research and shadowing assignments**
 
-- Specific instructions for what constitutes passing are provided in dedicated playbooks [link to playbooks]
+- Specific instructions for what constitutes passing are provided in dedicated [playbooks](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder%20Assignment%20Playbook%202025.md#ditap-stakeholder-interview-assignment-playbook).
 - In short, both assignments have two phases:
   - Phase 1: Requires approval to proceed
   - Phase 2: Requires passing grade for completion
@@ -228,7 +228,7 @@ Conceptual fluency is the ability to understand, apply, and clearly communicate 
   - Case Study Development
   - Peer Evaluation
   - Final Presentations
-- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the LDA playbook. [link to LDA playbook]
+- The Case Study Package is assessed as a **gated Pass/Fail**, meaning learners must pass to continue. All phases are essential for learning and completion and pass/fail criteria are provided for each phase in the [LDA playbook](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Live%20Digital%20Assignment%20(LDA)/LDA%20Guidance.md). 
 
 <br>
 
@@ -250,6 +250,7 @@ For shorter or adapted versions of the program, training providers should work w
 
 ---
 
+<a id="LTEM"></a>
 ## The Learning-Transfer Evaluation Model (LTEM) Alignment
 
 DITAP assessments are intentionally designed using the Learning-Transfer Evaluation Model (LTEM), created by Will Thalheimer. LTEM provides a framework for measuring learning effectiveness beyond attendance or satisfaction surveys, progressing from basic measures of participation and engagement (Levels 1–3) to deeper measures of knowledge, decision-making, and performance (Levels 4–6), and ultimately to transfer and organizational results (Levels 7–8).
@@ -820,7 +821,7 @@ The threaded case scenario is a tool for deepening understanding and sparking ap
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
-_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
+_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding [facilitator guide](https://docs.google.com/document/d/1vCYu47Dgk5jHrD7I0D3vGyuCO3VNjBFvOxUpNyciiso/edit?tab=t.apa36gofaswq)._
 
 <br>
 
