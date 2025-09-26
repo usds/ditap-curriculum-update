@@ -2,7 +2,7 @@
 
 ## Overview
 
-As part of the DITAP program, participants complete a capstone project that simulates the end-to-end lifecycle of a modern digital service acquisition. Known as the Live Digital Assignment (LDA), this experience reinforces core DITAP objectives by immersing participants in real-world procurement practices.
+As part of the DITAP program, participants complete an LDA project that simulates the end-to-end lifecycle of a modern digital service acquisition. Known as the Live Digital Assignment (LDA), this experience reinforces core DITAP objectives by immersing participants in real-world procurement practices.
 
 The LDA fosters empathy by engaging participants in vendor constraints and the storytelling skills required to craft compelling proposals. It strengthens stakeholder engagement through interviews with real agencies or companies, and sharpens communication skills through proposal writing, peer review, and formal presentations. Participants apply Agile and Human-Centered Design (HCD) principles throughout, deepening their ability to scope problems, engage vendors, and assess technical solutions.
 
@@ -25,7 +25,7 @@ The LDA is structured into four phases:
 - Evaluating digital service proposals based on artifact-first approaches
 - Delivering constructive feedback and collaborating cross-functionally
 
-### Capstone timeline & phases
+### LDA timeline & phases
 
 | **Phase** | **Weeks** | **Focus** | **Deliverables** | **Key Learning Outcome** |
 | --- | --- | --- | --- | --- |
@@ -34,9 +34,7 @@ The LDA is structured into four phases:
 | Phase 3 | Weeks 13–16 | Review of other teams’ case studies | Rubric + Feedback + Blind Ranking | Evaluation skills, empathy for vendors, constructive critique |
 | Phase 4 | Weeks 17–20 | Present what you learned, not what you built | Team Presentation & Reflections | Team reflection, learning insights, and future application |
 
----
-
-#### Phase 1: Discovery sprint simulation
+## Phase 1: Discovery sprint simulation
 
 **Objective:** Introduce participants to human-centered problem scoping using the Discovery Sprint model. This phase simulates how agencies and vendors define problems before writing solicitations, emphasizing stakeholder engagement, constraints, and opportunity identification. Teams must select a digital service project that enables the creation or thoughtful simulation of key artifacts used later in the LDA. Facilitators should help teams validate their selections early to ensure the project supports the full LDA lifecycle, reinforcing the continuity and real-world relevance of user-centered acquisition strategy.
 
@@ -57,7 +55,7 @@ The LDA is structured into four phases:
 
 _Facilitator Prompt: “You’re the Vendor—Make It to the Next Round”_
 
-You’re now stepping into the shoes of a digital services company responding to a real government RFQ. This is Phase 2 of your capstone, and your goal is to submit a complete, clear, and compliant case study package that demonstrates your ability to deliver user-centered, iterative digital services.
+You’re now stepping into the shoes of a digital services company responding to a real government RFQ. This is Phase 2 of your LDA, and your goal is to submit a complete, clear, and compliant case study package that demonstrates your ability to deliver user-centered, iterative digital services.
 
 The solicitation you’re responding to uses a pass/fail evaluation for Round 1. This means the government is not comparing you to other companies yet—they’re simply asking:  
 Did you meet the bar or not?
@@ -103,9 +101,7 @@ Your team’s job right now is to submit a case study that passes the bar.
 - Phase 2 is your formal response.
 - Phase 3 is where you’ll find out what it’s like to sit on the other side of the table.
 
----
-
-#### Phase 2: Case study development
+## Phase 2: Case study development
 
 **Objective:** Give participants experience responding to an Agile-focused RFQ using real-world digital service evaluation criteria. Teams simulate vendors by creating a case study package that highlights design thinking, usability testing, and implementation.
 
@@ -122,9 +118,7 @@ Your team’s job right now is to submit a case study that passes the bar.
 
 - Submit all four artifacts as a complete Case Study Package
 
----
-
-#### Phase 3: Peer evaluation & feedback
+## Phase 3: Peer evaluation & feedback
 
 **Objective:** Participants simulate the technical evaluation process, assessing vendor submissions using a structured rubric. This reinforces understanding of evaluation criteria, fairness in scoring, and the value of artifact-based reviews. Emphasize that this is a simulation of a government evaluation team using real-world procurement techniques such as artifact-first down selection and blind review.
 
@@ -140,11 +134,9 @@ Your team’s job right now is to submit a case study that passes the bar.
 - 1 completed rubric + feedback memo per case reviewed
 - Participate in feedback exchange
 
----
+## Phase 4: Final team reflections
 
-#### Phase 4: Final team reflections
-
-**Objective:** The goal of Phase 4 is to create space for teams to reflect on their full capstone journey, not to defend a product, but to learn from the process, each other, and the feedback loop. Teams will revisit their discovery and case study work, discuss how their submission was evaluated by peers, and explore their own role as evaluators.
+**Objective:** The goal of Phase 4 is to create space for teams to reflect on their full LDA journey, not to defend a product, but to learn from the process, each other, and the feedback loop. Teams will revisit their discovery and case study work, discuss how their submission was evaluated by peers, and explore their own role as evaluators.
 
 This phase emphasizes:
 
@@ -157,12 +149,12 @@ This phase emphasizes:
 **Instructions to facilitators:**
 
 - Host 15–20 minute team presentations.
-- In this final phase, each team will give a 10–15 minute presentation, not to pitch a solution, but to reflect on what you’ve learned across the whole capstone experience.
+- In this final phase, each team will give a 10–15 minute presentation, not to pitch a solution, but to reflect on what you’ve learned across the whole LDA experience.
 - Use this as a chance to talk honestly about challenges, growth, and surprises.
 
 Each team presentation should include:
 
-- Capstone Highlights
+- LDA Highlights
   - Quick recap of your case study submission (1–2 minutes).
   - The aspect of your work you’re most proud of.
 - Feedback Received
@@ -177,7 +169,7 @@ Each team presentation should include:
   - What made a case study stronger or harder to evaluate?
   - What would you take into future solicitations or evaluations?
 - Takeaways & Application
-  - What practices from this capstone will you bring into your real-world work?
+  - What practices from this LDA will you bring into your real-world work?
   - How do you view digital procurement, collaboration, or discovery differently now?
 
 **Presentation requirements:**
@@ -194,18 +186,16 @@ Each team presentation should include:
 
 **Support materials to distribute:**
 
-- Capstone Orientation Slides
+- LDA Orientation Slides
 - Discovery Sprint Guide (USDS or summary)
 - Interview Templates + Stakeholder Tips
 - Case Study Template (aligned with SPRUCE)
 - Artifact Writing Guide
 - Blind Evaluation Rubric Template
 
----
+### LDA Impact Summary
 
-#### Capstone Impact Summary
-
-| **Area of Growth** | **How Capstone Delivers It** |
+| **Area of Growth** | **How LDA Delivers It** |
 | --- | --- |
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
@@ -215,7 +205,7 @@ Each team presentation should include:
 | Readiness | Mirrors real government procurement cycles |
 
 
-#### VA Spruce case study #1: Actual text
+### VA Spruce case study #1: Actual text
 
 Technical Factor 1 – Case Study #1. Offerors must submit the items (a) -- (d) listed below. The Government will use these items to evaluate the Offeror’s conformance with the minimum requirements for Technical Factor 1. Items a–d must be from the same project, which shall be described in the Case Study (Item d).
 
@@ -257,9 +247,6 @@ Each team is required to submit a 3-page Discovery Summary. This document must i
 | Encourage Outreach | "Have teams identified key stakeholders for interviews, and are their insights relevant to a digital service problem?"<br><br>Provide templates and best practices for professional engagement. |
 | Facilitate Interviews | Guide teams on conducting effective interviews and provide simulated scenarios as needed. |
 | Review Discovery Summary | "Is the Discovery Summary clearly articulating a problem that a digital service solution could address?"<br><br>Assess clarity, completeness, and alignment with HCD principles. |
-
----
-
 
 ### Phase 2: Case study development (Weeks 7–12, Module 3 Sprints 1 & 3)
 
@@ -303,8 +290,6 @@ Teams must submit a complete Case Study Package comprising all four artifacts. T
   - **Fail**: If any responses are not confirmed to conform with each of the conditions above.  
         Documentation supports evaluation decisions.
 
----
-
 ### Phase 3: Peer evaluation & feedback (Weeks 13–16, Module 4 Sprints 1 & 4)
 
 The objective of Phase 3 is for participants to simulate the technical evaluation process, assessing vendor submissions using a structured rubric. This reinforces their understanding of evaluation criteria, promotes fairness in scoring, and highlights the value of artifact-based reviews. Key learning outcomes for this phase include developing evaluation skills, fostering empathy for vendors, and practicing constructive critique. Teams commence reviewing anonymized packages in Module 4, Sprint 1, with deliverables including a completed rubric, evaluation memo, final ranked score, and feedback provided in Module 4, Sprint 4.
@@ -344,11 +329,10 @@ Each team is responsible for submitting one completed rubric and feedback memo p
 | Artifact 4: Case Study Narrative (2-page) | A 2-page narrative describing the project context for Artifacts 1, 2, and 3. Must include a clear explanation of the design process demonstrating the Design File was used for Usability Research, and that resulting insights were the basis for modification or addition of a design element released to production. | Narrative is 2 pages AND clearly describes the project context for all three artifacts AND explicitly explains the design process, demonstrating the Design File's use in usability research, and how insights led to the implemented change in production. | Narrative exceeds 2 pages, OR fails to describe project context for all artifacts, OR does not clearly explain the design process, OR fails to demonstrate the link between Design File, Usability Research, insights, and implemented change, OR it is missing. |
 | Overall Submission | The complete Case Study Package must conform to all specified conditions for each artifact. No assumptions of conformance will be made. | All four artifacts (Design File, Usability Research Report, Screenshot, and 2-page Narrative Case Study) are submitted and each individually meets all "Pass Criteria" as outlined above. | Any single artifact fails to meet its "Pass Criteria," OR any required component is missing, OR the submission requires assumptions to confirm conformance. |
 
----
 
 ### Phase 4: Final team reflections (Weeks 17–20, Module 5 Sprints 1 & 2)
 
-The goal of Phase 4 is to provide a dedicated space for teams to reflect on their entire capstone journey. The emphasis is not on defending a product, but on learning from the process, from each other, and from the feedback loop. This phase highlights the synthesis of learning from the discovery sprint to case study submission, analysis of feedback received during peer evaluation, insights derived from blind rankings (including surprises and alignment), reflection on team growth and challenges, and the translation of lessons into participants' real roles and agencies. Team presentation work begins in Module 5, Sprint 1, culminating in the final team presentation and LDA Retrospective deliverable in Module 5, Sprint 2.
+The goal of Phase 4 is to provide a dedicated space for teams to reflect on their entire LDA journey. The emphasis is not on defending a product, but on learning from the process, from each other, and from the feedback loop. This phase highlights the synthesis of learning from the discovery sprint to case study submission, analysis of feedback received during peer evaluation, insights derived from blind rankings (including surprises and alignment), reflection on team growth and challenges, and the translation of lessons into participants' real roles and agencies. Team presentation work begins in Module 5, Sprint 1, culminating in the final team presentation and LDA Retrospective deliverable in Module 5, Sprint 2.
 
 **Facilitator guide:**
 
@@ -356,19 +340,17 @@ Facilitators host 15–20 minute team presentations, guiding teams to focus on r
 
 Presentations must cover specific required elements:
 
-- Capstone Highlights: A brief recap of their case study submission (1–2 minutes) and the aspect of their work they are most proud of.
+- LDA Highlights: A brief recap of their case study submission (1–2 minutes) and the aspect of their work they are most proud of.
 - Feedback Received: Discussion of what affirmed or surprised them from peer reviewers, and whether the feedback was clear, actionable, or eye-opening. Teams should also consider what they would improve if they revised their case study.
 - Blind Rankings: Reflection on how their team’s ranking compared to expectations and whether the rank or rubric feedback highlighted anything unexpected about how their work was perceived.
 - Evaluator Experience: Insights gained while reviewing other teams’ submissions, what made a case study stronger or harder to evaluate, and what they would incorporate into future solicitations or evaluations.
-- Takeaways & Application: Identification of practices from the capstone that they will integrate into their real-world work, and how their view of digital procurement, collaboration, or discovery has changed.
+- Takeaways & Application: Identification of practices from the LDA that they will integrate into their real-world work, and how their view of digital procurement, collaboration, or discovery has changed.
 
 Facilitators must ensure all team members speak during the presentation to promote collective reflection and shared learning. The use of visuals is encouraged to aid communication. Facilitators should leverage this phase to foster deep discussions about the challenges of evaluation, the importance of explicit evidence, and the impact of clarity on a "pass/fail" decision. This experience directly feeds into Phase 4's reflection on "Evaluator Experience" and "Takeaways & Application," solidifying the practical lessons learned from being on both sides of the procurement table. Facilitators should view Phase 4 not merely as a presentation, but as a critical assessment point for the program itself. The quality and depth of participant reflections can provide invaluable feedback for continuous improvement of the DITAP curriculum. It also serves as the final, reinforcing loop for the program's core message: bridging the gap between government and industry in digital services procurement. The "Evaluator Experience" and "Takeaways & Application" sections are particularly important for measuring the transfer of learning to real-world roles.
 
 **Team deliverables:**
 
 The primary deliverable for this phase is the Final Team Presentation and an LDA Retrospective.
-
----
 
 ## Assessment and evaluation framework
 
@@ -379,11 +361,11 @@ The overall assessment of the Live Digital Assignment is broken down into four w
 - Presentation: 25%
 - Reflections/Assessment: 15%
 
-Facilitators are responsible for applying this assessment breakdown consistently across all teams, ensuring fairness and objectivity in grading. It is important to reiterate that the "Pass/Fail" evaluation in Phase 2 for the Case Study Package serves as a critical gate; successful completion of this phase is a prerequisite for further assessment and progression through the capstone.
+Facilitators are responsible for applying this assessment breakdown consistently across all teams, ensuring fairness and objectivity in grading. It is important to reiterate that the "Pass/Fail" evaluation in Phase 2 for the Case Study Package serves as a critical gate; successful completion of this phase is a prerequisite for further assessment and progression through the LDA.
 
-### DITAP LDA capstone impact summary
+### DITAP LDA impact summary
 
-| **Area of Growth** | **How Capstone Delivers It** |
+| **Area of Growth** | **How LDA Delivers It** |
 | --- | --- |
 | Empathy | Simulates vendor constraints & storytelling |
 | Stakeholder Engagement | Research & interviews with real companies |
