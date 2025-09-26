@@ -1,5 +1,5 @@
 # Case Study Facilitator Guide
-
+The DITAP program uses a threaded case scenario rather than multiple standalone cases so that participants work with a consistent set of characters, challenges, and organizational dynamics throughout the course. This continuity allows learners to go increasingly deep over time, building familiarity with the scenario while applying new frameworks in progressively complex ways. The recommended case, Navigating Stakeholder and Decision-Making Challenges (Cynuria), includes a set of milestones that are required for all vendors to deliver. These milestones ensure a common baseline of learning outcomes across cohorts. Additional case-based activities have been provided as supplementary options—vendors may adapt, expand, or supplement these activities to fit their delivery style and participant needs. If vendors wish to introduce an alternate case scenario, they may do so, but they are still expected to integrate the Cynuria milestones, either at the designated points in the pacing guide or later in the course.
 
 ## Pacing Chart  
 
@@ -16,8 +16,12 @@
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 and 5 |
 | **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
 
+</br>
+
 [Navigating Stakeholder and Decision-Making Challenges\_DITAP Case Study](https://github.com/usds/ditap-curriculum-update/blob/949e678c03e8e77d0c46505ad6bb013bf17dff90/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md)
-  
+
+</br>
+
 ## M1S1 Case study facilitator guide 
 - **Session Title: Introducing Casey and the CRM Project**  
 - **Date:** \[Insert Date\]  
