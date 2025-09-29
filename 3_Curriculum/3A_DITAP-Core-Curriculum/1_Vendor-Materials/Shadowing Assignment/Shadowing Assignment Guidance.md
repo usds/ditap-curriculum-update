@@ -15,7 +15,7 @@ Example shadowing opportunities include:
 - Attending backlog grooming and sprint planning sessions with a team at an agency
 - Attending a private sector company’s sprint planning session. The goal is to expose learners to modern practices such as Agile workflows, user-centered design, and cross-functional collaboration in real-world settings.
 
-[See the full list of past placements](#placements).
+[See the full list of past placements](#Shadowing-assignment-placements).
 
 ### Recommended timeline & key milestones
 
@@ -88,7 +88,7 @@ Vendors should coordinate with their internal teams to ensure alignment on:
 
 Thank you for ensuring a high-quality shadowing experience for all DITAP participants.
 
-### Shadowing assignment placements {#placements}
+### Shadowing assignment placements
 
 Past program participants have shadowed the following teams and events:
 
