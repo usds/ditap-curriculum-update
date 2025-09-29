@@ -13,7 +13,9 @@ Example shadowing opportunities include:
 
 - A team performing customer experience work at GSA’s Customer Experience Center of Excellence
 - Attending backlog grooming and sprint planning sessions with a team at an agency
-- Attending a private sector company’s sprint planning session The goal is to expose learners to modern practices such as agile workflows, user-centered design, and cross-functional collaboration in real-world settings.
+- Attending a private sector company’s sprint planning session. The goal is to expose learners to modern practices such as Agile workflows, user-centered design, and cross-functional collaboration in real-world settings.
+
+[See the full list of past placements](#placements).
 
 ### Recommended timeline & key milestones
 
@@ -29,7 +31,7 @@ Vendor organizations are responsible for ensuring their facilitators:
 - Introduce the assignment clearly and on time
 - Provide coaching on identifying appropriate teams to shadow
 - Review and approve participant submissions using consistent criteria
-- Offer support when participants encounter barriers to access. Normalize participant discomfort with outreach,
+- Offer support when participants encounter barriers to access. Normalize participant discomfort with outreach
 - Offer a short in-class peer activity to brainstorm potential shadowing options
 - Review and approve the final reflection deliverable
 - Encourage post-experience in-class storytelling to reinforce learning
@@ -48,7 +50,7 @@ Shadowing opportunity approval:
 - The proposal includes clear timing and description
 - The experience totals a minimum of four hours
 
-Final submission approval:
+Final submission acceptance criteria:
 
 - Summary is 2–3 pages and addresses core reflection questions
 - Participant demonstrates understanding of digital practices observed
@@ -56,16 +58,16 @@ Final submission approval:
 
 ### Sample language for facilitators
 
-**Approval (shadowing proposal):**  
+**Proposal is Approved [pass]:**  
 "Your shadowing opportunity has been approved. Looking forward to your reflections after the experience."
 
-**Needs clarification (proposal):**  
+**Proposal Needs Clarification:**  
 "Can you clarify how this team relates to digital service delivery and confirm your proposed shadowing dates?"
 
-**Approval (final submission):**  
+**Final Submission Accepted [pass]:**  
 "Your shadowing reflection has been received and approved. Well done."
 
-**Revision needed (final submission):**  
+**Final Submission Revision Needed:**  
 "Thanks for submitting your reflection. Please expand on what you observed about team roles, challenges, or tools used during the experience."
 
 ### Escalation guidance
@@ -86,7 +88,7 @@ Vendors should coordinate with their internal teams to ensure alignment on:
 
 Thank you for ensuring a high-quality shadowing experience for all DITAP participants.
 
-### Shadowing assignment placements
+### Shadowing assignment placements {#placements}
 
 Past program participants have shadowed the following teams and events:
 
