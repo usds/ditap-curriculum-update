@@ -88,7 +88,7 @@ Vendors should coordinate with their internal teams to ensure alignment on:
 
 Thank you for ensuring a high-quality shadowing experience for all DITAP participants.
 
-### Shadowing assignment placements {#placements}
+### Shadowing assignment placements{#placements}
 
 Past program participants have shadowed the following teams and events:
 
