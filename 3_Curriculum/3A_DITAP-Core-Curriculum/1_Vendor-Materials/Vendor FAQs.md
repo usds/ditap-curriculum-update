@@ -34,3 +34,18 @@ Q. Should curriculum materials be publicly available if vendor eligibility is li
 Q. Could students access assessments or answers through GitHub, compromising instructional integrity?  
 >A. DITAP assessments are experiential in nature, focusing on applied learning, case-based assignments, and real-world decision-making rather than rote memorization; the risk of compromising instructional integrity is lower than in traditional assessment models. Knowledge checks and capstone assignments are designed to reinforce practice and application, not to be memorized. Still, vendors should protect assessment materials where possible to preserve fairness and instructional value.
 
+---
+
+Q. Some vendors have experienced difficulties with the SCORM files in Canvas and Moodle, for example, the content looked "broken" when uploaded. They also found places where they are not passing accessibility tests; the tab order did not perform properly when tested. 
+>A. We understand how important it is that the SCORM exports function across different LMSs while also meeting accessibility requirements.
+<
+>Here is what our team recommends as next steps.
+>
+> * **Engage LiaScript developers**: Since the accessibility issue appears to be rooted in LiaScript itself (rather than Canvas or the SCORM package), the most direct path may be to raise this with the LiaScript developers. You can open a support issue at this link with LiaScript. We have reached out proactively to our LiaScript contact to let them know this request is likely incoming from you. In our experience, they have been extremely responsive.
+>
+> * **Accessibility review**: We recommend involving a 508/accessibility expert to validate the behavior and confirm whether there are interim workarounds or if this presents a hard stop. 
+>
+> * **Canvas technical support**: Canvas does advertise compatibility with both SCORM 1.2 and 2004 exports. We recommend checking with their support team to see if there are recommended configurations or settings that could address the navigation and screen reader issue. 
+>
+> * **Alternative approach**: If SCORM remains problematic, another option would be to bypass the SCORM export altogether and rebuild the content directly in Canvas using the markdown files. This would allow for more direct control over accessibility and alignment with your LMS environment.
+> * **Tip**: Using H5P plugins may hinder the functionality in Moodle and other LMSs. 
