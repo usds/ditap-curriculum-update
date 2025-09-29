@@ -28,7 +28,7 @@ Stakeholders that DITAP participants identify to interview should meet the follo
 
 **Suggested project timeline:**
 
-- Module 2, Sprint 2: Introduce the assignment.
+- Module 2, Sprint 2: Introduce [the assignment](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo).
 - By the end of Module 2: Participants submit 2–4 proposed stakeholders for facilitator review via Learning Portal.
 - Module 3: Check in on progress, troubleshoot challenges.
 - By penultimate class: Participants conduct and submit two completed interviews (including summaries and reflections) via Learning Portal.
@@ -51,13 +51,13 @@ Facilitators are responsible for:
 Introduce this assignment live during Module 2, Sprint 2.
 
 - Set context: why stakeholder engagement matters in digital service delivery.
-- Review the assignment instructions and FAQs.
-- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in Navigating the Stakeholder Landscape Cont’d, Module 2, Sprint 2).
-- Preview the interview guide.
+- [Review the assignment instructions](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo) and [FAQs](https://docs.google.com/document/d/1f4UqERYM7KTXvPC8hkfc6fpnlNMxiFDL7KLCOA5QpTk/edit?tab=t.cd4p9ofyhxhg).
+- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in [Navigating the Stakeholder Landscape Cont’d](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.a9i0ajj5c4hv#heading=h.dsa8ddc9x5dq), Module 2, Sprint 2).
+- Preview the [interview guide](https://docs.google.com/document/d/1EeM-nUBObeCAHfccZFf7mHQygP1tiMbe/edit).
 - Normalize the discomfort: acknowledge that reaching out to senior or unfamiliar stakeholders may feel daunting.
 - To help participants build confidence before reaching out to actual stakeholders, consider adding time for peer-to-peer practice interviews in class.  
 
-### Evaluation process
+### Approval & evaluation process
 
 1. Reviewers will locate the submitted assignments in the designated platform (LMS, email inbox, shared folder, etc.) and evaluate the assignments using the criteria below.
 2. Reviewers approve the assignment or return it for revision, with constructive and specific feedback.
