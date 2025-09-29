@@ -38,8 +38,8 @@ Q. Could students access assessments or answers through GitHub, compromising ins
 
 Q. Some vendors have experienced difficulties with the SCORM files in Canvas and Moodle, for example, the content looked "broken" when uploaded. They also found places where they are not passing accessibility tests; the tab order did not perform properly when tested. 
 >A. We understand how important it is that the SCORM exports function across different LMSs while also meeting accessibility requirements.
-<
->Here is what our team recommends as next steps.
+>
+> Here is what our team recommends as next steps.
 >
 > * **Engage LiaScript developers**: Since the accessibility issue appears to be rooted in LiaScript itself (rather than Canvas or the SCORM package), the most direct path may be to raise this with the LiaScript developers. You can open a support issue at this link with LiaScript. We have reached out proactively to our LiaScript contact to let them know this request is likely incoming from you. In our experience, they have been extremely responsive.
 >
