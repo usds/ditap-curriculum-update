@@ -192,3 +192,49 @@ jobs:
         **Format:** SCORM 1.2  
         **Generated:** ${{ github.event.release.created_at }}
         EOF
+
+  upload-to-release:
+    if: github.event_name == 'release'
+    needs: export-scorm
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        package: [
+          "Module0_Pre-Assessment",
+          "Module0_Orientation", 
+          "Module1_Sprint1",
+          "Module1_Sprint2",
+          "Module1_Sprint3",
+          "Module2_Sprint1",
+          "Module2_Sprint2", 
+          "Module2_Sprint3",
+          "Module2_Sprint4",
+          "Module3_Sprint1",
+          "Module3_Sprint2",
+          "Module3_Sprint3", 
+          "Module4_Sprint1",
+          "Module4_Sprint2",
+          "Module4_Sprint3",
+          "Module4_Sprint4",
+          "Module5_Sprint1",
+          "Module5_Sprint2",
+          "Module5_Sprint2_Post-Assessment"
+        ]
+    
+    steps:
+    - name: Download SCORM artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: ${{ github.event.release.tag_name }}-${{ matrix.package }}
+        path: ./downloads/
+    
+    - name: Upload to release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ./downloads/${{ matrix.package }}.zip
+        asset_name: ${{ matrix.package }}.zip
+        asset_content_type: application/zip
