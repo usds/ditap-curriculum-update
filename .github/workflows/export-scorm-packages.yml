@@ -80,6 +80,7 @@ jobs:
         format: scorm1.2
         output-name: "${{ matrix.module.package }}"
         scorm-organization: "USDS Digital IT Acquisition Professional Training Program (DITAP)"
+        scorm-embed: true
 
     - name: Upload SCORM package
       uses: actions/upload-artifact@v4
