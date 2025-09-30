@@ -9,54 +9,53 @@ on:
     types: [ published ]
 
 # Define the matrix once using a YAML anchor (&)
-x-ditap-scorm-matrix: &module_matrix
-  module:
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/1_Program Pre-Assessment.md"
-      package: "Module0_Pre-Assessment"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/2_Orientation.md"
-      package: "Module0_Orientation"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-1/Self-Paced Materials/1_The Digital Services Landscape.md"
-      package: "Module1_Sprint1"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-2/Self-Paced Materials/1_Digital Service Methods, Roles, and Sources of Supply.md"
-      package: "Module1_Sprint2"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-3/Self-Paced Materials/1_Digital Service Tech Bootcamp.md"
-      package: "Module1_Sprint3"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-1/Self-Paced Materials/1_Assessing Agency Readiness.md"
-      package: "Module2_Sprint1"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/Self-Paced Materials/1_Stakeholder and Customer Mapping.md"
-      package: "Module2_Sprint2"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-3/Self-Paced Materials/1_Defining Success for your Digital Services Acquisition.md"
-      package: "Module2_Sprint3"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-4/Self-Paced Materials/1_Conducting Effective Market Research.md"
-      package: "Module2_Sprint4"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-1/Self-Paced Materials/1_Developing a Successful Acquisition Strategy.md"
-      package: "Module3_Sprint1"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-2/Self-Paced Materials/1_Developing the Solicitation.md"
-      package: "Module3_Sprint2"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/Self-Paced Materials/1_Running a Successful Evaluation.md"
-      package: "Module3_Sprint3"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-1/Self-Paced Materials/1_Management of Digital Service Delivery.md"
-      package: "Module4_Sprint1"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-2/Self-paced/1_Performance Measurement Under Agile Delivery Contracts.md"
-      package: "Module4_Sprint2"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-3/Self-Paced Materials/1_Contract Kickoff.md"
-      package: "Module4_Sprint3"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-4/Self-paced/1_Contract Management and Problem Resolution.md"
-      package: "Module4_Sprint4"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-1/Self-paced/1_Leading Change as an Individual.md"
-      package: "Module5_Sprint1"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/1_Leading Organizational Change.md"
-      package: "Module5_Sprint2"
-    - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/2_Post-Program Assessment.md"
-      package: "Module5_Sprint2_Post-Assessment"
-
 jobs:
   export-scorm:
     runs-on: ubuntu-latest
     continue-on-error: false
     strategy:
       fail-fast: false
-      matrix: *module_matrix # Use the alias (*) to reference the matrix
+      matrix: &module_matrix
+        module:
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/1_Program Pre-Assessment.md"
+            package: "Module0_Pre-Assessment"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/2_Orientation.md"
+            package: "Module0_Orientation"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-1/Self-Paced Materials/1_The Digital Services Landscape.md"
+            package: "Module1_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-2/Self-Paced Materials/1_Digital Service Methods, Roles, and Sources of Supply.md"
+            package: "Module1_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-3/Self-Paced Materials/1_Digital Service Tech Bootcamp.md"
+            package: "Module1_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-1/Self-Paced Materials/1_Assessing Agency Readiness.md"
+            package: "Module2_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/Self-Paced Materials/1_Stakeholder and Customer Mapping.md"
+            package: "Module2_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-3/Self-Paced Materials/1_Defining Success for your Digital Services Acquisition.md"
+            package: "Module2_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-4/Self-Paced Materials/1_Conducting Effective Market Research.md"
+            package: "Module2_Sprint4"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-1/Self-Paced Materials/1_Developing a Successful Acquisition Strategy.md"
+            package: "Module3_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-2/Self-Paced Materials/1_Developing the Solicitation.md"
+            package: "Module3_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/Self-Paced Materials/1_Running a Successful Evaluation.md"
+            package: "Module3_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-1/Self-Paced Materials/1_Management of Digital Service Delivery.md"
+            package: "Module4_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-2/Self-paced/1_Performance Measurement Under Agile Delivery Contracts.md"
+            package: "Module4_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-3/Self-Paced Materials/1_Contract Kickoff.md"
+            package: "Module4_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-4/Self-paced/1_Contract Management and Problem Resolution.md"
+            package: "Module4_Sprint4"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-1/Self-paced/1_Leading Change as an Individual.md"
+            package: "Module5_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/1_Leading Organizational Change.md"
+            package: "Module5_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/2_Post-Program Assessment.md"
+            package: "Module5_Sprint2_Post-Assessment"
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
