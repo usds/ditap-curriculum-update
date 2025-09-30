@@ -28,7 +28,7 @@ Stakeholders that DITAP participants identify to interview should meet the follo
 
 **Suggested project timeline:**
 
-- Module 2, Sprint 2: Introduce [the assignment](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo).
+- Module 2, Sprint 2: Introduce [the assignment](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/In-Class%20Materials/3_Activity%3A%20Stakeholder%20Selection%20and%20Interview%20Assignment.md).
 - By the end of Module 2: Participants submit 2–4 proposed stakeholders for facilitator review via Learning Portal.
 - Module 3: Check in on progress, troubleshoot challenges.
 - By penultimate class: Participants conduct and submit two completed interviews (including summaries and reflections) via Learning Portal.
@@ -51,9 +51,9 @@ Facilitators are responsible for:
 Introduce this assignment live during Module 2, Sprint 2.
 
 - Set context: why stakeholder engagement matters in digital service delivery.
-- [Review the assignment instructions](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.4rdsnwj8jmvo) and [FAQs](https://docs.google.com/document/d/1f4UqERYM7KTXvPC8hkfc6fpnlNMxiFDL7KLCOA5QpTk/edit?tab=t.cd4p9ofyhxhg).
+- [Review the assignment instructions](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/In-Class%20Materials/3_Activity%3A%20Stakeholder%20Selection%20and%20Interview%20Assignment.md) and [FAQs](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder%20Assignment%20FAQs.md).
 - Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in [Navigating the Stakeholder Landscape Cont’d](https://docs.google.com/document/d/1T5Ukd_61KKbiNkUpYh0ezQMlPPPxg0H7s91QjyJGCxA/edit?tab=t.a9i0ajj5c4hv#heading=h.dsa8ddc9x5dq), Module 2, Sprint 2).
-- Preview the [interview guide](https://docs.google.com/document/d/1EeM-nUBObeCAHfccZFf7mHQygP1tiMbe/edit).
+- Preview the [interview guide](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder_Interview_Guide_Template.md).
 - Normalize the discomfort: acknowledge that reaching out to senior or unfamiliar stakeholders may feel daunting.
 - To help participants build confidence before reaching out to actual stakeholders, consider adding time for peer-to-peer practice interviews in class.  
 
@@ -76,8 +76,8 @@ Introduce this assignment live during Module 2, Sprint 2.
 
 When reviewing stakeholder selections, facilitators are encouraged to verify that proposed stakeholders meet the criteria and are likely to provide a meaningful learning experience. This may include:
 
-- Verifying the stakeholder’s position via [GovTribe](https://govtribe.com) or agency websites
-- Reviewing the stakeholder’s public-facing career information (e.g., [LinkedIn](https://www.linkedin.com)) to understand their expertise and sphere of influence
+- Verifying the stakeholder’s position via GovTribe or agency websites
+- Reviewing the stakeholder’s public-facing career information (e.g., LinkedIn) to understand their expertise and sphere of influence
 - Reviewing participant-submitted interview questions to ensure they are likely to spark thoughtful, strategic discussion
 
 **Sample responses:**
