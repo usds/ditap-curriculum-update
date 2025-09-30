@@ -32,6 +32,8 @@ As a function that, in part, is responsible for reducing the risks of legal, reg
 Acquisition strategies you may want to pursue in digital services may attract greater scrutiny merely because they are not standard practices in the agency, even though they are legal and adhere to acquisition regulations and agency procurement policy. 
 To get your stakeholders comfortable with your approaches, you should anticipate a high level of interaction between agency team members, contractors, and other stakeholders. But how do you identify who you should talk to? And, once you have identified them, how and when do you engage with them?
 
+## Navigating the Stakeholder Landscape Cont'd
+
 ### So, is this really that different from how you’ve engaged stakeholders before?
 
 In some ways, no. You’ll likely see many of the same roles, program owners, legal, contracting, and policy. But digital services work demands a more intentional and flexible approach to stakeholder engagement.
