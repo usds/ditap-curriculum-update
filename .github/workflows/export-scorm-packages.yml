@@ -8,14 +8,13 @@ on:
   release:
     types: [ published ]
 
-# Define the matrix once using a YAML anchor (&)
 jobs:
   export-scorm:
     runs-on: ubuntu-latest
     continue-on-error: false
     strategy:
       fail-fast: false
-      matrix: &module_matrix
+      matrix: &module_format_matrix
         module:
           - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/1_Program Pre-Assessment.md"
             package: "Module0_Pre-Assessment"
@@ -55,6 +54,11 @@ jobs:
             package: "Module5_Sprint2"
           - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/2_Post-Program Assessment.md"
             package: "Module5_Sprint2_Post-Assessment"
+        format:
+          - id: "scorm1.2"
+            suffix: "_SCORM1.2"
+          - id: "scorm2004"
+            suffix: "_SCORM2004"
 
     steps:
     - name: Checkout repository
@@ -64,23 +68,24 @@ jobs:
       id: artifact-name
       run: |
         if [ "${{ github.event_name }}" = "pull_request" ]; then
-          echo "name=PR${{ github.event.number }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+          echo "name=PR${{ github.event.number }}-${{ matrix.module.package }}${{ matrix.format.suffix }}" >> $GITHUB_OUTPUT
         elif [ "${{ github.event_name }}" = "release" ]; then
-          echo "name=${{ github.event.release.tag_name }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+          echo "name=${{ github.event.release.tag_name }}-${{ matrix.module.package }}${{ matrix.format.suffix }}" >> $GITHUB_OUTPUT
         else
-          echo "name=${{ github.ref_name }}-${{ github.sha }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+          echo "name=${{ github.ref_name }}-${{ github.sha }}-${{ matrix.module.package }}${{ matrix.format.suffix }}" >> $GITHUB_OUTPUT
         fi
 
-    - name: Export ${{ matrix.module.package }} to SCORM 1.2
+    - name: Export ${{ matrix.module.package }} to ${{ matrix.format.id }}
       id: export
-      # TODO: Switch this to use the official LiaScript action once https://github.com/LiaScript/LiaScript-Exporter/pull/57 is merged and tagged
-      uses: grugnog/LiaScript-Exporter@github-actions
+      # TODO: Switch this to a stable tag, once available upstream.
+      uses: LiaScript/LiaScript-Exporter@master
       with:
         input-file: "${{ matrix.module.path }}"
-        format: scorm1.2
-        output-name: "${{ matrix.module.package }}"
+        format: ${{ matrix.format.id }}
+        output-name: "${{ matrix.module.package }}${{ matrix.format.suffix }}"
         scorm-organization: "USDS Digital IT Acquisition Professional Training Program (DITAP)"
         scorm-embed: true
+        scorm-iframe: true
 
     - name: Upload SCORM package
       uses: actions/upload-artifact@v4
@@ -131,18 +136,17 @@ jobs:
             body: newBody
           });
 
-
   upload-to-release:
     if: github.event_name == 'release'
     needs: export-scorm
     runs-on: ubuntu-latest
     strategy:
-      matrix: *module_matrix # Reuse the same matrix alias here
+      matrix: *module_format_matrix # Reuse the same matrix alias here
     steps:
     - name: Download SCORM artifact
       uses: actions/download-artifact@v4
       with:
-        name: ${{ github.event.release.tag_name }}-${{ matrix.module.package }}
+        name: ${{ github.event.release.tag_name }}-${{ matrix.module.package }}${{ matrix.format.suffix }}
         path: ./downloads/
 
     - name: Upload to release
@@ -151,6 +155,6 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ github.event.release.upload_url }}
-        asset_path: ./downloads/${{ matrix.module.package }}.zip
-        asset_name: ${{ matrix.module.package }}.zip
+        asset_path: ./downloads/${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
+        asset_name: ${{ matrix.module.package }}${{ matrix.format.suffix }}.zip
         asset_content_type: application/zip
