@@ -8,7 +8,7 @@
 - **Scenario 3:** Contract administration & performance – 2 questions + 1 optional  
 - **Scenario 4:** Leading change & continuous improvement – 2 questions + 1 optional  
 
-**Estimated time:** 20 to 25 minutes  
+**Estimated time:** 20 to 25 minutes  <br>
 **Recommended # of questions:** 6 to 8 
 
 ---
@@ -81,7 +81,7 @@ Your agency needs a new online portal that will serve a dynamic user base. Both 
 
 ---
 
-### Optional Question 3
+### Optional - Question 3
 **How should Contracting Officers address data rights and intellectual property (IP) in digital acquisitions to ensure long-term flexibility and reuse of solutions?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -100,7 +100,7 @@ Your agency has just awarded a contract for Agile digital service development. A
 
 
 
-## Question 1  
+### Question 1  
 **As a Contracting Officer, how can you ensure continuous, effective government oversight and collaboration with the Product Owner (PO) and the vendor team after the contract is awarded?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -112,7 +112,7 @@ Your agency has just awarded a contract for Agile digital service development. A
 
 ---
 
-## Question 2  
+### Question 2  
 **The program office wants to ensure the new digital service continuously delivers value and improves user satisfaction, going beyond just meeting technical specifications. What types of performance metrics and incentive structures would best align with these overarching goals in an Agile context?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -124,7 +124,7 @@ Your agency has just awarded a contract for Agile digital service development. A
 
 ---
 
-## Optional - Question 3  
+### Optional - Question 3  
 **Which approach best ensures cybersecurity is continuously addressed in Agile digital services contracts?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -136,12 +136,12 @@ Your agency has just awarded a contract for Agile digital service development. A
 
 ---
 
-# Scenario 4: Leading change & continuous improvement
+## Scenario 4: Leading change & continuous improvement
 
 You are a DITAP graduate enthusiastic about implementing modern acquisition practices in your agency. You propose introducing Agile-based contracts for upcoming IT modernization projects. However, your technical team has recently experienced significant IT failures that led to public scrutiny, making them highly risk-averse. They express strong resistance, stating, "That's not how things work here; we can't afford more risk."
 
 
-## Question 1
+### Question 1
 **How should you best respond to overcome this resistance and advocate for modern acquisition approaches in this risk-averse environment?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -153,7 +153,7 @@ You are a DITAP graduate enthusiastic about implementing modern acquisition prac
 
 ---
 
-## Question 2
+### Question 2
 **As a DITAP graduate, you've gained valuable insights into modern acquisition practices, including Agile methodologies, user-centered design, and the importance of continuous improvement. You want to contribute to your agency's continuous learning and share lessons learned beyond your immediate team. What is the most effective way to contribute to this goal within the government context?**
 
 | Option | Description | Correct/Incorrect | Feedback |
@@ -165,7 +165,7 @@ You are a DITAP graduate enthusiastic about implementing modern acquisition prac
 
 ---
 
-## Optional - Question 3
+### Optional - Question 3
 **To reduce vendor lock-in and ensure continuity, which approach best supports knowledge transfer during vendor transition?**
 
 | Option | Description | Correct/Incorrect | Feedback |

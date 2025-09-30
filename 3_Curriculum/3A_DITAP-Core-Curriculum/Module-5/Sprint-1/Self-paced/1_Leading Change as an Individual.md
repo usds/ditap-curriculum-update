@@ -1,6 +1,7 @@
-# Module 5 Sprint 1 
+# Introduction: Leading Change
+**Module 4 Sprint 4**
 
-## Introduction: Leading Change
+> _Average completion time: 60 - 90 minutes_
 
 In today’s fast-moving government environment, you are uniquely positioned to lead and influence positive change, from refining everyday procurement practices to scaling innovations across agencies. This module is designed to help you understand your personal role in driving change, strengthen your influence and collaboration skills, and develop strategies for continuous improvement and organizational growth.
 
@@ -12,7 +13,7 @@ You’ll move through two focused sprints:
 * **Sprint 2: Leading Organizational Change – Continuous Improvement and Scalable Practices**  
    Explore strategies for staying current with emerging technologies, applying lessons learned from each procurement, and scaling what works across your agency and the broader acquisition community.
 
-Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**—one that empowers you and those around you to lead change and guide customers toward the best solutions.
+Through both sprints, you’ll apply techniques to **create a culture of innovation within your sphere of influence**, one that empowers you and those around you to lead change and guide customers toward the best solutions.
 
 ### Learning Objectives
 
@@ -271,30 +272,30 @@ In most cases, the conversation will be difficult because the parties involved a
 
 ### Making Assumptions 
 
-* You can’t know what the other person’s intentions are. They also don’t know what your intentions are.   
-* Don’t assume the other person has bad intentions.   
+* You can’t know what the other person’s intentions are. They also don’t know what your intentions are. 
+* Don’t assume the other person has bad intentions. 
 * Don’t assume that because you have good intentions, the other person sees it that way. 
 
 ### Blame
 
-* If people think they’re going to be blamed, they’ll be less likely to cooperate and share information.   
+* If people think they’re going to be blamed, they’ll be less likely to cooperate and share information. 
 * Instead of trying to assign blame, explore how each person contributed to the situation. This will help develop a clearer picture of what happened and aid in making improvements. 
 
 ### The other person’s point of view
 
-* Instead of listing all of the reasons why the other person is wrong, imagine what they might be thinking and why.   
+* Instead of listing all of the reasons why the other person is wrong, imagine what they might be thinking and why. 
 * You don’t have to completely accept the other person’s point of view, but you should be interested in learning about it. As Wharton professor and social psychologist Adam Grant explores in his book The Originals: How Non-Conformists Move the World, asking people with extreme political views how their preferred policies work (i.e., showing interest in learning about their position) actually helps them become more moderate. Asking why they believe a certain way can make them hold onto their beliefs more strongly. However, when asked to reflect, there's evidence to suggest that they are more likely to then realize the complexity of the issues and that there may be middle ground. Consider how to apply this principle with those in your organization with extreme views. 
 
 ### Feelings
 
-* Ask yourself why you feel the way you do. This will help you take a more reasonable approach to the situation.   
+* Ask yourself why you feel the way you do. This will help you take a more reasonable approach to the situation. 
 * Imagine how the other person might feel about things to be prepared for his/her reactions. 
 
 ### Self-identity 
 
-* When people’s self-identities are threatened, they usually react strongly. This can make problems hard to resolve.   
-* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self identity.   
-* Being aware of your vulnerabilities is key to maintaining your balance during a conversation. You don’t want to be surprised by your reactions.   
+* When people’s self-identities are threatened, they usually react strongly. This can make problems hard to resolve. 
+* Think about what the conversation says about who you are and how it relates to your self-identity. Also, think about how it relates to the other person’s self identity. 
+* Being aware of your vulnerabilities is key to maintaining your balance during a conversation. You don’t want to be surprised by your reactions. 
 * Be aware of the role hierarchy plays in people’s self-identities. 
 
    
@@ -302,120 +303,32 @@ In most cases, the conversation will be difficult because the parties involved a
 
 As you mentally prepare for a conversation, here are some tips that can help you: 
 
-* Clarify the problem for yourself first.   
-* Prepare references to support your recommended solution (e.g. the [FAR](https://www.acquisition.gov/browse/index/far) and [TechFAR](https://playbook.usds.gov/techfar/), [Defense Acquisition System Instruction 5000.02](http://acqnotes.com/wp-content/uploads/2014/09/DoD-Instruction-5000.02-Operations-of-the-Defense-Acquisition-System-7-Jan-2015.pdf)).   
-* Plan to approach the discussion with a sense of exploration and the potential need to bridge understandings from different points of view.   
-* Focus on the objective and desired outcome.   
-* Practice how to begin the conversation.   
-* Present your assessment of the problem, and ask any questions you might have.   
-* Listen quietly to the other person, summarize what they’ve said, and validate their reasoning even if you have a different interpretation.   
-* Engage in negotiation to resolve how to solve the problem together.   
+* Clarify the problem for yourself first. 
+* Prepare references to support your recommended solution (e.g. the [FAR](https://www.acquisition.gov/browse/index/far) and [TechFAR](https://playbook.usds.gov/techfar/), [Defense Acquisition System Instruction 5000.02](http://acqnotes.com/wp-content/uploads/2014/09/DoD-Instruction-5000.02-Operations-of-the-Defense-Acquisition-System-7-Jan-2015.pdf)). 
+* Plan to approach the discussion with a sense of exploration and the potential need to bridge understandings from different points of view. 
+* Focus on the objective and desired outcome. 
+* Practice how to begin the conversation. 
+* Present your assessment of the problem, and ask any questions you might have. 
+* Listen quietly to the other person, summarize what they’ve said, and validate their reasoning even if you have a different interpretation. 
+* Engage in negotiation to resolve how to solve the problem together. 
 * Formalize an agreement into a series of commitments and next step action items. 
 
 
-## Common Topic for Difficult Conversations: Acquisition
+## Common Topics for Difficult Conversations
 
-So far, the information presented in this course is great in theory, but what does it look like when it’s applied to your unique digital service acquisition situation? Well, below, you’ll find some common digital service acquisition scenarios where difficult conversations are required. Review each scenario and consider similar situations you’ve encountered or that you expect to encounter as you move into your change ambassador role. 
-
-When considering an iterative development approach, program offices and contracting may believe that acquisition regulations and agency guidance limits the government’s ability to use an Agile, Lean, or DevOps approach. 
-
-In departments and agencies with heavy IT review board processes, a particular sticking point is that Agile does not readily accommodate large capstone events such as Critical Design Review (CDR). However, the programs that have used Agile in software development have found that the FAR and DoD 5000 series regulations have great flexibility and do not preclude the use of Agile. Review the scenario below for an example of this approach in action. 
-
-**Context:** A very specific acquisition issue and sticking point is that Agile methodology does not accommodate large events such as the CDR, which is usually a major, multi day event with many smaller technical meetings leading up to it. The intent of these oversight reviews is to mitigate risk by providing detailed plans on how development will be performed over the next few years. This approach requires a great deal of documentation by the contractor and many technical reviews by the government; the documentation serves as a proxy for direct user feedback in the development process. 
-
-**Observation:** In Agile development, the user, developers, and product managers are engaging directly and frequently about the user requirements and design so the scale and comprehensiveness of a CDR is foreign to Agile development teams. Some experienced Agile providers have accommodated this issue by breaking the typical waterfall-based CDRs into multiple Interim Design Reviews (IDRs), which is an example of the type of “flexibility” in implementing modular contracting or DoD 5000 requirements. These IDRs need to reflect the iterative nature of Agile, and they can be held more frequently and with tighter focus for only a few hours at a time, as opposed to the several days needed for CDRs. The entry and exit criteria for an IDR needs to be dependent on the current iteration, and the results of a combination of all IDRs completed should be functionally equivalent to a CDR using waterfall. 
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
+| Topic | Challenge / Context | Observation / Solution | Reference |
+|-------|-------------------|----------------------|-----------|
+| Acquisition | Agencies may think regulations prevent Agile, Lean, or DevOps approaches. | FAR and DoD 5000 series allow flexibility. Large waterfall CDRs can be replaced with smaller, iterative IDRs. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Knowledge of Agile | Few acquisition professionals are familiar with Agile, risking misalignment. | Consider contractual phases, milestones, monitoring approach, required staff, and tailoring FAR/TechFAR/5000.02 requirements before award. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Organizational Culture | PMOs are accustomed to waterfall; resistance to Agile is common. | Culture change and Agile training are essential for adoption. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Organizational Oversight | Traditional metrics (EVMS, IMS) do not map well to Agile. | Use frequent deliverables and working code to provide iterative insight; oversight comes from within Agile teams. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| End User Involvement | Multiple stakeholders make close user collaboration difficult. | Use a single end-user voice via steering committees; conduct frequent, short demonstrations to gather feedback. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Integration & Test | Agile integrates/testing continuously; waterfall waits until end of cycle. | Involve government testing teams early; provide access to target environments to reduce integration risk. | CMU/SEI-2010-TN-002, pgs. 12–22 |
+| Infrastructure | Large Agile programs require shared assets and coordination. | Plan shared models, data, and logging; embed Agile experts; coordinate multiple teams with "scrum of scrums"; track iteration dependencies. | CMU/SEI-2010-TN-002, pgs. 12–22 |
 
 
-## Common Topic for Difficult Conversations: Knowledge of Agile
 
-Agile methods have been developed and used most extensively in the non government/DoD commercial sector with small- to medium-sized projects. Experience with larger projects has recently started to accumulate in the commercial sector. As a result, few government acquisition professionals and contractors are familiar with the use of Agile or possess the necessary experience to effectively implement it, which is exactly the issue that this program is seeking to address! Review the write-up below for additional context on this issue. 
-
-**Context:** The acquisition community’s imperfect understanding of Agile might undermine the success of an Agile contractor. Agile is relatively new to the government and has its genesis in the software development community, which is mostly isolated from acquisition concerns. As a result, relatively few acquisition professionals have direct experience with Agile, and Agile-unaware PMO members might insist on the more familiar project documents, oversight process, and metrics that do not fit with Agile. Acquisition professionals may want to include requirement specifications to ensure the contractor be held accountable for delivery and may be uncomfortable with buying sprints of undetermined functionality or code demonstrations in lieu of written proposals. Program managers may like the flexibility to change priorities and less documentation, but may not be prepared for the level and frequency of engagement. 
-
-**Observation:** All government and contractor personnel need to spend the time necessary before contract award to understand what it means to use Agile from all perspectives. The following are examples of such considerations. 
-
-* Which contractual phases can employ Agile?   
-* What are the milestone and deliverable details for each phase when using Agile?   
-* What contract changes would be needed?   
-* What changes to the approach of monitoring development progress will be needed?   
-* What type of staff members are needed on both sides (government and contractor)?   
-* Which of the FAR, TechFAR, or 5000.02 process formalities will be tailored?
-  
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN 002 pgs. 12-22   
-  
-
-## Common Topic for Difficult Conversations: Organizational Culture
-
-Culture is the customary knowledge, beliefs, behaviors, and traits displayed by an organization. The government is heavily invested in the use of waterfall for acquisition of all equipment and systems, whether they are software intensive or not. As a result, a large segment of the government/DoD acquisition community (and that of long-time contractors, as well) is more comfortable with waterfall and skeptical about using Agile. Review the write-up below for additional context on this issue.
-
-**Context:** The government is heavily invested in the use of waterfall for acquisition in general, and this has been applied to software acquisition as well. While other methods have been used, waterfall and its accompanying precepts are most familiar to most PMOs.   
-
-**Observation:** Moving to Agile is difficult, many of the “old ways” and paradigms need to be modified using a fundamental culture change. Not long ago, the training in the interpretation of software acquisition requirements is skewed toward the waterfall approach. Thus, a PMO employing Agile will need to be trained in Agile concepts.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22   
-    
-## Common Topic for Difficult Conversations: Organizational Oversight
-
-Tracking and measuring progress while using Agile in a way that is clear to and trusted by the government is a particular challenge. The metrics applied on past software acquisitions, including the use of the Earned Value Method System (EVMS), do not provide the same benefit compared to the effort collecting for Agile as they do for Waterfall. Agile also does not support the kind of granularity of estimates and task detail that is typically shown across the entire project in an Integrated Master Schedule (IMS). Rather, Agile provides delivered working code so the need for estimates is diminished. 
-
-**Context:** Traditional waterfall provides significant oversight and insight into the implementation details of the program; this method is very structured so that it provides predictability, stability, and high assurance. The execution of Agile is distinctly different from what the Program Management Office (PMO) has seen in the past on programs using waterfall. The control and discipline comes from the Agile team itself rather than from control external to the team, that is project and higher management. As a result, the PMO will see a different way that the development is controlled, executed, and viewed.  
-
-**Observation:** In Agile, a system of program metrics that allows the PMO to have insight into the developer’s priorities and the development progress being made on a day-to day basis will allow the PMO to achieve an optimal balance between insight and oversight.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-
-## Common Topic for Difficult Conversations: End User Involvement
-
-The close involvement of end users in the development process, reviews, and demonstrations, upon which successful Agile implementations depend, is extremely difficult to achieve with the many stakeholders typical of government acquisitions. In addition, the continuous availability of the end user is an issue in the government environment, as end users are usually in operational not acquisition organizations. Acquisition personnel tend to be isolated in acquisition organizations, rather than integrated into operational units.  
-
-**Context:** One of the fundamental principles cited in the [Agile Manifesto](https://agilealliance.org/agile101/the-agile-manifesto/) is customer collaboration. In other words, Agile believes close interaction between the developers and end users is important. A basic Agile principle is “business people (users) and developers work together daily,” but in the government acquisition environment, this is rarely easy and may sometimes not even be possible. Government acquisitions involve many stakeholders with inherently conflicting needs. It is hard to get a single viewpoint from the customer because no one person truly represents the users. Plus, it is hard to get all the stakeholders involved in development decisions. 
-
-**Observation:** From program interviews, it was found:   A single voice for the user/customer is essential. This could be accomplished through an input-filtering steering committee that documents decisions, insists that the user community speaks with one voice to the Agile developer (through requirements definition), and receives input from and gives direction to a single person representing the Agile developer. True users (not just PMO representatives) must attend demonstrations that are given specifically to get user information and feedback. A hybrid approach (something between “pure Agile” and FAR/DoD 5000 traditional methods) is needed for large systems to assure that agreements with multiple users are documented, external interfaces are documented and agreed to, and multiple contractual and programmatic constraints are honored. A strong emphasis on government/user participation in reviews and demonstrations is essential. These reviews and demonstrations will be of shorter duration and have a tighter focus with Agile, and this will result in more frequent reviews that reflect the nature of Agile development. For example, having eight two hour reviews spread over time, as opposed to a single two-day event to cover the same material, would be one way to handle this.   
-
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-## Common Topic for Difficult Conversations: Integration and Test
-
-Because integration and testing activities are part of Agile development iterations, the approach to these activities might significantly change from those used in waterfall. The biggest change is that integration and test needs to be done throughout the project as opposed to waiting until the end of the release cycle. This is another particularly challenging issue of culture change since, historically, integration and test organizations have been outside the development teams once you get beyond unit testing. 
-
-**Context:** Test and integration are incorporated throughout the iteration life cycle used within Agile as opposed to waterfall, which puts it at the end. Testing can have a significantly different role in the project depending on which Agile method is used. The big advantage in Agile testing and integration is that testing can, and usually is, started earlier because of the short timeframes for iterations; this flushes out problems more quickly. Furthermore, gathering customer feedback during the development phase (in each iteration) provides an early look at the code capabilities and helps reduce risk at the time of system integration. 
-
-**Observation:** From program interviews, it was found: 
-
-* Within the government, “sell-off” is the process used by the contractor to obtain formal acceptance of the developed product from the government, thus the government takes ownership as the contractor “sells off.” The nature of “system sell-off” from the contractor’s perspective is still the same as in waterfall; there might be fewer risks because the government is buying smaller allotments of working code through frequent interactions among all parties during the demonstrations.   
-* Software builds are completed much earlier with Agile since each iteration produces a usable build; because of this, more frequent test and integration work can be done.   
-* The government test community can (and should) be involved early.   
-* A lesson specific to integration is that the software integrators need to have access to the ultimate target environment. This reduces issues for the development teams when they get to system-level integration. (The degree to which this is an advantage depends on the target environment and the number of platforms that are involved.)   
-* Access to the developers for the testing/integration team can be an issue because of the short (typically two-week) development cycles; this puts intense time pressure on the development team and should be addressed during forward iteration planning as iteration cycles are completed. Further, this might suggest that the testing/integration team members need to be part of the development team.   
-* Government testing personnel need to understand the differences inherent in Agile versus waterfall to adequately adapt staff and time requirements for testing when using Agile. The government testing personnel need to be engaged at the development iteration level; they should not wait until the entire system is completed to initiate their testing work.
-    
-Reference: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22 
-
-
-## Common Topic for Difficult Conversations: Infrastructure
-
-No matter whether one uses waterfall or Agile, the group undertaking the project needs to have an infrastructure supporting it. This would include the organization of the team and the context within which the team operates. The overall organization of a project using Agile is different from the traditional program structure. The structure for an Agile project reflects Agile precepts and is reliant on the context in which it will be applied. 
-
-**Context:** For large programs there is the need for early decisions about the support structure including shared assets. To help eliminate configuration management issues, the government usually dictates the shared assets of models across contracts and contractors on a large program. Common facilities (or shared assets), such as common logging (for example automated logging of test messages), agreements on units of measure, data models, etc., will be used on all segments and components of large programs. Early decisions on such aspects can appear to be in direct contradiction to the tenets of Agile. However, developers using Agile need to be aware of the larger, system wide constructs during their iteration planning. Developers need to use these as inputs so that they can be accommodated during the Agile implementation. Developers also need to understand that for government programs, the Concept of Operations (CONOPS) developed for the overall system by the government strongly influences and provides the context for the capability stories used in Agile development. Therefore, an up-front operational architecture needs to be defined as part of the CONOPS, and all developers of the overall system need to understand that conventional “use cases” and Agile “stories” are different in construction and application. Agile “stories” are less-formal constructs written as informal English descriptions. “Use cases” are formal constructs including preconditions, post conditions, and detailed interaction diagrams. 
-
-**Observation:** Some potential organizational ideas for executing Agile in the government acquisition environment: 
-
-* Agile can be experimented with early in the acquisition life cycle to try out what works and what doesn’t. Possible places to experiment might be during analysis of alternatives, risk reduction activities, activities leading up to Milestone B, phases in which only coding is being produced, and Advanced Concept Technology Demonstrations (ACTDs).   
-* For programs just getting involved with Agile, one organizational structure that worked well involved customers on-site at the contractor's facilities using a two week rotational schedule. The interviewees indicated that such a short rotational schedule benefits the contractor team because it typically provides much better access to real users, and it benefits the PMO team because they have better insight into what is going on in development.   
-* To help get started with Agile, the contractors brought in an Agile expert who would be embedded in the team and then train his/her way out of the job. This way the Agile team learns by doing, not just from classroom training or books.   
-* The contractors created something concrete that behaves in a representative manner, such as an early version or prototype.
-  
-Large programs with multiple Agile teams had several more ideas:   
-* To coordinate project dependencies across multiple Agile development teams, the leaders of the development teams, who typically maintain control of the team through a daily “scrum,” can themselves become members of a team of consisting of all the team leaders (a “scrum of scrums”).   
-* To maintain subject matter expertise and foster the cross-training of staff, team leads should be permanent, rotating the staff underneath them. This allows the cross-training of staff in all areas and maintains the team lead as subject matter experts—a “best-of-both worlds” approach.   
-* Planning for iterations was difficult with multiple Agile teams running in parallel and working on the same source tree. It was difficult to track feature predecessors. For example, if story A is needed before story B can be implemented, and story A was scheduled to be completed during the last iteration by another team, the development team needs to know if story A actually made it into that iteration before scheduling story B. This problem is made more difficult if both A and B are scheduled for the same iteration because each team can decide for itself which stories get bumped from a particular iteration. In order to preclude this type of behavior, one group made this particular topic part of their daily team lead standups.   
-* Dependencies across multiple Agile teams working on a common source tree need frequent coordination. The interviewees pointed out that one possible way of doing this would be to have the Agile team leader scrum (the “scrum of scrums”) meet in a daily standup to track the interdependencies.
-    
-Resource: [Considerations for Using Agile in DoD Acquisitions](https://insights.sei.cmu.edu/library/considerations-for-using-agile-in-dod-acquisition/) CMU/SEI-2010-TN-002 pgs. 12-22   
-  
+ 
 ---
 ## Knowledge Check
 
@@ -449,7 +362,7 @@ You have a good working relationship with the team lead. She responds to your su
 
 
 ---
-## Introduction -  Building Your Resilience
+## Introduction - Building Your Resilience
 
 >As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn't fail 1,000 times. The light bulb was an invention with 1,000 steps."
 
@@ -490,25 +403,16 @@ For you and your work in digital services acquisition, two characteristics are p
 ---
 ## Wellness Rituals to Support You in Times of Transition
 
-As our discussion of the growth mindset indicates, failure is going to be part of your journey. It is normal. If you aren’t failing along the way, then you likely aren’t taking enough risks. As you’ve learned, the key is to take calculated, small risks over time (remember the buy small, miss small principle, this applies in all aspects of work), but learning to accept failure may not come naturally for you. Even if it does, there may be times where the stress gets to you. What do you do to support yourself through the change? We've provided some strategies to help you answer that question.
+Failure is a natural part of growth, if you’re not failing, you’re likely not taking enough risks. The key is to take small, calculated risks over time (the “buy small, miss small” principle) and develop strategies to support yourself through change.
 
-First, interesting research has been done around treating performance in the workplace much like we treat word-class athletes, in that we consider all components of performance. As performance psychologist Jim Loehr and executive vice president of LGE Tony Schwartz explore in their research (explored in the [“The Making of a Corporate Athlete,” Harvard Business Review, 2001](https://hbr.org/2001/01/the-making-of-a-corporate-athlete)):
+Research by Jim Loehr and Tony Schwartz [(“The Making of a Corporate Athlete,” Harvard Business Review, 2001)](https://hbr.org/2001/01/the-making-of-a-corporate-athlete) shows that sustained high performance requires engaging four capacities—body, emotions, mind, and spirit—treating individuals as a whole. Small, daily rituals can strengthen these areas and help maintain performance even under stress.
 
->*“Some executives thrive under pressure. Others wilt. Is the reason all in their heads? Hardly. Sustained high achievement demands physical and emotional strength as well as a sharp intellect. To bring mind, body, and spirit to peak condition, executives need to learn what world-class athletes already know: recovering energy is as important as expending.”*
+During times of hardship or rejection, routines often slip. Maintaining physical, emotional, mental, and spiritual health improves resilience, focus, and creativity. Steven Snyder notes in Harvard Business Review (“Why is resilience so hard?”) that returning to healthy routines, stepping back for reflection, and exercising can strengthen each capacity.
 
-Loehr and Schwartz’s used two decades of work at LGE with world-class athletes to create what they termed “The High Performance Pyramid.” They translated its techniques with athletes into high performance in the workplace. Achieving the “Ideal Performance State” requires engagement of all four capacities: the body, the emotions, the mind, and the spirit by treating the individual as a whole being. (Note “spirit” refers to the energy unleashed by tapping into one’s deepest values and defining a strong sense of purpose, for some, that’s religion; for others, that may be the outdoors, connections with family, etc.) The High Performance Period is shown below.
-
-Research has shown that small rituals, repeated over time, can be used to enhance performance in these four areas. “Rituals” refer to the small, relatively low-effort activities you can do every day that can have a big difference.
-
-In times of hardship or transition, it can become easy for healthy routines to slip to the back of your mind. However, your **physical capacity** is important for mental and emotional recovery. It’s easy to get stressed out, angry, or resentful when you’re facing rejection. It’s important to think about ways that you can enhance your **emotional capacity** during these times. Additionally, your **mental capacity** can become hindered, and it may be difficult to stay focused. When your **spiritual capacity** is compromised, you may lack motivation, determination, or endurance. If you want to perform at your best, just like a star athlete, you must pay attention to all four performance areas.
-
-All that said, the reality is there’s a difference between *knowing* you should pay attention to these areas, and then actually *doing* it. As explored in *“Why is resilience so hard?” by Steven Snyder in* Harvard Business Review, if you notice that in times of stress you break from routines that are part of a healthy lifestyle, taking the time to get back on track can have positive outcomes. By exercising and stepping back from your work for self-reflection, you can strengthen each of your capacities. Positive effects from these minor changes include increased clarity and inspired creativity.
-
-When dealing with rejection in the workplace, it’s easy to isolate yourself to avoid facing hardships. Instead of allowing yourself to fall into a rut, try falling back on your support system. Those who are close to you can provide you with motivating encouragement, and can serve as a source for new ideas and inspiration.
-
-Start by thinking about small rituals you can incorporate into your everyday now. Try incorporating one ritual each week to tap into each performance area. Over time, those small rituals become [habits](http://www.npr.org/2012/02/27/147296743/how-you-can-harness-the-power-of-habit)—and habits are a powerful thing. When things become hard or you’re faced with rejection, you’ve already built these behaviors into your everyday, which increases your resilience and keeps you at your “Ideal Performance State.”
+Support systems are essential; connecting with others provides encouragement and inspiration. Start by introducing one small ritual per week for each performance area. Over time, these habits increase resilience and help you maintain your Ideal Performance State even in challenging moments.
 
 ---
+
 ## Analyze Where the “No” Came From
 
 So, you’ve been told no. You’ve been cultivating your growth mindset and using wellness techniques to keep you in the right frame of mind. Now it’s time to think through why you were told “no” and determine how to move forward from there.
@@ -552,7 +456,7 @@ Now that you’ve learned about a framework you can use to figure out why you we
 
 First, review the scenario below:
 
-You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them\! How could they be so deluded?\!
+You are working with a technical team to draft a solicitation. The technical team has recently experienced challenges that put them in the public spotlight for some IT failures. They need to find a new vendor. They have told you many times that we “can’t mess this one up” and that “we can’t introduce risk.” The previous contract failed, in part, because of a reliance on a waterfall-based method and a contract that had a lengthy list of system requirements but no statement that the software needed to work. The solution to fix this problem seems so obvious to you, they need to write a contract that supports agile software development! You’re excited coming out of this class, and you tell them what your diagnosis of the problem is and how you have a solution that can really improve results and deliver what their users need. You finish your presentation to them. Silence. Uncomfortable shifting in their seats. Finally, someone speaks up, “That’s great and all that you’re some expert in digital services acquisition, but that’s not how things work in the real world. Swooping in and making large-scale changes like this—that will not work here in this organization right now. Maybe next year when things settle down.” You’re floored. The solution is sitting right in front of them! How could they be so deluded?!
 
 Review the following factors were at play in this situation:
 
@@ -606,96 +510,67 @@ Remember our discussion of wellness rituals and performance areas from our earli
 
 **Why Your Story Matters**
 
-Digital service procurement is constantly evolving. What worked last year might not work today—and what you figure out today might help someone else tomorrow. That’s why telling the story of your procurement work, what went right, what went sideways, and what you’d do differently, is such a powerful contribution to the community.
+Digital service procurement is always evolving. What works today might help someone else tomorrow. Sharing your procurement experiences, what went well, what didn’t, and what you’d do differently, is a powerful way to help the community.
 
-You don’t have to be a professional writer. You just have to be willing to reflect, be honest, and share. Storytelling helps you communicate complex decisions, lessons, and context that others might not find in a policy memo or contract clause. By putting your real-world experiences into words, you help others learn faster and navigate similar challenges with more confidence.
+You don’t need to be a professional writer. Honest reflection and storytelling make complex decisions and lessons easier for others to understand, helping them navigate similar challenges with more confidence.
 
-As a DITAP graduate, you’ve learned a lot about designing smarter, more flexible procurements. Now, you’re in a great position to pay it forward by documenting what worked (and what didn’t) and sharing your experience with others. Think of it as contributing to the larger body of knowledge, one story at a time.
+As a DITAP graduate, you can pay it forward by documenting your successes and lessons learned, contributing to the larger body of knowledge, one story at a time.
 
 ### Why Sharing Matters in Government Procurement
 
-#### When You Share, Everyone Gets Smarter
 
-We all know procurement can be messy, especially when you’re dealing with new technologies, tight timelines, or unexpected curveballs. But every procurement teaches you something, about collaboration, process, communication, risk, or innovation. When you share those lessons, it helps the whole ecosystem work better.
+#### When You Share, Everyone Benefits
+Procurement can be messy, new tech, tight timelines, unexpected challenges, but every project teaches lessons about collaboration, process, communication, risk, and innovation. Sharing those lessons strengthens the whole ecosystem by:
 
-Knowledge sharing helps:
+- Avoiding repeat mistakes  
+- Highlighting how challenges were overcome  
+- Spreading good ideas across agencies  
+- Creating a record of lessons for others to build on  
 
-* Make future procurements stronger by avoiding repeat mistakes.
+#### Stories Make Work Understandable
+Acquisition isn’t linear. Stories explain the “why” and “how” behind decisions, making lessons memorable and applicable in different contexts.  
 
-* Build resilience by highlighting how you adapted to challenges.
+#### What to Share
+- **Explicit knowledge:** Policies, templates, rules  
+- **Tacit knowledge:** Gut instincts, relationship strategies, workarounds  
 
-* Spread good ideas across agencies.
+Sharing your procurement story turns tacit knowledge into practical guidance for others.  
 
-* Create a record of lessons learned that others can build on.
+#### Building a Sharing Culture
+Normalize knowledge sharing by:  
 
-Whether it’s a quick blog post, a deeper case study, or a hallway chat, these conversations add up to a smarter, more connected acquisition workforce.
+- Learning from mistakes openly  
+- Encouraging honest, judgment-free conversations  
+- Recognizing and rewarding reflection and sharing  
 
-#### Stories Help Make Sense of the Work
+Psychological safety is key. Supportive leadership, public recognition, or incorporating sharing into performance goals can foster lasting change.
 
-Let’s be real: most acquisition work isn’t linear. You make trade-offs, adapt plans, and build relationships that shape the outcome. A story gives you the space to explain the “why” and “how” behind the decisions, not just the end result. That kind of nuance is hard to capture in checklists or templates, but stories bring it to life.
-
-They also help others *feel* the experience. A good story isn’t just informative, it’s memorable. That emotional connection helps others remember the lesson and apply it later, even in totally different situations.
-
-#### What’s Worth Sharing?
-
-There are two types of knowledge to think about when telling your story:
-
-* Explicit knowledge is easy to document, things like policies, templates, and rules.
-
-* Tacit knowledge is harder to explain, it’s the gut instincts, relationship strategies, and workarounds you develop through experience.
-
-Your procurement story is a great way to turn that tacit knowledge into something useful for others. Talk about the decisions you made, the questions you asked, the conversations that helped move things forward. These details are gold for other acquisition professionals who might face similar situations.
-
-#### Building a Culture of Sharing Starts With Us
-
-For knowledge sharing to really take root, we need to normalize it, and that starts with leadership and culture. That means:
-
-* Creating space for learning from mistakes, not hiding them.
-
-* Encouraging open, judgment-free conversations.
-
-* Recognizing and rewarding people who take time to reflect and share.
-
-Psychological safety plays a big part in this. People need to feel safe being honest, even when things didn’t go perfectly. And while financial rewards aren’t always feasible, small things like public shout-outs, leadership support, or adding knowledge sharing to performance goals can go a long way.
 
 ### Blogging Your Procurement Journey
 
-#### Why Blog?
+#### Why Blog?  
+Blogging is an easy way to share what you know. Keep it honest, helpful, and clear, like explaining to a colleague who wasn’t in the room. Sharing experiences helps others learn, builds community, and makes your work visible.
 
-Blogging is one of the easiest ways to start sharing what you know. It doesn’t have to be fancy or long, just honest, helpful, and clear. Think of it as talking to a colleague who wasn’t in the room but wants to understand how you approached something tricky or how a particular strategy played out. Check out [TTS’s Blogging Guide](https://handbook.tts.gsa.gov/office-of-operations/blogging/) for more guidance and other ways to get started.
+#### Blogs Can:  
+- Break down what worked and why  
+- Highlight tools, templates, or techniques  
+- Share lessons learned  
+- Serve as starting points for case studies  
 
-Sharing your experiences helps others feel less alone, speeds up learning across teams, and builds a sense of community. Plus, it reinforces your own thinking and makes your work visible, both inside and outside your agency.
+#### Good Blogging is User-Centered  
+- Who are you writing for?  
+- What should they learn?  
+- How can it help them do their work better?  
 
-Blogs can:
+#### Blog Structure (Problem-Solution-Impact)  
+- **Problem:** What were you trying to solve?  
+- **Solution:** What did you try?  
+- **Impact:** What happened? What would you do differently?  
 
-* Break down what worked and why.  
-* Highlight tools, templates, or techniques others can borrow.  
-* Help you process challenges and share lessons learned.  
-* Serve as starting points for bigger case studies.
+Keep posts short (500–800 words), use plain language, clear headers, links/visuals, and ensure accessibility. End with a call to action: invite feedback, encourage others to try it, or connect for more info.  
 
-The act of blogging is also a form of "working in the open." It models the user-centered, iterative approach we push for in digital services.
+Reference: [TTS Blogging Guide](https://www.gsa.gov/tts/blogging-guide)
 
-#### Good Blogging is User-Centered Too
-
-Sound familiar? Just like our digital service work, good blogging puts the user (in this case, the reader) first.
-
-Ask yourself:
-
-* Who am I writing for?  
-* What do I want them to learn?  
-* What will help them do their work better?
-
-A blog post doesn’t have to be long, 500 to 800 words is often enough. Use plain language. Break things into sections with clear headers. Add links or visuals if it helps. Be specific. Be real. And make sure it’s accessible (use good contrast, alt text, and readable fonts).
-
-#### Blog Structure: Keep it Simple
-
-Use a basic "problem-solution-impact" structure:
-
-* Problem: What were you trying to solve?  
-* Solution: What did you try? How did you approach it?  
-* Impact: What happened? What changed? What would you do differently?
-
-End with a small call to action, like inviting others to try the approach, share feedback, or connect for more info.
 
 ### Writing a Procurement Case Study
 
@@ -709,15 +584,19 @@ They're not just stories to read; they're tools for learning. Whether someone is
 
 A good case study balances narrative and analysis. It provides the big picture and zooms in on key moments that changed the direction or tone of the work. Here's how you might break it down:
 
-* **Title:** Choose something short but specific that gives a sense of the outcome or topic (e.g., "Improving Vendor Feedback with a Two-Week Sprint Review").  
-* **Summary:** Write a short paragraph at the top that covers the key points: what the problem was, how you approached it, and what changed as a result.  
-* **Context:** Set the stage. What agency or program is this? What was the mission or objective of the project? Include timelines, user populations, or anything that helps ground the reader.  
-* **Problem:** Be honest and clear about the challenge. Was it a tight timeline? A policy hurdle? A team that had never done agile before? The more specific you are, the easier it is for others to relate and learn.  
-* **Solution:** What did you actually do? Talk about the procurement method you chose, the design of the solicitation, how you built the team, or any new processes you tested. Include rationale: why did you take that approach?  
-* **Journey:** This is the meat of the story. What surprises came up? What needed to shift along the way? Share both the high points and the friction—team dynamics, evaluation challenges, collaboration with vendors. Show your work and describe how you responded.  
-* **Results:** What was the outcome? Use data when you can (number of vendors, user satisfaction scores, cost savings, etc.), but also describe qualitative impact. What changed for the team, the agency, or the end users?  
-* **Takeaways:** Reflect on what you learned. What would you do again? What would you change? These are the parts that help others skip the guesswork.  
-* **Call to Action:** Invite others to try the method, borrow a tool you used, or reach out for more context. This turns your story into an ongoing conversation.
+
+| Element | Description | Tips / Examples |
+|---------|-------------|----------------|
+| **Title** | Short but specific; hints at the outcome or topic | e.g., "Improving Vendor Feedback with a Two-Week Sprint Review" |
+| **Summary** | Brief paragraph covering key points: problem, approach, outcome | Keep it concise; highlight the impact |
+| **Context** | Background info: agency, program, mission, timeline, users | Helps readers understand the environment and constraints |
+| **Problem** | Clear description of the challenge | Be specific: tight timeline, policy hurdles, first-time agile team |
+| **Solution** | Actions taken, procurement method, solicitation design, team setup | Include rationale: why this approach was chosen |
+| **Journey** | Story of the process: surprises, shifts, friction, collaboration | Share high points and challenges; show how you responded |
+| **Results** | Outcomes and impact | Include data if possible: vendors, satisfaction scores, cost savings |
+| **Takeaways** | Lessons learned and recommendations | What worked, what would you change, advice for others |
+| **Call to Action** | Invite others to try your method or reach out | Encourages ongoing conversation and knowledge sharing |
+
 
 #### Tips for Writing a Strong Case Study
 
@@ -745,13 +624,18 @@ Publishing your procurement story often means getting approval from your agency�
 
 Tips to navigate approvals:
 
-* Start early: Mention your intention to publish while the project is still active. This helps stakeholders feel looped in from the beginning.  
-* Use plain language: Draft your blog or case study using non-technical, non-promotional language. This helps reviewers see the value in knowledge sharing, not PR.  
-* Focus on the facts: Stick to lessons learned, tools used, approaches tested, and measurable impact. Avoid vendor endorsements or sensitive details.  
-* Frame it as value to the public: Emphasize how this story contributes to government transparency, shared learning, and better service delivery.  
-* Ask about templates or prior examples: Your agency may have a preferred format or clearance checklist. Starting from one makes things easier.  
-* Engage OGC early: Legal reviews can take time. Share your intent with them, highlight any sensitive areas, and be open to redactions if needed.  
-* Offer informal briefings: Sometimes, a quick conversation with comms or legal teams can speed up understanding and buy-in.
+#### Tips to Navigate Approvals
+
+| Tip | Description |
+|-----|-------------|
+| **Start early** | Mention your intention to publish while the project is still active. This helps stakeholders feel looped in from the beginning. |
+| **Use plain language** | Draft your blog or case study using non-technical, non-promotional language. This helps reviewers see the value in knowledge sharing, not PR. |
+| **Focus on the facts** | Stick to lessons learned, tools used, approaches tested, and measurable impact. Avoid vendor endorsements or sensitive details. |
+| **Frame it as value to the public** | Emphasize how this story contributes to government transparency, shared learning, and better service delivery. |
+| **Ask about templates or prior examples** | Your agency may have a preferred format or clearance checklist. Starting from one makes things easier. |
+| **Engage OGC early** | Legal reviews can take time. Share your intent with them, highlight any sensitive areas, and be open to redactions if needed. |
+| **Offer informal briefings** | Sometimes, a quick conversation with comms or legal teams can speed up understanding and buy-in. |
+
 
 Framing your story as a contribution to professional development and government-wide learning often shifts the tone from "risk" to "value." The more you position yourself as a thoughtful steward of your agency’s mission, the more likely you are to get support.
 
@@ -889,6 +773,7 @@ Attach or link to any of the following if available:
 ---
 
 *Use this template to document your AI tool procurement experience and share with your peers, acquisition community, or as a formal case study contribution to internal or external knowledge hubs.*
+
 
 
 

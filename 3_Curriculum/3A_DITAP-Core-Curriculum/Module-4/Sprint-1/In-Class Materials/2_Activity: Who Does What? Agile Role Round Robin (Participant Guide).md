@@ -6,7 +6,7 @@ For each role, briefly write how that person should respond or take action in th
 
 ---
 
-## Scenario 1: Missed Sprint Goal
+## Scenario 1: Missed sprint goal
 - **PO Response:**
 
 - **COR Response:**
@@ -17,7 +17,7 @@ For each role, briefly write how that person should respond or take action in th
 
 ---
 
-## Scenario 2: Scope Shift
+## Scenario 2: Scope shift
 - **PO Response:**
 
 - **COR Response:**
@@ -28,7 +28,7 @@ For each role, briefly write how that person should respond or take action in th
 
 ---
 
-## Scenario 3: Performance Issue
+## Scenario 3: Performance issue
 - **PO Response:**
 
 - **COR Response:**
@@ -39,7 +39,7 @@ For each role, briefly write how that person should respond or take action in th
 
 ---
 
-## Scenario 4: Demo Failure
+## Scenario 4: Demo failure
 - **PO Response:**
 
 - **COR Response:**
@@ -50,7 +50,7 @@ For each role, briefly write how that person should respond or take action in th
 
 ---
 
-## Debrief Notes
+## Debrief notes
 - What was the most difficult role to take on and why?  
 - What insights did you gain about role coordination?  
 - What are ways to create better alignment on your real projects?  

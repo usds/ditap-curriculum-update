@@ -1,12 +1,13 @@
-# Module 3 Sprint 1
+# Introduction: Developing an Acquisition Strategy
+**Module 3 Sprint 1**
 
-## Introduction: Developing an Acquisition Strategy
+> _Average completion time: 90 minutes_
 
 Effective acquisition planning is essential for ensuring that government agencies deliver the right solutions to their users on time, within budget, and aligned with mission needs. Whether adjusting an existing contract or developing a new procurement from scratch, a well-documented acquisition strategy reduces risk, promotes transparency, and supports informed decision-making throughout the pre-award process.
 
 This module introduces the foundational elements of acquisition strategy planning. Learners will explore how real-world circumstances shape acquisitions strategies, the importance of documentation and rationale, and how the Lean Canvas approach can serve as a dynamic tool for refining strategies based on stakeholder input, market insights, and evolving user needs.
 
-### Learning Objectives
+## Learning Objectives
 
 By the end of this module, you will be able to:
 
@@ -16,21 +17,17 @@ By the end of this module, you will be able to:
 * Describe the lean canvas approach and its role as a living document in agile acquisition environments.
 * Recognize when and how to update the acquisition strategy in response to new inputs and evolving conditions.
 
----
 ## Why Do We Plan?
 
 Just as in our personal lives, in the government, we plan to reduce the risk of buying the wrong solution. We want to ensure we are buying the solution our users need at a price we can afford.  As you may know from your on-the-job experience, acquisition planning and the strategy will differ somewhat depending on a few factors:
 
 * You may inherit an existing contract that requires adjustments, so you will need to develop a strategy for implementing those adjustments.
-  
 * You may be involved in developing a new strategy for a new procurement.
 
 In either case, it is essential to document all decisions made throughout the pre-award process and include the rationale behind those decisions. This support rationale will be informed by all the pre-award activities you have conducted, including product visions, market research, and all communications with stakeholders.
 
 Each time you update or complete an activity, you will want to revise your acquisition strategy and document it using the lean canvas approach that you learned about in a Module 2 classroom session. This lean canvas is a living document and will evolve as you refine your strategy and gain input from stakeholders and the vendor community. You will learn more about the lean canvas later in this module.
 
-
----
 ## What Feeds the Acquisition Strategy?
 
 Planning your acquisition strategy helps you outline the scheduling, integration, and coordination of all acquisition-related efforts, and is an essential and required component of all acquisitions. It should begin as soon as you identify the need for the acquisition.
@@ -48,11 +45,7 @@ These other conditions and considerations include, but are not limited to:
 - State of the market
 - How do you evaluate vendor quotes/proposals
 
-  
 We will discuss each of these in more detail as we proceed, but it’s essential to recognize that none exist in isolation. Each has the potential to impact the other considerations, which can substantially affect the ultimate acquisition strategy and solution. Understanding these conditions and considerations as they apply to your acquisition and Product Vision is key to effective planning.
-
-
----
 
 ## The Acquisition Plan and Lean Canvas Approach
 
@@ -60,8 +53,7 @@ We will discuss each of these in more detail as we proceed, but it’s essential
 
 As you know, planning is an essential part of the acquisition process, and this is particularly true in digital services acquisitions. The Federal Acquisition Regulation (FAR) requires that some acquisition planning be accomplished and documented for every acquisition, consistent with the size and complexity of the procurement. And let’s admit it, we have all seen the acquisition plan, and some of the other required items in the contract file, as “check the box” items. You complete them because you have to, but you might not put a lot of effort into them. When purchasing digital services, however, your acquisition plan assumes a new level of importance. Do not take it lightly. This is where the lean canvas tool can help.
 
-
-### Using the Lean Canvas Approach
+## Using the Lean Canvas Approach
 
 You were introduced to this tool in **Module 2**. In this module, you will put this tool into action. The Lean Acquisition Canvas is a concise way to capture the key points of an acquisition strategy or plan, providing a high-level overview of the acquisition. The concept of using lean approaches originates from the Lean Startup methodology. This approach was initially designed to create and manage startups, enabling them to quickly bring products to customers’ hands through an efficient “build-measure-learn” cycle. The methodology is called “lean” for a reason, it favors testing and experimenting over elaborate upfront planning.
 
@@ -75,12 +67,10 @@ These concepts can also be applied to acquisitions. Typically, the acquisition s
 
 The Lean Canvas will bring the acquisition strategy and plan to the forefront of the team’s vision, getting everyone on the same page, both literally and figuratively. By presenting a high-level overview of the significant components of the acquisition strategy and plan, teams can more easily discuss decisions and trade-offs as they shape the Product Vision.
 
----
 ### Examples 
 Let’s look at two examples of how you might re-imagine the various parts of an acquisition plan using the Lean Canvas tool:
 
-
-#### Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives
+**Example 1: Lean Acquisition Planning Canvas: Acquisition Background and Objectives**
 
 | Acquisition Element | Key Questions / Considerations |
 |---------------------|-------------------------------|
@@ -93,38 +83,34 @@ Let’s look at two examples of how you might re-imagine the various parts of an
 | **Delivery or Performance Requirements** | Ask the following questions:<br> - What can be envisioned for a Minimum Viable Product (MVP)?<br> - Do you need a design phase?<br> - What modular contracting opportunities exist?<br> - Are there program or organizational dates that affect urgency or performance? |
 
 
-#### Example 2: Lean Acquisition Planning Canvas: Plan of Action
+**Example 2: Lean Acquisition Planning Canvas: Plan of Action**
+
 | Acquisition Element | Key Questions / Considerations |
 |---------------------|-------------------------------|
-| **Test and Evaluation** | Ask the following questions:<br> - What amount of testing must be accomplished before production release?<br> - How will you incorporate usability testing?<br> - Do you have IV&V (Independent Verification and Validation) requirements or contracts?<br> - How will automated testing be incorporated? |
+| **Test and evaluation** | Ask the following questions:<br> - What amount of testing must be accomplished before production release?<br> - How will you incorporate usability testing?<br> - Do you have IV&V (Independent Verification and Validation) requirements or contracts?<br> - How will automated testing be incorporated? |
 | **Sources** | Ask the following questions:<br> - Are there required sources or contract vehicles?<br> - Are there preferred sources or socio-economic category requirements?<br> - What is the result of market research? |
 | **Competition** | Ask the following questions:<br> - Will this be competed?<br> - What are the competition goals? |
-| **Budgeting and Funding** | Ask the following questions:<br> - How much budget is allocated for this?<br> - Is there an Independent Government Cost Estimate (IGCE)?<br> - What is the office willing to invest for success?<br> - What fiscal year funding concerns must be addressed?<br> - What type (color) of money is being used? |
-| **Logistics Considerations** | Ask the following questions:<br> - What are the operational impacts or requirements following MVP deployment?<br> - Will you include data rights clauses in your solicitation?<br> - Are you willing to develop in the open and share development with other agencies? |
-| **Contract Administration** | Ask the following questions:<br> - What level of contract oversight and support will be needed?<br> - How will agile delivery be monitored and reported?<br> - Who will serve as the COR (Contracting Officer’s Representative)? |
-| **Contract Type** | Ask the following questions:<br> - Is a firm-fixed-price (FFP), time-and-materials (T&M), or cost-reimbursement structure most appropriate?<br> - How do risk and requirements maturity affect contract type selection? |
-| **Acquisition Considerations** | Ask the following questions:<br> - Have you considered open source, mixed source, commercial off-the-shelf (COTS), or proprietary software, as referenced in the Federal Source Code Policy?<br> - Will you use performance-based acquisition? Why or why not? |
-| **Source Selection Procedures** | Ask the following questions:<br> - Have you considered a multi-phased approach to source selection?<br> - Will you include a coding or agile walkthrough challenge?<br> - Who will perform the technical evaluation, and what is their agile or design maturity?<br> - Is Earned Value Management (EVM) required?<br> - What is your timeline and negotiation plan?<br> - Will you include due diligence or vendor discussions? |
-
+| **Budgeting and funding** | Ask the following questions:<br> - How much budget is allocated for this?<br> - Is there an Independent Government Cost Estimate (IGCE)?<br> - What is the office willing to invest for success?<br> - What fiscal year funding concerns must be addressed?<br> - What type (color) of money is being used? |
+| **Logistics considerations** | Ask the following questions:<br> - What are the operational impacts or requirements following MVP deployment?<br> - Will you include data rights clauses in your solicitation?<br> - Are you willing to develop in the open and share development with other agencies? |
+| **Contract administration** | Ask the following questions:<br> - What level of contract oversight and support will be needed?<br> - How will agile delivery be monitored and reported?<br> - Who will serve as the COR (Contracting Officer’s Representative)? |
+| **Contract type** | Ask the following questions:<br> - Is a firm-fixed-price (FFP), time-and-materials (T&M), or cost-reimbursement structure most appropriate?<br> - How do risk and requirements maturity affect contract type selection? |
+| **Acquisition considerations** | Ask the following questions:<br> - Have you considered open source, mixed source, commercial off-the-shelf (COTS), or proprietary software, as referenced in the Federal Source Code Policy?<br> - Will you use performance-based acquisition? Why or why not? |
+| **Source selection procedures** | Ask the following questions:<br> - Have you considered a multi-phased approach to source selection?<br> - Will you include a coding or agile walkthrough challenge?<br> - Who will perform the technical evaluation, and what is their agile or design maturity?<br> - Is Earned Value Management (EVM) required?<br> - What is your timeline and negotiation plan?<br> - Will you include due diligence or vendor discussions? |
 
 How can you integrate the lean canvas tool to your advantage, you ask? Well, you can use them to:  
 
 * **More effectively work with your stakeholders.** As many of you have noted on the discussion boards and in guided learning sessions, the processes and techniques you are learning for digital services acquisition are unfamiliar to many stakeholders. This means you may encounter resistance and sometimes outright hostility to your chosen approach. The lean canvas can help you not only make your case, but also provide the vehicle for required approvals of your acquisition solution.  
 * **Record the “why” of your solution.** You may still need a formal acquisition plan, so base it on your lean canvas tool.  The plan provides the historical record and justification for the acquisition solution in the contract file.
 
----
 ## Common Risks
 
 Before you sit down to develop the solicitation package, you should consider some common risks that may arise as the acquisition solution is developed. Review the following items before you put the solicitation “on the street”:
 
 * **Is the acquisition focused on the end user and their ability to successfully use the product?** The end users of the final product are key to contract success and delivering a high-quality outcome. For the purpose of procurement, the “customer/program owner” is considered the primary end user of the acquisition process. However, the program owner is responsible for meeting the needs of the actual users who will interact with the system once delivered. By viewing the acquisition itself as the creation of a “product,” you help align strategic methods throughout the entire process, ensuring both the program’s goals and user needs are addressed.
-
 * **Is the Product Vision clear?** While the details don’t have to be defined, the vision does. All acquisition considerations should be consistent with the realization of that vision.
-
 * **Is there an exit strategy?** The government typically solves non-performance by increasing funding or lengthening schedules, as it’s perceived to be too difficult to get out of a contract. Is there a strategy to effectively resolve issues of performance on a contract?
-
 * **Are there incentives that can be applied to increase end-user satisfaction?** Leverage commercial incentive strategies where and when you can. Speak with trade experts and industry during  your market research,  to gain a better understanding of how the various digital service sectors operate in the private sector.  
-* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
+* **Is the acquisition structured around commercial item acquisition methods as referenced in the Federal Acquisition Regulation (FAR) Parts 12 and 13.5?** Unless we ask the developers to invent a new coding language specifically for the government, we are utilizing commercial items, services, and products.
 
 | Risk | Mitigation | Links |
 | --- | --- | --- |
@@ -137,55 +123,34 @@ Before you sit down to develop the solicitation package, you should consider som
 | **Integration/interoperability**<br>- Higher integration costs<br>- Lack of data portability<br>- Higher enterprise costs<br>- Effects user experience and adoption | - Adherence to government data/API standards<br>- Mandate documentation and automate where possible<br>- Test integration points<br>- Technical discovery and architecture reviews | |
 | **Cultural resistance**<br>- Slower time to market<br>- Reduces benefits of Agile<br>- Misaligned expectations | - Engage leadership early<br>- Include change management as a CLIN<br>- Identify internal champions<br>- Demand cross-functional team involvement | |
 | **Security**<br>- Data loss<br>- Personally Identifiable Information (PII) breaches | - DevSecOps practices<br>- Continuous monitoring<br>- Federal Risk and Authorization Management Program (FedRAMP) tools and infrastructure | |
-| **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | |
-
+| **Tech obsolescence**<br>- Higher costs due to system replacement<br>- Effects user adoption<br>- Inability to respond to tech landscape changes | - Modular design<br>- Tech refresh clauses in long-term contracts and Commercial off-the-shelf (COTS) products or services<br>- Consistent industry interactions | 
+| **ICT Accessibility Non-compliance** | Document Section 508 compliance requirements early in acquisition planning, identify exceptions for national security systems or incidental contractor use, and prepare exemption documentation for undue burden or fundamental alteration schenarios | [Section 508.gov compliance tools](https://www.section508.gov/tools/) |
+| **Inadequate Competition Advocay** | Engage agency competition advocate early to promote full and open competition, challenge barriers to acquisition, and report actions to increase competition | [Small Business Administration](https://www.sba.gov/) |
+| **Technology Evolution Mismatch** | Use modular contracting with 180-day award and 18-month delivery timelines to allow subsequent increments to leverage technology advances | [FAR 39.102 contracting guidance](https://www.acquisition.gov/far/39.102) ||
 
 ### Discussion question (optional):
 >Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 Based on what you’ve learned, what are some mistakes you would avoid for your next procurement? Share your knowledge with your peers here! 
 
----
-## Contract Exit Strategies
+## Contract exit strategies
 
 As part of the acquisition strategy cycle, you need to plan for what happens if things go wrong and consdier a contract exit. From a lack of delivery to a change in needs, there are many reasons why you might need to exit a contract early. In industry, this can happen quickly, but in Government, it is not always as easy. From building flexibility into your contracts to planning communication around insufficient results, it’s crucial to have solid exit strategies planned out as part of your acquisition strategy.
 
 The following challenges and recommended approaches are offered to help guide you through this process. Follow them closely or choose your own adventure!
 
-**Challenge: Have a clear vision of what you are buying and why.**
+| Challenge | Details |
+|-----------|---------|
+| Have a clear vision of what you are buying and why. | - **Before considering an exit, consider why you are entering.** Determine if your contract, as you envision it, is the best option to meet your needs. Explore additional options, such as prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/) <br> - **Know what your objective is.** Can you define what success looks like? What does it not look like? What are the high-level contract objectives? <br> - **Focus on delivery.** Create a trusted environment where individuals can innovate, allowing both contractors and government the ability to exit when necessary. |
+| Scope your contract safely. | - **Utilize modular contracting and limit the scope of the contract.** Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery is expected to occur within one year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete. <br> - **Separate product purchases from service purchases.** When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed. |
+| Motivate and manage your contractors. | - **Build in an award term option incentives.** Since the contractor controls the award of the follow-on contract, it is essential to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors. <br> - **Monitor progress using Agile software development tools and techniques.** Monitor progress toward objectives and measure the value provided to users using tools like Jira. Stay up to date with decisions made during backlog grooming sessions—track the development team's velocity. |
+| Motivate and manage your contractors | - **Include any documentation requirements as part of agile iterations, not in a separate task.** Required documentation should be specified in the definition of done. Ensure that documentation is completed and delivered throughout the contract or task's life cycle, not just at the end. Keep in mind that requesting additional documentation may divert time away from completing technical tasks. <br> - **Remember the importance of transition planning.** Awarded contracts must include a transition plan of some type. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation. |
+| Get the most out of your contract. | - **Follow Play 13 of the [Digital Service Playbook](http://playbook.cio.gov/#play13), “Default to Open”.** <br> - Consider the following: <br>   - Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver. <br>   - Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing. <br>   - Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public. <br>   - Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. <br> - **Use warranties and innovate:** Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more warranties that extend beyond the period of performance, holding contractors liable for the products that they produce. |
+| Scope your contract safely. | - **Utilize enhanced modular contracting requirements.** The revised FAR Part 39 requires agencies to use modular contracting for major ICT systems to the maximum extent possible, with contracts awarded within 180 days and deliveries scheduled within 18 months of solicitation. Each increment should comprise a system that is not dependent on subsequent increments to perform its principal functions. <br> - **Structure for technology evolution.** Design contracts to allow subsequent increments to leverage the technology evolution that occurs during the implementation of earlier increments. This built-in flexibility reduces the need for contract termination due to technological obsolescence. |
 
-* *Before considering an exit, consider why you are entering.* Determine if your contract, as you envision it, is the best option to meet your needs. Explore additional options, such as prototyping, pilots, or [challenges.](https://techfarhub.usds.gov/resources/learning-center/field-guides/tech-challenge-playbook/)  
-* *Know what your objective is*. Can you define what success looks like? What does it not look like? What are the high-level contract objectives?  
-* *Focus on delivery.* Create a trusted environment where individuals can innovate, allowing both contractors and government the ability to exit when necessary.
 
-**Challenge: Scope your contract safely.** 
 
-* *Utilize modular contracting and limit the scope of the contract.* Leveraging the Federal Acquisition Regulation (FAR) Part 39.103 \- Modular Contracting can help you avoid long periods of performance. When possible, limit award periods of performance to six months or a year. Shorter periods of performance avoid the need for termination. Product delivery is expected to occur within one year. Smaller contracts are easier to manage, identify potential points of failure, and re-compete.  
-* *Separate product purchases from service purchases.* When purchasing a solution that includes licenses for a commercial off-the-shelf (COTS) product and custom development work, consider creating a separate licensing contract from the development contract. This allows the government maximum ownership over the solution and makes the transition easier if a development contractor change is needed.  
-
-**Challenge:** **Motivate and manage your contractors.** 
-
-* *Build in an award term option incentives*. Since the contractor controls the award of the follow-on contract, it is essential to incentivize the team as much as the contractor. Align option periods to sprints and use award term incentives to motivate contractors.   
-* *Monitor progress using Agile software development tools and techniques.* Monitor progress toward objectives and measure the value provided to users using tools like Jira. Stay up to date with decisions made during backlog grooming sessions—track the development team'svelocity. 
-
-  
-**Challenge:** **Motivate and manage your contractors**
-
-* *Include any documentation requirements as part of agile iterations, not in a separate task.* Required documentation should be specified in the definition of done. Ensure that documentation is completed and delivered throughout the contract or task's life cycle, not just at the end. Keep in mind that requesting additional documentation may divert time away from completing technical tasks.  
-* *Remember the importance of transition planning*. Awarded contracts must include a transition plan of some type. This plan should account for both the incoming and outgoing transition of code, knowledge, and documentation.
-
-**Challenge: Get the most out of your contract.** 
-
-* *Follow Play 13 of the [Digital Service Playbook](http://playbook.cio.gov/#play13), “Default to Open”*.
-* Consider the following:  
-  * Ensure that data from the service is explicitly in the public domain, and that rights are waived globally via an international public domain dedication, such as the “Creative Commons Zero” waiver.  
-  * Catalog data in the agency’s enterprise data inventory and add any public datasets to the agency’s public data listing.  
-  * Ensure that Government maintains the rights to all data developed by third parties in a manner that is releasable and reusable at no cost to the public.  
-  * Ensure that Government maintains contractual rights to all custom software developed by third parties in a manner that is publishable and reusable at no cost. 
-* *Use warranties and innovate*: Pull content from the FAR. In addition to the warranties prescribed in the FAR, contracting officers should request more l warranties that extend beyond the period of performance, holding contractors liable for the products that they produce.
-
----
-## Stakeholder Engagement: Capability and Cooperation
+## Stakeholder engagement: Capability and cooperation
 
 Many of the techniques you are learning in this program will be new territory for your stakeholders. Customers, as well as stakeholders in the acquisition review process, may be put off by all these unfamiliar concepts. They may be resistant to moving the acquisition forward under your vision or your team’s vision. This must be factored into your acquisition approach. Sometimes, small steps are better than rapid wholesale change. Keep as much as possible in familiar territory for these people, and move them incrementally in the direction they need to go. Think of it as another aspect of “buy small, miss small.”
 
@@ -193,8 +158,7 @@ Suppose an organization is just starting to adopt agile processes. In that case,
 
 We will explore how you can influence your stakeholders and gain their buy-in in the online training later in this iteration.
 
----
-## Existing Contracts
+## Existing contracts
 
 What if an existing contract can provide what your agency needs? Not every need will, or should, result in a new contract, complete with all the planning, source selection (or J\&A), and review baggage that comes with a new acquisition. There may already be an agency or interagency digital services contract in place, with allowed modifications, which will simplify finding the proper acquisition solution. Or, it may not. Even if a contract can be modified to obtain the product vision, a closer look at the details will help you determine. 
 
@@ -204,9 +168,7 @@ Consider what other agencies are doing:
 * What do you need to implement them?  
 * Can you leverage an Interagency Agreement or mirror the process used at the other agency to streamline the acquisitions? 
 
----
-
-## Streamline the Process
+## Streamline the process
 
 If you are attempting to transition an existing contract to more agile-based development, you’ll have additional considerations that could enable you to streamline your procurement process. Consider the following:
 
@@ -217,11 +179,14 @@ If you are attempting to transition an existing contract to more agile-based dev
 * Can you piggyback on another agency’s contract or one of your agency’s enterprise contracts?  
 * Does the contract type permit orders, and would the order fall within scope?  
 * What flexibilities do you have within the existing contract or scope as it currently stands? Do the CLIN descriptions and requirements document provide the needed flexibility? Would modifications be out of scope?  
-* How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)?  
+* How cooperative is the contractor? How much leverage do you have (e.g., options, task orders for continued work, incentive contract)? 
 * How difficult will it be to re-baseline performance metrics to accommodate agile processes and then get both the contractor and the government to buy in?
-
----
-## Considerations for a New Contract
+* Leverage the new ICT acquisition framework.
+    *  The revised FAR Part 39 emphasizes faster acquisition and secure deployment of new or emerging technology. Consider whether your existing contract can accommodate the broader ICT scope (including communication technology, IoT devices, and emerging tech) and the enhanced performance-based approach that now permits minimum personnel qualifications when justified.
+* Apply updated competition requirements.
+    * Use the streamlined FAR Part 6 procedures that consolidate small business set-aside authorities and simplify justification and approval requirements. This can significantly reduce administrative burden when modifying existing contracts.
+      
+## Considerations for a new contract
 
 A new procurement is likely if you’ve determined that using an existing contract vehicle would be inappropriate or ineffective. Aside from the knowledge that the contact requirements should accurately reflect the product vision, here are a few more items to consider as you put together the acquisition solution:
 
@@ -237,6 +202,10 @@ A new procurement is likely if you’ve determined that using an existing contra
 | **Commercial procurements** | Cost reimbursable contracts aren’t allowed for commercial procurements, including orders from GSA’s Federal Supply Schedule. How does this fit into your risk picture? |
 | **Modular contracting**  | What contract types will support Modular Contracting and “buy small, miss small” (FAR Part 39)? Think about IDIQs, BPAs, BOAs, Base period with options versus multiple-year, multiple-award ordering vehicles, etc. |
 | **Define an exit strategy** | Ensure that getting out of a non-performing results-based contract is as easy as getting into it. Utilize Award Term incentives, modular contracting methods, streamlined acquisitions, data rights clauses, multiple award strategies, and back-up acquisition strategies so that you can quickly end one contract and start a new one. |
+| **ICT Accessibility Standards** | Ensure compliance with Section 508 requirements under 36 CFR 1194.1 for ICT accessibility standards. Document any exceptions or exemptions for undue burden, fundamental alteration, or nonavailability of conforming commercial products. |
+| **Performance-Based Personnel Requirements** | Avoid minimum educational or experience requirements for contractor personnel unless agency needs cannot be met without such requirements or when not using performance-based acquisition methods. |
+| **Technology Refresh and Evolution** | Structure contracts to leverage technology evolution during implementation, with each increment being compatible with common or commercially acceptable IT standards. |
+| **Competition Advocacy Coordination** | Engage with your agency's advocate for competition early to promote full and open competition and challenge potential barriers to acquisition. ||
 
 Of course, a sound strategy can’t exist without a plan for selecting the vendor. Source selection is critical and will entail many considerations. You’ll want to develop effective, meaningful, and simple source selection criteria.
 
@@ -246,18 +215,17 @@ Ask yourself:
 * Is the proposal realistic regarding cost, schedule, and the approach for satisfying the product vision?  
 * Suppose you establish multiple award vehicles like an IDIQ or BPA. How can you develop streamlined selection criteria in the Fair Opportunity procedures to make awarding orders rapid, simple, and effective?
 
---- 
-## Funding and Programmatic Considerations
+## Funding and programmatic considerations
 
 As acquisition and contracting professionals, we are very familiar with the typical “color of money” and continuing resolution issues that impact what can be acquired and how much can be spent. These are just a few of the many issues where you bring your knowledge and creativity to bear, encouraging your customer to do the same. To help you think creatively, consider the following:
 
-**Question assumptions:** Question high estimates, long timelines for implementation, overly specific technical requirements (or requirement gathering processes), and legacy sustainment. Do you need to replace an existing product or service wholesale, or can it be transitioned incrementally? Does it only need augmentation? What are the costs, risks, benefits, and opportunities associated with any particular approach to legacy systems or a new procurement? What about technology data/IP rights, operations and maintenance, upgrades, future completion, future functionality requirements, etc? 
+| Area | Considerations |
+|------|----------------|
+| Question assumptions | Question high estimates, long timelines for implementation, overly specific technical requirements (or requirement gathering processes), and legacy sustainment. Do you need to replace an existing product or service wholesale, or can it be transitioned incrementally? Does it only need augmentation? What are the costs, risks, benefits, and opportunities associated with any particular approach to legacy systems or a new procurement? What about technology data/IP rights, operations and maintenance, upgrades, future completion, future functionality requirements, etc? |
+| Funding | Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for the procurement of the complete product vision at this time, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to be placed with qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery. |
+| Flexibility | What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that? |
+| Contract type | A vital consideration in any acquisition is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T&M) or Labor Hours (similar to T&M but without materials). These are often viewed as being on opposite ends of the risk spectrum. FFP shifts performance risk to the contractor, who must deliver the agreed-upon work at a set price. T&M, on the other hand, places more risk on the government, as the contractor is paid by the hour, regardless of outcomes. |
 
-**Funding:** Consider funding and budget implications of all previous decisions. What lessons learned can be taken from previous contracts? Were deliverables based on delivering an actual system or documents and plans? If the budget doesn’t allow for the procurement of the complete product vision at this time, explore cheaper interim solutions and incremental solutions that build upon the initial product or service, and structure the contract vehicles to support that strategy. This may include vehicles that allow orders to be placed with qualified and capable contractors as funding and need arise. This is also consistent with the FAR Part 39 emphasis on modular contracting. You’ll want to structure your budget and contract to support timely delivery.
-
-**Flexibility:** What flexibility is there in your customer’s requirements? Is an interim or partial solution possible while delivering the total product vision? Which methods could be used to achieve that?
-
-**Contract type:** A vital consideration in any acquisition is contract type. The two most commonly used for digital services are Firm Fixed Price (FFP) and Time and Materials (T&M) or Labor Hours (similar to T&M but without materials). These are often viewed as being on opposite ends of the risk spectrum. FFP shifts performance risk to the contractor, who must deliver the agreed-upon work at a set price. T&M, on the other hand, places more risk on the government, as the contractor is paid by the hour, regardless of outcomes.
 
 Each type has its place in digital services. Traditionally, a fixed-price contract is appropriate when requirements can be defined in sufficient detail to identify and manage performance uncertainties. However, digital services are often characterized by rapidly changing user needs, evolving policies, and emergent technical challenges, making it difficult to define everything up front.
 
@@ -272,9 +240,17 @@ This model aligns well with modular contracting, a technique that divides work i
 
 In contrast, while T&M contracts can offer flexibility during uncertain discovery phases or rapid prototyping, they require more active oversight and offer less cost predictability.
 
+## Modular contracting under the new FAR Part 39
 
----
-## State of the Market
+The revised FAR Part 39 emphasizes strategies that promote faster acquisition and secure deployment of new or emerging technologies. This expanded scope now encompasses not only information technology but also communication technology, Internet of Things devices, emerging technologies, and operational technology.
+
+**Enhanced modular contracting requirements**: As previously mentioned, agencies should use modular contracting to acquire major information systems and communication technology to the maximum extent possible, with specific timelines: award a contract within 180 days after solicitation issuance and schedule deliveries within 18 months after solicitation.
+
+**Performance-based approach**: When acquiring information technology services, solicitations should not describe minimum experience or educational requirements for proposed contractor personnel unless the contracting officer determines that the agency's needs cannot be met without that requirement or requires using a non-performance-based acquisition approach.
+
+**Risk management framework**: Both contracting and program office officials are responsible for assessing, monitoring, and controlling risk throughout the acquisition process, with reasonable risk-taking appropriate as long as risks are controlled and mitigated.
+
+## State of the market
 
 Due diligence in market research is critical. In the digital services arena, there’s an entire universe of firms that can satisfy your needs. However, many of these firms are overlooked because traditional market research methods fail to identify and engage them. While your program office is responsible for market research, the familiarity factor can often restrict a pool of potential offerors to those with a history with the agency. They may be significantly expanded with nontraditional providers.
 
@@ -287,8 +263,17 @@ As you recall from your training on how to survey the marketplace and how to eng
 
 As you explore the marketplace, know that new or nontraditional providers can provide serious challenges in contract management simply by not being familiar with how the government does things. It’s a good idea to help them understand CDRLs, contractor certifications, SAM, CPARS/PPIRS, requirements resulting from mandatory clauses and provisions, and other items unique to how the government conducts business. However, to the maximum extent practicable, the government should use procedures, terms, and conditions that are as close to commercial practice as possible. The more familiar and comfortable the contract is, the more likely it is that such vendors will start, and continue, to do business with the government. 
 
----
-## Knowledge Check
+### Updated competition requirements under FAR Part 6 Overhaul
+
+The Revolutionary FAR Overhaul has streamlined FAR Part 6 (Competition Requirements) to promote faster acquisitions and greater competition.
+
+Key changes affecting market research include:
+
+- **Simplified Competition Procedures**: Contracting officers must use competitive procedures best suited to efficiently fulfill government requirements, including sealed bids, competitive proposals, and other statutorily authorized procedures. This provides greater flexibility in how you engage the market.
+- **Enhanced Competition Advocacy**: Each agency's advocate for competition now has expanded responsibilities to promote full and open competition, commercial acquisition, and challenge barriers to acquisition. Work closely with your competition advocate when exploring nontraditional providers.
+- **Consolidated Set-Aside Authorities**: All small business set-aside requirements have been consolidated, making it easier to identify opportunities for small businesses, including 8(a), HUBZone, WOSB, VOSB, and SDVOSB contractors.
+  
+## Knowledge check
 
 1. As you prepare to buy your product or service, which of the following milestones should be completed?
 
@@ -300,8 +285,6 @@ As you explore the marketplace, know that new or nontraditional providers can pr
 
 > Correct! A well-prepared acquisition effort considers all of the above—stakeholders, contract pathways, funding availability, and performance periods.
 
----
-
 2. When developing an acquisition strategy for procuring a digital service, which of the following is the best option for documenting your strategy?
 
 - [x] A. Lean Canvas tool  
@@ -311,7 +294,69 @@ As you explore the marketplace, know that new or nontraditional providers can pr
 
 > The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
 
+3. What approach should you take when stakeholders are resistent to agile acquisition concepts?
+- [ ] A. Implement changes immediately to demonstrate benefits
+- [x] B. Keep as much as possible in familiar territory and move incrementally in the direction they need to go
+- [ ] C. Seek approval from the higher authority to override resistance
+- [ ] Wait until stakeholders are replaced with more supportive personnel
 
+> Correct! Small steps are better than rapid wholesale change when stakeholders are resistant to unfamiliar concepts, treating this as another aspect of "buy small, miss small.
+
+4. What is the primary purpose of using the lean canvas approach for acquisition strategy documentation?
+- [ ] A. To meet FAR compliance requirements for acquisition planning
+- [ ] To replace all traditional acquisition planning documents
+- [x] To capture key points of an acquisition strategy in a concise, high-level overview that gets everyone on the same page
+- [ ] To eliminate the need for market research
+
+> Correct! The lean canvas tool provides a concise way to capture key points of an acquisition strategy, helping teams discuss decisions and trade-offs while shaping the Product Vision.
+
+5. When should minimum educational or experience requirements be included in ICT solicitations under the updated FAR Part 39?
+- [ ] A. Never, these requirements are always prohibited
+- [ ] B. Only for contracts over $1 million
+- [x] C. When the contracting officer determines that agency needs can't be met without the requirement, or when not using performance-based acquisition
+- [ ] D. Only with senior procurement executive approval
+
+> Correct! FAR 39.103 states that solicitations should not describe minimum experience or educational requirements unless the contracting officer determines that agency needs cannot be met without that requirement or unless the requirement is for using other than a performance-based acquisition.
+
+6. What is a key advantage of Fixed Proice per iteration (FFP per sprint) contract pricing over traditional fixed-price contracts for digital services?
+- [ ] A. It eliminates all performance risks for the government
+- [x] B. It maintains cost control while preserving flexibility in scope within each sprint
+- [ ] C. It always costs less than Time and Materials contracts
+- [ ] D. It requires less government oversight than other contract types
+
+> Correct! FFP per iteration maintains cost control by fixing the price per iteration while preserving flexibility in the scope of reatures or deliverables within each sprint, aligning well with agile development practices.
+
+7. What is the most significant risk to address when working with nontraditional providers?
+- [ ] A. Higher costs due to lack of government experience
+- [ ] B. Inability to meet technical requirements
+- [x] C. Unfamiliarity with government contracting processes and requirements
+- [ ] D. Lack of adequate insurance coverage
+
+> Correct! Nontraditional providers can pose significant challenges in contract management due to their unfamiliarity with CDRLs, contractor certifications, SAM, CPARS/PPIRS, and other government-specific requirements.
+
+8. Under the streamlined FAR Part 6, how are small business set-aside authorities now organized?
+- [x] A. All consolidated into two sections
+- [ ] B. Each type has its own separate section
+- [ ] Moved to FAR Part 19 entirely
+- [ ] Eliminated in favor of full competition
+
+> Correct! The overhauled FAR 6.102-2 now covers all small business set-asides in consolidated sections, including SBIR/STTR and specific small business socioeconomic categories.
+
+9. What should be the primary focus when determining whether to use existing contracts versus new procurement for digital services?
+- [ ] A. Always choose the lowest cost option available
+- [ ] B. Prioritize speed of award over all other considerations
+- [ ] C. Default to new contracts to ensure maximum competition
+- [x] D. Determine if using an existing contract vehincle would be appropriate and effective for the product vision
+
+> Correct! Existing contracts should be considered when they can provide what the agency needs, but the key determiniation is whether the existing vehicle would be appropriate and effective for achieving the product vision.
+
+10. What is essential for effective contract exit strategies in digital services acquisitions?
+- [ ] A. Having legal counsel review all termination clauses
+- [x] B. Building flexibility into contracts and planning for modular delivery with shorter periods of performance
+- [ ] C. Requiring contractors to provide performance bonds
+- [ ] D. Using only cost-reimbursable contract types
+
+> Correct! Use modular contracting to limit award periods to six months or a year, whenever possible. This approach avoids the need for termination and makes contracts easier to manage and re-compete.
 
 ## Compliance & Other Legal Issues
 
@@ -323,7 +368,6 @@ After this module, you’ll be able to:
 * Recognize the legal considerations that are unique to digital service acquisition.  
 * Describe the potential risks inherent in acquiring digital services and risk avoidance and mitigation methods.
  
----
 ## Getting to Know Your Office of General Counsel
 
 Every civilian and military agency has an Office of General Counsel (OGC). The OGC addresses various potential or actual legal concerns, including environmental protection, FOIA, human resources, budget and finance, and acquisition. Acquisition matters may encompass a wide range of areas, including CICA, labor law, and procurement integrity, as well as CICA, labor law, and procurement integrity to OCI, IP, and source selection.
@@ -338,12 +382,9 @@ Therefore, making the most effective use of your limited OGC resources in procur
 Your OGC may not have in-depth knowledge of your program or acquisition, making it more challenging for them to apply their expertise effectively. Some strategies to streamline and improve this process and relationship include:
 
 * Develop a relationship with the person(s) in the OGC office whose knowledge and input will be most valuable to you. Identify the IP expert or someone willing to learn about leading practices in digital services acquisition.
-  
 * If you’re faced with a difficult question on a complicated topic, ask for OGC help early. Determining what is reasonable and enforceable regarding government data rights and intellectual property, and incorporating that information early in your acquisition strategy, will enable a more coherent and compliant solicitation and source selection plan.
-  
 * Do the research yourself. Synopsize and provide references (e.g., GAO decisions, policy, regulation, statute, acquisition guidance documents) supporting your position. Provide both sides of a position and alternatives, but support your preferred course with compelling evidence. Be complete, but succinct. They just need to know that your argument is complete and in the government’s best interest and that backing you won’t hurt them.
 
----
 ## What is Intellectual Property?
 
 In the digital age, Intellectual Property (IP) isn’t as easy to safeguard as it was in the past. In the past, an artist like Van Gogh would paint a unique piece, which would be sold by the artist only once. Now that you can re-print a canvas, you can buy multiple copies of The Starry Night. However, the painting—the original image—is still the artist's intellectual property and resides in a museum. So, how does he (his estate) get compensated for reprints? How can this artist monitor or account for people who find the image online and upload it to a local printer or website to create their own reprints on canvas? Of course, these sorts of questions extend to all digital media. If it is on the internet, can it be kept safe? Can we prevent people from obtaining a movie illegally or sharing music?
@@ -352,13 +393,9 @@ In the digital age, Intellectual Property (IP) isn’t as easy to safeguard as i
 
 When buying digital services, you can apply many of these concepts to the government. IP is protected in law through patents, copyrights, and trademarks, which enable individuals to earn recognition or financial benefits from what they invent or create. 
 
----
-
 ## Types of IP
 
 Let’s begin with definitions of IP and then shift into how it directly affects you in the acquisition world. There are many ways to categorize intellectual property. These are the main categories:
-
----
 
 ### Copyright
 
@@ -366,15 +403,11 @@ Let’s begin with definitions of IP and then shift into how it directly affects
 
 **Copyright** is a legal term that describes the rights of creators over their literary and artistic works. Copyrighted works encompass a wide range of items, including books, music, paintings, sculptures, films, as well as computer programs, databases, advertisements, maps, and technical drawings.
 
----
-
 ### Patent
 
 ![Patent icon – a gear and document](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Patent.jpg?raw=true)
 
 A **patent** is an exclusive right granted for an invention. Generally speaking, a patent gives the owner the right to decide how—or whether—others can use the invention. In exchange for this right, the patent owner makes technical information about the invention publicly available in the published patent document.
-
----
 
 ### Trademark
 
@@ -382,23 +415,17 @@ A **patent** is an exclusive right granted for an invention. Generally speaking,
 
 A **trademark** is a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises. Trademarks date back to ancient times when craftsmen used to put their signature or "mark" on their products.
 
----
-
 ### Industrial Design
 
 ![Industrial design icon – a stylized 3D object with artistic curves](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/industrial%20design.jpg?raw=true)
 
 An **industrial design** constitutes the ornamental or aesthetic aspect of an article. A design may consist of three-dimensional features, such as the article's shape or surface, or two-dimensional features, such as patterns, lines, or color.
 
----
-
 ### Geographical Indications and Appellations of Origin
 
 ![Geographical indication icon – a map pin and vineyard](https://github.com/usds/ditap-curriculum-update/blob/1c4a5281ca50ea90dd710da72aa253d69c88e334/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/Module-3-Media/Geographical.jpg?raw=true)
 
 **Geographical indications and appellations of origin** are signs used on goods with a specific geographical origin and possessing qualities, a reputation, or characteristics that are essentially attributable to that place of origin. Most commonly, a geographical indication includes the name of the place of origin of the goods. For example, Napa Valley is an appellation in California renowned for its unique growing conditions that facilitate the production of high-quality wine.
-
-
 
 ### Digital media rights
 
@@ -411,7 +438,6 @@ Additionally, the DMCA increases the penalties for copyright infringement on the
 
 Read more about the [Digital Millennium Copyright Act of 1998, U.S. Copyright Office summary](http://www.copyright.gov/legislation/dmca.pdf).
 
----
 ## FAR Subpart 27.4 Rights in Data and Copyrights
 
 Digital services acquisition, particularly acquisitions involving software development or existing proprietary solutions, is substantially impacted by the contractual arrangements for data rights between the contractor and the government. These arrangements affect competition, legal liability, lifecycle costs, and related issues.
@@ -427,7 +453,6 @@ Accordingly, digital services acquisition professionals like you must be familia
 Conversely, contractors may have proprietary interests in data that provide competitive advantages in both the commercial and government marketplaces. Protection of legitimate proprietary data from unauthorized use and disclosure “…is necessary to encourage qualified contractors to participate in and apply innovative concepts to Government programs. In light of these considerations, *agencies shall balance the Government's needs and the contractor’s legitimate proprietary interests.”*
 
 [**Video - Data Rights: Understanding and Negotiating Data Rights**](https://www.youtube.com/watch?v=BZBys4jBZOk)
-
 
 ### What does “data” mean, and how does it apply to data rights and copyrights?
 
@@ -449,36 +474,25 @@ Contrary to some assumptions, the government does not inherently prefer complete
 
 These principles apply to both hardware and digital deliverables, including custom software, code, and technical documentation, even when based on open-source components. Contractors may still pursue commercial applications of their work, particularly when they retain IP ownership, creating incentives to innovate within government contracts. Meanwhile, the government may leverage its license rights to ensure continuity, interoperability, or reuse of critical technology.
 
-
----
-## Contribution, Attribution, Retribution…Oh My!
+## Contribution, attribution, retribution…oh my
 
 Open source means public domain, right? Short answer is…wrong. Even open-source software has licensing agreements and copyright protections in place. These factors affect how open source software is developed, used, maintained, and upgraded, as well as the IP rights of the developer when used to create custom software. The Business Software Alliance's “Open Source and Commercial Software \- An In-Depth Analysis” paper is an excellent primer for this issue and many others related to IP in open source software. The paper describes open source and IP as follows:
 
-*“Open Source” is a software-licensing model where the software's source code is typically made royalty-free to the software users, under terms allowing redistribution, modification, and addition, though often with certain restrictions. The support, training, updates, and other services for the software may be provided by a range of entities, increasingly under commercial arrangements. Open-source programs are often, though not exclusively, developed through a collaborative effort in which several individuals contribute elements of the final software. Software companies also contribute paid programmer time and in-house programs to the open source community.”*
+>“Open Source” is a software-licensing model where the software's source code is typically made royalty-free to the software users, under terms allowing redistribution, modification, and addition, though often with certain restrictions. The support, training, updates, and other services for the software may be provided by a range of entities, increasingly under commercial arrangements. Open-source programs are often, though not exclusively, developed through a collaborative effort in which several individuals contribute elements of the final software. Software companies also contribute paid programmer time and in-house programs to the open source community.”*
 
-How does this impact the government's acquisition of professionals? The data rights arena directly affects what the custom software developer can claim as restricted data or proprietary software in the delivered solution. Because open-source code can be integrated with proprietary software in developing a solution, it also impacts the type, magnitude, and level of open-source software components the contractor may incorporate. For a better understanding, let’s examine the two main types of open-source software licensing agreements typically in use today.
+How does this impact the government's acquisition of professionals? The data rights arena directly affects what the custom software developer can claim as restricted data or proprietary software in the delivered solution. Because open-source code can be integrated with proprietary software in developing a solution, it also impacts the type, magnitude, and level of open-source software components the contractor may incorporate. For a better understanding, let’s examine some types of open-source software licensing agreements typically in use today.
 
-### GNU General Public License (GPL)
+| License | Key Points | Implications for Government Acquisition |
+|---------|------------|-----------------------------------------|
+| GNU General Public License (GPL) | - Derivative works must remain open source.<br>- Customers can copy and distribute freely.<br>- Developers may charge for setup, training, and support.<br>- Multiple variants exist to fit different needs. | Limits contractor ability to commercialize software, but government gains broad rights and low-cost distribution. |
+| Affero General Public License (AGPL) | - Extends GPL rules to cloud/SaaS models.<br>- Requires hosted modifications to be shared back. | Ensures transparency and community benefit even for networked services; protects against SaaS loopholes. |
+| Berkeley Software Distribution (BSD) License | - More permissive than GPL.<br>- Allows integration with proprietary code.<br>- Supports commercial licensing models. | Easier commercialization, but fewer guarantees of openness for the government. |
+| Overall Considerations | - Licensing affects IP claims, sustainment, maintenance, and data rights.<br>- Agencies must evaluate licensing impact alongside mission effectiveness. | Choice of license influences long-term flexibility, costs, and rights for reuse across agencies. |
 
-Developers using open-source software under the GPL cannot sell “derivative” works they develop from the software at more than the nominal distribution cost. Because the source code is subject to the GPL in the solution, both the developer and the customer are bound by the terms of the GPL for the source code of that derivative work. This means the customer can make copies and distribute the software to as many people or agencies as desired with no additional payments due to the developer. 
 
-While this presents a challenge for the contractor in making its developed solution commercially viable, the contractor can charge what the market will bear for setup, installation, training, and other services that support the software installation and operation.
+Digital services acquisition professionals like you should understand these licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
 
-The GPL is not a standard, one-size-fits-all document; instead, there are more than a few variants established by organizations that control open-source software to fit their commercial, cultural, and mission needs.
-
-### Affero General Public License (AGPL)
-
-The AGPL is a variant of the GPL, but with an important additional requirement. While the GPL ensures that derivative works must remain open source when distributed, it does not account for modern cloud and SaaS models where software is “used” over a network but never technically distributed. The AGPL closes this loophole. This ensures that improvements and modifications made in hosted environments are shared back with the community, not hidden behind a “software as a service” delivery model. 
-
-### Berkley Software Distribution (BSD) License
-
-Open-source software subject to the BSD License is more easily converted into a commercially viable product for developers, as they can integrate their own source code and then market and distribute the resulting software under more traditional IP and commercial software licensing arrangements.
-
-Digital services acquisition professionals like you should understand these two licensing arrangements regarding government rights in data and the proposed solution(s) to be acquired. While the effectiveness of the proposed/contracted solution for the agency’s mission is paramount, licensing agreements can affect IP claims, which will in turn affect sustainment and maintenance, and access and rights to data (including the cost of distributing the software solution to other agencies or components).
-
----
-## Who Owns Open Source Code?
+### Who owns open source code?
 
 As covered in the previous section, open source doesn’t necessarily mean public domain. In addition, ownership of software solutions developed from open source platforms depends significantly on the terms of the licensing agreement issued by the controlling organization and the terms and conditions of the contract under which the government acquired it. 
 
@@ -492,8 +506,7 @@ The principle of First Performance is also key. Generally, when the software sol
 
 The data rights clauses prescribed in **FAR Part 27** enable the establishment of the parties' data rights and ownership, as well as mechanisms for asserting those rights in the contract. However, suppose the government asserts the need for specific government rights for parts of, or the entirety of, the solution. In that case, that needs to be established in the solicitation, made a condition for source selection, negotiated, and memorialized in the resulting contract requirements and clauses. To the maximum extent possible, both parties should understand the government's and contractor's IP and data rights going in to minimize problems later.
 
----
-## Data in the Cloud (It’s Cloudy Out There!)
+## Data in the Cloud (It’s Cloudy Out There)
 
 What about data in the cloud? Here are some common questions and answers about this type of data.
 
@@ -513,8 +526,7 @@ What about data in the cloud? Here are some common questions and answers about t
 
 >A: No. Assuming the government obtained rights in the custom solution (which they should), they can choose to store it wherever they want. The complication here is that if the solution was developed to operate in the cloud, it may be financially or time-prohibitive to move it.
 
----
-## Legal Liabilities
+## Legal liabilities
 
 You need to consider your IP rights and protection, as well as any potential legal liabilities that could arise from your digital service. Examples include latent defects and patent defects.
 
@@ -538,8 +550,7 @@ You may have a latent defect. The contractor knew, but whether the government co
 
 However, the best approach is an adequate testing regime (automated, preferably), combined with a proper definition of 'done' that supports a reliable examination of the delivered functionality. Good communication between team members (government and contractor) will help identify where required testing and inspection may be inadequate and how to resolve the issue before it becomes a problem. Sometimes it’s more productive to focus on fixing the problem rather than assigning blame and making equitable adjustments.
 
----
-## What Happens When Open Source Software Breaks?
+## What happens when open source software breaks?
 
 If you are developing software using open-source software as your foundation, there’s potential for malfunctions. The question is, who’s responsible if the software stops working? This needs to be built into the contract to protect the government. You’ll want to ensure that the contractor/vendor is responsible for fixing the software, regardless of its origin or how it was developed.
 
@@ -565,8 +576,7 @@ Actions the government can take when implementing to reduce risks include:
 
 Understand that the offeror has to sell you on his choice of open source software and his ability to manage the risks of using what he doesn’t own. Ensure your solicitation is clear: you must be comfortable with the risks of using a proposed open source platform being manageable and palatable. Also, ensure that the vendor is willing to be contractually obligated to address problems arising from the use of a particular open-source platform.
 
----
-## Knowledge Check
+## Knowledge check
 
 1. What term refers to distinguishing the goods or services of one enterprise from those of other enterprises?
 
@@ -577,8 +587,6 @@ Understand that the offeror has to sell you on his choice of open source softwar
 
 > Correct! A trademark is a sign capable of distinguishing the goods or services of one enterprise from another.
 
----
-
 2. True or False:  
 You can patent open-source software as your own and resell it commercially.
 
@@ -587,9 +595,7 @@ You can patent open-source software as your own and resell it commercially.
 
 > Correct! Open-source software is publicly licensed—patenting it as your own would violate licensing terms.
 
-
----
-## Multi-Vendor Contracts
+## Multi-vendor contracts
 
 Engaging multiple vendors under an IDIQ or BPA is increasingly common in complex government digital service environments. These multi-vendor ecosystems promise flexibility, competitive pricing, and access to a diverse pool of expertise. However, with this opportunity comes a new set of management challenges, requiring agencies to shift their mindset from simply managing contracts to managing a marketplace. This lesson explores the effective structuring, administration, and leadership in a multi-vendor environment.
 
@@ -640,86 +646,29 @@ One key variation on this practice from potentially other multiple award contrac
 
 ### Considerations to think about when employing this strategy
 
-#### 1\. You’re managing a market, not just contracts
+| Topic | Details |
+|-------|---------|
+| 1. You’re managing a market, not just contracts | In a traditional acquisition mindset, agencies view contracting as a one-to-one relationship: one agency, vendor, and contract. However, the program office no longer manages vendors when multiple vendors are brought in under a shared vehicle, whether through BPAs, IDIQs, or TO-based modular contracting. It’s working as a miniature marketplace. <br><br> This market requires active stewardship: <br>- Fairness and opportunity must be visible and tangible.<br>- Trust and motivation erode if the same few vendors repeatedly win task orders without explanation.<br>- Forecasting future work helps vendors align their capacity and retain their teams.<br>- Vendors who understand the upcoming pipeline can make more informed staffing decisions and deliver higher-quality results.<br>- Transparency in award decisions is critical.<br>- Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence, or boilerplate rejection notices, drives disengagement.<br><br> **Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation. |
+| 2. Cultural Intentionality | Culture is often treated as a soft skill, but it's an operational lever in a multi-vendor environment. Vendors model their behavior based on how they see the government treating partners. If the agency is reactive, opaque, or overly punitive, vendors may become risk-averse, avoid transparency, and resort to gaming behavior. <br><br> Instead, culture can be intentionally designed to support collaboration and continuous improvement: <br>- Quarterly program-wide syncs can bring COs, CORs, POs, and all vendor partners to celebrate wins, align on upcoming priorities, and foster a shared mission.<br>- Feedback loops—including post-award debriefs, user research with competitors, and anonymous vendor surveys—allow vendors to voice concerns without fear of retaliation.<br>- Tone-setting in meetings matters. A posture of partnership (rather than compliance policing) encourages openness, especially when discussing blockers or scope adjustments.<br><br> A healthy vendor market isn’t defined by tension between buyers and sellers. While a history of mistrust between government and vendors may linger, it doesn’t have to shape how we work today. In a small but capable vendor ecosystem, contracting officers have a unique opportunity to influence behavior and outcomes by fostering a culture of transparency and responsiveness. <br><br> Creating a strong culture doesn’t mean sacrificing accountability; it means being intentionally collaborative. When teams operate with mutual trust and clear expectations, it becomes easier to hold one another accountable while encouraging innovation and shared problem-solving. |
+| 3. Equity in vendor capabilities | Not all vendors start from the same position. In digital services, some may be traditional large federal contractors with built-in proposal machines. Others might be small, nimble, and talented firms with little federal experience. <br><br> To avoid reinforcing incumbency and inequity, agencies should: <br>- Level the playing field in task order design. Avoid requirements that demand only past federal performance or extremely complex pricing structures unless necessary.<br>- Support new entrants with: <br> Pre-award Q&A or due diligence sessions<br> Post-award evaluation feedback<br> Shadowing opportunities or partner team-ups<br>- Evaluate based on capability, not just legacy. A less experienced vendor might outperform a legacy provider in delivering modern design, engineering, or agile leadership.<br>- Be deliberate about how large and complex a task is. Are there areas that can be split off to support smaller, quicker efforts by smaller teams with unique qualifications?<br><br> **Warning:** If your task order format is so complex that only 2 out of 8 vendors can submit viable bids, you’re creating a self-defeating structure. The goal of a multi-vendor vehicle is modularity with flexibility, not just spreading work across the same incumbents. |
+| 4. Structure for shared success | Managing a team of vendors is like managing a fleet, not a single ship. Without shared structures and expectations, the fleet will drift. <br><br> Key practices to support multi-vendor effectiveness include: <br>- Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.<br>- Transparent task order processes:<br> Provide draft notices with time for vendor feedback.<br> Utilize rotating evaluation panels to foster trust and minimize bias.<br> Share highlights of the winning proposals (or redacted versions) to raise the bar for future bids.<br>- Group retrospectives: Invite others to learn from the task order’s delivery, even if only one vendor is awarded. This promotes institutional learning and vendor resilience.<br>- Standardized templates for task orders and evaluation scoring ensure that reviews are consistent and auditable, reducing vendor suspicion and increasing internal efficiency.<br>- Incorporate inter-vendor collaboration into performance evaluation. Effective collaboration with peer teams is essential for successful delivery in a multi-vendor environment. Add a QASP metric that explicitly measures how well vendors contribute to shared goals, communicate across vendor lines, and engage constructively in joint problem-solving. |
 
-In a traditional acquisition mindset, agencies view contracting as a one-to-one relationship: one agency, vendor, and contract. However, the program office no longer manages vendors when multiple vendors are brought in under a shared vehicle, whether through BPAs, IDIQs, or TO-based modular contracting. It’s working as a miniature marketplace.
 
-This market requires active stewardship:
-
-* Fairness and opportunity must be visible and tangible.  
-  *  Trust and motivation erode if the same few vendors repeatedly win task orders without explanation.  
-* Forecasting future work helps vendors align their capacity and retain their teams.   
-  * Vendors who understand the upcoming pipeline can make more informed staffing decisions and deliver higher-quality results.
-* Transparency in award decisions is critical.   
-  * Vendors invest time and effort in responses. Even when they don’t win, meaningful feedback helps them improve and continue competing. Silence, or boilerplate rejection notices, drives disengagement.
-
-**Key Insight:** You are more than a buyer. You’re curating an ecosystem where competition and collaboration coexist. When this market is nurtured well, agencies see stronger proposals, more thoughtful delivery, and greater innovation.
-
-#### 2\. Cultural Intentionality
-
-Culture is often treated as a soft skill, but it's an operational lever in a multi-vendor environment. Vendors model their behavior based on how they see the government treating partners. If the agency is reactive, opaque, or overly punitive, vendors may become risk-averse, avoid transparency, and resort to gaming behavior.
-
-Instead, culture can be intentionally designed to support collaboration and continuous improvement:
-
-* Quarterly program-wide syncs can bring COs, CORs, POs, and all vendor partners to celebrate wins, align on upcoming priorities, and foster a shared mission.
-
-* Feedback loops—including post-award debriefs, user research with competitors, and anonymous vendor surveys—allow vendors to voice concerns without fear of retaliation.
-
-* Tone-setting in meetings matters. A posture of partnership (rather than compliance policing) encourages openness, especially when discussing blockers or scope adjustments.
-
-A healthy vendor market isn’t defined by tension between buyers and sellers. While a history of mistrust between government and vendors may linger, it doesn’t have to shape how we work today. In a small but capable vendor ecosystem, contracting officers have a unique opportunity to influence behavior and outcomes by fostering a culture of transparency and responsiveness.
-
-Creating a strong culture doesn’t mean sacrificing accountability; it means being intentionally collaborative. When teams operate with mutual trust and clear expectations, it becomes easier to hold one another accountable while encouraging innovation and shared problem-solving.
-
-#### 3\. Equity in vendor capabilities
-
-Not all vendors start from the same position. In digital services, some may be traditional large federal contractors with built-in proposal machines. Others might be small, nimble, and talented firms with little federal experience.
-
-To avoid reinforcing incumbency and inequity, agencies should:
-
-* Level the playing field in task order design. Avoid requirements that demand only past federal performance or extremely complex pricing structures unless necessary.
-
-* Support new entrants with:
-
-  * Pre-award Q&A or due diligence sessions
-
-  * Post-award evaluation feedback  
-  * Shadowing opportunities or partner team-ups
-
-* Evaluate based on capability, not just legacy. A less experienced vendor might outperform a legacy provider in delivering modern design, engineering, or agile leadership.  
-* Be deliberate about how large and complex a task is. Are there areas that can be split off to support smaller, quicker efforts by smaller teams with unique qualifications? 
-
-Warning: If your task order format is so complex that only 2 out of 8 vendors can submit viable bids, you’re creating a self-defeating structure. The goal of a multi-vendor vehicle is modularity with flexibility, not just spreading work across the same incumbents.
-
-#### 4\. Structure for shared success
-
-Managing a team of vendors is like managing a fleet, not a single ship. Without shared structures and expectations, the fleet will drift.
-
-Key practices to support multi-vendor effectiveness include:
-
-* Definition of Done (DoD) and QASP clarity: Each task order should be anchored in clear, measurable expectations. The DoD should be co-created or validated with the government team and shared openly across vendors.
-
-* Transparent task order processes:
-
-  * Provide draft notices with time for vendor feedback.  
-  * Utilize rotating evaluation panels to foster trust and minimize bias.  
-  * Share highlights of the winning proposals (or redacted versions) to raise the bar for future bids.
-
-* Group retrospectives: Invite others to learn from the task order’s delivery, even if only one vendor is awarded. This promotes institutional learning and vendor resilience.
-
-* Standardized templates for task orders and evaluation scoring ensure that reviews are consistent and auditable, reducing vendor suspicion and increasing internal efficiency.
-
-* Incorporate inter-vendor collaboration into performance evaluation. Effective collaboration with peer teams is essential for successful delivery in a multi-vendor environment. Add a QASP metric that explicitly measures how well vendors contribute to shared goals, communicate across vendor lines, and engage constructively in joint problem-solving.
-
+---
 
 The Vendor Collaboration Index (VCI) is a performance metric that assesses the effectiveness of vendor engagement and collaboration within a multi-vendor environment. The table below outlines the performance standard, measurement methods, and rating scale used to evaluate and encourage constructive interactions between vendors.
 
 | Metric element | Description |
-| ----- | ----- |
-| **Performance standard** | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
-| **Measurement methods** | • Participation in shared retrospectives and planning sessions • Responsiveness in cross-vendor communication • Willingness to support shared technical integration or data sharing • Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
-| **Rating scale** | **Exceptional (5):** Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors. <br> **Satisfactory (3):** Participates in shared activities with minimal friction; meets expectations.<br>  **Unsatisfactory (1):** Withholds information, resists coordination, or causes blockers for other vendor teams. |
+| -------------- | ----------- |
+| Performance standard | The vendor demonstrates active and constructive collaboration with other vendors on the contract. |
+| Measurement method 1 | Participation in shared retrospectives and planning sessions |
+| Measurement method 2 | Responsiveness in cross-vendor communication |
+| Measurement method 3 | Willingness to support shared technical integration or data sharing |
+| Measurement method 4 | Feedback from COR/PO and peer vendor teams (via documented surveys or evaluations) |
+| Rating: Exceptional (5) | Consistently leads or enhances collaborative efforts; receives positive feedback from peer vendors. |
+| Rating: Satisfactory (3) | Participates in shared activities with minimal friction; meets expectations. |
+| Rating: Unsatisfactory (1) | Withholds information, resists coordination, or causes blockers for other vendor teams. |
 
-Bottom line: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.
 
 
+**Bottom line**: Multi-vendor success is not self-managing. It requires structure, transparency, consistency, and the commitment to treat vendors as delivery partners, not interchangeable parts.

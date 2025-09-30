@@ -2,14 +2,14 @@
 
 **Module 1 Sprint 1**
 
-- **Session Title: Introducing Casey and the CRM Project**  
+- **Session title:** Introducing Casey and the CRM Project  
 - **Date:** \[Insert Date\]  
 - **Time:** \[Insert Start and End Time\]  
 - **Location:** \[Insert Location or Link\]  
 - **Target Audience:** Federal acquisition professionals enrolled in DITAP  
 - **Facilitator(s):** \[Insert Facilitator Name(s)\]
 
-## I. Overview & objectives  
+## I. Overview and objectives  
 In this module, learners will explore what digital services are, how they are delivered, and why they matter. This session sets the foundation for the program by introducing the key concepts, players, and methods in modern federal digital acquisition. 
 
 The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), created by [Cynuria](https://cynuria.com/), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
@@ -27,7 +27,7 @@ This is the first of several touchpoints with the Nagivating Stakeholder and Dec
 | Note: This is an extension activity designed to orient learners to the Nagivating Stakeholder and Decision-Making Challenges case. It is *not part of the original case study* but helps surface early hypotheses and connections between course concepts and Casey’s environment. |
 | :---- |
 
-## II. Materials & preparation
+## II. Materials and preparation
 
 **Required materials:**
 * Nagivating Stakeholder and Decision-Making Challenges Case Study: Full Version (Pre-read before class)  
@@ -54,7 +54,7 @@ This is the first of several touchpoints with the Nagivating Stakeholder and Dec
 * What aspects of this scenario are unique to federal vs. private sector acquisitions?  
 * How do the stakeholder dynamics here reflect common federal procurement tensions?
 
-## III. Session agenda & activities
+## III. Session agenda and activities
 
 **Activity title:** Introducing Casey and the CRM Project  
 **Time:** 60-75 minutes  

@@ -1,10 +1,11 @@
-# Module 2 Sprint 3
+# Defining Success for Your Digital Services Acquisition
+**Module 2 Sprint 3**
 
-## Defining Success for Your Digital Services Acquisition
+> _Average completion time: 35 - 45 minutes_
 
-### Overview
+## Overview
 
-Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From** **Discovery to Strategy”** equips acquisition professionals to make that critical shift.
+Effective digital services acquisition begins long before the first contract document is drafted. It starts with understanding the problem, aligning stakeholders, and translating discovery insights into a strategy that delivers real mission outcomes. This module **“From Discovery to Strategy”** equips acquisition professionals to make that critical shift.
 
 By leveraging early research, user interviews, and process mapping, contracting and program teams can co-create acquisition strategies that are flexible, user-centered, and outcome-driven. Rather than repeating legacy approaches or writing rigid contracts to avoid risk, this module encourages a mindset of adaptability, collaboration, and alignment, core principles of modern digital service delivery.
 
@@ -12,22 +13,21 @@ Success in digital services doesn’t start with a delivery milestone, it starts
 
 This module emphasizes the strategic role of the acquisition professional in shaping not just the contract, but the success of the entire digital service. By applying these concepts, learners will gain the tools and language to build acquisitions that are not only compliant but truly impactful.
 
-#### Learning objectives
+## Learning objectives
 
 By the end of this sprint, you will be able to: 
 
-* Define a user-centered problem statement that avoids pre-defined solutions but aligns with user pain points.  
-* Draft a product vision statement using structured facilitation questions to describe the desired future state.  
-* Facilitate a product visioning session that engages stakeholders in clarifying goals and success outcomes.
-* Link product vision to procurement objectives and measurable success metrics using the RoM framework.  
-* Differentiate between features and outcomes when writing acquisition objectives and evaluation criteria.  
-* Recognize common pitfalls in early acquisition planning (e.g., vague goals, prescriptive requirements).  
-* Conduct a constraint discovery session to identify operational, technical, or policy-based acquisition limits.  
-* Apply identified constraints to shape acquisition strategies, contract types, timelines, and evaluation methods.  
-* Use discovery data and documented tradeoffs to defend and adapt acquisition decisions throughout the lifecycle.
+* Define a user-centered problem statement that avoids pre-defined solutions but aligns with user pain points 
+* Draft a product vision statement using structured facilitation questions to describe the desired future state  
+* Facilitate a product visioning session that engages stakeholders in clarifying goals and success outcomes
+* Link product vision to procurement objectives and measurable success metrics using the RoM framework
+* Differentiate between features and outcomes when writing acquisition objectives and evaluation criteria  
+* Recognize common pitfalls in early acquisition planning (e.g., vague goals, prescriptive requirements)  
+* Conduct a constraint discovery session to identify operational, technical, or policy-based acquisition limits  
+* Apply identified constraints to shape acquisition strategies, contract types, timelines, and evaluation methods  
+* Use discovery data and documented tradeoffs to defend and adapt acquisition decisions throughout the lifecycle
 
----
-## From Discovery to Strategy
+## From discovery to strategy
 
 Before defining success or mapping out your constraints, take a moment to reflect on the body of discovery work already completed. When we apply the concept of discovery to the acquisition process, the goal is to create a flexible and mission-aligned plan for buying services or supplies that solve real problems and achieve a positive acquisition outcome. A good digital services acquisition strategy draws from:
 
@@ -51,9 +51,7 @@ In digital services acquisition, it’s essential to approach the strategy phase
 Modern digital acquisition emphasizes the connection between product vision and product delivery. Whether you’re crafting a performance-based or outcome-based procurement, the principle is the same:
 
 * Start with the problem.
-
 * Set a clear vision or objective.
-
 * Let industry propose how to achieve it.
 
 Your discovery work, what stakeholders need, and what users expect should inform the specifics, such as scope, timeline, and level of detail. This creates a shared understanding of the outcomes without prescribing how every detail will be delivered.
@@ -65,7 +63,7 @@ By framing your product vision as a **Statement of Objectives (SOO)**, you natur
 Defining success starts with clearly stating the problem you aim to solve. Use your discovery insights to:
 
 * **Draft a product vision statement** (e.g., "Our solution enables caseworkers to process applications 50% faster without increasing error rates.")  
-* **Tie back** to user needs and unmet pain points.  
+* **Tie back** to user needs and unmet pain points  
 * **Achievable** – Is it realistic?  
 * **Relevant** – Does it solve the right problem?  
 * **Time-bound** – When will success be evaluated?
@@ -80,7 +78,7 @@ We recommend conducting an “Acq-A-thon” to bring all of this together in a o
 
 An *Acq-A-thon* is a collaborative workshop-style event designed to gather key stakeholders across the acquisition lifecycle to conduct discovery sessions that lead to more innovative, better-informed acquisition strategies. Inspired by the concept of a *hackathon*—an event in which a group of people come together to solve problems collaboratively, often through intense focus and teamwork (typically in coding or software design)—an Acq-A-thon emphasizes acquisition planning.
 
-## Define the problem, vision statement, & objectives
+## Define the problem, vision statement, and objectives
 
 ### What is the problem? 
 
@@ -96,7 +94,7 @@ This disconnect frustrates everyone and takes time away from finding a real solu
   It promotes alignment across leadership, end users, and contracting staff.  
 * It sets the stage for outcome-based acquisition.
 
-### Facilitate a problem & product visioning session
+### Facilitate a problem and product visioning session
 
 One of the most effective ways to uncover the problem and define meaningful objectives is to facilitate a structured stakeholder session. This session brings together program staff, CORs, end users (if possible), and other key voices to explore the underlying challenges and desired outcomes collaboratively.
 
@@ -124,18 +122,18 @@ Prompt for the Contracting Officer:
 
 Now that we’ve agreed on the problem, our next step is to describe the future state we want to create and what it looks like if this procurement is successful. This is called the product vision, and it will help us focus on outcomes instead of jumping to specific features or systems. 
 
-### Start by asking these types of questions:
+**Start by asking these types of questions:**
 
 **Product vision facilitation guide – Vision Questions**
 
-| Question | What’s the ask | What to listen for |  How to capture it |
+| Question | What’s the Ask | What to Listen For |  How to Capture It |
 | :---- | ----- | ----- | ----- |
 | **1\. If this works well, what’s different for the user?** | What does success look like from the user’s perspective? What changes in their experience? | Concrete improvements in time, access, simplicity, and frustration levels | Write as: “Users can now \[do X\] without \[pain point\].” |
 | **2\. What do we want this tool or service to enable?** | What behavior, action, or outcome should this product make possible that isn’t possible now? | Outcomes, not just features (e.g., “apply easily” not “have a login form”) | Use active verbs: “Enables users to \[action\].” |
 | **3\. How does this help the agency deliver its mission?** | What’s the mission-level impact this product supports? How will this make the agency better at what it’s meant to do? | Connection to public service goals—speed, equity, access, cost savings | Frame as: “Supports mission by \[how it contributes to the goal\].” |
-| **4\. What’s a sign this product is working as intended?** | What observable signs, metrics, or behaviors would indicate success? | Measurable indicators like reduced drop-off, increased uptake, fewer calls for help | Capture as performance indicators or success criteria |
-| **5\. Who benefits the most from this product being successful?** | Which users or communities are most impacted if this product works well? | Equitable service outcomes (e.g., rural families, limited-English speakers) | Use this to inform accessibility, language support, or design considerations |
-| **6\. What’s broken today that this is meant to fix?** | Where is the current process's friction, duplication, confusion, or burden? | Problems tied to inefficiency, manual work, miscommunication, and error rates | Use these insights to reinforce the “why” behind the vision |
+| **4\. What’s a sign this product is working as intended?** | What observable signs, metrics, or behaviors would indicate success? | Measurable indicators like reduced drop-off, increased uptake, fewer calls for help | Capture as performance indicators or success criteria. |
+| **5\. Who benefits the most from this product being successful?** | Which users or communities are most impacted if this product works well? | Equitable service outcomes (e.g., rural families, limited-English speakers) | Use this to inform accessibility, language support, or design considerations. |
+| **6\. What’s broken today that this is meant to fix?** | Where is the current process's friction, duplication, confusion, or burden? | Problems tied to inefficiency, manual work, miscommunication, and error rates | Use these insights to reinforce the “why” behind the vision. |
 
 ## Reframing metrics: From Return on Investment (ROI) to Return on Mission (RoM)
 
@@ -146,8 +144,7 @@ In the private sector, success is often measured in Return on Investment (ROI), 
 However, in government, mission outcomes are the return. Whether delivering benefits faster, increasing public trust, or improving equitable access to services, the actual value of a digital service is measured by how well it advances the agency's mission.
 
 **Instead of asking:**
-
-“Did we stay within budget?”
+  “Did we stay within budget?”
 
 **We must also ask:**  
  	“Did this procurement help us serve the public better?”
@@ -156,15 +153,13 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 
 **Example:**
 
-**Product vision:** “Enable families to easily apply for childcare assistance online, without requiring in-person visits or paperwork.”
-
-**Procurement objective:** “Deliver an accessible, mobile-first benefits application experience within 6 months of award.”
-
-**Return on Mission:** “The public value created when more eligible families can successfully access childcare assistance faster, with fewer barriers, leading to improved family economic stability and child wellbeing.” 
+- **Product vision:** “Enable families to easily apply for childcare assistance online, without requiring in-person visits or paperwork.”
+- **Procurement objective:** “Deliver an accessible, mobile-first benefits application experience within 6 months of award.”
+- **Return on Mission:** “The public value created when more eligible families can successfully access childcare assistance faster, with fewer barriers, leading to improved family economic stability and child wellbeing.” 
 
 ### How to recognize Return on Mission in this case
 
-| RoM outcome | Why it matters |
+| RoM Outcome | Why it Matters |
 | ----- | ----- |
 | **Increased access to childcare assistance** | More families, predominantly low-income and rural, can get the help they need without taking off work or visiting an office. |
 | **Improved equity in service delivery** | Removing in-person and paperwork barriers disproportionately helps those who struggle with digital literacy, mobility, or language access. |
@@ -172,9 +167,9 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Greater program uptake** | Easier access leads to more eligible families enrolling, which supports the program’s mission. |
 | **Cost savings to the government and applicants** | Less staff burden, fewer application errors, and reduced in-office foot traffic. |
 
-## Linking Product Vision → Procurement Objective → Metrics → Return on Mission
+### Linking product vision → procurement objective → metrics → Return on Mission
 
-| Phase | Purpose | Key output |
+| Phase | Purpose | Key Output |
 | :---- | :---- | :---- |
 | **Product vision** | Articulate what long-term public value looks like | Inspiring, user-centered vision statement |
 | **Procurement objective** | Translate the vision into clear acquisition goals | Specific outcomes expected from vendor work |
@@ -182,32 +177,25 @@ Rather than seeing metrics as contract performance tracking or compliance checkp
 | **Return on Mission** | Evaluate how delivery supported the agency's mission | Public impact, service improvement, equity outcomes |
 
 **Instead of asking:**
-
-“How do we ensure vendors meet contract requirements?”
+  “How do we ensure vendors meet contract requirements?”
 
 **Ask:**
-
-“How do we measure whether this work helps us fulfill our mission more effectively?”
+  “How do we measure whether this work helps us fulfill our mission more effectively?”
 
 **This allows teams to:**
 
-* Design performance work statements around impact, not just features.
+* Design performance work statements around impact, not just features
+* Create feedback loops that prioritize iteration and improvement
+* Select vendors who understand mission delivery, not just software development
 
-* Create feedback loops that prioritize iteration and improvement.
+ **Common pitfalls to avoid**
 
-* Select vendors who understand mission delivery, not just software development.
+* Writing problem statements that sound like pre-selected solutions
+* Skipping objectives because “we’ll know it when we see it”
+* Setting vague goals like “improve user experience” without measurable criteria
+* Confusing features with outcomes (e.g., “have a dashboard” vs. “help staff track performance in real time”)
 
- **Common Pitfalls to Avoid**
-
-* Writing problem statements that sound like pre-selected solutions.
-
-* Skipping objectives because “we’ll know it when we see it.”
-
-* Setting vague goals like “improve user experience” without measurable criteria.
-
-* Confusing features with outcomes (e.g., “have a dashboard” vs. “help staff track performance in real time”).
-
-## Checklist for Step 1 Completion
+### Checklist for Step 1 completion
 
 Before moving to acquisition strategy development, ensure you can answer:
 
@@ -216,8 +204,7 @@ Before moving to acquisition strategy development, ensure you can answer:
 - [ ]  What does success look like?  
 - [ ]  What measurable objectives will we use to guide and evaluate this acquisition?
 
----
-## Defining Constraints Before Acquisition Strategy Begins
+### Defining constraints before acquisition strategy begins
 
 Before you begin building the acquisition strategy, it's essential to identify constraints that could shape or limit what’s possible in the procurement. 
 
@@ -226,9 +213,9 @@ These are often:
 * Technical  
 * Legal  
 * Operational  
-* Policy-based conditions that will affect timelines, solution types, vendor eligibility, or even contract structure. 
+* Policy-based conditions that will affect timelines, solution types, vendor eligibility, or even contract structure 
 
-You want to treat constraints like design inputs, not limitations.  By identifying and understanding them early, you build a stronger acquisition strategy.
+You want to treat constraints like design inputs, not limitations. By identifying and understanding them early, you build a stronger acquisition strategy.
 
 ### Why this matters
 
@@ -240,7 +227,7 @@ By identifying constraints during the discovery phase, you can prepare to make f
 
 **Implementation Tip:** It’s easy to treat these questions like a simple checklist, especially for smaller, low-risk procurements. But don’t skip the conversation. Talking through them as a team (instead of just swapping documents) builds trust, gets everyone on the same page, and sets the tone for a more collaborative process. Bonus: It can be fun. When the final solution comes together, and you can trace it back to the thinking you shaped early on, the magic happens. It’s a tangible reminder of how much your expertise matters.
 
-## Suggested questions for constraint discovery sessions
+### Suggested questions for constraint discovery sessions
 
 
 | Topic                      | Questions to Ask |
@@ -255,7 +242,7 @@ By identifying constraints during the discovery phase, you can prepare to make f
 | Technology environment    | Will the solution integrate with legacy systems or require cloud migration? Are there existing development platforms or data environments it must align with? |
 
 
-## Why defining constraints early pays off
+### Why defining constraints early pays off
 
 Once constraints are identified and documented during the discovery phase, they stop being unknown risks and become powerful decision-making tools. They give you the full context needed to shape a realistic, achievable procurement aligned with your agency’s mission, not just a paper strategy that collapses under real-world pressure.
 
@@ -300,13 +287,13 @@ Without early constraint discovery, you risk hitting critical issues during acqu
 * Confused vendors submitting non-responsive proposals  
 * Award protests due to unclear or conflicting evaluation criteria
 
-## Using data to defend your decisions
+### Using data to defend your decisions
 
 Defining constraints early helps you build a **mission-aligned, defensible acquisition strategy** that drives **real results**, not just contract execution.
 
 When stakeholders and reviewers see that you’ve accounted for **practical limits** and **internal realities**, it builds **confidence** in your approach.
 
-In digital service procurements, this matters even more
+In digital service procurements, this matters even more.
 
 Understanding the landscape of constraints during the discovery phase isn’t just about designing a better acquisition—it’s about building:
 
@@ -318,7 +305,7 @@ Understanding the landscape of constraints during the discovery phase isn’t ju
 
 A well-informed team that communicates openly and documents early decisions will be better prepared when challenges inevitably arise, whether during the solicitation phase or contract administration.
 
-### Benefits of Early Constraint Discovery
+### Benefits of early constraint discovery
 
 * Creates a shared understanding of why trade-offs were made  
 * Strengthens cross-team relationships  
@@ -326,12 +313,11 @@ A well-informed team that communicates openly and documents early decisions will
 * Equips the team to adapt if the work shifts or performance issues arise  
 * Supports realistic exit strategies before you're in crisis
 
-## Bottom Line
+**Bottom line**
 
 Constraint discovery is not just a planning step; it’s a practice of risk management and collaborative alignment that supports more confident, mission-focused decision-making from start to finish.
 
----
-## Knowledge Check 
+## Knowledge check 
 
 1. Which of the following best describes the purpose of identifying constraints before developing an acquisition strategy?
 
@@ -342,16 +328,12 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 
 > Identifying constraints helps teams stay aligned with practical boundaries and craft realistic strategies.
 
----
-
-2. True or False: Constraints should only be identified for high-risk or large-scale procurements.
+2. True or False? Constraints should only be identified for high-risk or large-scale procurements.
 
 - [x] False
 - [ ] True
 
 > Constraints should be identified for all acquisition efforts, regardless of size, because they guide sound strategy development.
-
----
 
 3. Which of the following are constraints that could impact your strategy? *(Select all that apply.)*
 
@@ -363,8 +345,6 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 
 > Constraints often involve time, funding, approvals, and readiness factors—not just vendor history.
 
----
-
 4. Why is treating constraint discovery like a checklist instead of a conversation risky?
 
 - [ ] A. It wastes too much time  
@@ -373,8 +353,6 @@ Constraint discovery is not just a planning step; it’s a practice of risk mana
 - [ ] D. It only works if legal is in the room
 
 > Collaborative conversations surface practical insights and build alignment across stakeholders.
-
----
 
 5. Scenario
 
@@ -385,14 +363,12 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 **What should you do? (Choose the BEST option)**
 
-- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation  
-- [ ] B. Choose a firm-fixed-price contract now and adjust if needed  
-- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility  
-- [ ] D. Push back the solicitation until these constraints are no longer relevant
+- [ ] A. Ignore these constraints—they’ll sort themselves out during evaluation.  
+- [ ] B. Choose a firm-fixed-price contract now and adjust if needed.
+- [x] C. Build in a phased approach, include delivery support services, and engage leadership on process flexibility.  
+- [ ] D. Push back the solicitation until these constraints are no longer relevant.
 
 > A phased, proactive approach reduces risk and supports agility as constraints are addressed over time.
-
----
 
 6. Which of the following benefits come from defining constraints early? *(Select all that apply.)*
 
@@ -404,21 +380,15 @@ You’re planning a new digital services procurement. During early discovery, yo
 
 > Early constraint discovery builds stronger strategies and relationships—critical for digital service acquisitions.
 
----
+## Recommended reading
 
-## Recommended Reading
-
-Every Project Needs an Inspiring Product Vision
+_Every Project Needs an Inspiring Product Vision_
 
 Every successful product begins with a clear and inspiring vision—a concise, compelling statement serving as the true north for the entire team. The product vision is not just a motivational tagline; it defines *why* a product exists and *what* meaningful change it aims to bring about. It aligns stakeholders, energizes development teams, and ensures consistent direction throughout the product lifecycle.
 
-The [Every Project Needs an Inspiring Product Vision document](https://github.com/usds/ditap-curriculum-update/blob/dcdcd69f7e2d4eccbd9b394250e0f0a1117b9ef0/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/Module-2-Media/Every%20Project%20Needs%20an%20Inspiring%20Product%20Vision(Reading).pdf), from the U.S. Digital Service, outlines essential principles and practical steps for crafting a product vision that inspires action, guides decision-making, and remains adaptable in the face of change. Whether you’re launching a new digital service or improving an existing one, an effective product vision is the foundation upon which meaningful, user-centered solutions are built.
+The [Every Project Needs an Inspiring Product Vision document](https://techfarhub.usds.gov/assets/files/CreateAnInspritingProductVisionF.pdf), from the U.S. Digital Service, outlines essential principles and practical steps for crafting a product vision that inspires action, guides decision-making, and remains adaptable in the face of change. Whether you’re launching a new digital service or improving an existing one, an effective product vision is the foundation upon which meaningful, user-centered solutions are built.
 
 
 
 
       
-
-
-
-

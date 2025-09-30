@@ -1,8 +1,9 @@
-# Module 5 Sprint 2
+# Staying Current and Driving Change: Your Role in Continuous Improvement
+**Module 5 Sprint 2**
 
-## Staying Current and Driving Change: Your Role in Continuous Improvement
+> _Average completion time: 60 - 75 minutes_
 
-### Why Continuous Learning Matters in Federal Acquisition
+## Why Continuous Learning Matters in Federal Acquisition
 
 Technology and policy in the federal space are evolving faster than ever. From emerging tools like artificial intelligence to policy shifts that emphasize modernization, acquisition professionals must stay ahead of change, not react to it.
 
@@ -14,7 +15,7 @@ Continuous learning also strengthens your ability to lead change. Whether you're
 
 In today’s environment, continuous learning isn’t optional; it’s a core part of being an effective, future-ready acquisition professional.
 
-By the end of this module, you will be able to assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community.
+By the end of this sprint, you will be able to assess your strengths and change style to develop a personal plan for contributing to and promoting change within your agency and the broader government community.
 
 ---
 ## Staying Current with Emerging Tech and Trends
@@ -32,7 +33,7 @@ Emerging tech isn’t just for IT teams. Staying informed about technology trend
 
 ### Tech in Action: Generative AI and Federal Acquisition
 
-Take **generative AI** as an example. It has already begun influencing how acquisition professionals:
+Take generative AI as an example. It has already begun influencing how acquisition professionals:
 
 * Conduct **market research** by analyzing vendor data more efficiently.  
 * Draft or refine **performance work statements** using AI-assisted language tools.  
@@ -87,7 +88,7 @@ Staying current isn’t about keeping up with every trend, it’s about staying 
 
 Take a few minutes to reflect on the following questions. You can jot down your responses or simply pause to think them through:
 
-1. **How do I currently stay informed about changes in technology or acquisition practices?**  *(e.g., newsletters, team discussions, events, personal reading)*  
+1. **How do I currently stay informed about changes in technology or acquisition practices?** *(e.g., newsletters, team discussions, events, personal reading)*  
 2. **What challenges have I faced in keeping up with emerging trends?**  
     *(e.g., time constraints, information overload, lack of relevance)*  
 3. **What’s one small habit I could start to stay more current?**  
@@ -171,7 +172,7 @@ Use the template below to guide your Procurement Retrospective and reflect on wh
 
 5\. Lessons Learned Summary
 
-*(Summarize the top 1–3 takeaways in 1–2 sentences.)*  <br> <br>
+*(Summarize the top 1–3 takeaways in 1–2 sentences.)* <br> <br>
 
 ---
 
@@ -207,7 +208,7 @@ Working closely with program staff, especially on **iterative requirement develo
 
 ### Document and Share What Works
 
-Sharing what worked—and what didn’t—with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
+Sharing what worked—and what didn’t — with peers or newer contracting officers fosters collective learning. Whether you write a short summary in a shared folder, post a quick note in your team’s collaboration space (e.g., Teams, Slack), present a “top 3 takeaways” at a team meeting, or contribute to an internal playbook, knowledge sharing turns individual experience into agency-wide progress.
 
 ### Final Thoughts
 
@@ -226,13 +227,13 @@ From playbooks and field guides to toolkits and checklists, these documents help
 
 The concept of a playbook, with its roots in ancient military strategies and sports tactics, has transcended its original domains, organically spreading into a wide array of fields. This includes politics, where they inform campaign strategies; the military, with standard operating procedures; healthcare, through treatment protocols; education, via curriculum guides; marketing, in the form of communication strategies; and law enforcement, with procedural guidelines. In each of these contexts, a playbook functions as a metaphor for an organized, strategic approach to navigating complex tasks or situations. It represents a curated collection of tried-and-tested methods, often compiled from accumulated experience and best practices, all aimed at achieving specific outcomes.
 
-The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy.  Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
+The evolution of playbooks from rigid, detailed instructions for military maneuvers or sports plays to flexible, guiding frameworks underscores a profound shift in organizational philosophy. Modern playbooks, by emphasizing guidance over dictation and fostering autonomy, reflect a deeper understanding of how organizations function effectively in dynamic environments.
 
 Within the fast-paced tech industry, business playbooks have become indispensable tools, addressing critical operational challenges and fostering a culture of efficiency and innovation. For instance, a playbook can meticulously detail the steps for handling customer complaints or executing a marketing campaign, guaranteeing consistent outcomes across all interactions.
 
 High-performance product teams in the tech industry leverage playbooks to:
 
-* **Cultivate a Learning Mindset**: They encourage the development and deployment of Minimum Viable Products (MVPs) to maximize learning opportunities and minimize waste in the development cycle.  
+* **Cultivate a Learning Mindset**: They encourage the development and deployment of Minimum Viable Products (MVPs) to maximize learning opportunities and minimize waste in the development cycle. 
 * **Establish Continuous Feedback Loops**: Through practices like feature walkthroughs, story kickoffs, product demos, and bug bashes, these teams ensure a constant flow of feedback, which drives rapid and valuable product development.  
 * **Conduct Action-Oriented Retrospectives**: Playbooks guide teams to ensure that retrospective meetings translate discussions into specific, actionable items, assign clear ownership, and include follow-up mechanisms, thereby empowering teams to drive tangible positive outcomes.  
 * **Promote Knowledge Sharing**: They advocate for creating psychologically safe spaces where all team members feel comfortable sharing their knowledge, fostering a "teacher-learner culture" that reinforces mastery and collective growth.
@@ -328,8 +329,6 @@ Start small. Keep it real. And make it shareable.
 ---
 ## Exploring your role as an ambassador of change
 
-Introduction
-
 Earlier, you learned how to prepare for and have influencing conversations. Now, let’s explore how to think strategically about those influence conversations and how to use them, in combination with other tactics and techniques, to drive change. This online learning will build upon that study and focus on how to lead the change itself.
 
 In this online module, you’ll learn about a framework to help you think about the phases of change and some specific strategies you can use to implement change at each phase.
@@ -397,8 +396,6 @@ For a historical example of building your coalition, take a look at the **United
 In 1945, representatives from 50 nations met to create the Charter, which reaffirms fundamental human rights, calls out the principles of equal rights, and self-determination of all people, as well as international cooperation in solving economic, social, cultural, and humanitarian problems around the world. The formulation of the organization actually took place over several years and took time to get key stakeholders onboard.
 
 Or consider **Congress**. A Representative or Senator introduces legislation on the floor, then it goes to Committee. Then, they must form a coalition in the committee to get it onto the floor for vote.
-
-Another example comes from popular culture and film: **Marvel’s The Avengers**. This group of superheroes are influencers individually. Collectively, they’re able to save the world. They all must have room to exert their own power, and when they choose to work together collectively, it turns out they are unstoppable. They are a potentially unlikely team, but an unstoppable force when they work together to achieve the same goal.
 
 Our final example takes us into the worlds of fashion and social media that began with a flash event initiated by clothing store **Lord & Taylor**. The brand reached out to 50 “style influencers” and asked that they all post pictures in the same dress (styled however they wanted) within a certain window of time on the photo-sharing platform Instagram. This is an interesting example because Lord & Taylor knew that this would be a unique way to attract their customers – through the style influencers they trust and admire. Each influencers had the flexibility to style the garment and then saturate the market with the image. The dress sold out almost immediately\! While using brand and style bloggers or “Instagrammers” might not be a typical coalition, it’s actually a unique way to deliver your message to your client via a trusted source. Lord & Taylor recognized that the point of key players in your coalition was to build the bridge of trust when embarking on an uncertain or new task.
 
@@ -483,7 +480,7 @@ Here are some things to keep in mind when considering how to celebrate short-ter
 
 * **Do it in the moment** – Catch people doing incredible work as they are doing it. Be specific and descriptive.  
 * **Make sure you provide context** – A win doesn’t mean much if we don’t understand how it drives toward the ultimate goal, project completion, etc.  
-* **Be authentic** – You have to mean it\!
+* **Be authentic** – You have to mean it!
 
 As a digital acquisition ambassador and leader, you’ll have to think through exactly what the small wins will be and the appropriate level of recognition that makes the right people pay attention, makes the team/army feel like they accomplished something, and helps give the army another celebration to look forward to.
 
@@ -520,6 +517,8 @@ Take some time to reflect on a few other items that you’ve learned about in th
 * How will you play up the areas where you have particular strengths?
 
 Feel free to share your answers with your fellow participants and/or your supervisor/manager. They can help you fill in gaps, point you to new resources, or share ideas on how to use your strengths.
+
+---
 
 ## Self-Assessment: What’s Your Change Style?
 
@@ -616,9 +615,9 @@ Note: This self-assessment is a simplified framework inspired by common change l
 
 ## Reflect & Apply
 
-1\. What style did you get? Do you agree with it? Why or why not?  
-2\. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
-3\. Are there other styles you’d like to develop more intentionally? How might you start?
+1. What style did you get? Do you agree with it? Why or why not?  
+2. What’s one way you can use your strengths to promote change in your next procurement or team collaboration?  
+3. Are there other styles you’d like to develop more intentionally? How might you start?
 
 --- 
 
