@@ -1,13 +1,8 @@
-# SCORM Package Repository \- Read Me
+# SCORM Packages for Vendors
 
-**Version:** September 24, 2025  
- **Contents:** 19 SCORM packages (organized by module and sprint)
+## SCORM File Structure
 
----
-
-## SCORM file structure
-
-Each module has its own folder and contains SCORM 1.2 .zip packages for each sprint within that module. Each .zip is a self-contained SCORM package ready for LMS import.   
+Each module contains SCORM 1.2 .zip packages for each sprint within that module. Each .zip is a self-contained SCORM package ready for LMS import.   
 
 This design makes it easy for vendors to:
 
@@ -17,7 +12,34 @@ This design makes it easy for vendors to:
 
 This approach reduces vendor workload and ensures smoother updates when future revisions are made.
 
-Mapping: 
+## Where to Download
+
+SCORM packages are not stored in this folder. Download the **ready-to-import** zips from the project’s **GitHub Releases**.
+
+### Quick steps
+1. Open the Releases page:  
+   - **Latest:** https://github.com/usds/ditap-curriculum-update/releases/latest  
+   - **All releases:** https://github.com/usds/ditap-curriculum-update/releases
+2. Open the most recent release (look for the **Latest** badge).
+3. Scroll to **Assets**.
+4. Download the SCORM `.zip` for each module you need.
+
+> Tip: Bookmark the **Latest** link so you always get the current packages.
+
+### What you’ll find
+- One `.zip` per module (SCORM package), ready to import into your LMS.
+- Release notes with changes and usage guidance.
+
+### Importing into your LMS
+- Use your LMS’s “Import/Upload SCORM” feature and select the downloaded `.zip`.  
+- Packages are self-contained to improve compatibility with common LMS settings.
+
+### Questions or issues
+- Open an issue here: https://github.com/usds/ditap-curriculum-update/issues  
+  Include your LMS name/version, the module zip, the release tag (e.g., `v2`), and any error messages/screenshots.
+
+
+## Mapping: 
 
 | SCORM file | Markdown file |
 | :---- | :---- |
@@ -68,9 +90,9 @@ All packages were exported using the [LiaScript SCORM exporter](https://liascrip
 ---
 
 ## Versioning
-
-* Current release: September 24, 2025  
-* Vendors should replace older SCORM packages with the updated .zip files if available.  
+- Each release has a version tag (e.g., `v1`, `v2`).  
+- Confirm the tag matches the version your team plans to deploy.
+ 
 * Vendors can also generate their own SCORM packages using the [LiaScript exporter](https://liascript.github.io/exporter/).
 
 ---
