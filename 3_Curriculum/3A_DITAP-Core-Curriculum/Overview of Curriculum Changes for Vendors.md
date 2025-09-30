@@ -432,9 +432,7 @@ All participants must demonstrate competency across three important areas:
 * Applied Learning Assignments and In-Class Discussions:
 
   * Stakeholder Research Assignment
-  * 
   * Shadowing Assignment
-  * 
   * In-Class Discussions of the Threaded Case Scenario
 
 ### Recommended Cadence:
