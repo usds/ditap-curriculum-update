@@ -73,6 +73,7 @@ jobs:
 
     - name: Export ${{ matrix.module.package }} to SCORM 1.2
       id: export
+      # TODO: Switch this to use the official LiaScript action once https://github.com/LiaScript/LiaScript-Exporter/pull/57 is merged and tagged
       uses: grugnog/LiaScript-Exporter@github-actions
       with:
         input-file: "${{ matrix.module.path }}"
