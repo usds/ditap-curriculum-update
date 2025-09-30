@@ -1,0 +1,155 @@
+name: Export DITAP SCORM Packages
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+  release:
+    types: [ published ]
+
+# Define the matrix once using a YAML anchor (&)
+jobs:
+  export-scorm:
+    runs-on: ubuntu-latest
+    continue-on-error: false
+    strategy:
+      fail-fast: false
+      matrix: &module_matrix
+        module:
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/1_Program Pre-Assessment.md"
+            package: "Module0_Pre-Assessment"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-0/Self-Paced Materials/2_Orientation.md"
+            package: "Module0_Orientation"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-1/Self-Paced Materials/1_The Digital Services Landscape.md"
+            package: "Module1_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-2/Self-Paced Materials/1_Digital Service Methods, Roles, and Sources of Supply.md"
+            package: "Module1_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-1/Sprint-3/Self-Paced Materials/1_Digital Service Tech Bootcamp.md"
+            package: "Module1_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-1/Self-Paced Materials/1_Assessing Agency Readiness.md"
+            package: "Module2_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/Self-Paced Materials/1_Stakeholder and Customer Mapping.md"
+            package: "Module2_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-3/Self-Paced Materials/1_Defining Success for your Digital Services Acquisition.md"
+            package: "Module2_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-4/Self-Paced Materials/1_Conducting Effective Market Research.md"
+            package: "Module2_Sprint4"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-1/Self-Paced Materials/1_Developing a Successful Acquisition Strategy.md"
+            package: "Module3_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-2/Self-Paced Materials/1_Developing the Solicitation.md"
+            package: "Module3_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/Self-Paced Materials/1_Running a Successful Evaluation.md"
+            package: "Module3_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-1/Self-Paced Materials/1_Management of Digital Service Delivery.md"
+            package: "Module4_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-2/Self-paced/1_Performance Measurement Under Agile Delivery Contracts.md"
+            package: "Module4_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-3/Self-Paced Materials/1_Contract Kickoff.md"
+            package: "Module4_Sprint3"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/Sprint-4/Self-paced/1_Contract Management and Problem Resolution.md"
+            package: "Module4_Sprint4"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-1/Self-paced/1_Leading Change as an Individual.md"
+            package: "Module5_Sprint1"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/1_Leading Organizational Change.md"
+            package: "Module5_Sprint2"
+          - path: "3_Curriculum/3A_DITAP-Core-Curriculum/Module-5/Sprint-2/Self-Paced Materials/2_Post-Program Assessment.md"
+            package: "Module5_Sprint2_Post-Assessment"
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Generate artifact name
+      id: artifact-name
+      run: |
+        if [ "${{ github.event_name }}" = "pull_request" ]; then
+          echo "name=PR${{ github.event.number }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+        elif [ "${{ github.event_name }}" = "release" ]; then
+          echo "name=${{ github.event.release.tag_name }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+        else
+          echo "name=${{ github.ref_name }}-${{ github.sha }}-${{ matrix.module.package }}" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Export ${{ matrix.module.package }} to SCORM 1.2
+      id: export
+      # TODO: Switch this to use the official LiaScript action once https://github.com/LiaScript/LiaScript-Exporter/pull/57 is merged and tagged
+      uses: grugnog/LiaScript-Exporter@github-actions
+      with:
+        input-file: "${{ matrix.module.path }}"
+        format: scorm1.2
+        output-name: "${{ matrix.module.package }}"
+        scorm-organization: "USDS Digital IT Acquisition Professional Training Program (DITAP)"
+
+    - name: Upload SCORM package
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ steps.artifact-name.outputs.name }}
+        path: ${{ steps.export.outputs.output-file }}
+        retention-days: ${{ github.event_name == 'release' && 90 || 30 }}
+
+  update-release-description:
+    if: github.event_name == 'release'
+    needs: export-scorm
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Append to release description
+      uses: actions/github-script@v6
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        script: |
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Get the current release
+          const release = await github.rest.repos.getRelease({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            release_id: ${{ github.event.release.id }}
+          });
+          
+          // Read the template file
+          const templatePath = path.join(process.cwd(), '.github/templates/release-description.md');
+          let templateContent = fs.readFileSync(templatePath, 'utf8');
+          
+          // Replace template variables
+          templateContent = templateContent.replace(/{{RELEASE_DATE}}/g, '${{ github.event.release.created_at }}');
+          
+          // Combine existing body with new content
+          const existingBody = release.data.body || '';
+          const newBody = existingBody + '\n\n' + templateContent;
+          
+          await github.rest.repos.updateRelease({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            release_id: ${{ github.event.release.id }},
+            body: newBody
+          });
+
+
+  upload-to-release:
+    if: github.event_name == 'release'
+    needs: export-scorm
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: *module_matrix # Reuse the same matrix alias here
+    steps:
+    - name: Download SCORM artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: ${{ github.event.release.tag_name }}-${{ matrix.module.package }}
+        path: ./downloads/
+
+    - name: Upload to release
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ github.event.release.upload_url }}
+        asset_path: ./downloads/${{ matrix.module.package }}.zip
+        asset_name: ${{ matrix.module.package }}.zip
+        asset_content_type: application/zip
