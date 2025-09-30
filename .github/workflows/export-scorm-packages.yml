@@ -77,8 +77,8 @@ jobs:
 
     - name: Export ${{ matrix.module.package }} to ${{ matrix.format.id }}
       id: export
-      # TODO: Switch this to use the official LiaScript action once https://github.com/LiaScript/LiaScript-Exporter/pull/57 is merged and tagged
-      uses: grugnog/LiaScript-Exporter@github-actions
+      # TODO: Switch this to a stable tag, once available upstream.
+      uses: LiaScript/LiaScript-Exporter@master
       with:
         input-file: "${{ matrix.module.path }}"
         format: ${{ matrix.format.id }}
