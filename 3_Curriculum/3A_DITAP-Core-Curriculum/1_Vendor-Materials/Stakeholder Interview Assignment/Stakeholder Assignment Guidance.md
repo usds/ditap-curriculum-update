@@ -28,7 +28,7 @@ Stakeholders that DITAP participants identify to interview should meet the follo
 
 **Suggested project timeline:**
 
-- Module 2, Sprint 2: Introduce the assignment.
+- Module 2, Sprint 2: Introduce [the assignment](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/In-Class%20Materials/3_Activity%3A%20Stakeholder%20Selection%20and%20Interview%20Assignment.md).
 - By the end of Module 2: Participants submit 2–4 proposed stakeholders for facilitator review via Learning Portal.
 - Module 3: Check in on progress, troubleshoot challenges.
 - By penultimate class: Participants conduct and submit two completed interviews (including summaries and reflections) via Learning Portal.
@@ -51,13 +51,13 @@ Facilitators are responsible for:
 Introduce this assignment live during Module 2, Sprint 2.
 
 - Set context: why stakeholder engagement matters in digital service delivery.
-- Review the assignment instructions and FAQs.
-- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in Navigating the Stakeholder Landscape Cont’d, Module 2, Sprint 2).
-- Preview the interview guide.
+- [Review the assignment instructions](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/In-Class%20Materials/3_Activity%3A%20Stakeholder%20Selection%20and%20Interview%20Assignment.md) and [FAQs](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder%20Assignment%20FAQs.md).
+- Demonstrate how to identify stakeholders using “stakeholder landscape map” or “circle of influence” (like the one in [Navigating the Stakeholder Landscape Cont’d](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-2/Self-Paced%20Materials/1_Stakeholder%20and%20Customer%20Mapping.md#navigating-the-stakeholder-landscape-contd), Module 2, Sprint 2).
+- Preview the [interview guide](https://github.com/usds/ditap-curriculum-update/blob/thesarahbaron-vendorpbk-reconcile-09292025/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder_Interview_Guide_Template.md).
 - Normalize the discomfort: acknowledge that reaching out to senior or unfamiliar stakeholders may feel daunting.
 - To help participants build confidence before reaching out to actual stakeholders, consider adding time for peer-to-peer practice interviews in class.  
 
-### Evaluation process
+### Approval & evaluation process
 
 1. Reviewers will locate the submitted assignments in the designated platform (LMS, email inbox, shared folder, etc.) and evaluate the assignments using the criteria below.
 2. Reviewers approve the assignment or return it for revision, with constructive and specific feedback.
@@ -76,8 +76,8 @@ Introduce this assignment live during Module 2, Sprint 2.
 
 When reviewing stakeholder selections, facilitators are encouraged to verify that proposed stakeholders meet the criteria and are likely to provide a meaningful learning experience. This may include:
 
-- Verifying the stakeholder’s position via [GovTribe](https://govtribe.com) or agency websites
-- Reviewing the stakeholder’s public-facing career information (e.g., [LinkedIn](https://www.linkedin.com)) to understand their expertise and sphere of influence
+- Verifying the stakeholder’s position via GovTribe or agency websites
+- Reviewing the stakeholder’s public-facing career information (e.g., LinkedIn) to understand their expertise and sphere of influence
 - Reviewing participant-submitted interview questions to ensure they are likely to spark thoughtful, strategic discussion
 
 **Sample responses:**
