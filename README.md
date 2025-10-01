@@ -32,6 +32,10 @@ In addition, the repository is a collaborative space. Current DITAP providers, a
 
 We organized our repository to support efficient knowledge-sharing, curriculum delivery, and maintenance:
 
+### .github
+
+Contains information and files regarding SCORM file exporting
+
 ### **/1\_About**
 
 Contains background information on the DITAP program, guidelines for contributing (including how to submit pull requests), and information on governance and support. 
