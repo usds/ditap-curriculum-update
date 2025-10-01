@@ -34,7 +34,7 @@ We organized our repository to support efficient knowledge-sharing, curriculum d
 
 ### .github
 
-Contains information and files regarding SCORM file exporting
+This administrative folder centralizes Github-specific configurations (e.g. templates, workflows) that shape how collaboration and automation work in the repository. 
 
 ### **/1\_About**
 
