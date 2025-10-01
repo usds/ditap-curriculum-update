@@ -821,7 +821,7 @@ The threaded case scenario is a tool for deepening understanding and sparking ap
 
 Each case scenario activity reinforces the sprint’s learning objectives and serves as a springboard for meaningful, context-specific conversation.
 
-_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding [facilitator guide](https://docs.google.com/document/d/1vCYu47Dgk5jHrD7I0D3vGyuCO3VNjBFvOxUpNyciiso/edit?tab=t.apa36gofaswq)._
+_Detailed guidance for each activity—including suggested framing, timing, and prompts—is available in the corresponding facilitator guide._
 
 <br>
 
