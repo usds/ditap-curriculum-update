@@ -48,9 +48,9 @@ For Part 1 of this activity, you’ll identify 2-4 people within your agency tha
 
 5\. After brainstorming, use the second page of the Stakeholder Holder Interests template to develop your conversation structure. Completing this information will help you feel more prepared for the conversation. You can use the following resources to help you prepare for the interviews: 
 
-* Use the [Stakeholder Interests Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder_Interest_Template.md) to identify opportunities and challenges in working with stakeholders and to establish a framework for your interview with a stakeholder.  
-* Use the [Stakeholder Interview Guide Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder_Interview_Guide_Template.md) to identify questions to ask your stakeholders.  
-* [Assignment FAQs](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Stakeholder%20Assignment%20FAQs.md)
+* Use the [Stakeholder Interests Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder_Interest_Template.md) to identify opportunities and challenges in working with stakeholders and to establish a framework for your interview with a stakeholder.  
+* Use the [Stakeholder Interview Guide Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder_Interview_Guide_Template.md) to identify questions to ask your stakeholders.  
+* [Assignment FAQs](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Stakeholder%20Interview%20Assignment/Stakeholder%20Assignment%20FAQs.md)
 
 **For your interview, keep in mind the following:**
 
