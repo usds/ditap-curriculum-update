@@ -37,7 +37,7 @@ This is the first of several touchpoints with the Nagivating Stakeholder and Dec
 
 **Pre-Read for participants:**
 
-* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Case Study
+* [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md) Case Study
 
 **Pre-Session facilitator preparation:**
 * Review the full case study focusing on: Cloud Smart policy context, FedRAMP requirements, and stakeholder dynamics.  
