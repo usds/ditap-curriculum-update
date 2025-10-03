@@ -12,7 +12,7 @@
 ## I. Overview and objectives  
 In this module, learners will explore what digital services are, how they are delivered, and why they matter. This session sets the foundation for the program by introducing the key concepts, players, and methods in modern federal digital acquisition. 
 
-The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-1/In-Class-Materials/Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), created by [Cynuria](https://cynuria.com/), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
+The case study, [*Navigating Stakeholder and Decision-Making Challenges*](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/1_Vendor-Materials/Case%20Study%3A%20Threaded%20Case%20Scenario/Core%20Case%20Study%3A%20Navigating%20Stakeholder%20and%20Decision-Making%20Challenges.md), created by [Cynuria](https://cynuria.com/), is introduced here as the threaded scenario for the program. By reviewing the full case early, learners gain a “journey map” of the key topics and challenges they will return to in future modules. This session will foreshadow Casey’s upcoming decisions and the cascading challenges they may face.
 
 **Learning objectives:**
 
