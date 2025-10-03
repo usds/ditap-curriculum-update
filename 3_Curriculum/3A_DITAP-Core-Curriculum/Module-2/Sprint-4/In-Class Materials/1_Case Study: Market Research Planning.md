@@ -56,7 +56,7 @@ In this session, learners apply market research planning techniques to Casey’s
 * **Readiness Check:** Facilitate a brief discussion: *“Is this agency ready for cloud CRM?”* Use stakeholder data to explore readiness.
 
 **Next Steps/Follow-Up:**
-* [See FAR 10 Integration Assignment](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-2/In-Class-Materials/Module%202%20FAR%2010%20Integration%20DITAP%20Facilitators%20Guide_Case%20Study.md)
+* [See FAR 10 Integration Assignment](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-2/Sprint-4/In-Class%20Materials/2_Case%20Study%3A%20Far%2010%20Integration.md)
 
 ## IV. Additional resources/Appendix
 
