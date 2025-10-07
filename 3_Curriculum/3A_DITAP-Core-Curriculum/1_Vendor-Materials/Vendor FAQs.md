@@ -120,3 +120,15 @@ Q. Sprint 4 / Cynuria: Only seeing one place mention the “FAR 10 Integration A
 
 Q. Unclear if the Post-Assessment is completed during Mod5 Sprint 2 or after it concludes.
 >A. Complete the Post-Assessment at the very end of the module. 
+
+---
+
+Q. We noticed that the self-paced training content is similar to the in-class materials. Is the goal to have the repetition as a way to reinforce the learning of concepts with DITAP students? What messaging should we use with the students if they raise a question about the similarities?
+>A. Yes, the overlap between the self-paced content and in-class materials is intentional and aligns with how DITAP scaffolds learning across multiple >modalities. Here is the focus of each of the two:
+>
+>Self-paced modules: Introduce core concepts, shared language, and foundational frameworks that learners need before entering the classroom.
+>Live sessions: Build on that foundation through discussion, case examples, and applied activities that connect those ideas to real acquisition challenges.
+This repetition is purposeful. It’s part of the learning science principle distributed practice, which helps adult learners strengthen recall, deepen understanding, and transfer knowledge to their day-to-day work.
+>
+>Suggested student messaging:
+>You may notice some of the same topics in both the self-paced modules and the live sessions. That’s by design. The self-paced content helps you get >grounded in the key concepts and language, while the live sessions give you a chance to apply those ideas, share experiences, and see how they come to life >in real-world acquisition scenarios.
