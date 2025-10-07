@@ -2,9 +2,9 @@
 
 Debriefings can significantly help shape the way vendors bid on future procurements, as well as provide an opportunity to explain why they didn’t win and what they could do better next time.  Here are several readings to help further your understanding of this process, as well as add new tools to your toolbox:
 
-* [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Debriefing%20Agendas%20Template.md)   
-* [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3B_DITAP-Core-Curriculum/Module-3/In-Class-Materials/Proposed%20Debriefing%20Agenda%20Template.md)   
-* [Sample Debriefing ](https://drive.google.com/file/d/1aj0kc7BuR4kkgcQfFhgKGoKo3UG2dkYo/view?usp=drive_link) 
+* [Debriefing Agendas Template](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/In-Class%20Materials/05_Template%3A%20Debriefing%20Agendas.md)   
+* [Proposed Debriefing Agenda](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/In-Class%20Materials/06_Template%3A%20Proposed%20Debriefing%20Agenda.md)   
+* [Sample Debriefing ](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-3/Sprint-3/In-Class%20Materials/04_Template%3A%20Sample%20Debriefing.pdf) 
 
 ## Facilitation Format Options
 
