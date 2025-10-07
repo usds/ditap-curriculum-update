@@ -730,7 +730,7 @@ This article discusses contracting challenges in agile development and recommend
 * What language can be used to ensure each sprint's deliverables integrate with previous work?   
 * How should warranty periods be structured when system components are delivered through different contracts with varying timelines?
 
-**Article:** [Warranties and Liabilities](https://drive.google.com/file/d/1pQOLsXcKAQfmRI5tcMwyitfc_JncM1Zi/view?usp=drive_link) (excerpt from Contracts in Agile Software Development)
+**Article:** [Warranties and Liabilities](https://github.com/usds/ditap-curriculum-update/blob/main/3_Curriculum/3A_DITAP-Core-Curriculum/Module-4/In-Class%20Materials/Warranties%20and%20Liabilities.pdf) (excerpt from Contracts in Agile Software Development)
 
 In this reading, warranties and liability are compared in traditional contracting to agile contracting. Think about the differences and considerations for each type. 
 
