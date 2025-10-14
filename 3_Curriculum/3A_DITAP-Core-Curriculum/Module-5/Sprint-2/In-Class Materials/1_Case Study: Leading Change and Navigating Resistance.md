@@ -84,5 +84,5 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 ### IV. Next Steps/Follow-Up:
 
-- Prepare for final reflections and recommendations in Module 6 (Milestones 4 and 5)
+- Prepare for final reflections and recommendations (Milestones 4 and 5)
 - [Case studies on Acquisition Innovation challenges](https://acquisitiongateway.gov/additional-resources/resources/4173?\_a%5Eg_nid=252)
