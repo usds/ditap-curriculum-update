@@ -75,6 +75,6 @@ In this session, learners explore how to manage digital service delivery after c
 ## IV. Next Steps / Follow-Up
 
 * Ensure learners understand Milestones 4 & 5 in the case study.  
-* Encourage note-taking that supports the final analysis and presentation in Module 6\.  
+* Encourage note-taking that supports the final analysis and presentation.  
 * Suggest learners begin collecting 1–2 takeaways from each module to integrate into their capstone.  
 * [**CIO.gov Agile Government**](https://www.cio.gov/2016/11/07/ssa-modernization-6.html) \- Federal IT modernization and agile delivery guidance

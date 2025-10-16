@@ -1,6 +1,6 @@
 # DITAP In-Class Facilitator Guide
 
-## Module 6 (After Module 4 or during Module 5)
+## Timing - Vendors have discretion to schedule this after Module 4 or during Module 5
 
 **Session Title:** **Laying Out a Recommendation**  
 **Date:** \[Insert Date\]  

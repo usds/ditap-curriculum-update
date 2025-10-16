@@ -14,7 +14,7 @@ The DITAP program uses a threaded case scenario rather than multiple standalone 
 | **Module 3** | Sprint 3 | Designing a Solicitation Strategy | Not a formal milestone, builds on Milestones 2 and 3 |
 | **Module 4** | Sprint 3 | Laying the Groundwork for Agile Delivery | Applies prior decisions from Milestones 2 and 3 |
 | **Module 4 or 5** |  | Laying Out a Recommendation | Milestones 4 and 5 |
-| **Module 5** | Sprint 3 | Leading Change and Navigating Resistance | Integrates entire case context |
+| **Module 5** | Sprint 2 | Leading Change and Navigating Resistance | Integrates entire case context |
 
 </br>
 
@@ -816,15 +816,15 @@ In this session, learners explore how to manage digital service delivery after c
 ### IV. Next steps:
 
 * Ensure learners understand Milestones 4 & 5 in the case study.  
-* Encourage note-taking that supports the final analysis and presentation in Module 6\.  
+* Encourage note-taking that supports the final analysis and presentation in Module 5\.  
 * Suggest learners begin collecting 1–2 takeaways from each module to integrate into their capstone.  
 * [**CIO.gov Agile Government**](https://www.cio.gov/2016/11/07/ssa-modernization-6.html) \- Federal IT modernization and agile delivery guidance
 
 _________________________________________________________
 
-## M5S3 Case study facilitator guide
+## M5S2 Case study facilitator guide
   
-**Module 5** 
+**Module 5, Sprint 2** 
 
 **Module/Session ritle:** Leading Change and Navigating Resistance  
 **Date:** \[Insert Date\]  
@@ -905,14 +905,14 @@ In this session, learners will explore how to apply adaptive leadership and infl
 
 ### IV. Next steps:
 
-* Prepare for final reflections and recommendations in Module 6 (Milestones 4 and 5\)  
+* Prepare for final reflections and recommendations in 'Laying Out a Recommendation' session (Milestones 4 and 5)  
 * [Case studies on Acquisition Innovation challenges](https://acquisitiongateway.gov/-resources/resources/4173?\_a%5Eg\_nid=252)
 
 ____________________________________________________
 
-## M6 Case study facilitator guide  
+## Case study wrap-up - facilitator guide  
 
-**Module 6 (*after Module 4 or during Module 5\)***
+**Timing -- Vendors have discretion to schedule this after Module 4 or during Module 5**
 
 **Session title:** Laying Out a Recommendation  
 **Date:** \[Insert Date\]  
