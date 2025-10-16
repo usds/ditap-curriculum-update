@@ -715,7 +715,7 @@ Grow: Apply techniques to create the culture of innovation within your sphere th
 
 ---
 
-## Module 6: Apply skills
+## Skills Application 
 
 Apply techniques learned in the course through various activities.
 |   |   |
