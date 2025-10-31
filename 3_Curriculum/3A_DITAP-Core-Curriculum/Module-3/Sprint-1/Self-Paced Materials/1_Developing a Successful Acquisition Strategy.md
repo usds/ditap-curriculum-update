@@ -294,7 +294,7 @@ Key changes affecting market research include:
 
 > The Lean Canvas tool helps visualize and iterate on acquisition strategy in a clear, structured way—especially useful in digital service procurements.
 
-3. What approach should you take when stakeholders are resistent to agile acquisition concepts?
+3. What approach should you take when stakeholders are resistant to agile acquisition concepts?
 - [ ] A. Implement changes immediately to demonstrate benefits
 - [x] B. Keep as much as possible in familiar territory and move incrementally in the direction they need to go
 - [ ] C. Seek approval from the higher authority to override resistance
