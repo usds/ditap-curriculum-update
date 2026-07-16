@@ -409,24 +409,30 @@ The more “traditional” ways to engage with industry also have a place. These
 
 While they can still be used and are often required by acquisition strategy, traditional government RFIs often create unnecessary barriers for modern digital service providers. The burdensome processes can discourage the very vendors you want to engage, especially small, agile companies and non-traditional government vendors delivering high-quality tech services.
 
-**Key concepts:**
+Traditional market research often falls into the trap of over-specifying the requirement before industry even has a chance to weigh in. However, under FAR 2.0 and current OMB directives, agencies must conduct market research appropriate to the circumstances without asking for more information than necessary.
 
-* **Adapt to digital delivery realities:**  
-  Digital services require flexibility, speed, and iteration. Forcing companies into rigid government templates or overly complex RFIs slows acquisitions and alienates top performers.
+#### The SPE burden: How better market research reduces reporting
 
-* **Streamline the approach:**  
-  Don’t default to the RFI template. Align your market research format with the complexity of the solicitation. For simple needs, consider lighter-touch methods: video responses, virtual industry days, or facilitated roundtables.
+[Executive Order 14271](https://www.federalregister.gov/executive-order/14271) and [OMB Memorandum M-26-12](https://www.whitehouse.gov/wp-content/uploads/2026/04/M-26-12-Increasing-the-Acquisition-of-Commercial-Products-and-Services.pdf) (_Increasing the Acquisition of Commercial Products and Services_) have shifted the burden of proof for non-commercial acquisitions. The expectation is clear: federal procurement must be "commercial-first."
 
-* **Ask smarter questions:**  
-  Avoid boilerplate checklists. Instead, ask about predictability in iterative delivery.  
-  How does the company handle failure or pivots? Ask them to provide real examples of managing risk and client expectations.  
-  Be wary of vendors claiming perfection, true partners acknowledge uncertainty and plan for it.
+Under M-26-12, the decision to pursue a non-commercial, customized solution is owned by your agency’s Senior Procurement Executive (SPE). If your agency plans a non-commercial award, the SPE must compile a highly detailed justification package for OMB, explaining why commercial solutions were not viable.
 
-* **Watch for AI-filled answers:**  
-  With AI now able to auto-fill generic responses, acquisition professionals must intentionally structure questions to reveal authentic capability, not just polished language. Use AI to support the process, but also be aware of overreliance. 
+What does this mean for your acquisition team? **The agency that writes better RFIs submits fewer justifications.** If your RFI acts as genuine, outcome-based market research rather than a disguised 30-question Statement of Work, you naturally build the case that commercial solutions were thoroughly explored. Effective market research proves FAR Part 12 compliance upfront, saving your agency the costly, time-consuming burden of SPE justification reporting.
 
-**Bottom Line:**  
-Effective market research is about getting real insight, not compliance. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
+#### Turning strategy into action: The five rules of a good RFI
+To successfully move away from the "disguised SOW" approach, adapt to digital delivery realities, and build your compliance case upfront, procurement teams should ground their market research in these key principles:
+
+1. **State the problem, not the solution** – Describe the operational outcome the agency needs, not the system architecture or labor categories. Digital services require flexibility, speed, and iteration; forcing companies into rigid templates slows acquisitions and alienates top performers.
+2. **Ask fewer than ten questions** – Every question should exist solely because its answer will change your acquisition strategy. Avoid boilerplate checklists and ask smarter, intentional questions. Focus on how a company handles failure or pivots, and ask for real examples of managing risk.
+>Watch for AI-filled answers – With generative AI now able to auto-fill generic responses, acquisition professionals must intentionally structure their limited questions to reveal authentic capability, not just polished language. Be wary of vendors claiming perfection; true partners acknowledge uncertainty.
+3. **Prioritize commercial availability directly** – Align with FAR 10.001(f) by asking first if the requirement can be met with commercial products or services. For simpler needs, consider lighter-touch, compliance-free formats like video responses, virtual industry days, or facilitated roundtables.
+4. **Invite honest pushback on the requirement** – Explicitly ask vendors to challenge restrictive language. Ask: _"Is any part of this requirement written in a way that would unnecessarily exclude commercial solutions?"_
+5. **Commit to follow-through** – Tell industry what you will do with their responses (e.g., an industry day, one-on-ones, or a draft solicitation). Engagement spikes when vendors know their time is valued.
+   
+**Bottom Line:** Effective market research is about getting real insight, not checking a compliance box. Be thoughtful, be flexible, and design your research to surface true digital delivery capability, not just who can fill out the most forms.
+
+#### Supplemental reading 
+Jaime Gracia’s article, _"[What a Good RFI Actually Looks Like](https://www.linkedin.com/pulse/what-good-rfi-actually-looks-like-jaime-gracia-cukne/),"_ provides a blunt look at how industry interprets bloated RFIs and outlines the direct connection between commercial-first mandates and practical RFI drafting. Read this article for a deeper dive into the specific AI prompt methodology and to understand how cost-reimbursement contracts used as workarounds for poorly defined requirements are being phased out.
 
 ### 3\. Explore other promising alternatives and approaches 
 
